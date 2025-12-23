@@ -1029,10 +1029,10 @@
       getFilteredItems() {
         if (this.currentTab === 'likes') {
           let filtered = this.likes.filter(l => {
-            if (this.searchQuery && l.text) {
-              return this.normalizeText(l.text).includes(this.normalizeText(this.searchQuery));
+            if (this.searchQuery) {
+              return l.text && this.matchesSearch(l.text);
             }
-            return !this.searchQuery;
+            return true;
           });
 
           if (this.sortOrder === 'oldest') {
@@ -1060,10 +1060,9 @@
         }
 
         if (this.searchQuery) {
-          const normalizedQuery = this.normalizeText(this.searchQuery);
           units = units.filter(u => {
-            if (u.type === 'single') return this.normalizeText(u.tweet.text).includes(normalizedQuery);
-            return u.tweets.some(t => this.normalizeText(t.text).includes(normalizedQuery));
+            if (u.type === 'single') return this.matchesSearch(u.tweet.text);
+            return u.tweets.some(t => this.matchesSearch(t.text));
           });
         }
 
@@ -1193,6 +1192,13 @@
 
       normalizeText(text) {
         return text.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+      },
+
+      matchesSearch(text) {
+        if (!this.searchQuery) return true;
+        const normalizedText = this.normalizeText(text);
+        const words = this.searchQuery.split(/\s+/).filter(Boolean);
+        return words.every(word => normalizedText.includes(this.normalizeText(word)));
       },
 
       highlightMatch(html, query) {
