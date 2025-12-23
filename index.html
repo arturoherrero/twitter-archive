@@ -1,0 +1,1243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Twitter Archive | Arturo Herrero</title>
+  <link rel="icon" href="favicon.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: #f5f5f5;
+      color: #1a1a1a;
+      line-height: 1.5;
+    }
+
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 2rem;
+      display: grid;
+      grid-template-columns: 1fr 300px;
+      gap: 2rem;
+      height: 100vh;
+    }
+
+    /* Profile Header */
+    .profile-header {
+      background: #fff;
+      border-radius: 8px;
+      overflow: hidden;
+      margin-bottom: 1rem;
+    }
+
+    .profile-hero {
+      height: 100px;
+      background-size: cover;
+      background-position: center;
+    }
+
+    .profile-info {
+      display: flex;
+      align-items: flex-start;
+      gap: 1rem;
+      padding: 0 1rem;
+      margin-top: -40px;
+      min-height: 100px;
+    }
+
+    .profile-pic {
+      width: 80px;
+      height: 80px;
+      border-radius: 50%;
+      border: 3px solid #fff;
+      flex-shrink: 0;
+    }
+
+    .profile-text {
+      padding-top: 47px;
+      margin-left: 15px;
+    }
+
+    .profile-name {
+      font-size: 1.25rem;
+      font-weight: 600;
+      line-height: 1.2;
+    }
+
+    .profile-handle {
+      color: #666;
+      font-size: 0.9rem;
+      margin-top: -2px;
+    }
+
+    /* Main Column */
+    .main-column {
+      min-width: 0;
+      overflow-y: auto;
+    }
+
+    .tabs {
+      display: flex;
+      gap: 0;
+      border-bottom: 1px solid #e0e0e0;
+      margin-bottom: 1rem;
+      background: #fff;
+      border-radius: 8px 8px 0 0;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+    .tab {
+      padding: 1rem 1.5rem;
+      border: none;
+      background: none;
+      cursor: pointer;
+      font-size: 0.95rem;
+      font-weight: 500;
+      color: #666;
+      border-bottom: 2px solid transparent;
+      transition: all 0.2s;
+    }
+
+    .tab:hover {
+      color: #1a1a1a;
+      background: #f9f9f9;
+    }
+
+    .tab.active {
+      color: #cb0063;
+      border-bottom-color: #cb0063;
+    }
+
+    .tweet-list {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .tweet {
+      background: #fff;
+      padding: 1rem 1.25rem;
+      border-radius: 8px;
+    }
+
+    .tweet-text {
+      white-space: pre-wrap;
+      word-wrap: break-word;
+    }
+
+    .tweet-text a {
+      color: #cb0063;
+      text-decoration: none;
+    }
+
+    .tweet-text a:hover {
+      text-decoration: underline;
+    }
+
+    .search-match {
+      font-weight: 600;
+    }
+
+    .rt-prefix {
+      color: #999;
+    }
+
+    .rt-prefix a {
+      color: #999;
+    }
+
+    .rt-prefix a:hover {
+      color: #cb0063;
+    }
+
+    .tweet-meta {
+      display: flex;
+      gap: 1rem;
+      margin-top: 0.75rem;
+      font-size: 0.85rem;
+      color: #666;
+      align-items: center;
+    }
+
+    .tweet-meta a {
+      color: #666;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .tweet-meta a svg {
+      width: 14px;
+      height: 14px;
+      fill: currentColor;
+    }
+
+    .tweet-meta a:hover {
+      color: #cb0063;
+    }
+
+    .tweet-type {
+      display: inline-flex;
+      align-items: center;
+      gap: 3px;
+      padding: 0.15rem 0.5rem;
+      border-radius: 4px;
+      font-size: 0.75rem;
+      font-weight: 500;
+      text-transform: uppercase;
+      background: #fce8f1;
+      color: #cb0063;
+    }
+
+    .tweet-type svg {
+      width: 12px;
+      height: 12px;
+      fill: currentColor;
+    }
+
+    .tweet-media {
+      margin-top: 0.75rem;
+      display: grid;
+      gap: 2px;
+      border-radius: 16px;
+      overflow: hidden;
+      max-width: 100%;
+    }
+
+    .tweet-media.media-1 {
+      grid-template-columns: 1fr;
+    }
+
+    .tweet-media.media-1 img,
+    .tweet-media.media-1 video {
+      max-height: 400px;
+      width: 100%;
+      object-fit: contain;
+    }
+
+    .tweet-media.media-2 {
+      grid-template-columns: 1fr 1fr;
+    }
+
+    .tweet-media.media-2 img,
+    .tweet-media.media-2 video {
+      aspect-ratio: 7 / 8;
+      object-fit: cover;
+      object-position: center;
+    }
+
+    .tweet-media.media-3 {
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: 1fr 1fr;
+    }
+
+    .tweet-media.media-3 img:first-child,
+    .tweet-media.media-3 video:first-child {
+      grid-row: span 2;
+      aspect-ratio: 8 / 9;
+    }
+
+    .tweet-media.media-3 img:not(:first-child),
+    .tweet-media.media-3 video:not(:first-child) {
+      aspect-ratio: 16 / 9;
+    }
+
+    .tweet-media.media-3 img,
+    .tweet-media.media-3 video {
+      object-fit: cover;
+      object-position: center;
+    }
+
+    .tweet-media.media-4 {
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: 1fr 1fr;
+    }
+
+    .tweet-media.media-4 img,
+    .tweet-media.media-4 video {
+      aspect-ratio: 16 / 9;
+      object-fit: cover;
+      object-position: center;
+    }
+
+    .tweet-media img,
+    .tweet-media video {
+      width: 100%;
+      height: 100%;
+      cursor: zoom-in;
+      display: block;
+    }
+
+    .tweet-media video {
+      cursor: default;
+      background: #000;
+    }
+
+    .quoted-tweet {
+      margin-top: 0.75rem;
+      border: 1px solid #e0e0e0;
+      border-radius: 12px;
+      padding: 0.75rem 1rem;
+      background: #fafafa;
+    }
+
+    .quoted-tweet a {
+      color: #cb0063;
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 0.9rem;
+    }
+
+    .quoted-tweet a:hover {
+      text-decoration: underline;
+    }
+
+    .quoted-tweet svg {
+      width: 16px;
+      height: 16px;
+      fill: currentColor;
+      flex-shrink: 0;
+    }
+
+    .lightbox {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.9);
+      z-index: 1000;
+      cursor: zoom-out;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .lightbox.active {
+      display: flex;
+    }
+
+    .lightbox img {
+      max-width: 90%;
+      max-height: 90%;
+      object-fit: contain;
+      border-radius: 4px;
+    }
+
+    .thread-group {
+      background: #fff;
+      border-radius: 8px;
+      overflow: hidden;
+    }
+
+    .thread-group .tweet {
+      border-radius: 0;
+      position: relative;
+      padding-left: 2.5rem;
+    }
+
+    .thread-group .tweet:first-child {
+      border-radius: 8px 8px 0 0;
+    }
+
+    .thread-group .tweet:last-child {
+      border-radius: 0 0 8px 8px;
+    }
+
+    .thread-group .tweet:only-child {
+      border-radius: 8px;
+    }
+
+    .thread-group .tweet::before {
+      content: '';
+      position: absolute;
+      left: 1.25rem;
+      top: 0;
+      bottom: 0;
+      width: 2px;
+      background: #cb0063;
+    }
+
+    .thread-group .tweet:first-child::before {
+      top: 1.5rem;
+    }
+
+    .thread-group .tweet:last-child::before {
+      bottom: calc(100% - 1.5rem);
+    }
+
+    .thread-group .tweet:only-child::before {
+      display: none;
+    }
+
+    .thread-group .tweet::after {
+      content: '';
+      position: absolute;
+      left: calc(1.25rem - 4px);
+      top: 1.5rem;
+      width: 10px;
+      height: 10px;
+      background: #cb0063;
+      border-radius: 50%;
+    }
+
+    .tweet-stats {
+      display: flex;
+      gap: 1rem;
+      color: #888;
+    }
+
+    /* Sidebar */
+    .sidebar {
+      height: calc(100vh - 4rem);
+      overflow-y: auto;
+      overflow-x: visible;
+    }
+
+    .sidebar-section {
+      background: #fff;
+      border-radius: 8px;
+      padding: 1rem;
+      margin-bottom: 1rem;
+    }
+
+    .sidebar-section h3 {
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: #666;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-bottom: 0.75rem;
+    }
+
+    .timeline-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 0.75rem;
+    }
+
+    .timeline-header h3 {
+      margin-bottom: 0;
+    }
+
+    #active-filter {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .active-filter {
+      font-size: 0.8rem;
+      color: #cb0063;
+      font-weight: 500;
+    }
+
+    .clear-filter {
+      background: none;
+      border: none;
+      color: #999;
+      cursor: pointer;
+      font-size: 0.8rem;
+      padding: 0;
+    }
+
+    .clear-filter:hover {
+      color: #666;
+    }
+
+    .search-wrapper {
+      position: relative;
+    }
+
+    .search-wrapper .search-icon {
+      position: absolute;
+      left: 10px;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 16px;
+      height: 16px;
+      fill: #999;
+      pointer-events: none;
+    }
+
+    .search-input {
+      width: 100%;
+      padding: 0.6rem 2rem 0.6rem 2.25rem;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      font-size: 0.95rem;
+      font-family: inherit;
+    }
+
+    .search-input:focus {
+      outline: none;
+      border-color: #cb0063;
+    }
+
+    .search-clear {
+      position: absolute;
+      right: 8px;
+      top: 50%;
+      transform: translateY(-50%);
+      background: #999;
+      border: none;
+      color: #fff;
+      width: 18px;
+      height: 18px;
+      border-radius: 50%;
+      cursor: pointer;
+      font-size: 12px;
+      line-height: 1;
+      display: none;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .search-clear:hover {
+      background: #666;
+    }
+
+    .search-wrapper.has-text .search-clear {
+      display: flex;
+    }
+
+    .sort-buttons {
+      display: flex;
+      gap: 0.5rem;
+    }
+
+    .sort-btn {
+      flex: 1;
+      padding: 0.5rem;
+      border: 1px solid #ddd;
+      background: #fff;
+      border-radius: 6px;
+      font-size: 0.85rem;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .sort-btn:hover {
+      background: #f5f5f5;
+    }
+
+    .sort-btn.active {
+      background: #fce8f1;
+      color: #cb0063;
+      border-color: #fce8f1;
+    }
+
+    .year-section {
+      margin-bottom: 1rem;
+    }
+
+    .year-section:last-child {
+      margin-bottom: 0;
+    }
+
+    .year-label {
+      font-size: 0.9rem;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+    }
+
+    .month-grid {
+      display: grid;
+      grid-template-columns: repeat(6, 1fr);
+      gap: 3px;
+    }
+
+    .month-bar {
+      height: 32px;
+      background: #f0f0f0;
+      border-radius: 3px;
+      cursor: pointer;
+      position: relative;
+      display: flex;
+      align-items: flex-end;
+      transition: all 0.2s;
+    }
+
+    .month-bar:hover {
+      background: #e5e5e5;
+    }
+
+    .month-bar.active {
+      background: #f0f0f0;
+    }
+
+    .month-bar.active .month-fill {
+      background: #cb0063;
+    }
+
+    .month-fill {
+      width: 100%;
+      background: #f0a0bf;
+      border-radius: 3px;
+      transition: height 0.3s;
+    }
+
+    .month-bar .tooltip {
+      display: none;
+      position: fixed;
+      background: #333;
+      color: #fff;
+      padding: 0.25rem 0.5rem;
+      border-radius: 4px;
+      font-size: 0.75rem;
+      white-space: nowrap;
+      z-index: 1000;
+      pointer-events: none;
+    }
+
+    .month-bar:hover .tooltip {
+      display: block;
+    }
+
+    .tweets-only {
+      transition: opacity 0.3s;
+    }
+
+    .tweets-only.hidden {
+      opacity: 0.3;
+      pointer-events: none;
+    }
+
+    .loading {
+      text-align: center;
+      padding: 2rem;
+      color: #666;
+    }
+
+    .no-results {
+      background: #fff;
+      padding: 2rem;
+      text-align: center;
+      color: #666;
+      border-radius: 8px;
+    }
+
+    @media (max-width: 900px) {
+      .container {
+        grid-template-columns: 1fr;
+        height: auto;
+      }
+
+      .sidebar {
+        position: static;
+        order: -1;
+        height: auto;
+      }
+
+      .main-column {
+        overflow-y: visible;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <main class="main-column">
+      <div class="profile-header">
+        <div class="profile-hero" style="background-image: url('data/profile/36637154-1398292468.jpg')"></div>
+        <div class="profile-info">
+          <img class="profile-pic" src="data/profile/36637154-tADQ3htz.jpg" alt="Profile">
+          <div class="profile-text">
+            <div class="profile-name">Arturo Herrero</div>
+            <div class="profile-handle">@ArturoHerrero</div>
+          </div>
+        </div>
+      </div>
+      <div class="tabs">
+        <button class="tab active" data-tab="all">All</button>
+        <button class="tab" data-tab="replies">Replies</button>
+        <button class="tab" data-tab="retweets">Retweets</button>
+        <button class="tab" data-tab="quotes">Quotes</button>
+        <button class="tab" data-tab="media">Media</button>
+        <button class="tab" data-tab="likes">Likes</button>
+      </div>
+      <div class="tweet-list" id="tweet-list">
+        <div class="loading">Loading...</div>
+      </div>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3>Search</h3>
+        <div class="search-wrapper" id="search-wrapper">
+          <svg class="search-icon" viewBox="0 0 24 24"><path d="M21.53 20.47l-3.66-3.66C19.195 15.24 20 13.214 20 11c0-4.97-4.03-9-9-9s-9 4.03-9 9 4.03 9 9 9c2.215 0 4.24-.804 5.808-2.13l3.66 3.66c.147.146.34.22.53.22s.385-.073.53-.22c.295-.293.295-.767.002-1.06zM3.5 11c0-4.135 3.365-7.5 7.5-7.5s7.5 3.365 7.5 7.5-3.365 7.5-7.5 7.5-7.5-3.365-7.5-7.5z"/></svg>
+          <input type="text" class="search-input" id="search-input" placeholder="Search Tweets">
+          <button class="search-clear" id="search-clear" type="button">✕</button>
+        </div>
+      </div>
+
+      <div class="sidebar-section">
+        <h3>Sort</h3>
+        <div class="sort-buttons">
+          <button class="sort-btn active" data-sort="newest">Newest</button>
+          <button class="sort-btn" data-sort="oldest">Oldest</button>
+        </div>
+      </div>
+
+      <div class="sidebar-section tweets-only">
+        <div class="timeline-header">
+          <h3>Timeline</h3>
+          <div id="active-filter"></div>
+        </div>
+        <div id="year-months"></div>
+      </div>
+    </aside>
+  </div>
+
+  <div class="lightbox" id="lightbox">
+    <img src="" alt="">
+  </div>
+
+  <script src="data/tweets.js"></script>
+  <script src="data/likes.js"></script>
+  <script>
+    const ICONS = {
+      reply: '<svg viewBox="0 0 24 24"><path d="M14.046 2.242l-4.148-.01h-.002c-4.374 0-7.8 3.427-7.8 7.802 0 4.098 3.186 7.206 7.465 7.37v3.828c0 .108.044.286.12.403.142.225.384.347.632.347.138 0 .277-.038.402-.118.264-.168 6.473-4.14 8.088-5.506 1.902-1.61 3.04-3.97 3.043-6.312v-.017c-.006-4.367-3.43-7.787-7.8-7.788zm3.787 12.972c-1.134.96-4.862 3.405-6.772 4.643V16.67c0-.414-.335-.75-.75-.75h-.396c-3.66 0-6.318-2.476-6.318-5.886 0-3.534 2.768-6.302 6.3-6.302l4.147.01h.002c3.532 0 6.3 2.766 6.302 6.296-.003 1.91-.942 3.844-2.514 5.176z"/></svg>',
+      retweet: '<svg viewBox="0 0 24 24"><path d="M23.77 15.67c-.292-.293-.767-.293-1.06 0l-2.22 2.22V7.65c0-2.068-1.683-3.75-3.75-3.75h-5.85c-.414 0-.75.336-.75.75s.336.75.75.75h5.85c1.24 0 2.25 1.01 2.25 2.25v10.24l-2.22-2.22c-.293-.293-.768-.293-1.06 0s-.294.768 0 1.06l3.5 3.5c.145.147.337.22.53.22s.383-.072.53-.22l3.5-3.5c.294-.292.294-.767 0-1.06zm-10.66 3.28H7.26c-1.24 0-2.25-1.01-2.25-2.25V6.46l2.22 2.22c.148.147.34.22.532.22s.384-.073.53-.22c.293-.293.293-.768 0-1.06l-3.5-3.5c-.293-.294-.768-.294-1.06 0l-3.5 3.5c-.294.292-.294.767 0 1.06s.767.293 1.06 0l2.22-2.22V16.7c0 2.068 1.683 3.75 3.75 3.75h5.85c.414 0 .75-.336.75-.75s-.337-.75-.75-.75z"/></svg>',
+      quote: '<svg viewBox="0 0 24 24"><path d="M14.23 2.854c.98-.977 2.56-.977 3.54 0l3.38 3.378c.97.977.97 2.559 0 3.536L9.91 21H3v-6.91L14.23 2.854zm2.12 1.414c-.19-.195-.51-.195-.7 0L5 14.914V19h4.09L19.73 8.354c.2-.196.2-.512 0-.708l-3.38-3.378zM14.75 19v-2h5.5v2h-5.5z"/></svg>',
+      external: '<svg viewBox="0 0 24 24"><path d="M4.313 22h11.874C17.462 22 18.5 20.962 18.5 19.687V13.17c0-.413-.336-.75-.75-.75s-.75.337-.75.75v6.517c0 .448-.365.813-.813.813H4.313c-.448 0-.813-.365-.813-.813V7.813c0-.448.365-.813.813-.813h6.517c.413 0 .75-.336.75-.75s-.337-.75-.75-.75H4.313C3.038 5.5 2 6.538 2 7.813v11.873C2 20.962 3.038 22 4.313 22z"/><path d="M12.004 10.936L19.44 3.5h-4.636c-.414 0-.75-.336-.75-.75S14.39 2 14.804 2h6.446c.414 0 .75.336.75.75v6.455c0 .414-.336.75-.75.75s-.75-.336-.75-.75V4.56l-7.436 7.437c-.146.146-.338.22-.53.22s-.384-.073-.53-.22c-.293-.294-.293-.768 0-1.06z"/></svg>'
+    };
+
+    const MONTH_NAMES = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+
+    const App = {
+      tweets: window.TWEETS || [],
+      likes: window.LIKES || [],
+      displayUnits: [],
+      currentTab: 'all',
+      searchQuery: '',
+      sortOrder: 'newest',
+      selectedMonth: null,
+      batchSize: 50,
+      displayedCount: 0,
+      mainColumn: null,
+
+      init() {
+        this.mainColumn = document.querySelector('.main-column');
+        
+        // Reset state on page load
+        document.getElementById('search-input').value = '';
+        this.mainColumn.scrollTop = 0;
+        document.querySelector('.sidebar').scrollTop = 0;
+        
+        this.buildDisplayUnits();
+        this.buildTimeline();
+        this.bindEvents();
+        this.render();
+      },
+
+      buildDisplayUnits() {
+        const tweets = this.tweets;
+        const byId = new Map(tweets.map(t => [t.id, t]));
+        const used = new Set();
+        const units = [];
+
+        const children = new Map();
+        tweets.forEach(t => {
+          if (t.in_reply_to_status_id && t.type === 'thread') {
+            const parentId = t.in_reply_to_status_id;
+            if (!children.has(parentId)) children.set(parentId, []);
+            children.get(parentId).push(t);
+          }
+        });
+
+        const threadRoots = new Set();
+        tweets.forEach(t => {
+          if (children.has(t.id)) {
+            let root = t;
+            while (root.in_reply_to_status_id && root.type === 'thread') {
+              const parent = byId.get(root.in_reply_to_status_id);
+              if (parent) root = parent;
+              else break;
+            }
+            threadRoots.add(root.id);
+          }
+        });
+
+        const buildChain = (rootId) => {
+          const chain = [];
+          const queue = [rootId];
+          while (queue.length > 0) {
+            const id = queue.shift();
+            const tweet = byId.get(id);
+            if (tweet && !used.has(id)) {
+              used.add(id);
+              chain.push(tweet);
+              const kids = children.get(id) || [];
+              kids.sort((a, b) => new Date(a.created_at) - new Date(b.created_at));
+              kids.forEach(k => queue.push(k.id));
+            }
+          }
+          return chain;
+        };
+
+        threadRoots.forEach(rootId => {
+          const chain = buildChain(rootId);
+          if (chain.length > 0) {
+            const sortDate = chain.reduce((max, t) => {
+              const d = new Date(t.created_at);
+              return d > max ? d : max;
+            }, new Date(0));
+            units.push({ type: 'thread', tweets: chain, sortDate });
+          }
+        });
+
+        tweets.forEach(t => {
+          if (!used.has(t.id)) {
+            units.push({ type: 'single', tweet: t, sortDate: new Date(t.created_at) });
+          }
+        });
+
+        this.displayUnits = units;
+      },
+
+      bindEvents() {
+        const profileHeader = document.querySelector('.profile-header');
+        let profileRemoved = false;
+
+        // Combined scroll handler
+        this.mainColumn.addEventListener('scroll', () => {
+          if (!profileRemoved && profileHeader && this.mainColumn.scrollTop >= profileHeader.offsetHeight) {
+            profileHeader.remove();
+            profileRemoved = true;
+          }
+          if (this.mainColumn.scrollHeight - this.mainColumn.scrollTop - this.mainColumn.clientHeight < 500) {
+            this.loadMore();
+          }
+        });
+
+        // Tab clicks
+        document.querySelectorAll('.tab').forEach(tab => {
+          tab.addEventListener('click', () => {
+            const newTab = tab.dataset.tab;
+
+            if (this.currentTab === newTab) {
+              if (this.mainColumn.scrollTop > 0) {
+                this.mainColumn.scrollTop = 0;
+              } else {
+                this.resetFilters();
+              }
+              return;
+            }
+
+            document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+            tab.classList.add('active');
+            this.currentTab = newTab;
+            this.displayedCount = 0;
+            this.updateTweetsOnlyVisibility();
+            this.render();
+            this.mainColumn.scrollTop = 0;
+          });
+        });
+
+        // Search
+        const searchInput = document.getElementById('search-input');
+        const searchWrapper = document.getElementById('search-wrapper');
+        const searchClear = document.getElementById('search-clear');
+        let searchTimeout;
+
+        searchInput.addEventListener('input', (e) => {
+          clearTimeout(searchTimeout);
+          searchWrapper.classList.toggle('has-text', e.target.value.length > 0);
+          searchTimeout = setTimeout(() => {
+            this.searchQuery = e.target.value.toLowerCase();
+            this.displayedCount = 0;
+            this.render();
+            this.mainColumn.scrollTop = 0;
+          }, 200);
+        });
+
+        searchClear.addEventListener('click', () => {
+          searchInput.value = '';
+          searchWrapper.classList.remove('has-text');
+          this.searchQuery = '';
+          this.displayedCount = 0;
+          this.render();
+          this.mainColumn.scrollTop = 0;
+          searchInput.focus();
+        });
+
+        // Sort
+        document.querySelectorAll('.sort-btn').forEach(btn => {
+          btn.addEventListener('click', () => {
+            document.querySelectorAll('.sort-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            this.sortOrder = btn.dataset.sort;
+            this.displayedCount = 0;
+            this.render();
+            this.mainColumn.scrollTop = 0;
+          });
+        });
+
+        // Lightbox
+        const lightbox = document.getElementById('lightbox');
+        const lightboxImg = lightbox.querySelector('img');
+
+        document.addEventListener('click', (e) => {
+          const img = e.target.closest('.tweet-media img');
+          if (img && !e.target.closest('video')) {
+            lightboxImg.src = img.src;
+            lightbox.classList.add('active');
+          }
+        });
+
+        lightbox.addEventListener('click', () => lightbox.classList.remove('active'));
+        document.addEventListener('keydown', (e) => {
+          if (e.key === 'Escape') lightbox.classList.remove('active');
+        });
+
+        // Tooltips
+        document.addEventListener('mouseover', (e) => {
+          const bar = e.target.closest('.month-bar');
+          if (bar) {
+            const tooltip = bar.querySelector('.tooltip');
+            const rect = bar.getBoundingClientRect();
+            tooltip.style.left = `${rect.left + rect.width / 2 - tooltip.offsetWidth / 2}px`;
+            tooltip.style.top = `${rect.top - tooltip.offsetHeight - 8}px`;
+          }
+        });
+      },
+
+      updateTweetsOnlyVisibility() {
+        const isLikes = this.currentTab === 'likes';
+        document.querySelectorAll('.tweets-only').forEach(el => {
+          el.classList.toggle('hidden', isLikes);
+        });
+      },
+
+      buildTimeline() {
+        const months = {};
+        this.tweets.forEach(t => {
+          const date = new Date(t.created_at);
+          const key = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`;
+          months[key] = (months[key] || 0) + 1;
+        });
+
+        const years = {};
+        Object.keys(months).forEach(key => {
+          const [year] = key.split('-');
+          if (!years[year]) years[year] = {};
+          years[year][key] = months[key];
+        });
+
+        const maxCount = 40;
+        const container = document.getElementById('year-months');
+        container.innerHTML = '';
+
+        Object.keys(years).sort((a, b) => b - a).forEach(year => {
+          const section = document.createElement('div');
+          section.className = 'year-section';
+          section.innerHTML = `<div class="year-label">${year}</div><div class="month-grid"></div>`;
+
+          const grid = section.querySelector('.month-grid');
+
+          for (let m = 1; m <= 12; m++) {
+            const key = `${year}-${String(m).padStart(2, '0')}`;
+            const count = months[key] || 0;
+            const height = count > 0 ? Math.max(15, Math.min(100, (count / maxCount) * 100)) : 0;
+
+            const bar = document.createElement('div');
+            bar.className = 'month-bar';
+            bar.dataset.month = key;
+            bar.innerHTML = `
+              <div class="month-fill" style="height: ${height}%"></div>
+              <span class="tooltip">${MONTH_NAMES[m-1]} ${year}: ${count}</span>
+            `;
+
+            bar.addEventListener('click', () => this.toggleMonth(key));
+            grid.appendChild(bar);
+          }
+
+          container.appendChild(section);
+        });
+      },
+
+      toggleMonth(key) {
+        this.selectedMonth = this.selectedMonth === key ? null : key;
+
+        document.querySelectorAll('.month-bar').forEach(bar => {
+          bar.classList.toggle('active', bar.dataset.month === this.selectedMonth);
+        });
+
+        const filterDiv = document.getElementById('active-filter');
+        if (this.selectedMonth) {
+          const [year, month] = this.selectedMonth.split('-');
+          filterDiv.innerHTML = `
+            <span class="active-filter">${MONTH_NAMES[parseInt(month)-1]} ${year}</span>
+            <button class="clear-filter" onclick="App.clearMonthFilter()">✕</button>
+          `;
+        } else {
+          filterDiv.innerHTML = '';
+        }
+
+        this.displayedCount = 0;
+        this.render();
+        this.mainColumn.scrollTop = 0;
+      },
+
+      clearMonthFilter() {
+        this.selectedMonth = null;
+        document.querySelectorAll('.month-bar').forEach(bar => bar.classList.remove('active'));
+        document.getElementById('active-filter').innerHTML = '';
+        this.displayedCount = 0;
+        this.render();
+        this.mainColumn.scrollTop = 0;
+      },
+
+      resetFilters() {
+        const searchInput = document.getElementById('search-input');
+        const searchWrapper = document.getElementById('search-wrapper');
+        searchInput.value = '';
+        searchWrapper.classList.remove('has-text');
+        this.searchQuery = '';
+
+        this.selectedMonth = null;
+        document.querySelectorAll('.month-bar').forEach(bar => bar.classList.remove('active'));
+        document.getElementById('active-filter').innerHTML = '';
+
+        document.querySelectorAll('.sort-btn').forEach(b => b.classList.remove('active'));
+        document.querySelector('.sort-btn[data-sort="newest"]').classList.add('active');
+        this.sortOrder = 'newest';
+
+        this.displayedCount = 0;
+        this.render();
+        this.mainColumn.scrollTop = 0;
+        document.querySelector('.sidebar').scrollTop = 0;
+      },
+
+      getFilteredItems() {
+        if (this.currentTab === 'likes') {
+          let filtered = this.likes.filter(l => {
+            if (this.searchQuery && l.text) {
+              return this.normalizeText(l.text).includes(this.normalizeText(this.searchQuery));
+            }
+            return !this.searchQuery;
+          });
+
+          if (this.sortOrder === 'oldest') {
+            filtered = [...filtered].reverse();
+          }
+          return filtered;
+        }
+
+        let units = [...this.displayUnits];
+
+        if (this.currentTab === 'replies') {
+          units = units.filter(u => u.type === 'single' && u.tweet.type === 'reply');
+        } else if (this.currentTab === 'retweets') {
+          units = units.filter(u => u.type === 'single' && u.tweet.type === 'retweet');
+        } else if (this.currentTab === 'quotes') {
+          units = units.filter(u => {
+            if (u.type === 'single') return u.tweet.quoted_tweet;
+            return u.tweets.some(t => t.quoted_tweet);
+          });
+        } else if (this.currentTab === 'media') {
+          units = units.filter(u => {
+            if (u.type === 'single') return u.tweet.media?.some(m => m.exists);
+            return u.tweets.some(t => t.media?.some(m => m.exists));
+          });
+        }
+
+        if (this.searchQuery) {
+          const normalizedQuery = this.normalizeText(this.searchQuery);
+          units = units.filter(u => {
+            if (u.type === 'single') return this.normalizeText(u.tweet.text).includes(normalizedQuery);
+            return u.tweets.some(t => this.normalizeText(t.text).includes(normalizedQuery));
+          });
+        }
+
+        if (this.selectedMonth) {
+          units = units.filter(u => {
+            const getKey = (t) => {
+              const d = new Date(t.created_at);
+              return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}`;
+            };
+            if (u.type === 'single') return getKey(u.tweet) === this.selectedMonth;
+            return u.tweets.some(t => getKey(t) === this.selectedMonth);
+          });
+        }
+
+        units.sort((a, b) => this.sortOrder === 'newest' ? b.sortDate - a.sortDate : a.sortDate - b.sortDate);
+
+        return units;
+      },
+
+      loadMore() {
+        const items = this.getFilteredItems();
+        if (this.displayedCount >= items.length) return;
+
+        const list = document.getElementById('tweet-list');
+        const nextBatch = items.slice(this.displayedCount, this.displayedCount + this.batchSize);
+
+        nextBatch.forEach(item => list.appendChild(this.createItemElement(item)));
+        this.displayedCount += nextBatch.length;
+      },
+
+      render() {
+        const list = document.getElementById('tweet-list');
+        const items = this.getFilteredItems();
+
+        list.innerHTML = '';
+
+        if (items.length === 0) {
+          list.innerHTML = '<div class="no-results">No results found</div>';
+          return;
+        }
+
+        const initialItems = items.slice(0, this.batchSize);
+        initialItems.forEach(item => list.appendChild(this.createItemElement(item)));
+        this.displayedCount = initialItems.length;
+      },
+
+      createItemElement(unit) {
+        if (this.currentTab === 'likes') return this.createLikeElement(unit);
+        if (unit.type === 'single') return this.createTweetElement(unit.tweet);
+        return this.createThreadElement(unit.tweets);
+      },
+
+      createLikeElement(item) {
+        const div = document.createElement('div');
+        div.className = 'tweet';
+        div.innerHTML = `
+          <div class="tweet-text">${this.linkify(item.text || '[Content unavailable]', this.searchQuery)}</div>
+          <div class="tweet-meta">
+            <a href="${item.url}" target="_blank">View ${ICONS.external}</a>
+          </div>
+        `;
+        return div;
+      },
+
+      createThreadElement(tweets) {
+        const container = document.createElement('div');
+        container.className = 'thread-group';
+        tweets.forEach(tweet => container.appendChild(this.createTweetElement(tweet, true)));
+        return container;
+      },
+
+      createTweetElement(item, inThread = false) {
+        const div = document.createElement('div');
+        div.className = 'tweet';
+
+        let typeLabel = '';
+        if (this.currentTab === 'all' && !inThread) {
+          if (item.type === 'reply') {
+            typeLabel = `<span class="tweet-type">${ICONS.reply}reply</span>`;
+          } else if (item.type === 'retweet') {
+            typeLabel = `<span class="tweet-type">${ICONS.retweet}retweet</span>`;
+          } else if (item.quoted_tweet) {
+            typeLabel = `<span class="tweet-type">${ICONS.quote}quote</span>`;
+          }
+        }
+
+        const mediaCount = item.media?.filter(m => m.exists).length || 0;
+        const mediaHtml = mediaCount > 0
+          ? `<div class="tweet-media media-${Math.min(mediaCount, 4)}">${item.media
+              .filter(m => m.exists)
+              .slice(0, 4)
+              .map(m => {
+                if (m.type === 'video' || m.type === 'animated_gif') {
+                  const attrs = m.type === 'animated_gif' ? 'loop muted autoplay playsinline' : 'controls';
+                  return `<video src="data/media/${m.local_file}" ${attrs}></video>`;
+                }
+                return `<img src="data/media/${m.local_file}" alt="" loading="lazy">`;
+              })
+              .join('')}</div>`
+          : '';
+
+        const quotedHtml = item.quoted_tweet
+          ? `<div class="quoted-tweet">
+              <a href="${item.quoted_tweet.url}" target="_blank">
+                ${ICONS.quote} Quoted tweet from @${item.quoted_tweet.username}
+              </a>
+            </div>`
+          : '';
+
+        const date = new Date(item.created_at);
+        const dateStr = date.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+
+        div.innerHTML = `
+          <div class="tweet-text">${this.linkify(item.text, this.searchQuery)}</div>
+          ${mediaHtml}
+          ${quotedHtml}
+          <div class="tweet-meta">
+            <span>${dateStr}</span>
+            <span class="tweet-stats">♥ ${item.favorite_count} ↻ ${item.retweet_count}</span>
+            <a href="${item.url}" target="_blank">View ${ICONS.external}</a>
+            ${typeLabel}
+          </div>
+        `;
+
+        return div;
+      },
+
+      normalizeText(text) {
+        return text.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+      },
+
+      highlightMatch(html, query) {
+        if (!query) return html;
+        const normalizedQuery = this.normalizeText(query);
+
+        return html.replace(/(<[^>]+>)|([^<]+)/g, (match, tag, text) => {
+          if (tag) return tag;
+
+          const normalizedText = this.normalizeText(text);
+          let result = '';
+          let lastEnd = 0;
+          let searchFrom = 0;
+
+          while (true) {
+            const matchIndex = normalizedText.indexOf(normalizedQuery, searchFrom);
+            if (matchIndex === -1) break;
+
+            const matchEnd = matchIndex + normalizedQuery.length;
+            result += text.slice(lastEnd, matchIndex);
+            result += `<span class="search-match">${text.slice(matchIndex, matchEnd)}</span>`;
+            lastEnd = matchEnd;
+            searchFrom = matchEnd;
+          }
+
+          result += text.slice(lastEnd);
+          return result;
+        });
+      },
+
+      linkify(text, query) {
+        if (!text) return '';
+
+        let result = text.replace(/</g, '&lt;').replace(/>/g, '&gt;');
+        result = result.replace(/^(RT @\w+:)/, '<span class="rt-prefix">$1</span>');
+        result = result
+          .replace(/(https?:\/\/[^\s]+)/g, '<a href="$1" target="_blank">$1</a>')
+          .replace(/@(\w+)/g, '<a href="https://x.com/$1" target="_blank">@$1</a>');
+
+        if (query) result = this.highlightMatch(result, query);
+        return result;
+      }
+    };
+
+    App.init();
+  </script>
+</body>
+</html>
