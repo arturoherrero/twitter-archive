@@ -1,5 +1,1305 @@
 window.LIKES = [
   {
+    "text": "Recomendación de libro / lectura favorita en 2025? \n\nNecesito algo para esta semana. El mío este año por recomendación de @samuelgil fue: https://t.co/Zycca6KvGj",
+    "url": "https://twitter.com/i/web/status/2003755361858461979"
+  },
+  {
+    "text": "Ya estamos casi en Navidad y, siguiendo la tradición, aquí va un hilo de lecturas (de todo tipo) que me han gustado especialmente en este 2025 🧵👇 https://t.co/oed3lbeTQ8",
+    "url": "https://twitter.com/i/web/status/2003168224498843756"
+  },
+  {
+    "text": "“El hecho es que no puedes ser inteligente simplemente eligiendo tus opiniones. El hombre inteligente no es el que sostiene tales y cuales opiniones, sino el que tiene razones sólidas para lo que cree y, sin embargo, no lo cree dogmáticamente.”\n\n― Bertrand Russell https://t.co/9Zw9pQX3OQ",
+    "url": "https://twitter.com/i/web/status/2003520505094295853"
+  },
+  {
+    "text": "Yann LeCun says there is no such thing as general intelligence\n\nHuman intelligence is super-specialized for the physical world, and our feeling of generality is an illusion\n\nWe only seem general because we can't imagine the problems we're blind to\n\n\"the concept is complete BS\" https://t.co/zTsRnDc3CT",
+    "url": "https://twitter.com/i/web/status/2000959102940291456"
+  },
+  {
+    "text": "Yann LeCun reminds me of this piece from Hamming’s The Art of Doing Science and Engineering: If an expert says sth can be done he is probably correct, but if he says it is impossible then consider getting another opinion. older minds have more trouble adjusting to new ideas. https://t.co/hT3Be7wsg0 https://t.co/Z4AqL0piRW",
+    "url": "https://twitter.com/i/web/status/2003509439375212589"
+  },
+  {
+    "text": "@IvanLandabaso no ficción https://t.co/sC5bC110Tb",
+    "url": "https://twitter.com/i/web/status/2003756166627877216"
+  },
+  {
+    "text": "La diferencia fundamental entre el cerebro y la inteligencia artificial radica en que, mientras las máquinas están limitadas por la lógica de símbolos discretos y los muros de la incomputabilidad (donde ciertos problemas no tienen \"receta\" o solución dentro del sistema), la…",
+    "url": "https://twitter.com/i/web/status/2003449138738790826"
+  },
+  {
+    "text": "One of the most beautifully written pieces about AI and knowledge work. https://t.co/P99UsYW3fc",
+    "url": "https://twitter.com/i/web/status/2003303650966573207"
+  },
+  {
+    "text": "Early Plum Blossoms, by Nishimura Goun, 1936 https://t.co/dmAg4C0FO3",
+    "url": "https://twitter.com/i/web/status/2003542120959996008"
+  },
+  {
+    "text": "@culturaltutor This one hangs next to our bed. This one is from the 1940s. https://t.co/UHnaJQTHJb",
+    "url": "https://twitter.com/i/web/status/1612742186218528770"
+  },
+  {
+    "text": "https://t.co/rZaqqj1owm",
+    "url": "https://twitter.com/i/web/status/2003154142836195711"
+  },
+  {
+    "text": "@chepauet @Juanje_Romero \"Lo quiero todo\". Está en \"Filosofía mundana\", de la que en estos día sale la octava edición. \n\nhttps://t.co/tnGOIZG0Dc",
+    "url": "https://twitter.com/i/web/status/2003077710575530244"
+  },
+  {
+    "text": "I spent a week with Riley Walz. He's an internet prankster responsible for:\n\n- creating a fake 5 star steakhouse in NYC\n- cloning GSuite to make the Epstein docs accessible\n- reverse engineering government APIs to track SF parking cops and the tickets they give out\n\nIt's clear…",
+    "url": "https://twitter.com/i/web/status/2003154009750929558"
+  },
+  {
+    "text": "Gracias a @JonhernandezIA por la entrevista, echamos un buen rato 😘 https://t.co/kgLPq10BmQ",
+    "url": "https://twitter.com/i/web/status/1996681730078736785"
+  },
+  {
+    "text": "\"Deja que todo te suceda: la belleza y el terror.\nSigue adelante. Ningún sentimiento es definitivo.\"\n\n-Rainer Maria Rilke",
+    "url": "https://twitter.com/i/web/status/2003011262083629126"
+  },
+  {
+    "text": "@Juanje_Romero Ya no sé cuentas veces lo he regalado. Toca reeditar!!! @JavierGomaL \n\nhttps://t.co/T9JNUh20Jo",
+    "url": "https://twitter.com/i/web/status/2003034378382065756"
+  },
+  {
+    "text": "Para leerlo todas y cada una de las mañanas con el café https://t.co/NZnMx0cpmE",
+    "url": "https://twitter.com/i/web/status/2003022599903957041"
+  },
+  {
+    "text": "Si tuviera que reconstruir mi 2025 no usaría fotos ni estados de cuenta, sino los márgenes de estos cinco libros.\n\nLeer no es pasar páginas: es dejar que un extraño camine por tu mente y mueva los muebles de sitio. Algunos de estos libros llegaron por recomendación azarosa, otros…",
+    "url": "https://twitter.com/i/web/status/2003031386119123407"
+  },
+  {
+    "text": "Esto de Pessoa \n“ser todo en cada cosa, poner cuánto eres en lo mínimo que hagas” https://t.co/DLf1flxjtH",
+    "url": "https://twitter.com/i/web/status/2002879522887401942"
+  },
+  {
+    "text": "El impacto del docente sobre el rendimiento existe, es medible, pero es estructuralmente pequeño comparado con el peso de las características del alumnado. Más de medio siglo de resultados empíricos sobre la variabilidad del rendimiento concluyen que:\n\n-Escuelas + docentes:…",
+    "url": "https://twitter.com/i/web/status/2002869027878961519"
+  },
+  {
+    "text": "\"Every morning, I type '/today' into Claude Code and watch it generate my to-do list.\"\n\nHere's my new episode with @ttorres where she demos how she uses two Claude Code terminals and a note taking app (Obsidian) to run her entire life and business.\n\nWe cover:\n\n✅ Her 3-layer… https://t.co/rUS5Dlt0C8",
+    "url": "https://twitter.com/i/web/status/2002753608711090426"
+  },
+  {
+    "text": "https://t.co/9WC41J8FNE",
+    "url": "https://twitter.com/i/web/status/2002664759167156535"
+  },
+  {
+    "text": "Jane Crowther\n#Caturday https://t.co/SbLkqh0Pvw",
+    "url": "https://twitter.com/i/web/status/2002302200668623216"
+  },
+  {
+    "text": "Christmas Tree\nill. The Sketch & Doodle Club https://t.co/wlQg492NY5",
+    "url": "https://twitter.com/i/web/status/2002313525084196946"
+  },
+  {
+    "text": "Christmas tree by Quentin Blake https://t.co/rs60gSfDKF",
+    "url": "https://twitter.com/i/web/status/2002355174505853128"
+  },
+  {
+    "text": "good night, friends\nill. Pierre-Emmanuel Lyet https://t.co/1EeHT2M1wV",
+    "url": "https://twitter.com/i/web/status/2002482261992644906"
+  },
+  {
+    "text": "David Gentleman \n\"Primrose Hill under snow\" , 1968 https://t.co/fJ9r6wehGo",
+    "url": "https://twitter.com/i/web/status/2002645336435679349"
+  },
+  {
+    "text": "Everything you learn in the gym applies to life.\n-Reps are the only way to get better\n-Showing up over and over is the only hack that works\n-Losing the fear of failure is the only way to accomplish anything big\n-Do a little more every week and tiny wins build into something huge https://t.co/dp1IaNAwNU",
+    "url": "https://twitter.com/i/web/status/2002059792781902193"
+  },
+  {
+    "text": "He leído muchos libros de cuentos, pero ninguno como este. Cada cuento es una pequeña obra maestra✨ https://t.co/GjczpmPHWB",
+    "url": "https://twitter.com/i/web/status/2002329811499270571"
+  },
+  {
+    "text": "Boys aged 6-12, assuming they aren’t brain rotted by early screen use, are by far the easiest people to buy Christmas gifts for. https://t.co/Mm9ut40YcN",
+    "url": "https://twitter.com/i/web/status/2002095880648982534"
+  },
+  {
+    "text": "@RockLeeSmile Stephen's Sausage Roll\nCan of Wormholes\none half of Tunic\nEnglish Country Tune\nBraid \nBonfire Peaks\nSensorium\nThrees\nENIGMASH (web)\nInfinifactory\nReturn of the Obra Dinn\nCurse of the Golden Idol\nTeteobot & co\nThe Golem\nRecursed\nSnakebird\nSupraland\nTametsi\n(Into the Breach)",
+    "url": "https://twitter.com/i/web/status/1712764022804680731"
+  },
+  {
+    "text": "Reply to this with all the best puzzle games of all time. I'll assemble them into a tier list later and talk through sorting them.\n \nI'll start:\n-The Witness\n-Cocoon\n-Myst\n-The Room series\n-Fez\n-Baba is You\n-Portal series\n-Antichamber\n-Lemmings\n-Superliminal\n-Unpacking\n-Tetris",
+    "url": "https://twitter.com/i/web/status/1712639708927263227"
+  },
+  {
+    "text": "Push, don't pull - that's the mantra of Steam Box-Pushing Fest, live now until next Monday, April 28.\n\nCheck out hundreds of nifty puzzling games and get your brain game on - from space to cats to peaceful monster islands, there's plenty to push around!\n\nhttps://t.co/DC2tOAaMwH https://t.co/b44WbIvovv",
+    "url": "https://twitter.com/i/web/status/1914374181384523809"
+  },
+  {
+    "text": "53 lecciones que me hubiera gustado conocer antes:\n\n1. Desaprender es más importante que aprender. Nos han metido en la cabeza muchos conceptos erróneos. El mundo no es el que era.\n\n2. Debemos tomar los libros de Estados Unidos con cautela debido a las profundas diferencias…",
+    "url": "https://twitter.com/i/web/status/1995479389786562672"
+  },
+  {
+    "text": "wrote up a (non-exhaustive, living) list of people i look up to https://t.co/hiShIFzvVy",
+    "url": "https://twitter.com/i/web/status/2001447702173729165"
+  },
+  {
+    "text": "Most people still have no idea how insanely powerful the Shortcuts app actually is\n\nFor example here’s an “anti theft shortcut” that turns on low power mode.. takes a front camera photo and sends that photo along with live location to your chosen number.. ALL JUST BY SENDING A… https://t.co/BYTINW2y9U",
+    "url": "https://twitter.com/i/web/status/2001562379692478489"
+  },
+  {
+    "text": "\"¿Javier, cómo se aprende a escribir ficción?\" Me angustio cada vez que me hacen la pregunta. Mi camino no es ortodoxo (talleres, ejercicios...) pero sí tengo media docena de libritos que no hablan de literatura pero enseñan mucha narrativa. Este es uno 👇🏻 https://t.co/cBmYSndeJf",
+    "url": "https://twitter.com/i/web/status/2001598847340961912"
+  },
+  {
+    "text": "«Sólo rutina». https://t.co/dM0fIBCL1v",
+    "url": "https://twitter.com/i/web/status/2001026061946270024"
+  },
+  {
+    "text": "Your best long-term strategy in life is to become autodidact polymath - from math & natural sciences, to philosophy and languages, to history & security. It won’t bring you any friends or recognition, rather envy & pushback, but it will be your best hedge against a brutal world. https://t.co/GcyfUv9iPl",
+    "url": "https://twitter.com/i/web/status/2001023955235447087"
+  },
+  {
+    "text": "Another marvelous book by @stripepress. If you care about productivity and economic growth, this is a must read. It explains on the most granular level how things become more efficient through technology or process redesign. https://t.co/yodH7a9637",
+    "url": "https://twitter.com/i/web/status/1999779277206872440"
+  },
+  {
+    "text": "Haciendo base para la jarana que se viene.\n\nMuy buen torrezno en la “Cervecería Alba” (Getafe), equilibrado entre carne y grasa, tierno y con su corteza crujiente.\n\nFelicidad! https://t.co/azjrm6GWj2",
+    "url": "https://twitter.com/i/web/status/1999451648364806539"
+  },
+  {
+    "text": "A framework to take into 2026:  \n\n📌By Paul Graham, visual by jasonshen. https://t.co/hwqlwrmx7g",
+    "url": "https://twitter.com/i/web/status/1999537823129440575"
+  },
+  {
+    "text": "Insuperable álbum que contiene, entre otras joyas, la que es para mi la mejor versión de “Dos Gardenias” una de esas canciones populares que solo te gusta de una manera y suele ser la primera que escuchas. Por ejemplo “Lágrimas Negras” para mi tiene que ser la de Bebo y el Cigala https://t.co/RYHnu6KXAw",
+    "url": "https://twitter.com/i/web/status/1999608885108203992"
+  },
+  {
+    "text": "Goethe vuelve a llevar razón cuando decía aquello de que «lo que llamamos ciencia no es sino historia de la ciencia». https://t.co/PbNflU1HKg",
+    "url": "https://twitter.com/i/web/status/1999629723455070243"
+  },
+  {
+    "text": "\"same patterns, the same flows, the same ideas repeated across different tools and teams.\"  \n\nThis is what I'm actually afraid of. When we start treating designers as code jugglers, and we start to see even more standardization in the space because everyone is building with the… https://t.co/7m0JSoBwRA https://t.co/3sIZQrpAAg",
+    "url": "https://twitter.com/i/web/status/1999512153313935864"
+  },
+  {
+    "text": "\"The Elephant in the Brain: hidden motives in everyday life\" ,de Kevin Simler y Robin Hanson\n★★★★☆\n\nEste libro propone una tesis inquietante y estimulante: buena parte de lo que hacemos en la vida cotidiana no responde a las razones que nos contamos, sino a motivos ocultos… https://t.co/F4Hu3pzHTg",
+    "url": "https://twitter.com/i/web/status/1999783563152003421"
+  },
+  {
+    "text": "Paradoja de Dennett: lo que puedas imaginar depende de lo que sepas. https://t.co/bIYb9D1yKN",
+    "url": "https://twitter.com/i/web/status/1998824436091228289"
+  },
+  {
+    "text": "No olviden el tremendo privilegio que es estar sano. No lo minimicen, no lo pierdan de vista nunca. La vida es hoy, siempre.",
+    "url": "https://twitter.com/i/web/status/1998226138129412207"
+  },
+  {
+    "text": "«Caballeros, sentaos todos sin recelo, pues en una mesa redonda nadie puede quejarse de estar en el extremo menos noble, o de que alguien esté situado por encima». (EL REY ARTURO Y SUS CABALLEROS DE LA TABLA REDONDA, de Roger Lancelyn Green).\n\nhttps://t.co/isWb0lME6r https://t.co/RMYZFHoPZY",
+    "url": "https://twitter.com/i/web/status/1962545991640289703"
+  },
+  {
+    "text": "Interesantísimo conjunto de ensayos en los que, a partir de un tema tan curioso como los ángeles, Coccia reflexiona sobre la sociología del poder y muestra la influencia de la angelología en la vida política europea, repensando categorías sociopolíticas actuales. https://t.co/pGbmcOLFmX",
+    "url": "https://twitter.com/i/web/status/1998489881849610706"
+  },
+  {
+    "text": "La moral no consiste tanto en servir al bien común como en convencernos de que lo hacemos. Nuestra brújula moral suele orientarnos más hacia el rechazo del compromiso y la desconsideración mutua que hacia la búsqueda de soluciones y el respeto recíproco. Con frecuencia se…",
+    "url": "https://twitter.com/i/web/status/1968714131818627218"
+  },
+  {
+    "text": "La moral no puede ser enteramente benigna: necesita una veta mezquina, porque de otro modo jamás habría evolucionado. La selección natural no premia la igualdad, sino la ventaja. Los genes no prosperan ayudando indiscriminadamente a todos, sino beneficiando egoístamente a quienes…",
+    "url": "https://twitter.com/i/web/status/1968719543599010062"
+  },
+  {
+    "text": "https://t.co/x8S4JeVeYM",
+    "url": "https://twitter.com/i/web/status/1968732957725618441"
+  },
+  {
+    "text": "Life is poker, not chess \n\nFour years ago I walked away from a guaranteed promotion at McKinsey and a $300K PE offer to work in gaming for a third of the salary.\n\nMany thought I was insane. They were playing chess: calculating the optimal move with perfect information. https://t.co/g5VHm1a12b",
+    "url": "https://twitter.com/i/web/status/1968799786154221605"
+  },
+  {
+    "text": "@Recuenco Uno más https://t.co/FXS86nxpSI",
+    "url": "https://twitter.com/i/web/status/1969000587661373782"
+  },
+  {
+    "text": "ROBIN LANE FOX\nLecciones de vida\n\nEsta entrevista al maestro Robin Lane Fox es absolutamente extraordinaria, inspiradora y divertida, y se encuadra dentro de la ejemplar labor de educación cultural que hace a diario el equipo de la @la_march_madrid\n\nhttps://t.co/hhMRW2hCJt",
+    "url": "https://twitter.com/i/web/status/1968788506555130042"
+  },
+  {
+    "text": "Somos como somos, fundamentalmente, por la mezcla de estos factores.\nGenes: predisposiciones innatas que influyen en nuestras capacidades y comportamientos.\n\nEntorno: la cultura y el contexto en el que crecemos y nos desarrollamos. El lugar y el tiempo histórico en el que…",
+    "url": "https://twitter.com/i/web/status/1968341960336298430"
+  },
+  {
+    "text": "El Panteón de los Reyes fue mandado construir por Fernando I y Sancha, reyes de León, como cementerio real.  En él se enterraron reyes, reinas, infantes, condes y miembros de la nobleza. Sus frescos románicos son una joya del arte medieval.\nReal Colegiata Basílica de San Isidoro https://t.co/TxsdsYOQzr",
+    "url": "https://twitter.com/i/web/status/1968307988529291484"
+  },
+  {
+    "text": "1 mes de lectura y a 300 páginas de acabar tengo que decir que me está encantando. Esperaba algo muy aprecido a La Regenta y la verdad que me han parecido totalmente distintos. https://t.co/7ieUyh36zf",
+    "url": "https://twitter.com/i/web/status/1968035049644945439"
+  },
+  {
+    "text": "Gran libro sobre estrategia y toma de decisiones a partir del póker y el pensamiento por escenarios/probabilidades de la gran @AnnieDuke. De interés para inversores aunque el \"bridge of competence\" entre el póker y la inversión tenga sus limitaciones. https://t.co/crBHsW3kF9",
+    "url": "https://twitter.com/i/web/status/1968203072053842245"
+  },
+  {
+    "text": "@AlfonsoCSuarez @aesperies 🙏🏻\n\nHay algunos: \n\n- Legazpi: “La Lastra”\n- Arganzuela: “Bar Toñi”\n- Lavapiés: “el boquerón”\n- Tetuán: “el solomillo” \n- Ciudad Lineal: “bar Moncayo”",
+    "url": "https://twitter.com/i/web/status/1967657275356746158"
+  },
+  {
+    "text": "Otro buen libro (aunque largo y denso), para tomar perspectiva histórica y entendimiento sobre la realidad de la región. Al final, los habitantes de Gaza son árabes; Palestina es un artificio moderno. De ahí el fuerte rechazo a Hamás de los países entorno (todos musulmanes). https://t.co/5tKK5frKK8",
+    "url": "https://twitter.com/i/web/status/1967331740357431712"
+  },
+  {
+    "text": "Para quién quiera entender mejor guerra Israel-Hamás et. al. El relato de Ari Shavit incluso siendo un relato crítico, queda clara la postura Hamás et al.: no se quiere un \"Estado Palestino\" que obligaría a cumplir normas de la guerra; objetivo es eliminar Israel. https://t.co/G0VXVjl2CA",
+    "url": "https://twitter.com/i/web/status/1967329184432480263"
+  },
+  {
+    "text": "Noches blancas es un cuento sublime, toda una experiencia. Y El doble es genial, la atmósfera es asfixiante y casa perfectamente con el fondo, El sueño de un hombre ridículo tá bien sin más, y El jugador decepciona; con ese tema podría haber hecho mucho más. https://t.co/tkh79IZC0z",
+    "url": "https://twitter.com/i/web/status/1967369786616397830"
+  },
+  {
+    "text": "https://t.co/3o2b6NXHYT",
+    "url": "https://twitter.com/i/web/status/1967470708327628865"
+  },
+  {
+    "text": "Extraigo algunas frases de este libro de Hanno Sauer sobre nuestra mente moral punitiva:\n\n“El desarrollo del castigo nos domesticó, nos convirtió en seres amables y tolerantes, pero nos dotó igualmente de potentes instintos punitivos, es decir, de instintos castigadores mediante… https://t.co/qgSTNbmmfb",
+    "url": "https://twitter.com/i/web/status/1701349732046545194"
+  },
+  {
+    "text": "Gran libro. https://t.co/p4ZmPK7t3d",
+    "url": "https://twitter.com/i/web/status/1966959327220305928"
+  },
+  {
+    "text": "https://t.co/Ps6s2Snw0g",
+    "url": "https://twitter.com/i/web/status/1966547796871573626"
+  },
+  {
+    "text": "Time to scroll around the most beautiful map ever made: the 1739 \"Plan de Turgot,\" commissioned by the chief merchant of Paris. \n\nEvery mark was originally engraved into brass plates and the detail is insane, like examining an 8x10 ft. banknote. https://t.co/KGNqSTSq5A",
+    "url": "https://twitter.com/i/web/status/1966547722011636004"
+  },
+  {
+    "text": "De Kuhn tenía prejuicios y se confirmaron. Me parece superficial y creo que el cinismo le aleja de la verdad, aunque su impacto en la historia de la ciencia lo considero positivo. Wootton me ha gustado más, aunque esperaba un libro más técnico y tanta discusión sobre el lenguaje. https://t.co/ZN5nj0NUps",
+    "url": "https://twitter.com/i/web/status/1966547879448760709"
+  },
+  {
+    "text": "En breve sale Mitos Progres del filósofo Michael Huemer, en la Editorial Deusto, del que tengo el honor de haber escrito el prólogo. https://t.co/jvAHMJ8oUG",
+    "url": "https://twitter.com/i/web/status/1966041820472786960"
+  },
+  {
+    "text": "📚La invención del bien y del mal, de Hanno Sauer\n5/5 ★★★★★\n\nNuestra moral es un palimpsesto, un pergamino reescrito una y otra vez, a menudo ilegible y difícil de descifrar. Así nos lo recuerda Hanno Sauer en este libro fascinante, donde se pregunta qué es la moral y, más… https://t.co/ZhR7Jmhh7z",
+    "url": "https://twitter.com/i/web/status/1965468786741649868"
+  },
+  {
+    "text": "Si andáis buscando novelas, leed estos tres librazos de Dostoyevski. \n\nLe obsesionaba el crimen, y en cada libro lo estudia desde un prisma distinto: personal, social y teológico. Su profundidad es inigualable. https://t.co/08fLeU1h96",
+    "url": "https://twitter.com/i/web/status/1963336208991572362"
+  },
+  {
+    "text": "Y menos aún Jacques Vergès. Apodado \"el abogado del diablo\", cuando le preguntaron si hubiera defendido a Hitler, replicó: \"De hecho, defendería hasta a Bush... sólo si se declarase culpable\". \n\nEs ácido, provocador, brillante... y muy realista. https://t.co/eBQlk62ELR",
+    "url": "https://twitter.com/i/web/status/1963336181812170934"
+  },
+  {
+    "text": "En este artículo el filósofo Drew M. Dalton, explica la visión del mundo que se desprende de las leyes de la termodinámica, que no es precisamente una visión muy optimista, así que si no tienes buen día igual mejor que pases a otra cosa. Trata también las repercusiones desde el…",
+    "url": "https://twitter.com/i/web/status/1965680457313382435"
+  },
+  {
+    "text": "Acabo de descubrir esta lista de reproducción. Soy feliz.\n\nhttps://t.co/cmlWSjaK0s",
+    "url": "https://twitter.com/i/web/status/1679924946888212490"
+  },
+  {
+    "text": "Your body is largely the product of your lifestyle; primarily your diet, exercise, and sleep.\n\nIf you want to create a permanent change in your body you must permanently change your lifestyle.\n\nTemporary changes will only produce temporary results. https://t.co/i3No6KGrOW",
+    "url": "https://twitter.com/i/web/status/1679507712416129026"
+  },
+  {
+    "text": "Es este: https://t.co/5OKrsjqBCY",
+    "url": "https://twitter.com/i/web/status/1679590713900580868"
+  },
+  {
+    "text": "Les recomiendo en @EEncuentro \nPío Moa: Hegemonía española y comienzo de la Era europea  https://t.co/FfkYSuaXnZ a través de @librosdecibola https://t.co/C9OW64ZrE7",
+    "url": "https://twitter.com/i/web/status/1679778711409704960"
+  },
+  {
+    "text": "I'd rather visit Andalusia than most countries.\n\nOne of Spain's most beloved regions.\n\nHere's all you need to know for your next visit to the South's 5 most popular cities:\n\n(a 🧵) https://t.co/3uNxWE1CmY",
+    "url": "https://twitter.com/i/web/status/1679459468134719488"
+  },
+  {
+    "text": "Hasta hoy no he podido escuchar el Podcast de @RaquelberryFinn y @PedroParedesDC \"Callejón del Cómic\" que abren con un maravilloso capítulo sobre \"Calvin & Hobbes\". Espero ya la segunda parte y muchos más capítulos sobre tiras de prensa. ¡Gracias!\n\nhttps://t.co/qL7pesK4sd",
+    "url": "https://twitter.com/i/web/status/1679487863652753411"
+  },
+  {
+    "text": "Ha llegado oficialmente el verano y apetece ver películas que transmitan esa sensación de veraneo. Voy a ir compartiendo algunas de mis favoritas.\n\nEmpiezo por esta: \"La piscina\", Jacques Deray (1969) ⬇️ https://t.co/vNizd1MTjk",
+    "url": "https://twitter.com/i/web/status/1671892682178977793"
+  },
+  {
+    "text": "Vamos con una lista de temas para esa baraja de la #TRG23, con ganas de ver esos dibujos. Eligo primeros 24",
+    "url": "https://twitter.com/i/web/status/1679024844657119233"
+  },
+  {
+    "text": "Estoy recopilando los 55 hitos más importantes de la Historia de la Informática para «una cosa» de la #TRG23... ¿Se os ocurre qué debería estar sí o sí? https://t.co/pCaFdXaSxb",
+    "url": "https://twitter.com/i/web/status/1679016884945952769"
+  },
+  {
+    "text": "@david_bonilla Deberías incluir el Ars Magna de Llull: 1270 AD se crea EL PRIMER ORDENADOR, en Mallorca, hecho para una única tarea.\n\nSu fundamento teórico inspirará siglos más tarde a Leibniz y también inspirara la combinatoria y otras ramas de matemáticas.\n\nhttps://t.co/pwny322sYD.",
+    "url": "https://twitter.com/i/web/status/1679256981679251460"
+  },
+  {
+    "text": "Want to know what the apocalypse will be like?\n\nLook no further than the terrifying art of John Martin, a long forgotten 19th century painter you've probably never heard of... https://t.co/6RVfFtGted",
+    "url": "https://twitter.com/i/web/status/1679297692244082688"
+  },
+  {
+    "text": "Las sensaciones que despierta el Madrid gastronómico por el mundo. Buena ruta, por cierto - https://t.co/s6H9g9RKNV",
+    "url": "https://twitter.com/i/web/status/1678696270016249856"
+  },
+  {
+    "text": "Nº 145 Aquí podéis ver parte de lo que pedimos y su representación el el comic original https://t.co/1K1mMYJ2TF",
+    "url": "https://twitter.com/i/web/status/1426139334596571139"
+  },
+  {
+    "text": "Una foto diaria durante este 2021 de mis viajes a Japón para hacer más llevadera la espera hasta que vuelva.\n\nNº 1. Vistas del Monte Fuji desde Fujiyoshida (2020) https://t.co/1zkKuMjWL7",
+    "url": "https://twitter.com/i/web/status/1345059696768593920"
+  },
+  {
+    "text": "https://t.co/vtPGv12ljJ",
+    "url": "https://twitter.com/i/web/status/1678664206231404545"
+  },
+  {
+    "text": "Napoleón, creo que esto lo escribió el cardenal Newman. A pesar de la defensa que hace mi admirado León Bloy de él. https://t.co/y6ywDymXlt https://t.co/2NHmzv5H4h",
+    "url": "https://twitter.com/i/web/status/1678487382364938246"
+  },
+  {
+    "text": "A brief thread of India's most beautiful temples:\n\nMeenakshi Temple in Madurai, Tamil Nadu https://t.co/5VfLmGBjDl",
+    "url": "https://twitter.com/i/web/status/1678271794141188098"
+  },
+  {
+    "text": "¿Por qué la mayoría de inversores no  logran obtener la rentabilidad del mercado? Breve nota de voz (x2)👇 https://t.co/fb9PYKHZzp",
+    "url": "https://twitter.com/i/web/status/1678279858806304769"
+  },
+  {
+    "text": "La primera vez que se acuñó el término cóctel fue en un periódico estadounidense en 1806 y el primero libro de coctelería se publicó en 1862. Esta es una recopilación de las mejores obras dedicadas a esta disciplina. https://t.co/uLK7RXunUC",
+    "url": "https://twitter.com/i/web/status/1678117043596406790"
+  },
+  {
+    "text": "In memoriam | El fundador y director de la editorial Ponent Mon supo anticipar el ‘boom’ del manga en España y fue pionero en publicar a autores como Jiro Taniguchi o Yoshihiro Tatsumi.  https://t.co/QF8lM2aT2g",
+    "url": "https://twitter.com/i/web/status/1661425048433852434"
+  },
+  {
+    "text": "¡Qué hambre nos ha dado @el_pais! \n\nY es que La cantina de medianoche (Yaro Abe) y El gourmet solitario (Masayuki Kusumi y Jiro Taniguchi) están entre las 12 recomendaciones de cómic para los amantes de comida 😋\n\nhttps://t.co/J0BiZMyLSZ",
+    "url": "https://twitter.com/i/web/status/1663497731795722240"
+  },
+  {
+    "text": "De manera muy breve quiero mostrar un ejemplo de algo tan curioso como el proceso de espejado de un manga. El orden de lectura del cómic japonés es tal vez lo que más choca a quienes comienzan a adentrarse en el manga.\n\n«Jirō Taniguchi y el espejado en el manga» https://t.co/t0AS2dUPwY",
+    "url": "https://twitter.com/i/web/status/1665389920171507712"
+  },
+  {
+    "text": "Yo todavía no entiendo por qué los lectores fuera de Japón menosprecian #MeAndRoboco. El capítulo de ayer fue magistral, una parodia PERFECTA, absurda, hilarante del \"gourmet solitario\" de Jiro Taniguchi. https://t.co/g70pqU5jWM",
+    "url": "https://twitter.com/i/web/status/1673469494574841859"
+  },
+  {
+    "text": "Hace unas semanas preparé un video contando más en detalle cosas que aprendí estos 4 meses. https://t.co/W22tZWDQJs",
+    "url": "https://twitter.com/i/web/status/1678111681027751938"
+  },
+  {
+    "text": "Northern Spain is a dream.\n\nAnd Santander is one of its best coastal cities.\n\nHere's all you need to know for your next visit:\n\n( a 🧵) https://t.co/VDtKgEgf4E",
+    "url": "https://twitter.com/i/web/status/1678010035949957122"
+  },
+  {
+    "text": "La URSS cartografió todo el planeta en secreto entre 1950 y 1990. En España, sus satélites fotografiaron hasta 49 ciudades. Con la publicación reciente del mapa soviético de Sevilla reemerge aquel macroproyecto. \"Es como una novela de espías\".\n\nhttps://t.co/1Lh25NIN4d",
+    "url": "https://twitter.com/i/web/status/1678109602150326284"
+  },
+  {
+    "text": "Aquí os dejo una divertida crónica de mis incursiones guerrilleras en el Ministerio de @Haciendagob y el Gobierno de @Cantabriaes.\n\nUna batalla contra la #opacidad que libramos con poderosas armas: ¡inteligencia y memes! 💪🏼 \n\nhttps://t.co/e7wAGYV0cn\n\nSi te gusta, ¡retuitea! 🙏🥰 https://t.co/Dbf6egkLFl",
+    "url": "https://twitter.com/i/web/status/1675554865425051648"
+  },
+  {
+    "text": "L197 - Roma: Declive monetario y fin del Imperio con David Serrano Ordozgoiti @DSOrdozgoiti\n\nTratamos: \n- El fin de Roma desde su moneda\n- Ley de Gresham\n- Annona\n- Paralelismos con actualidad\n- Control de precios de Diocleciano\n- Evolución del Denario\n\n🟡 https://t.co/nkU2XQJdcc https://t.co/AydsmZzB25",
+    "url": "https://twitter.com/i/web/status/1677047225678016514"
+  },
+  {
+    "text": "@ArturoHerrero Te recomiendo que veas un documental que se llama “Future Shock! The Story of 2000AD”. \n\nY luego te paso un listado de indispensables americanos de los 80, aparte de las vacas sagradas como Watchmen, V de Vendetta, Sandman y demás 😁",
+    "url": "https://twitter.com/i/web/status/1677967434404315140"
+  },
+  {
+    "text": "@ArturoHerrero Pues ahora por este 🙂 https://t.co/W4MG6UybMp",
+    "url": "https://twitter.com/i/web/status/1677987607370940416"
+  },
+  {
+    "text": "🏡 ¿INVERTIR en España desde otro país? No hay excusas y es totalmente viable\n\nhttps://t.co/yqSUCQ5tVz\n\n#bienesraices #inversioninmobiliaria #comprarparaalquilar #alquiler #MagnatesLadrillo #banco #inversion #financiacion #crisis #inversion #inmuebles #c… https://t.co/n6LnvAaQBu https://t.co/hVbuQmiyYj",
+    "url": "https://twitter.com/i/web/status/1645056233680797700"
+  },
+  {
+    "text": "What weird idea do you think is true?\n\nHere's mine: Cognitive biases are hidden superpowers.\n\nWhy?\n\n1. Humans aren't stupid. We're the only thing in the known universe with consciousness\n\n2. Cognitive biases don't use you. Rather they are tools to be used\n\n10 examples:\n\n1.… https://t.co/Pp8c1HxXWq",
+    "url": "https://twitter.com/i/web/status/1677647727147077633"
+  },
+  {
+    "text": "⚠️Esta mañana, unos nuevos inquilinos nos han contado como les estafaron hace 10 días 800€ con el alquiler de un piso ficticio. Historia recurrente.\n\n🚨Sí estas en búsqueda de alquiler, toma todas las precauciones.\n👾Exterminemos a esta gentuza que se aprovecha de los + humildes",
+    "url": "https://twitter.com/i/web/status/1677656283015528454"
+  },
+  {
+    "text": "#30 Equilibrio estructural: tu próximo objetivo de entrenamiento, by @anticulturista https://t.co/jRGzRH8MKb",
+    "url": "https://twitter.com/i/web/status/1677237352069038080"
+  },
+  {
+    "text": "Mis #5novelas históricas favoritas.\nSon las que más veces he releído en todos mis años de lector, y cada vez que lo hago descubro algo nuevo en ellas. https://t.co/rOhFx1UCWr",
+    "url": "https://twitter.com/i/web/status/1676794393800454144"
+  },
+  {
+    "text": "Esta sencilla fotografía encierra en sí misma toda la sabiduría y amor por los libros que uno, después de leerlos, puede amarlos más aún. https://t.co/igrvmCecH3",
+    "url": "https://twitter.com/i/web/status/1676801913755410433"
+  },
+  {
+    "text": "Dime una cala más bonita que esta en España https://t.co/ft8wrxslJH",
+    "url": "https://twitter.com/i/web/status/1675744205711261696"
+  },
+  {
+    "text": "Uh, they are flipping the question 🧐\n\nhttps://t.co/SHwnk2qchp",
+    "url": "https://twitter.com/i/web/status/1676657375153889295"
+  },
+  {
+    "text": "Qué libro tan curioso y bueno. En la zona donde los nacionalismos llevaron a la guerra, surge hoy una “utopía” anarcocapitalista en una isla fluvial entre Croacia y Serbia. El péndulo pasa de un lado a otro sin remilgos. Los Balcanes son fascinantes: CC: @LasherasFB @miguelroan1 https://t.co/xFkw9jEVoe",
+    "url": "https://twitter.com/i/web/status/1676660325347741707"
+  },
+  {
+    "text": "My logs of 3 years of family pizza and a movie night with our two boys\n\n⭐️ = great \n⭐️⭐️ = exceptional https://t.co/P9Ot3SwSj0",
+    "url": "https://twitter.com/i/web/status/1676308752134205442"
+  },
+  {
+    "text": "A while ago I played with a thought: building a mental bookcase for a dear friend who had just moved into a new apartment, from zero. \n\nCame up today in the Emergent Ventures group chat. Specifically tailored for this particular friend of mine, but you might find it useful 💗📚 https://t.co/hQKfz8YySK",
+    "url": "https://twitter.com/i/web/status/1676312196614090753"
+  },
+  {
+    "text": "i can live anywhere in the US and europe and i chose to live in barcelona https://t.co/mixafMYvSC",
+    "url": "https://twitter.com/i/web/status/1676189872816635905"
+  },
+  {
+    "text": "📢My Top Terminal Apps\n\n🦇bat\n⚙️brew\n📈btop\n🐳docker\n✅dooit\n📃exa\n🔍fd\n🛑fkill\n☕️fnm\n🕵️‍♂️fzf\n💾gdu\n🐱gh\n🐧git\n🐱github-copilot-cli\n🌟glow\n📝jq\n🐳lazydocker\n🐧lazygit\n📰newsboat\n🛑npkill\n📝nvim\n🔍ripgrep\n✅taskell\n🧑‍💻tmux\n📁tree\n🕰️tz\n⏱️watson\n⚡️zap\n🧑‍💻zellij\n🚀zoxide\n\n⁉️What'd I miss",
+    "url": "https://twitter.com/i/web/status/1668981621012459520"
+  },
+  {
+    "text": "La ciencia moderna. https://t.co/K6SImcIHkP",
+    "url": "https://twitter.com/i/web/status/1675441601231896576"
+  },
+  {
+    "text": "Los 4 libros de Historia seleccionados por @babelia_elpais para leer en el verano español. En realidad, para leer en cualquier época del año. Lo importante es leerlos. Solo estos 4 estupendos libros cubrirían la cuota de historia anual para muchos. Para otros, es el combustible. https://t.co/Zscp5bLndh",
+    "url": "https://twitter.com/i/web/status/1675185973871648769"
+  },
+  {
+    "text": "PodKast 191 - Conversación con @antor y @mangelroman, fundadores de Lucentum: el co-pilot de AI Legal desde Alicante  \n\nhttps://t.co/fqSirBR2Kf",
+    "url": "https://twitter.com/i/web/status/1674717249238646785"
+  },
+  {
+    "text": "https://t.co/HSyuEVNxA1",
+    "url": "https://twitter.com/i/web/status/1674356820800831488"
+  },
+  {
+    "text": "Spain isn't just Barcelona and Madrid.\n\nThe entire country is vastly incredible.\n\nHere are all 17 regions of Spain and why to visit each one:\n\n(a 🧵) https://t.co/VKCy1SLoy0",
+    "url": "https://twitter.com/i/web/status/1668236909221388291"
+  },
+  {
+    "text": "Cádiz is the oldest city in Spain.\n\nDating back to 1,100 BC. \n\nHere's all you need to know for your next visit:\n\n(a 🧵) https://t.co/YWbLIq34M8",
+    "url": "https://twitter.com/i/web/status/1673298867737993219"
+  },
+  {
+    "text": "The password game is out now! Good luck 👹\n\n> https://t.co/kXhmbHqYTK https://t.co/d6lbnfHrbx",
+    "url": "https://twitter.com/i/web/status/1673703594778927105"
+  },
+  {
+    "text": "Juan O’Gorman https://t.co/Tn6zKgP78H",
+    "url": "https://twitter.com/i/web/status/1673726529224802310"
+  },
+  {
+    "text": "+1. \n\nPara mi top-3 prioritario:\n\n- Taxes\n- Personal finance\n- Public speaking\n\nvia @QCompounding https://t.co/TvlrGzH5z7",
+    "url": "https://twitter.com/i/web/status/1673729838027243525"
+  },
+  {
+    "text": "La novedad que anuncia @EdicionesPaidos \"La invención del bien y del mal\", de Hanno Sauer, se inscribe en la línea de libros de Diamond, Harari Graeber y Wengrow que intentan ofrecer una visión personal, una \"nueva historia de la humanidad\" de cómo hemos llegado a ser lo q somos. https://t.co/691MeeHLYX",
+    "url": "https://twitter.com/i/web/status/1673471481639043072"
+  },
+  {
+    "text": "A propósito de @EdicionesPaidos, les aviso con tiempo para que tomen sus precauciones. Entre 72 y 79 días tardarán en salir estas 4 novedades que anuncia la editorial para el 3er trimestre del año. Especialmente el primero de ellos, que no se reeditaba, me parece, desde el 2008. https://t.co/1JGlntYz47",
+    "url": "https://twitter.com/i/web/status/1673473520892772352"
+  },
+  {
+    "text": "Aún no acaba el lunes, así que a tiempo estoy de hacerles la #RecomendaciónSemanal que hace tiempo no hago. Retomando la costumbre, les recomiendo este libro, que si el resto del mismo es como la Introducción y el primer capítulo, tenemos una lectura placentera asegurada. https://t.co/FEn796Kb3g",
+    "url": "https://twitter.com/i/web/status/1673490728289280000"
+  },
+  {
+    "text": "What art style is the best? https://t.co/8yBNXrKXLG",
+    "url": "https://twitter.com/i/web/status/1673457519556014081"
+  },
+  {
+    "text": "Iran has some of the world's most ancient, important, and beautiful architecture.\n\nSo here is a very brief introduction, from ziggurats and Zoroastrian fire temples to crystal mosques and the first ever churches... https://t.co/BcYLNAuxQJ",
+    "url": "https://twitter.com/i/web/status/1673182459326877696"
+  },
+  {
+    "text": "Un lector anónimo de Barcelona deja pagado el libro #LaVidaInstruccionesDeUso de Georges Perec cada 23 de junio en una librería con una única instrucción: que el librero se lo regale a alguien que pase por allí a las 20h.\nAsí lo recogen en @el_pais: https://t.co/JrMcPQheOc",
+    "url": "https://twitter.com/i/web/status/1673270203549995013"
+  },
+  {
+    "text": "Nunca olvidemos:\n• Estrategia: el qué.\n• Táctica: el cómo. https://t.co/ijsLxmVvYr",
+    "url": "https://twitter.com/i/web/status/1673061267089571843"
+  },
+  {
+    "text": "Me encanta leer, especialmente en verano, libros con alto nivel de vibración. Energía pura para comerse el mundo. Cada día +1%.\nAviso: no pienso parar. https://t.co/NEztndyuyP",
+    "url": "https://twitter.com/i/web/status/1673009940544323585"
+  },
+  {
+    "text": "How Complex Systems Fail\nhttps://t.co/5BXQcWNV85",
+    "url": "https://twitter.com/i/web/status/1672585864105320448"
+  },
+  {
+    "text": "HERNAN CORTES: A MAN OUT OF TIME\n\nMost of us know the conqueror of the Aztec Empire, at least in passing.\n\nBut Cortes' story is criminally undersold in pop culture and education. He's one of the most fascinating figures to ever live; a man straight from some ancient epic.\n\n1/ https://t.co/EOgyErFEoE",
+    "url": "https://twitter.com/i/web/status/1672327970294300673"
+  },
+  {
+    "text": "El 10 lleva asociado el 0. El 9 tiene como otra cara de la moneda el 1. El 8 y el 2 van de la mano, y así sucesivamente. A mayor cercanía a los extremos (apalancamiento emocional) mayor es la intensidad con la que estamos viviendo (para lo bueno y para lo malo). https://t.co/bM7HqQdzt7",
+    "url": "https://twitter.com/i/web/status/1672486357510307841"
+  },
+  {
+    "text": "https://t.co/jkndjrCgmH",
+    "url": "https://twitter.com/i/web/status/1671597765447634945"
+  },
+  {
+    "text": "50 Ideas That Shaped My Thinking\n\n1. Inversion: Avoiding stupidity is easier than trying to be brilliant. Instead of asking, “How can I help my company?” you should ask, “What’s hurting my company the most and how can I avoid it?” Identify obvious failure points, and steer clear…",
+    "url": "https://twitter.com/i/web/status/1672237243707080705"
+  },
+  {
+    "text": "Hoy es el aniversario de Alvaro Cunqueiro y lo celebramos con este vídeo que nos enseña a amar \"los conocimientos inútiles\" https://t.co/ZSkj633vst",
+    "url": "https://twitter.com/i/web/status/1605906230811172866"
+  },
+  {
+    "text": "@jaime_rdes https://t.co/ZyNDIJSI9v",
+    "url": "https://twitter.com/i/web/status/1553636308643467269"
+  },
+  {
+    "text": "Llevo el último mes con esto. Es absolutamente descomunal el trabajo de síntesis que han hecho Graeber y Wengrow y la vía que han abierto. Un derribo completo del paradigma y un libro que se leerá en las facultades (espero) durante décadas. Una puerta nueva de nuestra historia. https://t.co/QOS3pUQvXW",
+    "url": "https://twitter.com/i/web/status/1671473804646797312"
+  },
+  {
+    "text": "Muy bueno, me encanta especialmente como está escrito: precisión ante todo. Curiosamente la parte que más me ha gustado es la que menos me interesaba, su razonamiento sobre las utopías. La 1ª parte tmb es fascinante. La 2ª está muy bien pero ya la conocía bastante. https://t.co/5UvpeW0GxP",
+    "url": "https://twitter.com/i/web/status/1671493768179077120"
+  },
+  {
+    "text": "💥 Estamos estrenando una tertulia maravillosa con @foso_defensivo sobre la situación y seguridad de España \n\nhttps://t.co/CRG75spPLN https://t.co/22IwqJFxMd",
+    "url": "https://twitter.com/i/web/status/1671245568507535361"
+  },
+  {
+    "text": "📢 ¿Hacia adonde va España?\n\n💥 ¿Te preocupa tu patrimonio en España? ¿Y tus inversiones?\n\n✅ Charlamos de estos temas con @foso_defensivo que nos da su opinión\n\nVaya programón que grabaron @checabello y Emérito\n\n⏰Gran estreno mañana a las 21:00\n\nhttps://t.co/LlyxZXqTD4 https://t.co/6JncxlYW5I",
+    "url": "https://twitter.com/i/web/status/1670909808562565122"
+  },
+  {
+    "text": "Acabo de terminarlo, escala al podio de mis libros favoritos. Excepcional 💔 https://t.co/gBiL7rdiIg https://t.co/9JJDFBbpQ3",
+    "url": "https://twitter.com/i/web/status/1670886573158592520"
+  },
+  {
+    "text": "El podcast de @Itnig de @bernatfarrero es TOP.\nHistorias inspiradoras con los protagonistas. \nComparto las que más me han gustado:\n1º: https://t.co/2hc12sR7Z9\n2º: https://t.co/BgWjSCS9tp\n3º: https://t.co/ZwmTQSLgIX\n4º: https://t.co/i2mGd1DRUx\n5º: https://t.co/LOfxdTmQnC",
+    "url": "https://twitter.com/i/web/status/1670890428323753984"
+  },
+  {
+    "text": "The unexpected delights of water tower architecture, a thread: https://t.co/pseN0IAe0J",
+    "url": "https://twitter.com/i/web/status/1670083551532929024"
+  },
+  {
+    "text": "Aquí el increíble resumen de ChatGPT de las 2 horas de podcast que hicimos @joantubau y servidor sobre qué hacer con tu vida a los 18, tras acabar el instituto/selectividad. \n\n24 temáticas conectadas con las 69 ideas que mencionamos: https://t.co/hN7qZXf7Vp https://t.co/yIXfN68hBe",
+    "url": "https://twitter.com/i/web/status/1670042130037764097"
+  },
+  {
+    "text": "“An observant child should be put in the way of things worth observing.” \n\n— Charlotte Mason, Home Education, 1886 https://t.co/pN9TeQYgoy",
+    "url": "https://twitter.com/i/web/status/1669790238053662721"
+  },
+  {
+    "text": "Hoy llega a #DisneyPlus un documental sobre Stanley Martin Lieber, destacado cocreador de personajes icónicos de Marvel, llamado #StanLee. Él mismo participa en el filme, del cual puedes ver ya las primeras críticas, recogidas en la web.\nhttps://t.co/JEtN0C96sx https://t.co/2ky89cz23O",
+    "url": "https://twitter.com/i/web/status/1669745316537696256"
+  },
+  {
+    "text": "Sigue TODAS las reglas de Dale Carnegie ❤️ https://t.co/7q87J0YIYJ https://t.co/aMhHdOKPm9",
+    "url": "https://twitter.com/i/web/status/1669078412651012096"
+  },
+  {
+    "text": "Succession es la octava serie a la que le doy un 10 en @Filmaffinity. Ordenadas por primer año de emisión:\n\n2019: ZeroZeroZero\n2018: Succession\n2016: Baron noir\n2015: True detective II\n2014: Gomorra\n2014: True detective I\n2008: Breaking bad\n2002: The wire",
+    "url": "https://twitter.com/i/web/status/1669071837576175616"
+  },
+  {
+    "text": "Me ha encantado escuchar este podcast 4 años después de grabarse 😄\n\nSobre delivery y dark kitchens antes de que llegara el Sr. Covid\n\nhttps://t.co/5LgSyniUHy",
+    "url": "https://twitter.com/i/web/status/1668940138360229888"
+  },
+  {
+    "text": "es curioso que alguien tan histriónico de primeras como greg doucette sea uno de los youtubers del mundo salud y fitness que da consejos más equilibrados (a pesar de los suplementos que vende y de haber sido culturista profesional)",
+    "url": "https://twitter.com/i/web/status/1668876447669268480"
+  },
+  {
+    "text": "Este rascacielos es una fantasía. ¿Qué libro os apetecería leer (o releer) este verano? ❤️ \nhttps://t.co/fALTkdArFw https://t.co/DgDsYdo2cR",
+    "url": "https://twitter.com/i/web/status/1668668898055532545"
+  },
+  {
+    "text": "What is the greatest font of all time? https://t.co/0evpcnI1PG",
+    "url": "https://twitter.com/i/web/status/1668756773728301058"
+  },
+  {
+    "text": "Menuda delicia de libro. La recomendación viene por un tuit de @naval \n\nDarwin, agujeros negros, Dios, la Ilustración... https://t.co/UMV8dnZWTr",
+    "url": "https://twitter.com/i/web/status/1668289171893661708"
+  },
+  {
+    "text": "@Mbcsil https://t.co/YYIyJcLYxo",
+    "url": "https://twitter.com/i/web/status/1668349763329089550"
+  },
+  {
+    "text": "Mi cuaderno de viaje de un fin de semana en Marrakech. Dibujos rápidos de 10 a 15 minutos hechos con minas de un tono sepia rojizo, acompañados de textos en el mismo color ¡Espero que os guste! ❤️ Se agradece el RT ❤️ #art #traveldiaries #marrakech https://t.co/7YgwDKGWbx",
+    "url": "https://twitter.com/i/web/status/1667952164281434118"
+  },
+  {
+    "text": "Quedada genial con un montón de gente interesantísima organizada por @RinconDeAquiles. @davidvalerus  @_sergiosanjuan  @polymatas @themacrowizard  @Recuenco @samuelgil  @jaime_rdes @NoemiCarro @Josebaseba @Smart_Sapiens y tantos otros 😊 https://t.co/vGMkklHJE5",
+    "url": "https://twitter.com/i/web/status/1667612643681607681"
+  },
+  {
+    "text": "Leído de una sentada. ¡Qué delicia! https://t.co/yIeoLsqIhH",
+    "url": "https://twitter.com/i/web/status/1667911612382969856"
+  },
+  {
+    "text": "Nos la pasamos quejándonos que los jóvenes de ahora no leen a los clásicos, pero jamás los acercamos a ellos cuando podemos o debimos. Regálele este precioso libro de @Nordica_Libros a su hijo y algún día le dirá a los suyos que este fue su primer Montaigne. https://t.co/08dKzob6S0",
+    "url": "https://twitter.com/i/web/status/1667686404581720064"
+  },
+  {
+    "text": "Playing around with logotype ideas for @playbit_ https://t.co/YMCUcEu9Np",
+    "url": "https://twitter.com/i/web/status/1667587757521371136"
+  },
+  {
+    "text": "Have you ever learned something significant by playing a game?",
+    "url": "https://twitter.com/i/web/status/1667252405887713281"
+  },
+  {
+    "text": "🐠 Nuevo ejercicio ya disponible en mis clases online de Patreon. Esta vez pintamos con acuarela una lámina de estilo vintage compuesta por distintos peces. ¡Espero que os guste! https://t.co/czVC00PnXq https://t.co/NbBhHckh4V",
+    "url": "https://twitter.com/i/web/status/1667078162725961728"
+  },
+  {
+    "text": "Voy con mi primer Tweet largo ✍️\n¡A ver qué pasa!\n\nBueno, al lío...\nveras,\nen los últimos meses, he realizado algunos ajustes en mis hábitos.\n\n¿Quieres conocerlos y el porqué?\nADVERTENCIA:\nno me gusta dar consejos,\nno sé tu contexto,\nno sé tu camino personal,\ny no quiero parecer…",
+    "url": "https://twitter.com/i/web/status/1667048889017401344"
+  },
+  {
+    "text": "Marc Andreessen recently tweeted “In our new era of AI: Every child will have an A.I. tutor that is infinitely patient, infinitely knowledgeable, infinitely helpful.”\n\nThat era is here. \n\nTry it yourself 👉 https://t.co/TZprbulgWx\n\n1/n https://t.co/XigK2rwvD4",
+    "url": "https://twitter.com/i/web/status/1666874970511912960"
+  },
+  {
+    "text": "Totalmente. A la altura de Caro, Zweig (pienso en Fouché), o el Churchill de Roberts: libros capaces de explorar todos los rincones del carácter de una persona y contarlo de manera absorbente. https://t.co/RZ4Xrjp5UG",
+    "url": "https://twitter.com/i/web/status/1666885098271039488"
+  },
+  {
+    "text": "With so many photo editing tools powered by Generative AI, I think is worth remembering some of the most powerful techniques that do NOT rely on Deep Learning. 🧮\n\n🧵 Let's see how SEAM CARVING works and how we can make it in @unity! 👇\n\nhttps://t.co/IJI1IHQcNW https://t.co/xJhPU3O1aK",
+    "url": "https://twitter.com/i/web/status/1666791894037168130"
+  },
+  {
+    "text": "@javisantana ¿Algo parecido a esto?\nhttps://t.co/wYFk4Fc7eG",
+    "url": "https://twitter.com/i/web/status/1666723621904023554"
+  },
+  {
+    "text": "Siguiendo los consejos de los maestros @meigul y @Piersandri. No desvelo info privilegiada desvelo que Miguel me cuenta que es de los mejores libros que ha editado. Biografía a la altura canon de Robert Caro. https://t.co/dHgarXVzAd",
+    "url": "https://twitter.com/i/web/status/1666524616351793152"
+  },
+  {
+    "text": "La tarde fue provechosa. https://t.co/jtbXReilnF https://t.co/QyvVzm685d",
+    "url": "https://twitter.com/i/web/status/1666392482358198275"
+  },
+  {
+    "text": "The chapter books that my 3yo and I have most enjoyed reading together (over and over and over again):\n\nThe Wind in the Willows \n\nWinnie-the-Pooh and The House at Pooh Corner\n\nThe Lion the Witch and the Wardrobe \n\nCharlotte’s Web https://t.co/14nN4IVve0",
+    "url": "https://twitter.com/i/web/status/1666185888920121344"
+  },
+  {
+    "text": "Para quien no lo sepa (yo no lo sabía), el INE proporciona un modo muy cómodo de ser excluido de la propaganda electoral (evita no solo el spam de los partidos, sino que accedan a tu información postal). https://t.co/lRkc0JRdpz",
+    "url": "https://twitter.com/i/web/status/1666199453374504961"
+  },
+  {
+    "text": "Ya estoy reeditado. https://t.co/mEGel7Y27R",
+    "url": "https://twitter.com/i/web/status/1666017153659576321"
+  },
+  {
+    "text": "Libro divertidísimo. Pendiente escribir sobre él. https://t.co/IIxgMTogdA",
+    "url": "https://twitter.com/i/web/status/1665816522655244297"
+  },
+  {
+    "text": "Fernando Pessoa. https://t.co/vzJXCGejJD",
+    "url": "https://twitter.com/i/web/status/1665813697715945475"
+  },
+  {
+    "text": "Nadie, absolutamente nadie sabe reflejar comida tan deliciosa como los Studios Ghibli.\n https://t.co/7k6hJG56Mj",
+    "url": "https://twitter.com/i/web/status/1665627267119161349"
+  },
+  {
+    "text": "Otro libro al que le tengo echado el ojo... https://t.co/aic8PX95kV",
+    "url": "https://twitter.com/i/web/status/1665855203004891136"
+  },
+  {
+    "text": "«A fit body, a calm mind, a house full of love. These things cannot be bought - they must be earned.»\n—@naval https://t.co/rzkALs46Q3",
+    "url": "https://twitter.com/i/web/status/1665949350680297473"
+  },
+  {
+    "text": "This is the Casa Comalat in Barcelona, one of the most beautiful Art Nouveau buildings in the world.\n\nAnd, once upon a time, it was modern architecture... https://t.co/IEfdZoLRnK",
+    "url": "https://twitter.com/i/web/status/1665683281877032961"
+  },
+  {
+    "text": "La investigación se puede beneficiar enormemente de las nuevas herramientas de IA. Me encanta esta infografía que resume muchas de las herramientas que empleo ya en mi día a día. https://t.co/X0BdjzYgfF",
+    "url": "https://twitter.com/i/web/status/1665669141150171136"
+  },
+  {
+    "text": "I constantly notice that developers highly underuse @raycastapp. I'm tired of giving hints all the time, so here are the topmost useful features that you should use **daily**.\n\nThread 🧵 https://t.co/1S7zrBvAzP",
+    "url": "https://twitter.com/i/web/status/1664194354246832128"
+  },
+  {
+    "text": "https://t.co/GK74WZd77e",
+    "url": "https://twitter.com/i/web/status/1665112189605126146"
+  },
+  {
+    "text": "Muy, muy bueno. Hace lo mismo que el primero pero mejor. La historia como tal es simple pero la narrativa pega muy duro, visualmente es precioso y la banda sonora es un 10. Además el gameplay a mí me encanta, es de sigilo pero si te lo montas bien eres la muerte encarnada. https://t.co/rGZk6A2HY5",
+    "url": "https://twitter.com/i/web/status/1665117898598146051"
+  },
+  {
+    "text": "La apasionante lectura de los Diarios de Patricia Highsmith, una mujer introvertida y atormentada que odiaba a la humanidad y que sacó la creatividad de su sufrimiento https://t.co/lqYRLH16zk",
+    "url": "https://twitter.com/i/web/status/1664173707063951362"
+  },
+  {
+    "text": ".@Acantilado1999 acaba de publicar este libro sobre uno de los cuadros más importantes de la historia del arte. En él, el autor desentraña el misterio del mismo casi «como si se tratara del análisis forense en un relato policíaco». Como acaba de salir, está en mi lista de julio. https://t.co/7ZxLQpgZy3",
+    "url": "https://twitter.com/i/web/status/1664288190440820737"
+  },
+  {
+    "text": "\"Comprehensive Rust\"\na three-day Rust course developed by the Android team. The course covers the full spectrum of Rust, from basic syntax to advanced topics like generics and error handling. It also includes Android-specific content on the last day.\nhttps://t.co/GRa0cbeIOB",
+    "url": "https://twitter.com/i/web/status/1664296448370802690"
+  },
+  {
+    "text": "I made a quick Automation to protect my iPhone if someone steals it while unlocked: if they turn on Airplane Mode (Find My), it asks for a passcode. If wrong… it automatically locks the phone 🔒, turns ON all connectivity 📡 + Low Power Mode 🔋, and shares its current location📍 https://t.co/KYwbbz1QkV",
+    "url": "https://twitter.com/i/web/status/1664312209650991105"
+  },
+  {
+    "text": "Hace unos días prometí poner mis listas, y di la que consideraba Mejores Álbumes.\nToca hablar de Mis Preferidos\n\"Pero, Obélix ¿no es lo mismo?\"\nNo, no es lo mismo.\nLa peli preferida de mi user es Star Wars, pero reconoce que no son la octava maravilla cinematográfica. https://t.co/Awezkcn0Le",
+    "url": "https://twitter.com/i/web/status/1287501237471109121"
+  },
+  {
+    "text": "Néstor F. Marqués ha publicado antes \"Fake news de la antigua Roma\" y \"Un año en la antigua Roma\" (el mejor para mi gusto). Ahora saca este nuevo título, \"Momentos de la antigua Roma que cambiaron el mundo\", q apunta a cimentar su prestigio de gran divulgador de la antigua Roma. https://t.co/a65L2Dc54U",
+    "url": "https://twitter.com/i/web/status/1663899378564603905"
+  },
+  {
+    "text": "Austria, cuaderno de viaje 📝🌍 Estos 4 días navegando por el Danubio han sido una fuente de inspiración. Desde la cubierta del barco tienes la impresión de que el paisaje pasa a cámara lenta y he querido transmitir esa sensación en cada una de las páginas. Espero que os guste ❤️ https://t.co/veUsNDkkhD",
+    "url": "https://twitter.com/i/web/status/1663492202956193796"
+  },
+  {
+    "text": "Bonus track: El episodio de Acquired sobre Spotify es una delicia, escuchar a Daniel Ek y los dos presentadores hablar a calzon quitado de la estrategia es la clase de contenido que siempre va a un publico dispuesto a consumirlo\n\nhttps://t.co/Rp9PjyhQdy",
+    "url": "https://twitter.com/i/web/status/1663303248789360641"
+  },
+  {
+    "text": "Boyero fan account https://t.co/KQIq2kUyUG",
+    "url": "https://twitter.com/i/web/status/1663236536228364314"
+  },
+  {
+    "text": "Hasta el momento, he charlado con @joantubau, @polymatas, @Gsnchez, @alexsoussa_com, @AudeIdScire, @papa2fire, @danfmsg, @davemoral_guru, @Balo_investor, @NoemiCarro, @BenjaminGJW y @javilop.\nAquí la charla con Dani (la menos joseadora, la verdad): https://t.co/HlQ147mb54",
+    "url": "https://twitter.com/i/web/status/1662868665895735297"
+  },
+  {
+    "text": "Primer botín de la feria. https://t.co/PXXxnD3qIU https://t.co/1MEaP8CpiO",
+    "url": "https://twitter.com/i/web/status/1662835697256939521"
+  },
+  {
+    "text": "Escritores escribiendo sobre escribir: \nEduardo Mendoza\nhttps://t.co/folJLXJB0z\nAna Maria Matute (Real Academia y Cervantes)\nhttps://t.co/8ROaKV4kGP\nhttps://t.co/g2DMKbcTPa\nVargas Llosa\nhttps://t.co/EPdNP4sU6y",
+    "url": "https://twitter.com/i/web/status/998503949719232512"
+  },
+  {
+    "text": "@boromas La fiesta del chivo es magnífica. Un must. Woody no me va.  Decía el gran Pumares q sus películas sólo merecían la pena x 1 chiste.",
+    "url": "https://twitter.com/i/web/status/731944663393927168"
+  },
+  {
+    "text": "My favorite building in NYC https://t.co/p4PEu4i6mC",
+    "url": "https://twitter.com/i/web/status/1662175556727652356"
+  },
+  {
+    "text": "Estoy entrando en este rabbit hole y me explota la cabeza.\n\nhttps://t.co/UEOm3ByVWW",
+    "url": "https://twitter.com/i/web/status/1661821065369206791"
+  },
+  {
+    "text": "En este podcast https://t.co/vaSuAbQhwh Tom Holland explican la democracia ateniense con un enorme énfasis en su marco cultural que era totalmente distinto al nuestro. En mi opinión, los dos puntos que hacen la cultura clásica tan distinta a la nuestra son:",
+    "url": "https://twitter.com/i/web/status/1661694111261290499"
+  },
+  {
+    "text": "Entretenidísima, como todo lo que escribe, esta nueva historia que rescata Macintyre sobre la prisión de Colditz. Historias que superan a cualquier ficción imaginable. https://t.co/wkc2tHE37g",
+    "url": "https://twitter.com/i/web/status/1661646224838078464"
+  },
+  {
+    "text": "Difícil de escribir algo tras terminar 'Endeavour'; sensación de orfandad, eso sí.\n\nAntes de empezar su temporada final, he estado estas semanas viéndome toda la serie de nuevo; y ha sido algo que no he podido disfrutar más. https://t.co/usTsaS76vE",
+    "url": "https://twitter.com/i/web/status/1661441390042120216"
+  },
+  {
+    "text": "Why do heroes always live in cottages and villains in castles or towers?\n\nHere's how film makers use architecture to influence our emotions — and what architects can learn from Shrek... https://t.co/9DLxGjdP6C",
+    "url": "https://twitter.com/i/web/status/1661286516377698304"
+  },
+  {
+    "text": "Un mes más respondiendo a la llamada de la @Dirigido_por 😍 https://t.co/VIKvBnUtuT",
+    "url": "https://twitter.com/i/web/status/1661380515184746497"
+  },
+  {
+    "text": "Descubrimiento de la semana: la obra colorida, limpia y llena de vida del ilustrador Andrew Joyce (@doodlesandstuff). Mini hilillo de tarde, sit down and enjoy 🧵☕️👇🏼 https://t.co/JgjZomqiXW",
+    "url": "https://twitter.com/i/web/status/1661392555479531522"
+  },
+  {
+    "text": "Fantasy as we know it today was created by a self-taught French artist from the 19th century.\n\nHe has influenced everybody from HP Lovecraft to George Lucas and Tim Burton to Peter Jackson.\n\nHis name? Gustave Doré... https://t.co/hMNAOhwA8o",
+    "url": "https://twitter.com/i/web/status/1660701461917909019"
+  },
+  {
+    "text": "Un tablero de ajedrez es la excusa para que @gvilaradio y @aparachiqui se hayan marcado un debate reflexión sobre la España que vota este #28M. No os desvelo el ganador, para eso habrá que verlo:\n\nhttps://t.co/BjWZHtpwrr\n\nArrancamos #LaPiezaClave. Una producción de @Mirada21es",
+    "url": "https://twitter.com/i/web/status/1660744410693357592"
+  },
+  {
+    "text": "Conviene leer la columna de @JuanCladeRamon. Sobre la importancia de la lectura larga y profunda. \n\n«Lo que me hace pensar que quizá debiéramos arrumbar todas nuestras quimeras pedagógicas a favor de un solo mandato escolar: leer.\nSolo leer». https://t.co/OECutKr6wP",
+    "url": "https://twitter.com/i/web/status/1660921926963822595"
+  },
+  {
+    "text": "🛒Vamos con la #ListaDeLaCompra de esta semana, sobre la cultura y el deshielo. Traemos el relato de Truman Capote sobre la gira de Porgy and Bess en la Rusia de los 50. También el viaje a través de la historia del violín moderno que nos regala Helena Attlee en su último ensayo https://t.co/dOWZN1Cqt6",
+    "url": "https://twitter.com/i/web/status/1660941578213400576"
+  },
+  {
+    "text": "GoldenEye 007 is a good book about the making of GoldenEye, the N64 game. Lots of detail about the development process. Recommended. https://t.co/DMKaHSA8yi",
+    "url": "https://twitter.com/i/web/status/1661165440125779968"
+  },
+  {
+    "text": "(The Google Docs part was tongue in cheek -- point is, I'm amazed that the process worked at all. Committees aren't normally that productive.\n\nAlso, link to the Kay interview: https://t.co/amVQZXFnPn)",
+    "url": "https://twitter.com/i/web/status/1660341544753430529"
+  },
+  {
+    "text": "A good life https://t.co/PAAoGhVdLw",
+    "url": "https://twitter.com/i/web/status/1660192851966283777"
+  },
+  {
+    "text": "Cracking the scalability wall https://t.co/kcesM8kMgL",
+    "url": "https://twitter.com/i/web/status/1660185534302502913"
+  },
+  {
+    "text": "Today I'm open sourcing my research project on the prehistory of Bitcoin.\n\nRead, share, and make suggestions! 👇\n\nhttps://t.co/4AFb8RcCfj",
+    "url": "https://twitter.com/i/web/status/1659935693890547712"
+  },
+  {
+    "text": "@joaquinmencia @IvanLandabaso MO en Barcelona",
+    "url": "https://twitter.com/i/web/status/1659888630532284418"
+  },
+  {
+    "text": "Why did street lights become so boring? https://t.co/7umBDNWwAU",
+    "url": "https://twitter.com/i/web/status/1659485747814998016"
+  },
+  {
+    "text": "Las incorporaciones del mercado de fichajes del viernes. https://t.co/3LUBJlQnl2",
+    "url": "https://twitter.com/i/web/status/1659614278372999174"
+  },
+  {
+    "text": "La Marcha Radetzky es una de las novelas mejor escritas de la primera mitad del siglo XX, además de una de las mejores novelas históricas de la historia. Solo Thomas Mann, con su “Los Buddenbrook”, lo logra eclipsar, y eso es ya decir mucho, en el tema del declive de una familia. https://t.co/pRkaRnHWNR",
+    "url": "https://twitter.com/i/web/status/1659647850832076817"
+  },
+  {
+    "text": "Estoy muy radicalizado ahora mismo. Gran documental. https://t.co/O3kb6HpQUk",
+    "url": "https://twitter.com/i/web/status/1659336892012167169"
+  },
+  {
+    "text": "@flopezluis We use the power interest matrix. It is part of the Notion template for projects, and stakeholders must place their department in the matrix before starting the project.\nWorking like a charm for us.\nhttps://t.co/PpgIhLNen0 https://t.co/j00Iz2W9w4",
+    "url": "https://twitter.com/i/web/status/1659285483153752064"
+  },
+  {
+    "text": "I didn't know the AAI framework to manage stakeholders in projects \nhttps://t.co/BH9Q09unGg https://t.co/FrIA0GDS3j",
+    "url": "https://twitter.com/i/web/status/1659186575312289793"
+  },
+  {
+    "text": "\"Most people die at 25 and aren't buried until they're 75\"\n\nWhy?\n\n4 reasons and solutions: https://t.co/TRR2VkvZqk",
+    "url": "https://twitter.com/i/web/status/1659217629469609984"
+  },
+  {
+    "text": "Desde el siglo XX son la norma, pero en el pasado vivir en un era un reto constructivo que debía tener sobrados motivos. \n\nHoy en #PatrimonioEnlazado entramos en 10 CASAS TORRE en Yemen, Italia, China, España… https://t.co/DbiQAnmszz",
+    "url": "https://twitter.com/i/web/status/1658910486648299534"
+  },
+  {
+    "text": "Los sueños cines son https://t.co/d6RmN8T4xC",
+    "url": "https://twitter.com/i/web/status/1658721300724973569"
+  },
+  {
+    "text": "Muy interesante entrevista a @BioTay en @cazadorcerebros https://t.co/1I17GzjBHo",
+    "url": "https://twitter.com/i/web/status/1658409839645667328"
+  },
+  {
+    "text": "Every time I open my Toriyama vehicles folder, my day instantly becomes ten times better 😍 https://t.co/azIU8tNgAq",
+    "url": "https://twitter.com/i/web/status/1658949923285647360"
+  },
+  {
+    "text": "\"We’re building software that we wish we had as kids.\"\n\n@jasontoff's explanation of Things Inc. seems to describe their \"main thing\" https://t.co/X9Z8BXk8AM pretty well.",
+    "url": "https://twitter.com/i/web/status/1658531169422434307"
+  },
+  {
+    "text": "1/ Today we’re launching https://t.co/530FObIRwx in Beta. Anyone can now sign up to create and edit rooms. Here's a 90 sec trailer, and some reflections... https://t.co/cWpUEf4pR7",
+    "url": "https://twitter.com/i/web/status/1658429535841296388"
+  },
+  {
+    "text": "Otro “overnight success” (7 años desde el proyecto inicial). \n\nQue tío, me ha caído de locos\n\nhttps://t.co/Ya9xCRMYmD",
+    "url": "https://twitter.com/i/web/status/1658583115659456514"
+  },
+  {
+    "text": "Also highly relevant: guidance from microsoft \n\"Guidance programs allow you to interleave generation, prompting, and logical control\"\nAlso internally handles subtle but important tokenization-related issues, e.g. \"token healing\".\nhttps://t.co/eEc1rywuWP https://t.co/DudrisKuV3",
+    "url": "https://twitter.com/i/web/status/1658601724314292225"
+  },
+  {
+    "text": "Cuando Rodrigo, mi hijo, era pequeño busqué este libro en todos lados y no lo encontré. Ahora que tiene 25 años y todavía no me hace abuelo, llega esta edición a @libercommunitas y me pregunto si aún estoy a tiempo de comprarlo. ¡Es un auténtico clásico de la literatura infantil! https://t.co/jb5g0Q6lp0",
+    "url": "https://twitter.com/i/web/status/1658630714563211265"
+  },
+  {
+    "text": "Forma super divertida (para adultos y niños) de jugar a ser \"hacker de la IA\"\n\nhttps://t.co/qMyxxaappz",
+    "url": "https://twitter.com/i/web/status/1658358606327083010"
+  },
+  {
+    "text": "It's nice to see a lot more competition coming for GitHub Copilot! Here's a review of Cody from @rbp.\n\nAnd here's a longer list of GitHub Copilot alternatives:  https://t.co/rjuG6RLHTC https://t.co/fApeIu1hW9",
+    "url": "https://twitter.com/i/web/status/1658467164209422337"
+  },
+  {
+    "text": "Javier Cañada, director del Instituto Tramontana, nos regala \"El medio es el masaje\": un podcast de formato inmersivo y cargado de un sinfín de referencias 🎙️✨\n\nYa puedes disfrutar de los primeros 4 episodios aquí\n👉🏻 https://t.co/4KHJf3MIZn https://t.co/IlcT0BRpk5",
+    "url": "https://twitter.com/i/web/status/1658473608606539781"
+  },
+  {
+    "text": "Espectacular\n\nFuente: Roberto Maeza\n\nLink: https://t.co/qvwBNNMoHZ https://t.co/pwGkyy34Wt",
+    "url": "https://twitter.com/i/web/status/1658459326367793152"
+  },
+  {
+    "text": "Cómo echo de menos a Cañada en Twitter :(\n\nPd. Recomendable para mis amigos de tuiter sorrentino y aesthetics\n\nhttps://t.co/zKE2N6COhS",
+    "url": "https://twitter.com/i/web/status/1658222703227154436"
+  },
+  {
+    "text": "Hace poco aluciné escuchando a @BioTay en @CamaroteDarwin ¡y ahora lo veo en @cazadorcerebros!\n\nEstas cosillas de encontrar a gente a la que admiro en lugares que me gustan me hacen mucha ilusión. https://t.co/ub3qP43rPs",
+    "url": "https://twitter.com/i/web/status/1658171921500889093"
+  },
+  {
+    "text": "Al hilo de esto: \n\n(Santo Tomás de Aquino tendría algo que decir) https://t.co/Ezwwf2sR8z https://t.co/47gSb47GQw",
+    "url": "https://twitter.com/i/web/status/1658173309542907904"
+  },
+  {
+    "text": "@davmiranda Uribou en Balmes. Pequeño, poco conocido pero increible. Japones de verdad top en Barcelona, pide barra\nMe apunto Suto!",
+    "url": "https://twitter.com/i/web/status/1657840277204217856"
+  },
+  {
+    "text": "¿Es Suto la mejor barra de omakase de Barcelona?\n\nProbablemente. Una pequeña (por tamaño) joya en el barrio de Sants que hoy he descubierto.\n\nYoshi Suto es ex-Azurmendi, Quique Dacosta, Enigma y Disfrutar, entre otros. Ahí es nada. https://t.co/X2ld6BpCLH",
+    "url": "https://twitter.com/i/web/status/1657484777212002305"
+  },
+  {
+    "text": "Dos nuevos libros sobre el libre albedrío: Sapolsky que no, Kevin Mitchell, que sí. https://t.co/XXm1OsjLsO",
+    "url": "https://twitter.com/i/web/status/1657653690541518848"
+  },
+  {
+    "text": "@javisantana Cuando estés por Madrid ve a La tasqueria, fácil de reservar,  sin tonterías, sin tanta parafernalia y barato viendo los precios de Madrid.",
+    "url": "https://twitter.com/i/web/status/1657820677376753664"
+  },
+  {
+    "text": "✍️ Protocolo sencillo para tener el rostro lo mejor posible. Lo empleo a diario tras mucho research. Aquí va 👇\n\n1️⃣ Levantarse coincidiendo con el amanecer:\n- Agua fría en el rostro\n\n2️⃣ Entrenar/pasear en el exterior (infrarrojo del sol saludable, cara limpia) nada más…",
+    "url": "https://twitter.com/i/web/status/1657687393120448516"
+  },
+  {
+    "text": "Podríamos decir que es un libro bien escrito, erudito, polímata, donde se mezclan maderas, luthiers, barnices, compositores y coleccionistas. Pero en realidad es un canto de entusiasmo por la vida y por todo lo que la compone. Así, sin más. Hay que leer este libro maravilloso. https://t.co/gvtV10oHZQ",
+    "url": "https://twitter.com/i/web/status/1657692071895920641"
+  },
+  {
+    "text": "Los niveles de conciencia del Prof. David R. Hawkins https://t.co/cxSmOi98ih",
+    "url": "https://twitter.com/i/web/status/1657710082220539904"
+  },
+  {
+    "text": "The 0.1% of ideas this week.\n\nThe rabbit holes I've gone down -- without the distractions.\n\n8 best examples: https://t.co/xm53UTT83b",
+    "url": "https://twitter.com/i/web/status/1657787493297827845"
+  },
+  {
+    "text": "\"Trafalgar\" (1873). Primera entrega de sus Episodios Nacionales (que llegaron a sumar 46 novelas en cinco series), y que han leído millones de lectores. Y no es para menos: es la más lograda, natural y emocionante de todas. Uno de los libros que me llevaría a una isla desierta. https://t.co/yvrgYXtUbp",
+    "url": "https://twitter.com/i/web/status/1657803501093769220"
+  },
+  {
+    "text": "Me gustaría ahora hablar en este #hilo de Pérez Galdós, específicamente de 10 libros para conocer a Don Benito. Por su puesto, su obra es tan inmensa como prolífica, pero estos diez títulos son, creo, fundamentales para conocer y aquilatar la dimensión de esa grandeza. https://t.co/1eSYCTwBlK",
+    "url": "https://twitter.com/i/web/status/1657803497876729861"
+  },
+  {
+    "text": "Ediciones de las obras de Galdos, igualmente, existen muchas y muy cuidadas (pienso en las de @alianza_ed y @Catedra_Ed ). Sin embargo, merecen mención especial estas de @reinodecordelia de 2 de sus EN, de su novela más famosa y un estudio sobre su obra. Unas delicias, realmente. https://t.co/CuE492P2lZ",
+    "url": "https://twitter.com/i/web/status/1657803554315202568"
+  },
+  {
+    "text": "Thread (dads, bookmark this and read it every day): https://t.co/ay24TA0wZJ",
+    "url": "https://twitter.com/i/web/status/1657397721026666497"
+  },
+  {
+    "text": "Finally released https://t.co/GEAONuN7Mt 🎉\n\nNeed to upload a code snippet?\n\necho \"something\" | ssh https://t.co/GEAONuN7Mt\n\nIt's a free, anonymous, open source, snippet hosting service https://t.co/u2hUvl9gRO",
+    "url": "https://twitter.com/i/web/status/1657139515557920770"
+  },
+  {
+    "text": "Muy interesante esto — J.R. Moehringer, el autor de 'Open', sobre cómo fue el proceso de escribir las memorias del príncipe Harry y su vida de escritor fantasma. En @NewYorker https://t.co/sD1T0hBVIZ",
+    "url": "https://twitter.com/i/web/status/1657114753527959556"
+  },
+  {
+    "text": "Brazil is home to some of the most beautiful and diverse architecture in the world, from Baroque to Brutalism. Here's just a few of the best:\n\nLibrary of the Royal Portuguese Cabinet of Reading, Rio de Janeiro (1887) https://t.co/SAoQLmbyka",
+    "url": "https://twitter.com/i/web/status/1657358154357719040"
+  },
+  {
+    "text": "@diegomarino Jedi Fallen Order. De nada.",
+    "url": "https://twitter.com/i/web/status/1657290686691962886"
+  },
+  {
+    "text": "Cuando se unen dos mentes complejas @Lualobus y @arjona_manu definitivamente sale complejidad, así que super recomendado...https://t.co/wrfNjxoOTa💯👈 y mucho más sus 📚 https://t.co/eCV5rfLBWz",
+    "url": "https://twitter.com/i/web/status/1656388164242624513"
+  },
+  {
+    "text": "This is the city of Timgad in Algeria, built by the Romans nearly 2,000 years ago.\n\nThough the grid plan might seem like a modern invention, it's ancient.\n\nFrom the Aztecs to the Egyptians, from Greece to China to the USA, here's why your city is (probably) built as a grid... https://t.co/BDfR0EYwuw",
+    "url": "https://twitter.com/i/web/status/1656487894649909248"
+  },
+  {
+    "text": "@MaldonadoAg Para mí está entre las tres mejores series de todos los tiempos junto a Treme y House of Cards",
+    "url": "https://twitter.com/i/web/status/1656377978991828993"
+  },
+  {
+    "text": "Que maravilla de vídeo donde los diseñadores explican en detalle las decisiones de diseño de un F1 (mclaren mp44)\n\nhttps://t.co/Tvct6hic4K",
+    "url": "https://twitter.com/i/web/status/1656027560885604352"
+  },
+  {
+    "text": "300 years ago a famous Italian artist called Giovanni Battista Piranesi did something strange.\n\nHe drew an infinite, imaginary prison filled with impossible architecture, shadowy figures, and mysterious torture devices.\n\nWhy? Nobody knows... https://t.co/hQ18E9l6PL",
+    "url": "https://twitter.com/i/web/status/1656127677869219842"
+  },
+  {
+    "text": "4 libros para alimentar esa nostalgia. https://t.co/DlWxyzRLu2 https://t.co/F1a2II5fYi",
+    "url": "https://twitter.com/i/web/status/1655880682575470594"
+  },
+  {
+    "text": "How to raise creative kids, the tl;dr:\n\n1. Fill the house with inspiration\n2. Enccourage imaginative play\n3. Have art supplies\n4. Avoid judgment\n5. Play \"yes, and\"\n6. Read books\n7. Eliminate screens\n8. Facilitate boredom\n9. Model creativity\n\nWhat would you add to the list?",
+    "url": "https://twitter.com/i/web/status/1636761925429211138"
+  },
+  {
+    "text": "8 toxic models you learn in school — the tl;dr:\n\n-convergent thinking\n-conformity = success\n-regurgitation = education\n-failure is bad\n-authorities are right\n-IQ = book smarts = potential\n-learning is a top-down activity, not a dynamic skill\n-working smart is bad",
+    "url": "https://twitter.com/i/web/status/1637172293150425089"
+  },
+  {
+    "text": "How to set your kids up for success, the tl;dr:\n\n1. Read aloud\n2. Teach good mental hygiene\n3. Do hard things\n4. Surround your kids with interesting adults\n5. Encourage play\n6. Facilitate mentors\n7. Allow boredom\n8. Teach multi-age interactions\n9. Make learning a habit",
+    "url": "https://twitter.com/i/web/status/1637859138897076270"
+  },
+  {
+    "text": "@DeAngelisCorey @anafabrega11 @synthesischool @elonmusk @Kerry_edu @gtschool @mbateman @to_higherground @montessorium @flowidealism @socraticexp @AustinScholar @AlphaSchoolATX @david_perell @josephjconnor @cboyack @HannahFrankman @MattBeaudreau 12 education accounts you should be following, the tl;dr:\n\n1. @DeAngelisCorey \n2. @anafabrega11 \n3. @Kerry_edu \n4. @gtschool\n5. @mbateman\n6. @flowidealism \n7. @AustinScholar\n8. @david_perell \n9. @josephjconnor \n10. @cboyack \n11. @HannahFrankman \n12. @MattBeaudreau",
+    "url": "https://twitter.com/i/web/status/1641583051544092677"
+  },
+  {
+    "text": "@Kerry_edu @DeAngelisCorey @anafabrega11 @synthesischool @elonmusk @gtschool @mbateman @to_higherground @montessorium @flowidealism @socraticexp @AustinScholar @tksworldhq @josephjconnor @HannahFrankman @JeremyTate41 @CLT_Exam @cboyack @Libertas @tuttletwins 12 education accounts to follow, the tl;dr:\n\n1. @Kerry_edu \n2. @deangeliscorey\n3. @anafabrega11\n4. @gtschool\n5. @mbateman\n6. @flowidealism\n7. @austinscholar\n8. @tksworldhq\n9. @josephjconnor\n10. @hannahfrankman\n11. @jermytate41\n12. @cboyack",
+    "url": "https://twitter.com/i/web/status/1650246459323822083"
+  },
+  {
+    "text": "When kids leave traditional school, they have to go through a deschooling process.\n\nDeschooling = unlearning all the bad habits you picked up in school.\n\nSome of the biggest habits kids need to unlearn:",
+    "url": "https://twitter.com/i/web/status/1655609293859700738"
+  },
+  {
+    "text": "🎙 Volvemos con un nuevo episodio: «#91. La COMPLEJIDAD de lo Salvaje» con  la ayuda de @arjona_manu \n\n👉 Tocamos temas que nos apasionan: complejidad, reancestralización, atención...\n\nHay MUCHO trabajo detrás del episodio. Espero que os guste ☺️\n\nhttps://t.co/Iva1BPlKRI",
+    "url": "https://twitter.com/i/web/status/1655801017521545216"
+  },
+  {
+    "text": "Paco Cerdà es uno de nuestros mejores escritores. Iba a decir de no ficción, pero, ¿por qué limitarlo? Es un grandísimo escritor, sin más. Sus tres libros me han parecido extraordinarios, entre ellos, este. Con justicia merecedor del premio de no ficción de @LibrosAsteroide. https://t.co/FFnJCc2aqv",
+    "url": "https://twitter.com/i/web/status/1625955572641107986"
+  },
+  {
+    "text": "Me gustan mucho las ilustraciones de Linda Toolsema y la forma en la que nos muestra sus diarios/cuadernos de campo. https://t.co/WZ5tsRYZ4G",
+    "url": "https://twitter.com/i/web/status/1655265161987465216"
+  },
+  {
+    "text": "Podcasts nuevos en 2023 que consistentemente sigo escuchando:\n\n- Pausa de @GarciaAller (gran producción, temas complejos e interesantes con buenos expertos no típicos, tipo Freakonomics, ameno, 30min). Como este con @hcuello_ https://t.co/vOIvHUwRLM",
+    "url": "https://twitter.com/i/web/status/1655203489100754944"
+  },
+  {
+    "text": "Según los franceses de 1900 así serían las videollamadas del año 2000. \n\nImpresionante. https://t.co/cVtZcoBhB4",
+    "url": "https://twitter.com/i/web/status/1483409798951542784"
+  },
+  {
+    "text": "Si no habéis leido \"The Bitter Lesson\" ahora es buen momento, porque cada 6 meses seguimos viendo avances de la IA motivados porque \"el tamaño importa\" https://t.co/d9slTwquzC\n\nY resulta que en neurociencia... https://t.co/85pLKEeXjv",
+    "url": "https://twitter.com/i/web/status/1488937633334054915"
+  },
+  {
+    "text": "Comienzo una serie de artículos en @libro_s_libro que hemos llamado #AventurerosDeCheslón donde les hablaré de libros que relatan grandes aventuras para vivirlas desde la comodidad de nuestros sofás. Comienzo por esta en el temible desierto blanco.\n https://t.co/nqwG9OLDp8",
+    "url": "https://twitter.com/i/web/status/1654457023142952961"
+  },
+  {
+    "text": "En carrera contra el reloj para terminar de leer estos libros que serán parte de mi columna sobre libros del número de julio de Ojo Dorado, la revista cultural del @icpnaoficial https://t.co/AIgaY5uRwn",
+    "url": "https://twitter.com/i/web/status/1654236760220508161"
+  },
+  {
+    "text": "This is not a royal palace — it's a 19th century shopping mall in Milan, Italy.\n\nSo here's a brief history of malls, and why they don't have to be soulless places: https://t.co/NSThFFYwhv",
+    "url": "https://twitter.com/i/web/status/1654346711878303744"
+  },
+  {
+    "text": "Totally thrilled by all the parallels between the stuff I've been working on and Rich Hickey's latest talk. Can't wait to dig in more and map the correspondences.\n\nhttps://t.co/46B6gjOZ2l",
+    "url": "https://twitter.com/i/web/status/1654400361279508480"
+  },
+  {
+    "text": "Hoy me he tenido que quedar en casa (😓), así que me toca esperar a @LaCultureta con té de bolsita. Por lo menos se me ha unido Djuna Barnes. https://t.co/tRlW3eZv8J",
+    "url": "https://twitter.com/i/web/status/1654410489961541633"
+  },
+  {
+    "text": "Leaked Google document: “We Have No Moat, And Neither Does OpenAI”\n\nThe most interesting thing I've read recently about LLMs - a purportedly leaked document from a researcher at Google talking about the huge strategic impact open source models are having\nhttps://t.co/q2lsjTHKGS",
+    "url": "https://twitter.com/i/web/status/1654158105221922816"
+  },
+  {
+    "text": "@flopezluis @diana_aceves_ @ritafdezmadrazo Las diferentes https://t.co/bianTXH9Ln suelen tener charlas muy entretenidas\n\nJFokus es otro evento magnífico https://t.co/mi3tqcICYW\n\nhttps://t.co/tWmZBOhKgB Para mi el mejor evento de tecnología de los últimos 10 años; lamentablemente este año se celebra su última edición 😢",
+    "url": "https://twitter.com/i/web/status/1654492520527679490"
+  },
+  {
+    "text": "@flopezluis @diana_aceves_ @ritafdezmadrazo https://t.co/77W3OfB1eb Una conferencia sobre concurrencia y sistemas distribuidos. Aquí he visto charlas muy didácticas\n\nhttps://t.co/7mgBCQHtM9 Conferencia sobre lo que habitualmente se conoce como \"systems programming\". \n\nSigo ...",
+    "url": "https://twitter.com/i/web/status/1654491697412288512"
+  },
+  {
+    "text": "Introducing: 💫StarCoder\n\nStarCoder is a 15B LLM for code with 8k context and trained only on permissive data in 80+ programming languages. It can be prompted to reach 40% pass@1 on HumanEval and act as a Tech Assistant.\n\nTry it here: https://t.co/4XJ0tn4K1m\n\nRelease thread🧵 https://t.co/wZj6B2KKZE",
+    "url": "https://twitter.com/i/web/status/1654174941976068119"
+  },
+  {
+    "text": "@paulg You'll really enjoy https://t.co/lWveAJ5NGw. Instrumental in the Merlin engine, then the first jet engines, and then the vectored engines for the Harrier.",
+    "url": "https://twitter.com/i/web/status/1654501532572987392"
+  },
+  {
+    "text": "Estupendo ensayo breve sobre los ensayos. Un compendio de enfoques y autores muy interesante. En @AnagramaEditor, que en una elogiable decisión incluye ya en dicha colección el nombre de la traductora. https://t.co/ubHMa4glTE",
+    "url": "https://twitter.com/i/web/status/1654079907272458241"
+  },
+  {
+    "text": "Yes. https://t.co/m979swuPeA",
+    "url": "https://twitter.com/i/web/status/1654087469753675777"
+  },
+  {
+    "text": "One of the few newsletters I still open, @ODPomery's KIOSK. It's always filled with beautiful imagery. https://t.co/AFpt0Sg711",
+    "url": "https://twitter.com/i/web/status/1654087467887218697"
+  },
+  {
+    "text": "@samuelgil Gran libro sobre este tema: esta gran mezcla que hace el Inglés se debe en gran medida a la influencia Normanda tras 1066\n\nhttps://t.co/CDTnLpn1KY",
+    "url": "https://twitter.com/i/web/status/1654190862052765696"
+  },
+  {
+    "text": "#NuevaYork Os cuento cosas de Historias de Nueva York, de Enric González \n\nUn relato lleno de circunstancias y destinos porque merece la pena ir más allá de lo que ya conocemos por películas, músicas, postales... @RBALibros @libro_s_libro\n\nhttps://t.co/NDy6mFoPgQ",
+    "url": "https://twitter.com/i/web/status/1654143925538504704"
+  },
+  {
+    "text": "La ropa que llevamos, lo que comemos, los dispositivos que empleamos... posiblemente deberían ser estratégicamente escogidos para alcanzar nuestra mejor versión, no para subcomunicar estatus.\nOs comparto los que empleo. Están elegidos cuidadosamente 👇\n\nhttps://t.co/1n4CvAib71",
+    "url": "https://twitter.com/i/web/status/1654153920078569474"
+  },
+  {
+    "text": "The plane was invented just 66 years before we reached the moon — no wonder everybody thought we'd have flying cars by the year 2000.\n\nWell, we don't have flying cars but we do have the internet, which nobody could have foreseen.\n\nIs there any point trying to predict the future? https://t.co/Ah2WDDuwpC",
+    "url": "https://twitter.com/i/web/status/1653972331495141377"
+  },
+  {
+    "text": "Kapital. Barcelona en 72 horas\n\nA mí me gusta la economía pero lo que yo de verdad quiero hacer son guías de viajes https://t.co/Z6foiI5Z7G",
+    "url": "https://twitter.com/i/web/status/1654015955826032641"
+  },
+  {
+    "text": "🖼️ Wallpaper series \n\nSharing with you the first batch of images from my wallpaper project.\n\nNext step is to fix aspect ratios and upscale the images to a resolution fit for big screen devices. \n\n👇🏽(big image 🧵)\n\nGiza trend. 🐪 https://t.co/CdHD2twjhs",
+    "url": "https://twitter.com/i/web/status/1653905474486517761"
+  },
+  {
+    "text": "@ArturoHerrero Leí “El sueño de la teoría final: la búsqueda de las leyes fundamentales de la naturaleza” y me gustó mucho.",
+    "url": "https://twitter.com/i/web/status/1653881303966547975"
+  },
+  {
+    "text": "Si te gusta Edgar Allan Poe no puedes dejar pasar por alto EXTRAORDINARY TALES que adapta en animación (con técnicas diferentes) 5 cuentos de Poe narrados por Guillermo del Toro, Christopher Lee o Bela Lugosi. Sensacional la versión de El corazón delator. Una maravilla. https://t.co/RzN01vFSRD",
+    "url": "https://twitter.com/i/web/status/1653758442283192322"
+  },
+  {
+    "text": "«Tampoco sabe aún que dejar de amar es dejar de contar, dejar de querer que el otro lo sepa todo, dejar de tener el impulso de, cuando te pase algo, incluso tu propio divorcio, llamar inmediatamente a tu marido para contárselo». Jabois sobre Fitzgerald. https://t.co/tSDZ9mcXD2",
+    "url": "https://twitter.com/i/web/status/1653811344779489294"
+  },
+  {
+    "text": "Qué maravilla acabo de ver en el cine. https://t.co/2Xbk83HDn2",
+    "url": "https://twitter.com/i/web/status/1653500558391627776"
+  },
+  {
+    "text": "Made a little booklet to help contributors of Inter getting a grasp on its design system\nhttps://t.co/C7mvsyiDOF https://t.co/RDWuhNhQYy",
+    "url": "https://twitter.com/i/web/status/1653546765348638721"
+  },
+  {
+    "text": "EL HILO DE ETXEBARRI.\n\nEl culmen de la felicidad en una mesa. Una perfección y sensibilidad apabullantes. Nunca me imaginé que la brasa podía aportar tal sutileza y expresar tanta emoción.\n\nPosiblemente la mejor comida de mi vida. https://t.co/20HBwkrlVZ",
+    "url": "https://twitter.com/i/web/status/1653432117815136257"
+  },
+  {
+    "text": "10 joyas del cortometraje animado para disfrutar en plataformas con los niños (o sin ellos).\n\nUna selección personal que ojalá conduzca a una tarde inolvidable de arte y cine sin prejuicios de edades.\nhttps://t.co/nu1WUZ6jN9 a través de @el_pais",
+    "url": "https://twitter.com/i/web/status/1653307238625189890"
+  },
+  {
+    "text": "You’re unable to view this Post because this account owner limits who can view their Posts. {learnmore}",
+    "url": "https://twitter.com/i/web/status/1623071738710970370"
+  },
+  {
+    "text": "¿Puede el agua dar de sí como para escribirse un libro interesante de 500 páginas? \"Agua. Una biografía\", de Giulio Boccaletti, editado recientemente por @AticoLibros , demuestra que sí. \n\nLa primera parte del libro sigue la relación dialéctica entre el paisaje acuático y la… https://t.co/Dw5Xvy74qk",
+    "url": "https://twitter.com/i/web/status/1641109112300683270"
+  },
+  {
+    "text": "Es evidente que la experiencia que nos brinda nuestra conciencia cotidiana no siempre es suficiente, por eso buscamos variarla, intensificarla, a veces trascenderla, y hemos identificado toda una colección de moléculas en la naturaleza que nos permiten hacerlo.\n\nEste libro es una… https://t.co/Et17t3Mgx9",
+    "url": "https://twitter.com/i/web/status/1648396144920207360"
+  },
+  {
+    "text": "I decided to outsource my entire personal financial life to GPT-4 (via the @donotpay chat we are building).\n\nI gave AutoGPT access to my bank, financial statements, credit report, and email.\n\nHere’s how it’s going so far (+$217.85) and the strange ways it’s saving money. (1/n): https://t.co/JO9p1A5ipc",
+    "url": "https://twitter.com/i/web/status/1652387444904583169"
+  },
+  {
+    "text": "Naval for kids. 2 years ago my nephew and I had conversation on important ideas from @naval      \nTurned his ideas suitable for a 11 year old conversation.  Back then he forbade me sharing the project on any social media. He changed his mind last week, sharing this now. https://t.co/5LY0PXoSEH",
+    "url": "https://twitter.com/i/web/status/1652351731752218628"
+  },
+  {
+    "text": ".@JoeRogan and @DrAseemMalhotra discuss prescriptions as the third leading cause of death, pharmaceutical companies' control of clinical trial data, and a study by Stanford Prof. John Ioannidis showing that financial interests compromise scientific research accuracy.\n\n\"If you… https://t.co/BuhSfE8Hr3",
+    "url": "https://twitter.com/i/web/status/1652470854314524672"
+  },
+  {
+    "text": "@IvanLandabaso Siendo un poco más liberal con la palabra \"fundador\": Pieces of the Action (Vannevar Bush), The Dream Machine (Licklider) & The Intel Trinity (Noyce, Moore & Grove). En ese orden.",
+    "url": "https://twitter.com/i/web/status/1652331012020469763"
+  },
+  {
+    "text": "This Post is from a suspended account. {learnmore}",
+    "url": "https://twitter.com/i/web/status/1652213904192225280"
+  },
+  {
+    "text": "Siempre me preguntan por esto. Ojalá esto les sirva..\n\nPablo Barrena, Pilar Careaga, Mª José Gómez-Navarro y Luisa Mora: \"Libros Infantiles y juveniles para hacer buenos lectores\" [PDF]\nhttps://t.co/Suw0eriYz0\n#OpenAccess https://t.co/RLsPKTRwUE",
+    "url": "https://twitter.com/i/web/status/1652015331739615257"
+  },
+  {
+    "text": "#leer #LeerDescoloniza #LeerMeCaeBien https://t.co/9CFy7ANre5",
+    "url": "https://twitter.com/i/web/status/1651452419665018880"
+  },
+  {
+    "text": "Mola mucho el comic de Housfy https://t.co/7VGb9SF56r",
+    "url": "https://twitter.com/i/web/status/1651691182274011138"
+  },
+  {
+    "text": "https://t.co/oRakqnSQw8",
+    "url": "https://twitter.com/i/web/status/1651647413562802176"
+  },
+  {
+    "text": "8. \n\nUn favorito.\n\nEsta charla de Leopoldo Prieto sobre por qué ciencia y filosofía son dos formas complementarias, y no excluyentes, de conocer el mundo.\nhttps://t.co/sXK6FxBAon",
+    "url": "https://twitter.com/i/web/status/1651331724909969408"
+  },
+  {
+    "text": "7. Este es bestial. \n\nLa influencia de Maimónides, el intelectual judío que acercó ciencia, filosofía y religión. \n\nhttps://t.co/LFNH1hrksQ",
+    "url": "https://twitter.com/i/web/status/1651331720040312832"
+  },
+  {
+    "text": "¡Lo de @Austral_ed es imperdonable! \nSacar a la vez estas cuatro preciocidades no tiene perdón de Dios. ¡Voy  a tener que vender un riñón!\nRevisen las primeras páginas aquí y sabrán por qué lo digo 👉 https://t.co/LAOLpBBR2o https://t.co/bTEsQXkRQy",
+    "url": "https://twitter.com/i/web/status/1651290891192074240"
+  },
+  {
+    "text": "Ni confirmo ni desmiento que a esta casa haya llegado un juego de café conmemorativo del Orient Express para los que somos del club tacitas. https://t.co/VZJOZDPdMt",
+    "url": "https://twitter.com/i/web/status/1651144498548809732"
+  },
+  {
+    "text": "Les recomiendo en @Acantilado1999 \nZbigniew Herbert: Naturaleza muerta con brida  https://t.co/fF4hxF6A4w a través de @librosdecibola https://t.co/mtjKCYCn1R",
+    "url": "https://twitter.com/i/web/status/1651147776921665538"
+  },
+  {
+    "text": "\"Oiga, no hemos escrito 'Guerra y paz', pero léannos\". Nos aplicamos esta cita de nuestro último programa. \n\nNo seremos la sección de cultura de la BBC, pero escúchennos. Somos majos. Aquí va la #ListaDeLaCompra de esta semana. Incluye las calles preferidas de los culturetas https://t.co/mtJsI8x192",
+    "url": "https://twitter.com/i/web/status/1651155800927109126"
+  },
+  {
+    "text": "Este año las obras de Stefan Zweig entraron al 'domnio público'. Es decir, están libres de derechos. Eso explica la proliferación, este mismo año, de ediciones de sus títulos más famosos por distintas editoriales. Eso es lo que es de dominio público: la obra misma, no la edición. https://t.co/Jz6TaMK3g9",
+    "url": "https://twitter.com/i/web/status/1650940981821186072"
+  },
+  {
+    "text": "Modernist architecture in Barcelona. https://t.co/gr6BHvOgwk",
+    "url": "https://twitter.com/i/web/status/1650885217333178369"
+  },
+  {
+    "text": "Aquí tienes los enlaces para todas las plataformas: \n\n- Youtube (en video): https://t.co/yogzxwJAdW\n- Spotify: https://t.co/AfKAFnD1Gl\n- Apple: https://t.co/4UeEumaZm7\n- Ivoox: https://t.co/e7niMTG6tQ\n- Amazon Music: https://t.co/3QcfWtOViK",
+    "url": "https://twitter.com/i/web/status/1650549185098264577"
+  },
+  {
+    "text": "Some of your cells can contain over 2,500 Mitochondria EACH.\n\nThese \"energy factories\" consume 90% of your oxygen intake.\n\nHere's how to protect them: https://t.co/zePnLgRG01",
+    "url": "https://twitter.com/i/web/status/1650472677977600000"
+  },
+  {
+    "text": "Billie Holiday, la voz del siglo, tuvo una vida marcada por la droga y el alcoholismo. Murió a los 44 años cuando estaba bajo arresto. No nos cansamos de escuchar sus canciones tras las que se intuye el sufrimiento que destrozó su existencia. https://t.co/KjbuLclzfm",
+    "url": "https://twitter.com/i/web/status/1650388936244572161"
+  },
+  {
+    "text": "Pasó desapercibida en NETFLIX, pero no os perdáis LOST OLLIE. Una tierna y conmovedora aventura de 4 capítulos sobre un juguete perdido en busca de su hogar y dueño. El equipo de Coraline y el director de SpiderMan Into the SpiderVerse son los creadores de éste universo. https://t.co/awAjzkU9DI",
+    "url": "https://twitter.com/i/web/status/1650511210725425162"
+  },
+  {
     "text": "Esta demo de nano-banana conectado a Google Maps es chulísima!\n\nEscribes una dirección y a partir de una imagen satelital isométrica de Maps, nano-banana la interpreta para generar una preciosa acuarela!\n\nProbadla con vuestras lugares favoritos y compartid! \nLink a continuación🍌 https://t.co/Hjm67hPfMA",
     "url": "https://twitter.com/i/web/status/1965003723656011816"
   },
@@ -96,208 +1396,64 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1962595237345267805"
   },
   {
-    "text": "@AntonioGoBe veo a satan caer como el relampago. es una obra de arte.",
-    "url": "https://twitter.com/i/web/status/1962991566135693724"
-  },
-  {
     "text": "@AntonioGoBe Yo creo que es como Mircea Eliade pero sin el lado más fascista teológico-identitario LOL casi todas son interesantes, \"Cosas Interesantes desde la Creación del Mundo\", \"El Chivo Expiatorio\" y ése son buenos todos",
     "url": "https://twitter.com/i/web/status/1962991188417400946"
   },
   {
-    "text": "yo estoy en desacuerdo salvo por un matiz:\n\n> para dominar un tema: escuchar < leer < escribir < explicar < hacer (abundante evidencia con solido p-valor), entonces la lectura sí tiene un valor en sí misma como forma más eficiente *y* robusta de aprender algo que escuchar, pero… https://t.co/Btf3CdSdAd",
-    "url": "https://twitter.com/i/web/status/1962909296322138369"
+    "text": "https://t.co/lUA15wqvoy",
+    "url": "https://twitter.com/i/web/status/1650242994463727619"
   },
   {
-    "text": "Teaching my daughter to read has been such a privilege. It feels like magic! https://t.co/Pp483TfumZ",
-    "url": "https://twitter.com/i/web/status/1962999323664228617"
+    "text": "Me está gustando bastante. Un libro del que sacas aprendizajes en casi cada página. \n\nNo te vende recetas milagrosas, simplemente te explica los potenciales peligros a los que todos estamos expuestos y cuál es, según la literatura actual, la mejor forma de prevenirlos. https://t.co/Uu7bV047Kf",
+    "url": "https://twitter.com/i/web/status/1650325948540284931"
   },
   {
-    "text": "@ciguleva Big thanks for the generous prompt/ Moodboard share. It helped me understand your vision and expand my own. Sharing the result below—appreciate this creative ripple effect! 🎨🙏 https://t.co/nrpuGQpquN",
-    "url": "https://twitter.com/i/web/status/1948341730845053055"
+    "text": "This is Barcelona at night, one of the world's most unique cities. But why does it look like that?\n\nWell, until 1855 it was overcrowded, dirty, and diseased — then something special happened.\n\nHere is how you build a beautiful city... https://t.co/qrrK4b4VNQ",
+    "url": "https://twitter.com/i/web/status/1650333346965192705"
   },
   {
-    "text": "@ciguleva Thank you for sharing these! This one is fire! 🔥👏 https://t.co/RV7aVCS0Mr",
-    "url": "https://twitter.com/i/web/status/1948300974701113563"
+    "text": "This book by @pgodfreysmith is simply incredible. Not only is it mind blowingly brilliant, it is so beautifully written ( he is a master of image & tone) I feel like rereading pages even as I complete them. It will change the way you feel your “being human”. And the rest of… https://t.co/NUuYzjrErI",
+    "url": "https://twitter.com/i/web/status/1650014784010551297"
   },
   {
-    "text": "Volvía del gym escuchando un thinkglao sobre la metáfora del viaje del héroe (idea que me apasiona junto con el mito de la caverna) y tengo preguntas🌀\n\nLa primera ¿se puede vivir (feliz) sin escuchar la llamada? ¿todos la tenemos per se, o es algo que se encuentra en el camino? https://t.co/j5Q0JABCF1",
-    "url": "https://twitter.com/i/web/status/1962658515232674263"
+    "text": "Lo mejor de un regalo es descubrir lo bien que el regalante conoce al regalado. Con perdón por las palabrejas. https://t.co/FSGIpKGStP",
+    "url": "https://twitter.com/i/web/status/1650164008161271809"
   },
   {
-    "text": "«Míralo, de vuelta tras dedicar quince o dieciséis años al estudio (…) Había de traer el alma llena; sólo la trae hinchada». https://t.co/OsCcWZcxlE",
-    "url": "https://twitter.com/i/web/status/1962802017086128400"
+    "text": "@samuelgil De temática similar a Outlive https://t.co/IOUisS6fE2",
+    "url": "https://twitter.com/i/web/status/1650119544113954817"
   },
   {
-    "text": "Voy a retomar la niusleta y tengo pensadas estas categorías:\n- niusleta: lo que siempre fue, mis reflexiones mejor o peor hiladas, más o menos acertadas (semanal)\n- deepresearch: investigaciones en profundidad (random)\n- ensoñaciones: nogueradas (random)\n- mini-podcast: ???…",
-    "url": "https://twitter.com/i/web/status/1962456019692400718"
+    "text": "qué estáis leyendo en el día el libro? \n\nyo, esto 👇🏻 https://t.co/fjxK8OFmEs",
+    "url": "https://twitter.com/i/web/status/1650062700427223040"
   },
   {
-    "text": "¿Es más importante saber o creer? Depende.\n\nPero casi siempre es más importante creer.\n\nEste nuevo capítulo del podcast de Sapienciología es un tanto experimental.  En realidad, no ha sido grabado como tal. Es un largo audio que tuve a  bien enviar a un colega a través de…",
-    "url": "https://twitter.com/i/web/status/1962109299712205033"
+    "text": "‘Hay que escuchar bien, no solo datos clínicos, para saber acompañar. Tenéis que leer literatura para comprender las historias –no clínicas– que hay detrás de cada paciente y encontrar siempre las palabras adecuadas’ https://t.co/llT9zKCm1T",
+    "url": "https://twitter.com/i/web/status/1649655742314565633"
   },
   {
-    "text": "“Reconocer al creador de las ideas como el propietario” es algo que defiendo por encima de mis posibilidades. \n\nMás en un mundo donde parece “el que lo hace se lo queda”. Entiendo que ideas sin ejecución son nada en acto pero el alma de algo está por encima y no es reemplazable. https://t.co/rt2NQgB2Yg",
-    "url": "https://twitter.com/i/web/status/1962171251503280238"
+    "text": "Qué locura de entrevista a Alcasec, el chaval de 19 años que hackeó a la Policía Nacional y Mediaset.\n\nEn Españita hay talento, falta aprovecharlo.\n\nhttps://t.co/R2P4nGtKCg",
+    "url": "https://twitter.com/i/web/status/1649129447402926105"
   },
   {
-    "text": "He retocado un poco las notas que tomé de How the World Became Rich, añadiendo sobre todo más recomendaciones de libros.\n\nSin duda, uno de los mejores libros de historia económica.\n\nPodéis descargar el libro y las notas aquí: https://t.co/XgbFu3Tnk3 https://t.co/wd6M9naI2m",
-    "url": "https://twitter.com/i/web/status/1962183361612468461"
+    "text": "No sé si es sólo para los que defenderemos a puñetazos que TheGoodfather es la mejor peli de la historia, pero he descubierto “The Offer” en SkyShowtime, y os la recomiendo sin llevarme comisión. Y con un 8.7 en IMDB además",
+    "url": "https://twitter.com/i/web/status/1649299840671571968"
   },
   {
-    "text": "No somos estrictamente individuos ni estrictamente enjambres, sino una mezcla plástica y cambiante. Y todavía no se entiende muy bien todo esto.\n\nPero hay herramientas conceptuales que empiezan a darnos pistas. La teoría de juegos sugiere que la cooperación no es un accidente,…",
-    "url": "https://twitter.com/i/web/status/1962096786761257006"
+    "text": "Cosy Corner, 1894 by Carl Larsson https://t.co/AAtbILoLoi",
+    "url": "https://twitter.com/i/web/status/1405800982722879488"
   },
   {
-    "text": "increíble libro ehhh. Todavía mejor de lo que recordaba.\n\nAl principio es una introducción magnífica, pero es que luego lo relees, habiendo estudiado más a fondo la literatura, y para nada se queda en una introducción. No es exactamente un meta-análisis, pero se parece más. https://t.co/qoGVrbpqr7",
-    "url": "https://twitter.com/i/web/status/1961815885355643217"
+    "text": "Hoy, después de unos cuantos años de búsqueda, me he topado con los dos últimos números que me faltaban para completar lo de Sherlock Holmes, de sir Arthur Conan Doyle, editado por Molino. Ya están todas. https://t.co/uf2hs6BoKp",
+    "url": "https://twitter.com/i/web/status/1649006803533922308"
   },
   {
-    "text": "OpenAI has released its \"Realtime Prompting Guide\".   This is a paradigm shift in how to build an agentic AI system.  Let's dig into the details of how different this is! https://t.co/vGYlPK5m4I",
-    "url": "https://twitter.com/i/web/status/1961399091184722100"
+    "text": "«A veces hay que irse lejos para descubrir que lo que quieres pintar es el mar que tienes delante de tu casa». https://t.co/VFMa8qFfBP",
+    "url": "https://twitter.com/i/web/status/1649000501764149250"
   },
   {
-    "text": "Volver a Madrid es volver a este sitiazo que nunca falla. Lo de los tacos de pichón es de otro mundo. https://t.co/IzZOPIHs9G",
-    "url": "https://twitter.com/i/web/status/1961568927101722708"
-  },
-  {
-    "text": "https://t.co/8qLdcIfoF2 https://t.co/DV8vkYmr4k",
-    "url": "https://twitter.com/i/web/status/1961677525731393852"
-  },
-  {
-    "text": "El tema Je m'apelle Bárbara, pero Garín consigue hacer que sea realmente interesante. El libro no me parece el mejor formato (para eso está su canal de youtube), pero cumple. No creo que lea una posible segunda parte, pero espero que se escriba. https://t.co/DDiq7nuC1x",
-    "url": "https://twitter.com/i/web/status/1949147853089038816"
-  },
-  {
-    "text": "AI Agents for Beginners - A Course\nhttps://t.co/cKaweLlbwS",
-    "url": "https://twitter.com/i/web/status/1961687061624230319"
-  },
-  {
-    "text": "@guillerbf Nunca llegué a contestar a esto y lo tenía en drafts:\n\nLo del \"vehículo coordinador\" me recuerda a lo que leí una vez de:\n\n\"Your startup is just a GPT wrapper > OpenAI is a Nvidia wrapper > Nvidia is a TSMC wrapper > TSMC is a ASML wrapper > ASML is a sand wrapper > Sand is a…",
-    "url": "https://twitter.com/i/web/status/1961426566832926779"
-  },
-  {
-    "text": "Drop your Lock Screen and I’ll rate it. https://t.co/e079p8ELgh",
-    "url": "https://twitter.com/i/web/status/1961499713141874725"
-  },
-  {
-    "text": "\"show a POV picture of standing in the street in Ancient Athens 500BC based on this map\"\n\nFunnily enough it keeps the number markers :D https://t.co/NNJ1KSkpRK https://t.co/b1sePEWOKA",
-    "url": "https://twitter.com/i/web/status/1961125664376942998"
-  },
-  {
-    "text": "Siguiendo la serie de \"hostia puta, no sabía que uno de mis libros favoritos estaba traducido al Español\", hoy presento \"hostia puta, no sabía que The Armchair Economist estaba traducido -con otro nombre- al español\". https://t.co/m9PFNzEadX",
-    "url": "https://twitter.com/i/web/status/1961159758183834026"
-  },
-  {
-    "text": "From blueprint to isometric 3d view!\n\nI tried POV in the room but that doesn't work well yet, not precise enough\n\nBut isometric blueprints DO work with Nano https://t.co/ighrU7aAca https://t.co/TTIqCD6vo1",
-    "url": "https://twitter.com/i/web/status/1961238809460535669"
-  },
-  {
-    "text": "ok yes brutalism is an abomination in our world, and I think — literally — evil. but *tropical* brutalism? this is acceptable. https://t.co/Doq8Wt6aHp",
-    "url": "https://twitter.com/i/web/status/1961092393291104394"
-  },
-  {
-    "text": "I think I'll make this a mini app if I get time today, pick a place on the map of New Amsterdam and it generates a POV shot of it with Nano\n\nI think this is the closest you can get to going back into time to visit New Amsterdam in 1670 (current day New York City) https://t.co/aHSL8893yv https://t.co/LksxsJO1NI",
-    "url": "https://twitter.com/i/web/status/1961122223860650046"
-  },
-  {
-    "text": "how to fail at almost everything and still win big https://t.co/Xb3w4tBduN",
-    "url": "https://twitter.com/i/web/status/1943357927818936376"
-  },
-  {
-    "text": "Jabois https://t.co/TxCTRrw0By",
-    "url": "https://twitter.com/i/web/status/1943229546045559121"
-  },
-  {
-    "text": "@joantubau Cervantes, Montaigne y Proust, detallistas al máximo, ese Montaigne siempre tachando y añadiendo cosas a sus ensayos. https://t.co/3pjviLdPhS",
-    "url": "https://twitter.com/i/web/status/1942984259784106127"
-  },
-  {
-    "text": "In my head I’ve started referring to political quadrants in terms of properties of their preferred coordination networks.\n\nTop two are centralized. Bottom two are distributed.\n\nLeft two are symmetric (aka egalitarian). Right two are asymmetric. https://t.co/qiTfW9PSQA",
-    "url": "https://twitter.com/i/web/status/1942767609239183370"
-  },
-  {
-    "text": "young people always overestimate how much talent is required to get ahead in life\n\none of the most eye opening experiences early in your career is working alongside extremely successful people\n\nyou realize that they are not that much smarter and most are not prodigies by any…",
-    "url": "https://twitter.com/i/web/status/1942629718940856586"
-  },
-  {
-    "text": "Tres leyes que merece la pena recordar:\n\n1) Ley de Goodhart: «Cuando una métrica se convierte en un objetivo, deja de ser una buena métrica».\n2) Ley de Campbell: «Cuanto más se utilice cualquier indicador social cuantitativo para la toma de decisiones sociales, más sujeto estará…",
-    "url": "https://twitter.com/i/web/status/1815106385027186969"
-  },
-  {
-    "text": "Elsa Beskow’s books comprise the most significant part of our collection. Her illustrations are enchanting, and the stories are a joy to read aloud. https://t.co/Bze1MJO19W",
-    "url": "https://twitter.com/i/web/status/1509538121188352004"
-  },
-  {
-    "text": "A thread of my 5yo daughter’s most beloved chapter books thus far 🧵",
-    "url": "https://twitter.com/i/web/status/1942567919331795226"
-  },
-  {
-    "text": "https://t.co/WHOLImLDyX",
-    "url": "https://twitter.com/i/web/status/1941738888214741195"
-  },
-  {
-    "text": "https://t.co/SXZm1lLM1T https://t.co/0vJZaspSu6",
-    "url": "https://twitter.com/i/web/status/1941964374714810418"
-  },
-  {
-    "text": "Feynman on beauty of the flower:\n\nI have a friend who’s an artist and has sometimes taken a view which I don’t agree with very well. He’ll hold up a flower and say “look how beautiful it is,” and I’ll agree. Then he says “I as an artist can see how beautiful this is but you as a… https://t.co/PTL5IDMTBZ",
-    "url": "https://twitter.com/i/web/status/1941906304689483925"
-  },
-  {
-    "text": "Ya no comparto mis pensamientos para convencer a nadie.\n\nLos comparto para que a los que les resuene, sepan que no están solos.",
-    "url": "https://twitter.com/i/web/status/1941777992620912748"
-  },
-  {
-    "text": "How to build a thriving open source community by writing code like bacteria do 🦠. Bacterial code (genomes) are:\n\n- small (each line of code costs energy)\n- modular (organized into groups of swappable operons)\n- self-contained (easily \"copy paste-able\" via horizontal gene… https://t.co/0xVX3NAMhC",
-    "url": "https://twitter.com/i/web/status/1941616674094170287"
-  },
-  {
-    "text": "My worldview in four texts https://t.co/AnPDdVyXFI https://t.co/jRLH7WD8qS",
-    "url": "https://twitter.com/i/web/status/1941477657931284540"
-  },
-  {
-    "text": "Una pequeña recomendación (menos de 150 páginas). Tema relevante, bien escrito, muy bien escogidas las citas, bien argumentado. Reconozco que la referencia a “Merlin el encantador” me ha ganado (muy buena traducción, por cierto). https://t.co/DaaCyloHv0",
-    "url": "https://twitter.com/i/web/status/1940374956501864785"
-  },
-  {
-    "text": "He spent eight months in Carrara. I wonder if he watched them cut every piece.\n\nIn the end his designs for the tomb of Julius II had to be greatly scaled down from a small building to a wall of statues. Moses sits center. https://t.co/8uWVjTsWhD",
-    "url": "https://twitter.com/i/web/status/1940568201269858618"
-  },
-  {
-    "text": "My daughter’s favorite books on Greek Mythology are:\n\nD'Aulaires Book of Greek Myths, Edgar and Ingri d'Aulaire 1962\n\nA Wonder-Book for Girls and Boys, Nathaniel Hawthorne 1851\n\nTanglewood Tales, Nathaniel Hawthorne 1853\n\nMythology,  Edith Hamilton 1942 https://t.co/p7MJ9swdi4 https://t.co/908JrdzM8E",
-    "url": "https://twitter.com/i/web/status/1940768673494716779"
-  },
-  {
-    "text": "A veces, puede ser tentador preguntarse \"¿por qué me está pasando esto?\". Y no voy a decir que sea una pregunta inútil, pero suele ser menos útil que la de \"¿qué me está enseñando esto?\".",
-    "url": "https://twitter.com/i/web/status/1940788372219289918"
-  },
-  {
-    "text": "@VyctoryaL @varaskkar Jajaja cierto, crucé súper random las dos cosas. Pero es el verbo (logos) por algo y lo usa para crear. Palabra, razón y creación son lo mismo.",
-    "url": "https://twitter.com/i/web/status/1941034223349207108"
-  },
-  {
-    "text": "Es muy importante que tengas un léxico rico y que conozcas tantas etimologías como sea posible.\n\nCuanto mejor tu vocabulario, mejor puedes re-programarte a ti mismo y crear nueva realidad.",
-    "url": "https://twitter.com/i/web/status/1940818570205679901"
-  },
-  {
-    "text": "Steve Jobs, Playboy Interview, 1985 https://t.co/xiWY9uI2Jd",
-    "url": "https://twitter.com/i/web/status/1940997407250305362"
-  },
-  {
-    "text": "¿Cuál es tu ídolo?\n“Hacia la mitad del podcast con Arthur C. Brooks -experto en la ciencia de la felicidad- me preguntó si quería jugar a un juego de autoconocimiento basado en el concepto de Tomás de Aquino de los cuatro ídolos mundanos.\n¿Quién podría negarse?\nBrooks explicó que…",
-    "url": "https://twitter.com/i/web/status/1941037513818169698"
-  },
-  {
-    "text": "what is discipline? https://t.co/sZz8Cg4Bxd",
-    "url": "https://twitter.com/i/web/status/1940860831044153411"
-  },
-  {
-    "text": "Me ha encantado esta charla\n\nhttps://t.co/CHSVR68V61",
-    "url": "https://twitter.com/i/web/status/1941173555242393978"
-  },
-  {
-    "text": "El 99% de los consejos son ruido.\n\nLa única señal que debería importarte es esta: Empieza. Hoy. Ahora.\n\nAsí de simple.",
-    "url": "https://twitter.com/i/web/status/1941180707155394956"
+    "text": "A few from Seoul, at sunset. (The haze is pretty, but it’s mostly air pollution!)\n\nSeoul is a top 5 food city for me — so many amazing things to eat at $5-10 per meal. https://t.co/isCo3okbAw",
+    "url": "https://twitter.com/i/web/status/1649093246990290944"
   },
   {
     "text": "El libro que este año espero me regalen... https://t.co/PzPzhq4geH",
@@ -316,7 +1472,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1648948707612565505"
   },
   {
-    "text": "@joantubau @joanaicart Gran trabajo, muchas gracias. Casi al final del podcast (3:16:00) está para mí la parte más bonita de toda la entrevista - el valor de un recuerdo: https://t.co/rddbzcfBFB",
+    "text": "You’re unable to view this Post because this account owner limits who can view their Posts. {learnmore}",
     "url": "https://twitter.com/i/web/status/1648799983762644995"
   },
   {
@@ -424,10 +1580,6 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1645024187625381888"
   },
   {
-    "text": "Los justos, de Borges. https://t.co/nMBgfD0I3x",
-    "url": "https://twitter.com/i/web/status/1645013486240505856"
-  },
-  {
     "text": "\"Companies with technology that allows them to uniquely generate the data needed to train and fine-tune models are well positioned to create enduring value in the age of AI. The best AI companies may be those building in atoms and not just bits.\"\n\nhttps://t.co/OV2BWn9MK9",
     "url": "https://twitter.com/i/web/status/1640975052320407552"
   },
@@ -492,10 +1644,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1642076742448709634"
   },
   {
-    "text": "Why don't we make interesting drain pipes any more? https://t.co/EeW94rjdNV",
-    "url": "https://twitter.com/i/web/status/1642953586609889281"
-  },
-  {
+    "text": "He escuchado las entrevistas de Attia sobre su libro con Joe Rogan, Andrew Huberman y Rich Roll, y esta última es la mejor de todas.  \n\nA partir del min 55, sobre la salud emocional y los problemas del propio Attia con la misma, pelos de punta.  \nhttps://t.co/WfzEobAFKb https://t.co/Yzl3sI9oKk",
     "url": "https://twitter.com/i/web/status/1642939645829824516"
   },
   {
@@ -549,9 +1698,6 @@ window.LIKES = [
   {
     "text": "👀🔍 https://t.co/9ROYNWFlVn",
     "url": "https://twitter.com/i/web/status/1641577567311257601"
-  },
-  {
-    "url": "https://twitter.com/i/web/status/1641549206287515649"
   },
   {
     "text": "Qué barbaridad de documental. https://t.co/kZxxQFxSqy",
@@ -626,11 +1772,8 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1639347694031208448"
   },
   {
-    "text": "«Las madres son los países de los que todos venimos» \n\nhttps://t.co/OKZmCzaTyI https://t.co/SbpbbU0NAT",
+    "text": "You’re unable to view this Post because this account owner limits who can view their Posts. {learnmore}",
     "url": "https://twitter.com/i/web/status/1639948000897146881"
-  },
-  {
-    "url": "https://twitter.com/i/web/status/1639994764505350147"
   },
   {
     "text": "«Era un estudioso de hábito negro y, a la vez, flâneur de chistera inclinada». https://t.co/yH6Mj90Ca1",
@@ -693,6 +1836,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1638261863963062273"
   },
   {
+    "text": "¿Qué entrevistas habéis visto últimamente que recomendéis? Cualquier tema y personaje, inglés o español.\n\nAlgunas que recomiendo yo:\n1. Luis Enrique con Zugasti: https://t.co/1zsgZY6tDl\n\n2. Jordi Wild con Topuria: https://t.co/fnBONCuOgY\n\n3. Jamie Dimon: https://t.co/1zr5Icrteo",
     "url": "https://twitter.com/i/web/status/1638306418653634566"
   },
   {
@@ -848,6 +1992,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1636266373486632960"
   },
   {
+    "text": "@joaquinmencia Café solo hasta las 3:00pm hermano, lo que manda @hubermanlab",
     "url": "https://twitter.com/i/web/status/1636272046454853635"
   },
   {
@@ -985,10 +2130,6 @@ window.LIKES = [
   {
     "text": "The daily schedules of famous creatives. https://t.co/lY0mytfkqD https://t.co/a3CsH2cGDG",
     "url": "https://twitter.com/i/web/status/1633184992309260289"
-  },
-  {
-    "text": "Uber has operated its own data centers for 9 years. But now that has all changed, with the ride-hailing / food delivery company signing long-term contracts with Google and Oracle. So what’s different?\n\nI talked with insiders to find the answers. Part 1:\n\nhttps://t.co/CXJwukS276",
-    "url": "https://twitter.com/i/web/status/1633158555795701760"
   },
   {
     "text": "Cádiz, ESPAÑA. https://t.co/594s79L1gt",
@@ -1259,6 +2400,106 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1628525127376728067"
   },
   {
+    "text": "yo estoy en desacuerdo salvo por un matiz:\n\n> para dominar un tema: escuchar < leer < escribir < explicar < hacer (abundante evidencia con solido p-valor), entonces la lectura sí tiene un valor en sí misma como forma más eficiente *y* robusta de aprender algo que escuchar, pero… https://t.co/Btf3CdSdAd",
+    "url": "https://twitter.com/i/web/status/1962909296322138369"
+  },
+  {
+    "text": "Teaching my daughter to read has been such a privilege. It feels like magic! https://t.co/Pp483TfumZ",
+    "url": "https://twitter.com/i/web/status/1962999323664228617"
+  },
+  {
+    "text": "@ciguleva Big thanks for the generous prompt/ Moodboard share. It helped me understand your vision and expand my own. Sharing the result below—appreciate this creative ripple effect! 🎨🙏 https://t.co/nrpuGQpquN",
+    "url": "https://twitter.com/i/web/status/1948341730845053055"
+  },
+  {
+    "text": "@ciguleva Thank you for sharing these! This one is fire! 🔥👏 https://t.co/RV7aVCS0Mr",
+    "url": "https://twitter.com/i/web/status/1948300974701113563"
+  },
+  {
+    "text": "Volvía del gym escuchando un thinkglao sobre la metáfora del viaje del héroe (idea que me apasiona junto con el mito de la caverna) y tengo preguntas🌀\n\nLa primera ¿se puede vivir (feliz) sin escuchar la llamada? ¿todos la tenemos per se, o es algo que se encuentra en el camino? https://t.co/j5Q0JABCF1",
+    "url": "https://twitter.com/i/web/status/1962658515232674263"
+  },
+  {
+    "text": "«Míralo, de vuelta tras dedicar quince o dieciséis años al estudio (…) Había de traer el alma llena; sólo la trae hinchada». https://t.co/OsCcWZcxlE",
+    "url": "https://twitter.com/i/web/status/1962802017086128400"
+  },
+  {
+    "text": "Voy a retomar la niusleta y tengo pensadas estas categorías:\n- niusleta: lo que siempre fue, mis reflexiones mejor o peor hiladas, más o menos acertadas (semanal)\n- deepresearch: investigaciones en profundidad (random)\n- ensoñaciones: nogueradas (random)\n- mini-podcast: ???…",
+    "url": "https://twitter.com/i/web/status/1962456019692400718"
+  },
+  {
+    "text": "¿Es más importante saber o creer? Depende.\n\nPero casi siempre es más importante creer.\n\nEste nuevo capítulo del podcast de Sapienciología es un tanto experimental.  En realidad, no ha sido grabado como tal. Es un largo audio que tuve a  bien enviar a un colega a través de…",
+    "url": "https://twitter.com/i/web/status/1962109299712205033"
+  },
+  {
+    "text": "“Reconocer al creador de las ideas como el propietario” es algo que defiendo por encima de mis posibilidades. \n\nMás en un mundo donde parece “el que lo hace se lo queda”. Entiendo que ideas sin ejecución son nada en acto pero el alma de algo está por encima y no es reemplazable. https://t.co/rt2NQgB2Yg",
+    "url": "https://twitter.com/i/web/status/1962171251503280238"
+  },
+  {
+    "text": "He retocado un poco las notas que tomé de How the World Became Rich, añadiendo sobre todo más recomendaciones de libros.\n\nSin duda, uno de los mejores libros de historia económica.\n\nPodéis descargar el libro y las notas aquí: https://t.co/XgbFu3Tnk3 https://t.co/wd6M9naI2m",
+    "url": "https://twitter.com/i/web/status/1962183361612468461"
+  },
+  {
+    "text": "No somos estrictamente individuos ni estrictamente enjambres, sino una mezcla plástica y cambiante. Y todavía no se entiende muy bien todo esto.\n\nPero hay herramientas conceptuales que empiezan a darnos pistas. La teoría de juegos sugiere que la cooperación no es un accidente,…",
+    "url": "https://twitter.com/i/web/status/1962096786761257006"
+  },
+  {
+    "text": "increíble libro ehhh. Todavía mejor de lo que recordaba.\n\nAl principio es una introducción magnífica, pero es que luego lo relees, habiendo estudiado más a fondo la literatura, y para nada se queda en una introducción. No es exactamente un meta-análisis, pero se parece más. https://t.co/qoGVrbpqr7",
+    "url": "https://twitter.com/i/web/status/1961815885355643217"
+  },
+  {
+    "text": "OpenAI has released its \"Realtime Prompting Guide\".   This is a paradigm shift in how to build an agentic AI system.  Let's dig into the details of how different this is! https://t.co/vGYlPK5m4I",
+    "url": "https://twitter.com/i/web/status/1961399091184722100"
+  },
+  {
+    "text": "Volver a Madrid es volver a este sitiazo que nunca falla. Lo de los tacos de pichón es de otro mundo. https://t.co/IzZOPIHs9G",
+    "url": "https://twitter.com/i/web/status/1961568927101722708"
+  },
+  {
+    "text": "https://t.co/8qLdcIfoF2 https://t.co/DV8vkYmr4k",
+    "url": "https://twitter.com/i/web/status/1961677525731393852"
+  },
+  {
+    "text": "El tema Je m'apelle Bárbara, pero Garín consigue hacer que sea realmente interesante. El libro no me parece el mejor formato (para eso está su canal de youtube), pero cumple. No creo que lea una posible segunda parte, pero espero que se escriba. https://t.co/DDiq7nuC1x",
+    "url": "https://twitter.com/i/web/status/1949147853089038816"
+  },
+  {
+    "text": "AI Agents for Beginners - A Course\nhttps://t.co/cKaweLlbwS",
+    "url": "https://twitter.com/i/web/status/1961687061624230319"
+  },
+  {
+    "text": "@guillerbf Nunca llegué a contestar a esto y lo tenía en drafts:\n\nLo del \"vehículo coordinador\" me recuerda a lo que leí una vez de:\n\n\"Your startup is just a GPT wrapper > OpenAI is a Nvidia wrapper > Nvidia is a TSMC wrapper > TSMC is a ASML wrapper > ASML is a sand wrapper > Sand is a…",
+    "url": "https://twitter.com/i/web/status/1961426566832926779"
+  },
+  {
+    "text": "Drop your Lock Screen and I’ll rate it. https://t.co/e079p8ELgh",
+    "url": "https://twitter.com/i/web/status/1961499713141874725"
+  },
+  {
+    "text": "\"show a POV picture of standing in the street in Ancient Athens 500BC based on this map\"\n\nFunnily enough it keeps the number markers :D https://t.co/NNJ1KSkpRK https://t.co/b1sePEWOKA",
+    "url": "https://twitter.com/i/web/status/1961125664376942998"
+  },
+  {
+    "text": "Siguiendo la serie de \"hostia puta, no sabía que uno de mis libros favoritos estaba traducido al Español\", hoy presento \"hostia puta, no sabía que The Armchair Economist estaba traducido -con otro nombre- al español\". https://t.co/m9PFNzEadX",
+    "url": "https://twitter.com/i/web/status/1961159758183834026"
+  },
+  {
+    "text": "From blueprint to isometric 3d view!\n\nI tried POV in the room but that doesn't work well yet, not precise enough\n\nBut isometric blueprints DO work with Nano https://t.co/ighrU7aAca https://t.co/TTIqCD6vo1",
+    "url": "https://twitter.com/i/web/status/1961238809460535669"
+  },
+  {
+    "text": "ok yes brutalism is an abomination in our world, and I think — literally — evil. but *tropical* brutalism? this is acceptable. https://t.co/Doq8Wt6aHp",
+    "url": "https://twitter.com/i/web/status/1961092393291104394"
+  },
+  {
+    "text": "I think I'll make this a mini app if I get time today, pick a place on the map of New Amsterdam and it generates a POV shot of it with Nano\n\nI think this is the closest you can get to going back into time to visit New Amsterdam in 1670 (current day New York City) https://t.co/aHSL8893yv https://t.co/LksxsJO1NI",
+    "url": "https://twitter.com/i/web/status/1961122223860650046"
+  },
+  {
+    "text": "Afterwork favorito en verano. https://t.co/cRs6fqVkiU",
+    "url": "https://twitter.com/i/web/status/1961440163369796077"
+  },
+  {
     "text": "This Post is from a suspended account. {learnmore}",
     "url": "https://twitter.com/i/web/status/1628223099400335361"
   },
@@ -1293,106 +2534,6 @@ window.LIKES = [
   {
     "text": "De forma más indirecta o a través de otras personas añadiría a:\n\n-Hayek (fundamental, aunque nunca lo he leído de forma extensa)\n-Thomas Sowell\n-Randy Barnett (más con consolidarme ideas que por darme nuevas)\n-James C Scott (sobre algo muy específico)\n-Peter Leeson (lo mismo)",
     "url": "https://twitter.com/i/web/status/1507798314258997249"
-  },
-  {
-    "text": "@Fel_blan https://t.co/pII18baPgq",
-    "url": "https://twitter.com/i/web/status/1941220824918392868"
-  },
-  {
-    "text": "Majestuoso post sobre libros bien interesantes. Llenos de citas, aunque la mejor para mí es del autor: \"Juan Antonio Rivera es, para que los que estéis algo puestos en el mundillo me entendáis, Capella pero bien.\"\nhttps://t.co/MZ3NXCb9PO https://t.co/s9ZCp1L4hw",
-    "url": "https://twitter.com/i/web/status/1940043735536169042"
-  },
-  {
-    "text": "Understand. Don't memorize.  \nLearn principles, not formulas.\n\n- R. Feynman https://t.co/ADtHx76QWL",
-    "url": "https://twitter.com/i/web/status/1939686991169523883"
-  },
-  {
-    "text": "Thinking so much about this lately... https://t.co/sM6bq0obqs",
-    "url": "https://twitter.com/i/web/status/1939759088558039123"
-  },
-  {
-    "text": "Currently $2.99 on Kindle. Imho, this book is absolutely essential for anyone seeking basic literacy in social science and psychology. I've read it at least 4X. (In a recent interview, Mercier indicated that Boyer has a forthcoming book on, I think, political extremism.) https://t.co/uqT0gplMnU",
-    "url": "https://twitter.com/i/web/status/1938637457735500197"
-  },
-  {
-    "text": "Entrevista con Bernhard Schlink por Irene Vallejo https://t.co/UaKD00B6z3 via @YouTube Fantásticos los dos :)",
-    "url": "https://twitter.com/i/web/status/1938717975793598966"
-  },
-  {
-    "text": "Cooperación:\n\n- rule of law/\n- comercio\n- propiedad\n- ahorro\n- estabilidad oferta monetaria\n- tomismo/escolástica/Viena\n\nConflicto:\n\n- intervencionismo\n- déficit/deuda\n- inflación\n- controles de precios\n- proteccionismo\n- marxismo/historicismo https://t.co/1EqNBKMJ2d",
-    "url": "https://twitter.com/i/web/status/1938852070540636668"
-  },
-  {
-    "text": "Coincido con marta en la forma. Por ejemplo @Monica_Garcia_G. De los políticos en primera linea me parece de las más honestas, que está ahí por ideales. Aún así de presidente mejor koldo que Mónica. El daño que puede hacer un político honesto con las ideas equivocadas es enorme. https://t.co/pZB0yv5NcO",
-    "url": "https://twitter.com/i/web/status/1934590539493458383"
-  },
-  {
-    "text": "Algo en lo que creo (y corroboro) es cómo hacia dónde dirigimos la atención cambia radicalmente nuestra experiencia en el mundo. \n\nVarias ideas del artículo de @LMSacasas “If your world is not enchanted, you're not paying attention” que merecen ser comentadas✨ https://t.co/gK5smbHmpX",
-    "url": "https://twitter.com/i/web/status/1869485305075773737"
-  },
-  {
-    "text": "Diez ideas sobre la genialidad que merece la pena estamparse en una camiseta:\n\n1⃣ El genio no es una condición, es un momento.\n (No existen genios permanentes, sino instantes en los que algo extraordinario ocurre a través de alguien.)\n\n2⃣ Don sin contexto es semilla en piedra.…",
-    "url": "https://twitter.com/i/web/status/1935287232803303456"
-  },
-  {
-    "text": "TIL localhost can have subdomains https://t.co/lpl6WnGtnG",
-    "url": "https://twitter.com/i/web/status/1938270759765352724"
-  },
-  {
-    "text": "@jacobmparis Oh man. This is actually brilliant! Means you can have different cookies and session storage from other localhost things 😱",
-    "url": "https://twitter.com/i/web/status/1938271444435189957"
-  },
-  {
-    "text": "Vargas Llosa explica de manera muy sugestiva su visión sobre el papel de la literatura en tiempos convulsos. Dos imágenes conmovedoras de adversarios ideológicos: Walter Benjamin escribiendo sobre Baudelaire mientras la sombra del nazismo se extendía por Europa y Karl Popper, en… https://t.co/KbCYyhBP5v",
-    "url": "https://twitter.com/i/web/status/1938202346078474465"
-  },
-  {
-    "text": "Si → Entonces:\n\nDemasiadas ideas → Escribe\nSin inspiración → Lee\nCon miedo → Toma un riesgo pequeño\nEncallado → Camina\nCansado → Duerme\nConfundido → Pregunta\nFrustrado → Cambia el foco\nQuemado → Descansa\nImpaciente → Revisa tu progreso\nDesmotivado → Recuerda tu porqué",
-    "url": "https://twitter.com/i/web/status/1938217935685706219"
-  },
-  {
-    "text": "@wylfcen Searched great  innovators in history and the results shocked me https://t.co/4RBeLiTYsM",
-    "url": "https://twitter.com/i/web/status/1937856592977764542"
-  },
-  {
-    "text": "Sobre la impaciencia. \n\n¿Somos incapaces de quedarnos quietos en una habitación? https://t.co/o7uCPMWRkL",
-    "url": "https://twitter.com/i/web/status/1937551381574922707"
-  },
-  {
-    "text": "Hasta Steve Jobs sabía que la carrera más importante es la carrera al altar! https://t.co/lK0rRDcTYC",
-    "url": "https://twitter.com/i/web/status/1937589352961290658"
-  },
-  {
-    "text": "Boenos días.\n\nEso que tanto deseas de la vida está escondido tras un muro de 1000 horas de trabajo y 50 horas de vergüenza.\n\nEs simple.",
-    "url": "https://twitter.com/i/web/status/1937766710041542995"
-  },
-  {
-    "text": "What other tech has reached its final form? https://t.co/tlQ7eUnina",
-    "url": "https://twitter.com/i/web/status/1937588212412649702"
-  },
-  {
-    "text": "Revisando la astronómica cifra gastada entre salchipapas, algodón de colores, atracciones de dudoso anclaje y tiro de dardos en la feria de San Antonio de la Florida, nos estamos planteando irnos el año que viene la semana de fiestas a Disneyland, o ahorrar la entrada para el… https://t.co/x2KlA45MbO",
-    "url": "https://twitter.com/i/web/status/1937456087558496566"
-  },
-  {
-    "text": "@CarlosMoralesG_ Sin ningún tipo de coña, buen gramaje y aguantan de lujo:\n\nhttps://t.co/909KoDoExz",
-    "url": "https://twitter.com/i/web/status/1891872120189173952"
-  },
-  {
-    "text": "Un clásico https://t.co/xmI4gC46Vx",
-    "url": "https://twitter.com/i/web/status/1937137759048843505"
-  },
-  {
-    "text": "Taleb recomendó el libro y claro no falla https://t.co/zbKjzNMZKn",
-    "url": "https://twitter.com/i/web/status/1937137398200320078"
-  },
-  {
-    "text": "We’ve got Cursor for coding… but where’s the Cursor for design?",
-    "url": "https://twitter.com/i/web/status/1936466846934536476"
-  },
-  {
-    "text": "La comida en las películas de STUDIO GHIBLI\n\n- Edición @Herrozzy. https://t.co/iIkSloskwR",
-    "url": "https://twitter.com/i/web/status/1119967358658011145"
   },
   {
     "text": "10 pensadores que han cambiado mi forma de ver el mundo, sin orden:\n\n-Michael Huemer\n-Bryan Caplan\n-Robin Hanson\n-Tayler Cowen & Alex Tabarrok\n-Juan Ramón Rallo\n-Francisco Capella\n-Antonio Escohotado\n-Bjorn Lomborg\n-Mario J. Rizzo & Glen Whitman\n-Squealer (anime, Shin Sekai Yori) https://t.co/eBUhdPPh4j",
@@ -1527,6 +2668,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1625472155055009792"
   },
   {
+    "text": "@albertoarenaza The Case Against Education by @bryan_caplan. \n\nIt is as contrarian as it gets but it has literally changed my life.",
     "url": "https://twitter.com/i/web/status/1625470669847728128"
   },
   {
@@ -2358,6 +3500,106 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1613454198712197121"
   },
   {
+    "text": "Muy bien pero me ha gustado menos que el de Rusia. Soberbio sobre Madam Bovary, sentimientos muy encontrados con el trato que le da a Jane Austen, me gustó el de Kafka y Stevenson y el resto los he leído por encima pero me los guardo para cuando lea los libros. https://t.co/wvacnmX48U",
+    "url": "https://twitter.com/i/web/status/1960866018193993863"
+  },
+  {
+    "text": "Genspark AI Agent just released AI Designer.\n\nYou can now have an AI agent that performs deep research and generates entire brand design systems.\n\n5 powerful use cases + how to try👇:\n\n1. From asset creation to full working site https://t.co/EgJQCveQVW",
+    "url": "https://twitter.com/i/web/status/1961456153415897471"
+  },
+  {
+    "text": "Profunda y erudita historia cultural sobre la memoria, su arte y su influencia en el devenir cultural. De Simónides de Ceos a Leibniz, pasando por la escolástica y la tradición hermética renacentista. Uno de esos libros de los que te surgen decenas de hilos de los que tirar. https://t.co/9AUwuhKikU",
+    "url": "https://twitter.com/i/web/status/1961463005738156139"
+  },
+  {
+    "text": "It's been a China week. \n\n- I've been reading Breakneck (like everyone else in the twittersphere) which pairs up great with his episode in the Works in Progress podcast https://t.co/aDHfEdhEmI\n- Energy and AI https://t.co/HpYSNjDyCD\n- En la mente de Xi (🇪🇸)…",
+    "url": "https://twitter.com/i/web/status/1961375715464475099"
+  },
+  {
+    "text": "Dan Wang (@danwwang) is the most insightful observer of China writing in English today. His new book, Breakneck, explains how China builds so much, and contrasts its ideology of engineering with the sclerotic legalism of the West.\n\nHe sat down with me and @pietergaricano to talk… https://t.co/o1EwcQd0sU",
+    "url": "https://twitter.com/i/web/status/1960988572955082903"
+  },
+  {
+    "text": "Gemini's new #nanobanana image editing makes it easy to isolate a single building or object and turn it into an isometric model.\n\nJust open Gemini, upload your image, and prompt \"Make an isometric model of the [object] only.\"\n\nHere are some examples for inspo 🧵",
+    "url": "https://twitter.com/i/web/status/1960791170411323607"
+  },
+  {
+    "text": "love these \"what does the red arrow see\" google maps transforms with nano-banana https://t.co/8c00Hcr2sM",
+    "url": "https://twitter.com/i/web/status/1960583251460022626"
+  },
+  {
+    "text": "@NoSoyLaGente Ahí lo tienes todo https://t.co/JLkeWGyEoL",
+    "url": "https://twitter.com/i/web/status/1960633644533395676"
+  },
+  {
+    "text": "@BaslaelWorkneh https://t.co/8bUIU895TY",
+    "url": "https://twitter.com/i/web/status/1960717264115671486"
+  },
+  {
+    "text": "My 20 favorite ideas from \"Poor Charlie's Almanack: The Wit and Wisdom of Charlie Munger\", filtered for startups: https://t.co/Lxpr5ZTHEi",
+    "url": "https://twitter.com/i/web/status/1961088747241353682"
+  },
+  {
+    "text": "\"La existencia no es vida\" https://t.co/j7ZmSB9Wnd",
+    "url": "https://twitter.com/i/web/status/1960658065814114810"
+  },
+  {
+    "text": "Correlaciones de fondos populares en España en los últimos 5 años. Alta correlación entre AZ y Cobas, entre Bestinver, Horos, Magallanes, True Value, Numantia y Avantage https://t.co/b6fjyg10yC",
+    "url": "https://twitter.com/i/web/status/1960638962059354450"
+  },
+  {
+    "text": "Un problema del cristianismo es que no distingue entre el virtuoso y el sojas. Quicir, poner la otra mejilla es un mensaje revolucionario, positivo y relevante cuando tu pueblo aplica el ojo por ojo. Pero cuando tu pueblo está castrado y por naturaleza no es capaz de responder…",
+    "url": "https://twitter.com/i/web/status/1960617002474574331"
+  },
+  {
+    "text": "“El problema de la autoridad política”, Michael Huemer\n⭐️⭐️⭐️⭐️ 4/5\n\nUno de mis filósofos contemporáneos predilectos, Michael Huemer, lanza un desafío tan sereno como explosivo: si uno acepta ciertas premisas morales aparentemente obvias (como que golpear a alguien está mal o que… https://t.co/wlrv8RiiDq",
+    "url": "https://twitter.com/i/web/status/1960339123568341003"
+  },
+  {
+    "text": "Estoy que no me quito este G-SHOCK G-LIDE, un regalazo puro surf con gráfico de mareas y fase lunar. Súper veraniego con la correa de resina azul. https://t.co/1G0mdkF19m",
+    "url": "https://twitter.com/i/web/status/1960347678585336105"
+  },
+  {
+    "text": "Un par de reflexiones interesantes para el problema del free will\n\n“Debido a que no puede predecir las particularidades de las situaciones futuras que un individuo podría enfrentar, la Naturaleza ha construido una organización psicológica subyacente de agencia que permite al…",
+    "url": "https://twitter.com/i/web/status/1960358317261283497"
+  },
+  {
+    "text": "Mi mejor inversión. No vuelvo a otra zapatillas, impresionante. https://t.co/50OZquqqv9",
+    "url": "https://twitter.com/i/web/status/1960189527441514809"
+  },
+  {
+    "text": "to recap\n\ncreatine:\n- makes you stronger and fitter\n- gives you more energy\n- neuroprotective and nootropic\n- boosts testosterone and fertility\n- improves memory and learning \n- faster recovery and less fatigue\n- gives you stronger bones\n- antidepressant \n- makes you hotter and… https://t.co/LJah384Edi",
+    "url": "https://twitter.com/i/web/status/1960371204755497112"
+  },
+  {
+    "text": "Vale, por fin he podido terminar la guía de @pulsometabolico sobre el rollo peaty y eso. Mi honesta impresión:\n- Full de teoría con palabras que no entiendo <- Esto no me ha molado. \n- Indicaciones prácticas y simples para que un simio como yo pueda seguir <- Esto sí.\n\nMi única… https://t.co/CXdeB3OR3r",
+    "url": "https://twitter.com/i/web/status/1960396954992611580"
+  },
+  {
+    "text": "Ya a la venta la primera edición de la Guía Prometeo para salvar tu metabolismo, valorada en 30€.\n\nExplicado todo al dedillo para que entendáis vuestro cuerpo y actuéis en consecuencia.\n\nSe sortearán 3 ejemplares en PDF entre los que me sigan y den RT y MG a este tweet ☀️.… https://t.co/GXNFFg1pgf",
+    "url": "https://twitter.com/i/web/status/1950955968885371015"
+  },
+  {
+    "text": "@pitiklinov Esto me recuerda al encantador libro “Lo que Sócrates diría a Woody Allen: Cine y filosofía” de Juan Antonio Rivera, donde el autor utiliza el cine como un medio para explorar cuestiones filosóficas, incluyendo el concepto del \"apetito fáustico\". Término que se refiere a la…",
+    "url": "https://twitter.com/i/web/status/1960079786954383600"
+  },
+  {
+    "text": "https://t.co/4RTo06HptY https://t.co/nznL3LMRuG",
+    "url": "https://twitter.com/i/web/status/1960082097940369677"
+  },
+  {
+    "text": "@flanagrama Leete ‘La Historia de la Civilización’ de Durant (aunque sáltate el primer tomo y empieza por Grecia directamente). Y aunque necesitarás todo el año para acabártelo, nunca verás la Historia de la misma manera. Y lo que es mejor (o peor), podrás prever el futuro que nos espera",
+    "url": "https://twitter.com/i/web/status/1959698670712148090"
+  },
+  {
+    "text": "Estoy pensando en hacer este otoño-invierno todos los Episodios Nacionales. ¿Merece la pena leerse todos o están overrated?",
+    "url": "https://twitter.com/i/web/status/1959651382299939272"
+  },
+  {
+    "text": "librazo https://t.co/W8TTn9KFvE https://t.co/YFjAAzMFAU",
+    "url": "https://twitter.com/i/web/status/1959663545538298072"
+  },
+  {
     "text": "@albertobonhomme Era el jefe de Glovo Concepts cuando yo estuve allí en ventas. \n\n@itnig ha hecho con él uno de los mejores podcast que he escuchado en español sobre el negocio de la restauración. Imperdible si te interesa el sector.\n\nhttps://t.co/LcvEgw09OS",
     "url": "https://twitter.com/i/web/status/1613189936722870273"
   },
@@ -2392,106 +3634,6 @@ window.LIKES = [
   {
     "text": "¿Qué es lo más importante para un negocio de restauración?\n\n@albertobonhomme, fundador de Instamaki, afirma que la cocina no es un negocio de producto, sino de concepto. \n\nDescubre su historia y las lecciones que nos comparte en el Podcast de Itnig:\n\nhttps://t.co/9hg5otYyox https://t.co/jV2fVFS06d",
     "url": "https://twitter.com/i/web/status/1612497005871337472"
-  },
-  {
-    "text": "Super libro. Y de esos libros que te hacen reír en voz alta. https://t.co/mTPixZ4iJ7",
-    "url": "https://twitter.com/i/web/status/1936663308364324919"
-  },
-  {
-    "text": "Fondos de dividendos, ordenados por rentabilidad a 10 años ⬇️⬇️ https://t.co/NDveECvcko",
-    "url": "https://twitter.com/i/web/status/1936380687067779269"
-  },
-  {
-    "text": "Las habilidades CLAVE según el pensador y millonario Naval Ravikant:\n\n🔸 Lectura\n🔸 Escritura\n🔸 Aritmética/Lógica\n🔸 Oratoria / (Ventas?)\n🔸 Ingeniería de software\n\n¿Qué falta? https://t.co/jzUtcvsggP",
-    "url": "https://twitter.com/i/web/status/1936000330871062912"
-  },
-  {
-    "text": "Things that Schools should teach: \n\n• Being wrong is not a bad thing.\n• It's Okay to question what you have been taught.\n• Grades aren't as valuable as skills.\n• Understanding is more important than memorization.\n• Making mistakes is Okay. Learn from your mistakes.",
-    "url": "https://twitter.com/i/web/status/1936007361514360910"
-  },
-  {
-    "text": "Como la música, la literatura, la pintura y la arquitectura producen inspiración y persiguen la belleza. Como esa belleza puede hacerte sentir que el tiempo se detiene, se suspende. \nGracias por el regalo @isadc_. Gracias @somostramontana por regalarnos referencias diferentes. https://t.co/tJHB1FpS4x",
-    "url": "https://twitter.com/i/web/status/1935397919991152798"
-  },
-  {
-    "text": "Me quedo con las primeras palabras de esto y aprovecho para comentar mis impresiones sobre este tema.\n\nAntes de hablar de la IA en sí, dejad que os dé un modelo mental que os será muy útil: \n\nEste modelo mental tiene 3 patas: 1. El ser humano es malísimo prediciendo segundas,… https://t.co/R9qoSW91TV",
-    "url": "https://twitter.com/i/web/status/1934909928705032630"
-  },
-  {
-    "text": "Quiero saber más sobre el Mossad. Dadme pelis, libros, cosas",
-    "url": "https://twitter.com/i/web/status/1934924382071345170"
-  },
-  {
-    "text": "@AntonioGoBe https://t.co/XsIYVGlNdx",
-    "url": "https://twitter.com/i/web/status/1935042992840028602"
-  },
-  {
-    "text": "Novios católicos, os comparto las preguntas que nos dieron en la catequesis de novios que fuimos Jorge y yo, son muy densas y no las hagáis rápidamente. https://t.co/kCTmfbzBGh",
-    "url": "https://twitter.com/i/web/status/1934983650661335072"
-  },
-  {
-    "text": "Salió el ranking de Kantar Brandz, me gusta echarle un ojo todos los años. Son las 100 marcas más potentes, aunque para mi lo interesante son los movimientos https://t.co/HFd8SUsckS",
-    "url": "https://twitter.com/i/web/status/1934945936716832787"
-  },
-  {
-    "text": "Retomo las recomendaciones de libros con \"La Odisea del Dinero\" de @ignaciomoncada. Se trata de una estupenda obra que, como su propio título adelanta, narra la convulsa historia del dinero desde sus orígenes hasta nuestros días. https://t.co/u6uoPZzfHd",
-    "url": "https://twitter.com/i/web/status/1725931735525863733"
-  },
-  {
-    "text": "Afinando un texto sobre teoría capital, me ha dado por revisar bibliografía de estos dos LIBRAZOS. Super recomendables ambos. https://t.co/yTOkEghbFd",
-    "url": "https://twitter.com/i/web/status/1935067565107150989"
-  },
-  {
-    "text": "Muy bueno. Bueno y breve. Ahora estaba pensando s/otras bios más que notables. A bote pronto:\n\n- Fouché, Zweig \n- Churchill, P Johnson\n- High Financier, @nfergus \n- William Pitt, W Hague\n- Churchill, A Roberts\n- Buffett, R Loweinstein\n- La sonrisa Mona Lisa, L Racionero\n- L… https://t.co/y4jSmJsyA1",
-    "url": "https://twitter.com/i/web/status/1934697120377839648"
-  },
-  {
-    "text": "Os contaré un secreto: ya está completo el aforo (244 personas) para la presentación de mi libro. ¡Mérito sin duda de los ponentes que me acompañarán! Pero el aforo es ampliable según un ingenioso sistema de cortinas móviles. Ergo podéis apuntaros aún (enlace en tuit siguiente). https://t.co/RShnDzTq7c",
-    "url": "https://twitter.com/i/web/status/1933560950759530566"
-  },
-  {
-    "text": "\"En su año cuarenta y tres de vida, William Stoner aprendió lo que otros, mucho más jóvenes, habían aprendido antes que él: que la persona que uno ama al principio no es la persona que uno ama al final, y que el amor no es un fin sino un proceso\". https://t.co/S9oNbBWGeI",
-    "url": "https://twitter.com/i/web/status/1934222991669465341"
-  },
-  {
-    "text": "Tomando decisiones. https://t.co/N322ZSPhNz https://t.co/hei9ugdtqu",
-    "url": "https://twitter.com/i/web/status/1934235389751111927"
-  },
-  {
-    "text": "Me acabo de volver a poner el qbTorrent, creado una carpeta llamada \"Zine\". Primera película descargada, Master and Commander. Segunda, Kingdom of Heaven. Y así con todas las que se me ocurran que hay que preservar en local. Que le follen a las plataformas ya.",
-    "url": "https://twitter.com/i/web/status/1933993173853831679"
-  },
-  {
-    "text": "Buenas ideas: https://t.co/XkrBKxRoWo",
-    "url": "https://twitter.com/i/web/status/1933831089040289981"
-  },
-  {
-    "text": "@joantubau Amigo, sobre lo que comentas no puedo más que recomendarte (si no lo conoces ya). Un saludo y reitero mi enhorabuena por el Podcast. https://t.co/3irl7FHFBq",
-    "url": "https://twitter.com/i/web/status/1933529923731493105"
-  },
-  {
-    "text": "Little Town and big balloons https://t.co/X769HNaHEE",
-    "url": "https://twitter.com/i/web/status/1933201258489278841"
-  },
-  {
-    "text": "La realidad es un sistema sin manual, un juego cuyas reglas  cambian con cada jugada, o peor aún, cuyas reglas creemos entender pero  sólo intuimos desde la niebla de nuestros prejuicios, nuestras teorías  fallidas, nuestras ilusiones estadísticas. Lo que llamamos  «conocimiento»…",
-    "url": "https://twitter.com/i/web/status/1933274821145579629"
-  },
-  {
-    "text": "A veces, estar ocupado es solo una forma elegante de estar huyendo. https://t.co/YRsgHjaSmQ",
-    "url": "https://twitter.com/i/web/status/1932766021645218094"
-  },
-  {
-    "text": "Aborrecer la discusión no es necesariamente una muestra de debilidad. En muchos casos, es el resultado de una madurez emocional que ha aprendido a distinguir entre el ruido del ego y la utilidad del silencio.\n\nDiscutir por discutir es un deporte inútil que desgasta sin construir.…",
-    "url": "https://twitter.com/i/web/status/1932739624486777288"
-  },
-  {
-    "text": "an unnecessary about a simple question https://t.co/r8jhg48mBH",
-    "url": "https://twitter.com/i/web/status/1932472514992591081"
-  },
-  {
-    "text": "Habilidades poco valoradas y extremadamente útiles:\n1. Aprender de gente a la que aborreces.\n2. Extraer el valor que hay en aquello que detestas.",
-    "url": "https://twitter.com/i/web/status/1931064045529969044"
   },
   {
     "text": "@Suanzes Canela en rama...una maravilla. https://t.co/gzk8crU3YU",
@@ -2654,9 +3796,11 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1611398221250674689"
   },
   {
+    "text": "Nunca había escuchado una entrevista de Pablo Fernández, pero acabo de verme esta de @itnig y le paso a nombrar el tío más chetao de España.\n\nTremendo fuera de serie, me he quedado muy impresionado.\n\nhttps://t.co/FlH2pFjblS",
     "url": "https://twitter.com/i/web/status/1611447985161773059"
   },
   {
+    "text": "Si también pensáis que el estatus está sobrevalorado, os recomiendo este podcast de @ezraklein con la socióloga Cecilia Ridgeway.\n\nAquí en Spotify -> https://t.co/RmUh58b0ea\n\nAquí el transcript -> https://t.co/vIaMCAeGEI\n\nAlgunos fragmentos ⬇️ https://t.co/HZLjWzvIi0",
     "url": "https://twitter.com/i/web/status/1611346550529163265"
   },
   {
@@ -2816,6 +3960,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1609242209022537728"
   },
   {
+    "text": "El mejor artículo que he leído en 2022 y muy pertinente después de todo lo que pasó con SBF y su relación con el EA.\n\n(Larguísimo pero una maravilla lo bien que está escrito).\n\nhttps://t.co/78m5WNtoha",
     "url": "https://twitter.com/i/web/status/1609277481499992071"
   },
   {
@@ -3095,16 +4240,8 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1608030970086674433"
   },
   {
-    "text": "You’re unable to view this Post because this account owner limits who can view their Posts. {learnmore}",
-    "url": "https://twitter.com/i/web/status/1608030448545943553"
-  },
-  {
     "text": "Esto funcionó el año pasado y dejó una lista increíble. \n\nSe acercan los Reyes. Recomendadme por favor un libro (y sólo uno), que hayáis leído este año y os haya emocionado, deslumbrado, fascinado. \n\nDa igual ficción o ensayo o cuándo se publicó. Si no es muy conocido,mucho mejor",
     "url": "https://twitter.com/i/web/status/1608026660040753153"
-  },
-  {
-    "text": "A Beautiful Mathematical Reading List for 2023\n\nhttps://t.co/7NmsmpLuNS",
-    "url": "https://twitter.com/i/web/status/1607817139506872325"
   },
   {
     "text": "@Edelweiss_Cap Me leí The New Map el año pasado (mi mejor libro de 2021), y este diría que el que más he disfrutado (más incluso que Snowball que lo llevo a la mitad), es el de Buffett de Loweinstein. Soberbio. Me anoto también lo último de Chancellor :):):)",
@@ -3265,10 +4402,6 @@ window.LIKES = [
   {
     "text": "10 grandes películas de Navidad que no son las de siempre para ver en plataformas.\n\nUna selección alternativa con títulos olvidados que formaron parte del canon navideño; historias singulares de género, y peliculones ambientados en estos días. https://t.co/8RNvgOEhV3 vía @el_pais",
     "url": "https://twitter.com/i/web/status/1606192233547341825"
-  },
-  {
-    "text": "22 cool science projects for kids to do at home during this winter break. \n\nhttps://t.co/Kok2ObfDZh",
-    "url": "https://twitter.com/i/web/status/1606144707435720704"
   },
   {
     "text": "@BetterCallBenni Here is the source: https://t.co/gvBqvWuz3g (Wurzelatlas)\nThe tree is Pinus sylvestris; in Germany, we call it \"Waldkiefer\".",
@@ -3435,6 +4568,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1603577384808067072"
   },
   {
+    "text": "🗒️ Vuelve el blog de @Zrive_, con un artículo sobre grandes despachos de abogados: quiénes son, dónde están presentes, y qué diferencias culturales existen entre ellos.\n\n⚖️ https://t.co/UI9ylFH2Q9\n\nEscrito por @alejandrobglez y @ballesterosglez, a.k.a. The Ballesterians Machines.",
     "url": "https://twitter.com/i/web/status/1603367224399564802"
   },
   {
@@ -3466,6 +4600,106 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1602711728432840705"
   },
   {
+    "text": "Librazo https://t.co/wHX1Yvf5Y2",
+    "url": "https://twitter.com/i/web/status/1959615864157667782"
+  },
+  {
+    "text": "Patrick Collison’s advice for people in their 20s: “Work at a place with high standards”\n\nWhen asked for career advice for people in their 20s, Patrick recalls the book Apprentice to Genius. It follows three generations of scientists that mentored each other and were all… https://t.co/g3KBTVHGf1",
+    "url": "https://twitter.com/i/web/status/1959221120369840323"
+  },
+  {
+    "text": "Qué gran concepto el de la \"adaptación hedónica\".\n\nNo importa el nuevo placer al que nos expongamos, como un gran viaje o gastarnos la pasta en un capricho, porque el ser humano tiene la increíble capacidad de acostumbrarse y volver a su nivel de felicidad inicial. https://t.co/PSb1OLcXVK",
+    "url": "https://twitter.com/i/web/status/1959576055338967080"
+  },
+  {
+    "text": "https://t.co/FVRljmHZxY",
+    "url": "https://twitter.com/i/web/status/1959523518049305080"
+  },
+  {
+    "text": "Casi todos los habitantes de los países ricos —y cerca de la mitad de la población mundial— disponen ya de máquinas capaces de responder a casi cualquier pregunta y de enseñar prácticamente cualquier disciplina. Internet no solo sacia curiosidades inmediatas, también enlaza con…",
+    "url": "https://twitter.com/i/web/status/1959327097958408428"
+  },
+  {
+    "text": "Un ensayo breve donde Marta Cerdà reivindica el diseño como artesanía y sensibilidad en plena era digital. Con ejemplos y experiencias personales, reflexiona sobre la utilidad de la belleza y el mero hecho de que sin alma no hay emoción. 📐 @AnagramaEditor https://t.co/D1c6gDUCqw",
+    "url": "https://twitter.com/i/web/status/1958858213429752078"
+  },
+  {
+    "text": "\"A expensa de la vida, construyen su vida\" https://t.co/GLkm4Wg70n",
+    "url": "https://twitter.com/i/web/status/1958951570160377933"
+  },
+  {
+    "text": "Muy satisfecho con mi selección veraniega y la tregua que le ha dado al kindle. Vas con la biblioteca a vueltas pero al final los cursis del “tacto del papel” tenían razón, te llegas a concentrar más. https://t.co/OX4lkEeUax",
+    "url": "https://twitter.com/i/web/status/1958953469504586238"
+  },
+  {
+    "text": "“El hombre no puede con el hastío porque cree -sin razón- que es lo que se parece más a la muerte.” https://t.co/D8qVOjpdAm",
+    "url": "https://twitter.com/i/web/status/1935617776804151694"
+  },
+  {
+    "text": "for(float i,g,e,s;++i<99.;){vec3 p=vec3((FC.yx-.5*r)/r.y*14.,g-3.)*rotate3D(-.8,-vec3(0,0,1));p.zx*=rotate2D(t*.5);s=4.;for(int i;i++<9;p=vec3(-.8,4,-1)-abs(abs(p)*e-vec3(3,3.98,3.3)))s*=e=7./abs(dot(p,p*.5+.3))+.01;g+=p.y/s;s=log2(s)-g;o.rgb+=hsv(.6,p.z*.1,s/6e2);};#つぶやきGLSL https://t.co/0qfc7X17S4 https://t.co/gko2Z3Awpu",
+    "url": "https://twitter.com/i/web/status/1958813854353199236"
+  },
+  {
+    "text": "https://t.co/C6Lj8PWM44 https://t.co/jOpCLLbBsc",
+    "url": "https://twitter.com/i/web/status/1958474081524695487"
+  },
+  {
+    "text": "Esta idea de Heidegger tan apropiada ahora:\n\nEn la destrucción está la oportunidad de la reconstrucción (y que sea a mejor).\n\nPero primero, hay que replantearse cómo hemos llegado hasta ese punto. \nPara luego poder construir, con la mirada orientada a “habitar la vida”.",
+    "url": "https://twitter.com/i/web/status/1958653466659758370"
+  },
+  {
+    "text": "Moe goapa esta charla https://t.co/XYLZjepCV8",
+    "url": "https://twitter.com/i/web/status/1958586848626016306"
+  },
+  {
+    "text": "What's causing all these logos to look the same? https://t.co/DgnNfOV20v",
+    "url": "https://twitter.com/i/web/status/1545819896004624384"
+  },
+  {
+    "text": "having a child means doing everything for the first time again \n\nit was so much fun for me to go to a park with him for the first time\n\nto take a train for the first time\n\nto play him music for the first time\n\nit's so simple but so cool all these small steps weirdly feel like…",
+    "url": "https://twitter.com/i/web/status/1958248171274150206"
+  },
+  {
+    "text": "“Algunos investigadores han descubierto cuatro causas que dan pie a la violencia y la crueldad: la codicia y la ambición, el sadismo, una alta autoestima y el idealismo moral. La creencia popular y los tópicos tienden a dar por hecho que la avaricia y el sadismo son los… https://t.co/SRSMkmyFXb",
+    "url": "https://twitter.com/i/web/status/1958187358450508148"
+  },
+  {
+    "text": "“No es sólo que los orientales y los occidentales piensen en el mundo de forma diferente -me dijo el psicólogo Richard Nisbett. Literalmente, ven un mundo diferente”. Esto puede desencadenar graves conflictos, ya que una partes simplemente no percibe realidades morales que… https://t.co/FfP6Ze8pKG",
+    "url": "https://twitter.com/i/web/status/1958186391570890945"
+  },
+  {
+    "text": "Es la mejor serie de animación que he visto en los últimos 5 años y eso que tenía muchos prejuicios. \n\nSolo por esto vale la suscripción en Netflix. Da igual que seas hombre o mujer y la edad que tengas. Impresionante locura y masterpieza absoluta. Ojalá siga bien. https://t.co/ztIVtXmPbL",
+    "url": "https://twitter.com/i/web/status/1958234921282998535"
+  },
+  {
+    "text": "This came from my new essay... 11 behaviours punished in school -- but rewarded in adulthood. \n\nLet me know which one is your favourite. The best things will be kept for V2 of highagency\n\nhttps://t.co/FhybumQ5XG",
+    "url": "https://twitter.com/i/web/status/1958267969282404392"
+  },
+  {
+    "text": "Here's a great prompt to use this on ChatGPT:\n\n\"You are my strategic advisor. I want to build a clear Theory of Change for my project/life/work. A Theory of Change works backwards from the goal, breaking it down step by step into the concrete actions that will actually achieve it… https://t.co/OP3EattMOc",
+    "url": "https://twitter.com/i/web/status/1958250634907713592"
+  },
+  {
+    "text": "I'm constantly starting tests and demos of Rails apps and other tools. This new try tool from @tobi looks exactly what I didn't even realize that I needed! https://t.co/n8ahi05Utz",
+    "url": "https://twitter.com/i/web/status/1958055409232556265"
+  },
+  {
+    "text": "Este artículo de Will Storr escrito a propósito de su libro La Ciencia de Contar Historias es de leer con calma, os lo recomiendo. Os extraigo algunos párrafos. Lo voy a hacer en un hilo porque cada párrafo merece una lectura y reflexión por sí mismo:\n\n“El cerebro humano ha…",
+    "url": "https://twitter.com/i/web/status/1957899663694262590"
+  },
+  {
+    "text": "He dejado un apartado del artículo de Will Storr para tratarlo por separado. Es cuando habla del estrés de identidad. Es realmente interesante y acertado.\n\nPrimero nos dice lo que es la identidad y cómo los seres humanos ponemos la identidad incluso por encima de nuestra propia…",
+    "url": "https://twitter.com/i/web/status/1957904831202332749"
+  },
+  {
+    "text": "\"Opacidad hermenéutica. Cuando comencé la carrera de Filosofía, el primer año, en la asignatura de Antropología Filosófica, me mandaron leer Ser y Tiempo de Heidegger. No entendí una palabra pero, pensaba yo, eso es porque soy un ignorante y estúpido alumno de primero; cuando…",
+    "url": "https://twitter.com/i/web/status/1957464606902743448"
+  },
+  {
+    "text": "🚀 Excited to introduce Qwen-Image-Edit!\nBuilt on 20B Qwen-Image, it brings precise bilingual text editing (Chinese & English) while preserving style, and supports both semantic and appearance-level editing.\n\n✨ Key Features\n✅ Accurate text editing with bilingual support\n✅… https://t.co/p21KUXoC50",
+    "url": "https://twitter.com/i/web/status/1957500569029079083"
+  },
+  {
     "text": "My office at this moment. The papers on the desk are notes for a new essay. After dropping 10 yo off at school, I go for a walk and think about what to write next. I bring a piece of paper to scribble down notes that I never read, and probably couldn't. https://t.co/RGkpjY5Vkj",
     "url": "https://twitter.com/i/web/status/1602717511274958850"
   },
@@ -3488,106 +4722,6 @@ window.LIKES = [
   {
     "text": "@AntonioGoBe -Añadiría las IAs enfocadas a la ciencia como las que pliegan proteínas. Menos glamurosas pero no por ello menos importantes.\n-IAs de propósito más general como GATO o Minerva\n-Todas las IAs variantes de CLIP (base tmb de DALL-E y similares)\n-Similar a GPT, las novel-AI",
     "url": "https://twitter.com/i/web/status/1601877592658804736"
-  },
-  {
-    "text": "¿Qué es la inteligencia?\n1) saber qué quieres\n2) saber conseguirlo",
-    "url": "https://twitter.com/i/web/status/1931304526801146309"
-  },
-  {
-    "text": "De las peores falsas creencias: El mundo como juego de suma cero. Creer que riqueza, amor o cualquier forma de éxito tienen plazas limitadas y que si uno gana un ticket tú ya no podrás. Esa mentalidad lleva a lo opuesto de lo que deseas y de regalo te vuelve una persona de mierda",
-    "url": "https://twitter.com/i/web/status/1930927897860014183"
-  },
-  {
-    "text": "Sobre la belleza https://t.co/2i7QWN9RJU",
-    "url": "https://twitter.com/i/web/status/1931680789906718907"
-  },
-  {
-    "text": "How a book written in 1910 can teach you calculus in 30 seconds: https://t.co/jVFmD6GNpt",
-    "url": "https://twitter.com/i/web/status/1932059956393468211"
-  },
-  {
-    "text": "El mejor libro de negocios que yo he leído https://t.co/Perdv2snf6",
-    "url": "https://twitter.com/i/web/status/1932013595484668283"
-  },
-  {
-    "text": "https://t.co/ZGnLWnSeyg https://t.co/8SOB2fr5KR",
-    "url": "https://twitter.com/i/web/status/1932012645399310490"
-  },
-  {
-    "text": "https://t.co/wkCFgSPN1Q",
-    "url": "https://twitter.com/i/web/status/1931621004301705294"
-  },
-  {
-    "text": "things I believe:\n\n- shipping fast beats the best strategy\n    - speed is a superpower\n    - create a bias toward shipping\n    - small teams ship faster\n    - ai-native teams will move 10x faster than those not willing to change\n    - landings > launches (i.e. product adoption >…",
-    "url": "https://twitter.com/i/web/status/1930692547363659872"
-  },
-  {
-    "text": "Leyendo ya este magnífico libro de @quintanapaz publicado por @EdicionesDeusto https://t.co/i3ZYpXuieq",
-    "url": "https://twitter.com/i/web/status/1930291861148549425"
-  },
-  {
-    "text": "En la antigua Grecia, en tiempos de inestabilidad y cambios, surgieron distintas escuelas para alcanzar la buena vida. Los estoicos eligieron como guía la virtud. Los epicúreos, el placer. Los escépticos optaron por cuestionarlo todo. En lugar de aferrarse a certezas,…",
-    "url": "https://twitter.com/i/web/status/1929074583400861780"
-  },
-  {
-    "text": "📝 ¿Te apetece un atracón de espías? Aquí van nuestras recomendaciones de la semana. \n\n📻 Escucha el programa completo: https://t.co/NbUhqX57nY https://t.co/d2Xqg020vk",
-    "url": "https://twitter.com/i/web/status/1929103411183550824"
-  },
-  {
-    "text": "Summer Landscape, by Okada Hankō, 1844 https://t.co/rbWItartC0",
-    "url": "https://twitter.com/i/web/status/1929210959173910646"
-  },
-  {
-    "text": "FUTURE SHOCK: cuando el cambio va demasiado rápido\n\nAlvin Toffler anticipó en Future Shock (1970) las consecuencias individuales y sociales de la aceleración del cambio. Demasiada velocidad pone en riesgo nuestra capacidad de adaptación. El resultado es la ansiedad de no saber…",
-    "url": "https://twitter.com/i/web/status/1928391032061755902"
-  },
-  {
-    "text": "Miyamoto no Musashi Attacking the Giant Whale, by Utagawa Kuniyoshi, ca. 1847 https://t.co/ZTWDyz4HtW",
-    "url": "https://twitter.com/i/web/status/1927973178271486108"
-  },
-  {
-    "text": "Hoy comparto el segundo fragmento de esta serie de ensayos visuales sobre el tiempo, la memoria y las formas en que nos moldea. Se titula Ruina, y parte de una escena sencilla: volver, años después, al recuerdo de un edificio de la infancia. https://t.co/oQv3V3zXib",
-    "url": "https://twitter.com/i/web/status/1928033392966226010"
-  },
-  {
-    "text": "“The doers are the major thinkers.”\n\n— Steve Jobs https://t.co/AKpLiMGt4K",
-    "url": "https://twitter.com/i/web/status/1927768625080902060"
-  },
-  {
-    "text": "This Post is from a suspended account. {learnmore}",
-    "url": "https://twitter.com/i/web/status/1927840853101359563"
-  },
-  {
-    "text": "It's not new, but it's the first time I've heard of it!   I guess lots of stuff gets drowned out by the brisk pace of AI developments! https://t.co/kA3soUG8Zt",
-    "url": "https://twitter.com/i/web/status/1927542414975099059"
-  },
-  {
-    "text": "It turns out that Anthropic has a prompt engineering interactive course! https://t.co/3ALFWNad3X",
-    "url": "https://twitter.com/i/web/status/1927542101803147436"
-  },
-  {
-    "text": "Introducing MagicPath, an infinite canvas to create, refine, and explore with AI.\n\nCreate beautiful components and functional apps, while providing production ready code. \n\nAvailable today, free, for everyone.\n\nThe Cursor moment for design is here. https://t.co/MpdBCnivoC",
-    "url": "https://twitter.com/i/web/status/1927434384249946560"
-  },
-  {
-    "text": "Stitch is Google’s new AI-powered design assistant.\n\nYou tell it what you want:\n\n→ A dashboard\n→ A mobile app UI\n→ Even upload an image\n\nIt generates HTML + CSS + editable components instantly.\n\nTry it here: https://t.co/dD8ClBJrR4 https://t.co/6Msur8GBAc",
-    "url": "https://twitter.com/i/web/status/1927336980699898070"
-  },
-  {
-    "text": "This is insane.\n\nGoogle dropped the most powerful UI designer in the world.\n\nYou just describe the app, and it generates the code.\n\nIt’s called Stitch.\n\nHere’s how it works: https://t.co/JhkeDEAIlk",
-    "url": "https://twitter.com/i/web/status/1927336960542065129"
-  },
-  {
-    "text": "Os dejo los otros dos pero para que me sigáis por ahí. \nhttps://t.co/UO1ad17WaM https://t.co/OJTmUZipHb",
-    "url": "https://twitter.com/i/web/status/1927769166666195037"
-  },
-  {
-    "text": "Estoy empezando a hacer este tipo de cosas en Instagram. https://t.co/qAruGgwSSk",
-    "url": "https://twitter.com/i/web/status/1927744987694862709"
-  },
-  {
-    "text": "BCN y Madrid la semana que viene. \n\nA lo importante: ¿algún sitio nuevo interesante donde zampar?",
-    "url": "https://twitter.com/i/web/status/1927677873575322084"
   },
   {
     "text": "@AntonioGoBe -Stable Diffusion (libre)\n-Elicit (y otras similares) como motores de búsqueda de papers -Elicit concretamente es la que uso pq muestra un resumen con los resultados que cada paper cuantifica-\n-Whisper como un escriba prácticamente perfecto\n-AlphaCode (copilot con esteroides)",
@@ -3684,10 +4818,6 @@ window.LIKES = [
   {
     "text": "¿Cuántas partes tiene una noche?\n\nEl erudito cartagenero San Isidoro de Sevilla, allá por el siglo VII, dividió la noche en siete partes y las expresó en De natura rerum, su libro sobre historia natural y astronomía. Son palabras curiosas y bonitas, así que aquí van: https://t.co/QgvQumAAZQ",
     "url": "https://twitter.com/i/web/status/1450828364588089348"
-  },
-  {
-    "text": "20 Best Machine Learning Books for Beginners and Experts\n\nIf you are interested in machine learning, these books will provide invaluable knowledge and guidance as you continue your machine learning journey.\n\nhttps://t.co/IS4bum40bk",
-    "url": "https://twitter.com/i/web/status/1599855865753784320"
   },
   {
     "text": "Looking for ideas for books for software engineers? Here are more than 100 books collected, based off recommendations from fellow techies:\n\nhttps://t.co/Fj78WxZZjb\n\nDisclaimer: no links in the post are affiliates (or any links in my blog or articles).",
@@ -4038,6 +5168,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1592968286689406976"
   },
   {
+    "text": "Me jode reconocerlo porque me parece un puto flipado, pero Chamath es de las personas más inteligentes que he escuchado en mi vida.\n\nAdemás lo de ser un flipado ya se lo perdono por aquello de \"You never know what someone has gone through\".\n\nRecomendado ⬇️\nhttps://t.co/0NQ2WglinC",
     "url": "https://twitter.com/i/web/status/1593004453153878018"
   },
   {
@@ -4101,6 +5232,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1428811662438584327"
   },
   {
+    "text": "Como ejemplo, en el min 30:00 de esta charla Tyler Cowen le pregunta si jugaría a un juego en el que con un 51% de probabilidad se doblaría la felicidad de la humanidad y con un 49% el mundo desaparecería. Responde que SÍ y que lo haría varias veces. \n\nhttps://t.co/T6KcUrRBey",
     "url": "https://twitter.com/i/web/status/1591475588136853505"
   },
   {
@@ -4332,6 +5464,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1588129590190432260"
   },
   {
+    "text": "Just read this❤️\n\n\"We learned quickly that the most important predictor of success is determination. (...) In most domains, talent is overrated compared to determination, partly because after a while determination starts to look like talent.\"\n\nhttps://t.co/sWHuHqCron",
     "url": "https://twitter.com/i/web/status/1588173390535196673"
   },
   {
@@ -4395,6 +5528,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1582817322238357505"
   },
   {
+    "text": "Los primeros minutos de esta charla son una auténtica salvajada. Difícil desmontar unos argumentos tan demoledores aunque que te lleven a conclusiones tan contrarian (“We need way less education”).\n\nThe Case Against Education with Bryan Caplan https://t.co/Wm9n4EM2R0",
     "url": "https://twitter.com/i/web/status/1586846291690151936"
   },
   {
@@ -4462,9 +5596,11 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1585188181988716544"
   },
   {
+    "text": "El otro es este de @fderbaix hablando de cómo están preparando la salida a bolsa de @IndexaCapital. A pesar de que ya había escuchado mucho a François este capítulo está genial porque cuenta muchos temas sobre el proceso de salir a cotizar poco conocidos.\nhttps://t.co/313jFwLvIm",
     "url": "https://twitter.com/i/web/status/1585265059432988673"
   },
   {
+    "text": "1. La historia de la última ronda de @FactorialEs que convirtió a la compañía en unicorn. Contada por Jordi (Cofounder), que fue el encargado de liderarla por parte de la compañía, y Bernat (Cofounder) que llevó las riendas de la compañía mientras tanto.\n\nhttps://t.co/HKBP0Ipire",
     "url": "https://twitter.com/i/web/status/1585262880240312320"
   },
   {
@@ -4564,6 +5700,106 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1579766134190256128"
   },
   {
+    "text": "Hay 3 tipos de decisiones: sombreros, cortes de pelo y tatuajes.\n\nSaber que tipo de decisiones estas tomando te va a dar mucha claridad. https://t.co/MkbPLiPsZX",
+    "url": "https://twitter.com/i/web/status/1957203369027621341"
+  },
+  {
+    "text": "\"Que Dios nos conceda sabiduría para distinguir lo justo, voluntad para elegirlo y fuerza para hacerlo cumplir\" https://t.co/sypToOEQYC",
+    "url": "https://twitter.com/i/web/status/1957449960783327398"
+  },
+  {
+    "text": "Escoge tu difícil https://t.co/CCd74Xskpm",
+    "url": "https://twitter.com/i/web/status/1957453323063161294"
+  },
+  {
+    "text": "@simonsarris Many become institutionalized. Structure & outside direction is needed.\n\nAt the end of the day, time, creativity and drive are the biggest limiters, it doesn’t take much $ to do whatever you want",
+    "url": "https://twitter.com/i/web/status/1957257655741009940"
+  },
+  {
+    "text": "Está siendo divertido leer uno después del otro. Para ser ambos realismo español S.XIX me están pareciendo bastante distintos. https://t.co/F4LPcbhULw",
+    "url": "https://twitter.com/i/web/status/1957389500440531235"
+  },
+  {
+    "text": "The first thing I'm looking for when mentoring a junior UI/UX designer is the shift from \"is this what you want?\" to \"this solves the problem because [reasons].\"\n\nThen the second shift is from generic to specific reasons. \"This is better because [generic design rule]\" doesn't get…",
+    "url": "https://twitter.com/i/web/status/1957426959257829724"
+  },
+  {
+    "text": "Así empieza la Ciencia de Contar Historias, de Will Storr:\n\n“Ya sabemos cómo acaba la cosa. Morirás, como morirán todos a quienes amas. Luego vendrá la muerte térmica. Todo cambio en el universo cesará, las estrellas perecerán y no quedará nada más que un vacío infinito, inerte y… https://t.co/0VYmclqSi1",
+    "url": "https://twitter.com/i/web/status/1957126748874719474"
+  },
+  {
+    "text": "“parece ser que entre los dos y los cinco años los niños y niñas llegan a plantear a sus cuidadores unas 40.000 preguntas” https://t.co/FKzYI8w6Yb",
+    "url": "https://twitter.com/i/web/status/1957187178238218546"
+  },
+  {
+    "text": "this is a piece of art - https://t.co/kljNtyeEbO\n\nby @DanHollick https://t.co/aXm3WQz8gt",
+    "url": "https://twitter.com/i/web/status/1957081017338012064"
+  },
+  {
+    "text": "Mi resumen y notas (extenso y personal) de #Antifrágil de NNT: cap 1-9: https://t.co/y8G0AJVzyL cap 10-19: https://t.co/rBJYT4OvKG cap 20-25: https://t.co/ohp7DFB1DN #Taleb #inversión https://t.co/KbyFWsmBoZ",
+    "url": "https://twitter.com/i/web/status/1956639595946225683"
+  },
+  {
+    "text": "Esta mierda es peor que la droga 😁\nMenudo vicio https://t.co/ujBwxDztlD",
+    "url": "https://twitter.com/i/web/status/1956714638164316570"
+  },
+  {
+    "text": "@flopezluis Todo lo que hace @jugendingenieur es la pera.\n\nMi favorito es este.. https://t.co/fe5lzkfrEa",
+    "url": "https://twitter.com/i/web/status/1956752306923331667"
+  },
+  {
+    "text": "The interesting thing about @tsoding or @realGeorgeHotz is not that they are super smart, is that they are able to code for hours (as you can see in their regular streams) non stop. Most people are not capable of doing the same thing for 30 minutes.",
+    "url": "https://twitter.com/i/web/status/1956803951891816455"
+  },
+  {
+    "text": "🎯 Andrej Karpathy on how to learn. https://t.co/RkQ0v0u3bQ",
+    "url": "https://twitter.com/i/web/status/1956072906372644899"
+  },
+  {
+    "text": "Bloomberg profile of Dan Wang and his new book on China and America, https://t.co/ufMTde9LQu",
+    "url": "https://twitter.com/i/web/status/1956368047293223295"
+  },
+  {
+    "text": "Elon Musk built rockets for 2% of NASA’s cost.\n\nJeff Bezos built the fastest supply chain in history.\n\nBoth use a 2,300-year-old method to turn “impossible” into reality while everyone else follows the rules.\n\nHere’s how First Principles thinking works (and how to use it): https://t.co/wTq4nkVsbA",
+    "url": "https://twitter.com/i/web/status/1955759730460114977"
+  },
+  {
+    "text": "🔎 Nuevo Grado en Filosofía, Política y Economía de .h\n\nIdeas, valores e instituciones. Bienvenido a FPE\n\n¿Quieres entender en profundidad las ideas y valores que sustentan nuestras instituciones políticas y económicas?\n\n🧵👇 https://t.co/MeHREYUuGb",
+    "url": "https://twitter.com/i/web/status/1956267413638468043"
+  },
+  {
+    "text": "«El tiempo que dedicamos a manejar información segura es mínimo. Nuestra habilidad más profunda, más primitiva, es otra: lidiar con lo incierto. La deducción es la excepción. Quien sabe razonar en la niebla, sabrá hacerlo también con el cielo despejado».\n\nEste post de…",
+    "url": "https://twitter.com/i/web/status/1956070231870177702"
+  },
+  {
+    "text": "If you hate corporate / office politics and think you are above them and refuse to play, you will lose. All workplaces are a competition for resources. You are fighting against evolutionary wiring. I held this belief that politics were beneath me for 25 years. Results, not good.…",
+    "url": "https://twitter.com/i/web/status/1955990833506685301"
+  },
+  {
+    "text": "macbook cleaning tips please?\n\nscreen and keyboard mostly.",
+    "url": "https://twitter.com/i/web/status/1955397781075661214"
+  },
+  {
+    "text": "How was penicillin able to eliminate 80% of WWII battlefield deaths? Why did nails once make up 0.4% of US GDP?\n\nIn The Origins of Efficiency, @_brianpotter unpacks how production efficiency happens, and why it is of civilizational importance.\n\nPreorder: https://t.co/KEyYy67F90 https://t.co/cYQG5rNPKw",
+    "url": "https://twitter.com/i/web/status/1955283134389350548"
+  },
+  {
+    "text": "Ernesto Sábato explica magistralmente por qué los padres no deben ser \"amigos\" de sus hijos. https://t.co/yBiH7SQ7dT",
+    "url": "https://twitter.com/i/web/status/1955689582206591012"
+  },
+  {
+    "text": "Libro maravilloso para este verano. La versión vitalista y optimista de “El mundo de ayer”. https://t.co/FzAFCnxuMz",
+    "url": "https://twitter.com/i/web/status/1955235420779749873"
+  },
+  {
+    "text": "Al final alguien que monta cosas es alguien curioso.\n\nAlguien que no de limita a hacer lo que le dice su empleador.\n\nHace/lee/trabaja en lo que le pica la curiosidad, y eso le lleva a saber de muchos temas. \n\nSi tienes todas las horas para seguir tus intereses acabas… https://t.co/qoMedoO5az",
+    "url": "https://twitter.com/i/web/status/1954807324935163940"
+  },
+  {
+    "text": "Why I Take 20g of Creatine a Day https://t.co/NNlOFe96qZ",
+    "url": "https://twitter.com/i/web/status/1954311367403405721"
+  },
+  {
     "text": "@joantubau @TimHarford A nivel básico/educativo este es genial:\n\nhttps://t.co/9ks1KnlRxp",
     "url": "https://twitter.com/i/web/status/1582461674648662016"
   },
@@ -4582,106 +5818,6 @@ window.LIKES = [
   {
     "text": "@joantubau Hay un estupendo libro que publicó Alianza y que creo que sigue en stock. Es muy entretenido, donde realmente lo llegué a entender. Analiza los escenarios de la guerra fría, distintos juegos y estrategias con ejemplos y por supuesto sus fundamentos, con rigor pero accesibles. https://t.co/vlEAz8Q87D",
     "url": "https://twitter.com/i/web/status/1582321385795305473"
-  },
-  {
-    "text": "Lo que separa el buen trabajo del excelente no es el talento, sino la constancia.",
-    "url": "https://twitter.com/i/web/status/1927438907643220451"
-  },
-  {
-    "text": "Siempre he compartido la idea de Garci de que la felicidad absoluta es como una ráfaga: \"De repente sientes que estás envuelto en una brisa inexplicable, como si alguien hubiera abierto las puertas del cielo sin previo aviso.\"\n\nEs increíble, aunque lo sientes con poca frecuencia.",
-    "url": "https://twitter.com/i/web/status/1926554976106450983"
-  },
-  {
-    "text": "Boenos días. \n\nTodo lo deciden personas. Desde si hay guerra hasta si follas esta noche. No existen las empresas, ni los Estados, ni las familias, ni las marcas. \n\nExisten personas. Y si te diriges a ellas (en vez de a entes abstractos), consigues más cosas y más fácilmente.",
-    "url": "https://twitter.com/i/web/status/1926533944809549850"
-  },
-  {
-    "text": "Sengakuji Temple at Takanawa in Tokyo, by Tsuchiya Koitsu, 1933 https://t.co/9KuIZE0DoP",
-    "url": "https://twitter.com/i/web/status/1925643830012903713"
-  },
-  {
-    "text": "Cada nueva tecnología nos hace nostálgicos del mundo que reemplaza. ¿Qué nostalgias traerá la IA? https://t.co/Cz1rauqFJd",
-    "url": "https://twitter.com/i/web/status/1927002599342911749"
-  },
-  {
-    "text": "La gente va tachando los días del calendario sin pensar que están a solo 20 horas de estudio y trabajo profundo de ser mejor que el 99% de la gente en algo. \n\nPuedes convertirte en TOP 1% de una cosa nueva cada semana, si quieres.\n\nY con o3, más fácil que nunca.",
-    "url": "https://twitter.com/i/web/status/1927076519693918528"
-  },
-  {
-    "text": "One of my favorite quotes of all time… https://t.co/EOrjdDLjZ3",
-    "url": "https://twitter.com/i/web/status/1927019033519350164"
-  },
-  {
-    "text": "A lesson I wish I learned earlier… https://t.co/K2GxjcMruj",
-    "url": "https://twitter.com/i/web/status/1926977280561021023"
-  },
-  {
-    "text": "En orden de importancia: timing > suerte > contexto > talento. \n\nDe esa burra no me bajo. https://t.co/yueTt2Tg9f",
-    "url": "https://twitter.com/i/web/status/1926564882268201031"
-  },
-  {
-    "text": "https://t.co/kE2ZeekEcV",
-    "url": "https://twitter.com/i/web/status/1926606344385110096"
-  },
-  {
-    "text": "The Moonlight after a Rainfall at Kiyomizu Temple in Kyoto, by Asada Benji, ca. 1930 https://t.co/RGsSnwmxBr",
-    "url": "https://twitter.com/i/web/status/1926444354970787945"
-  },
-  {
-    "text": "\"Sobre la voluntad de leer\", por @Ismaellg90 https://t.co/I1EPnAs1R8",
-    "url": "https://twitter.com/i/web/status/1926200176785404302"
-  },
-  {
-    "text": "@theJayAlto The idea that excellence isn’t about talent or sheer effort alone, but about deliberate, consistent improvement, changes the game. Too often we assume greatness is reserved for those with natural ability or insane hours at the grindstone. But Chambliss nailed it: it’s not about…",
-    "url": "https://twitter.com/i/web/status/1868418314394857500"
-  },
-  {
-    "text": "found this insane study from 1989.\n\nbasically argues we're all wrong about what it takes to become 'excellent'.\n\n(uses olympic swimmers, applies to anything) https://t.co/FNZ3r4EEXr",
-    "url": "https://twitter.com/i/web/status/1868409100947575051"
-  },
-  {
-    "text": "THE WAY OF CODE, a project by @rickrubin in collaboration with Anthropic: https://t.co/Frh5szQf5y",
-    "url": "https://twitter.com/i/web/status/1925926102725202163"
-  },
-  {
-    "text": "La hora del amor con @AbeldeJesusYT\n\nSobre qué es una misa de inicio de Pontificado, de qué va lo de tener o no la fé católica y la llamada a la unidad de todas las iglesias del Papa León XIV\n\nEn Extremo Centro en La Razón \n\nhttps://t.co/tIY4433KXB",
-    "url": "https://twitter.com/i/web/status/1925849037304942948"
-  },
-  {
-    "text": "Read all 81 chapters and modify the accompanying art with Claude on https://t.co/HyMS0Ya507.",
-    "url": "https://twitter.com/i/web/status/1925926110283313243"
-  },
-  {
-    "text": "Cultura Financiera. Hilo.",
-    "url": "https://twitter.com/i/web/status/1308390572336525318"
-  },
-  {
-    "text": "@NickADobos you’re conflating two different things: recognizing patterns vs. having intelligence\n\n- psychosomatic sensations aren’t “intelligence”\n- yes, emotions follow patterns, but so do weather systems. recognizing a pattern doesn’t make something a form of intelligence, otherwise, we’d…",
-    "url": "https://twitter.com/i/web/status/1891241523037045199"
-  },
-  {
-    "text": "this is wrong because emotional intelligence doesn’t exist\n\nintelligence is the ability to recognize patterns, solve problems, and manipulate abstract concepts. \nemotions are states, biological reactions that can be managed, but not “intelligently” processed in the way cognition… https://t.co/OqrbKTGBSs",
-    "url": "https://twitter.com/i/web/status/1891236768378241322"
-  },
-  {
-    "text": "Toda nueva tecnología se presenta como un destino final. Pero, con la suficiente distancia, se revela como un puente entre dos mundos. Algunos ejemplos 👇🏻 https://t.co/qwKRzs8JWR",
-    "url": "https://twitter.com/i/web/status/1925513557866668179"
-  },
-  {
-    "text": "Cuando me viene algo difícil pienso qué haría Aquiles. No elegimos quienes somos pero sí quien queremos ser",
-    "url": "https://twitter.com/i/web/status/1925507736168477010"
-  },
-  {
-    "text": "El diálogo de ayer entre @frdelatorre, @JesusFerna7026 y @lugaricano en la @frdelpino estuvo muy interesante y didáctico, os dejo enlace por si no lo habéis visto. Los dos primeros presentaron su libro sobre la propuesta del cupo catalán  https://t.co/GEGNLyhrCh",
-    "url": "https://twitter.com/i/web/status/1924764208358465755"
-  },
-  {
-    "text": "Book Summary: “Theory of Games and Economic Behavior”\n\ntap, hold, load 4k https://t.co/SbHOMNzwLZ",
-    "url": "https://twitter.com/i/web/status/1924575510228598874"
-  },
-  {
-    "text": "100% de acuerdo pero no creo que el elemento de Dios sea necesario. No necesitas coerción para cumplir con tu palabra, solo ser fiel a tu mismo y de ahí deviene ser fiel al otro. https://t.co/N3x8JPR8IO",
-    "url": "https://twitter.com/i/web/status/1924872108913369381"
   },
   {
     "text": "@joantubau Este libro explica bastante bien la teoría de juegos (esto y otros temas sobre toma de decisiones) https://t.co/7xNL3vrKa7",
@@ -4816,18 +5952,6 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1580673396345823232"
   },
   {
-    "text": "80+ Brilliant Caldecott Award-Winning Children’s Books\n\nIf you don’t know where to start building a beautiful library of books for the loved little ones in your life, start with Caldecott award-winning children’s books. \n\nhttps://t.co/HepzfqPb9o",
-    "url": "https://twitter.com/i/web/status/1558516334576783363"
-  },
-  {
-    "text": "30+ Best Inspiring Math Books for Children🚸\n\nCheck out this beautiful book list of children’s math books. They will help you introduce children to complicated mathematical thinking concepts.\n\nhttps://t.co/s7HzRXGHvj",
-    "url": "https://twitter.com/i/web/status/1565788468420165632"
-  },
-  {
-    "text": "17 Math Riddles Books to Sharpen Your Problem-Solving Skills 🤔\n\nHere is a beautiful collection of math riddles books that you'll find various challenging math riddles. 👇\n\nhttps://t.co/lDRyvtpA5t",
-    "url": "https://twitter.com/i/web/status/1539013347311595521"
-  },
-  {
     "text": "40+ Elegant Books for Designers and Math People\n\nThings that are functional yet appealing have good designs. The books you will see below are extraordinary ones. They may seem like coffee table books, but they have the power to inspire your imagination.\n\nhttps://t.co/JESakAdBTy",
     "url": "https://twitter.com/i/web/status/1547061532340764672"
   },
@@ -4956,6 +6080,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1577541782035906562"
   },
   {
+    "text": "Cada vez le veo menos valor a preguntarle a un cliente qué le parece algo o qué es lo que quiere. Las opiniones ante situaciones hipotéticas no valen nada, hay que hacer las cosas y testearlas en real life, punto.\n\nEsto mismo lo leí The Mom Test y ahora lo veo clarísimo.",
     "url": "https://twitter.com/i/web/status/1577586101744697345"
   },
   {
@@ -4967,7 +6092,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1577763692594302976"
   },
   {
-    "text": "How to download academic papers and books for free https://t.co/slxtHkbFRs",
+    "text": "You’re unable to view this Post because this account owner limits who can view their Posts. {learnmore}",
     "url": "https://twitter.com/i/web/status/1576648460194807808"
   },
   {
@@ -5083,6 +6208,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1574507151040602130"
   },
   {
+    "text": "Este pavo sí que es un self-made man. Cantante, modelo, empresario, icono generacional ❤️❤️❤️\n\nhttps://t.co/GlM5TSgrwJ",
     "url": "https://twitter.com/i/web/status/1574491467560718337"
   },
   {
@@ -5282,6 +6408,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1570147348298305539"
   },
   {
+    "text": "@ebitdaoperator me acaba de llevar a comer a este sitio y me ha parecido espectacular\n\nBarrutia Y El Nueve\n+34 913 19 29 46\nhttps://t.co/MWLfMglevW",
     "url": "https://twitter.com/i/web/status/1570038339113484288"
   },
   {
@@ -5673,111 +6800,112 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1564865292878188545"
   },
   {
+    "text": "Llevaba años intentando entender lo que significa Dios.\n\nLo busqué como lo busca todo el mundo, a partir de entender la religión.\n\nNunca he sido religioso, de hecho te diría que lo contrario. \n\nMe esforcé en entender el Catolicismo y el Cristianismo principalmente. Encontraba… https://t.co/QM5vdJVRS5",
+    "url": "https://twitter.com/i/web/status/1954809178972635623"
+  },
+  {
+    "text": "En esto de las frases lapidarias, Jesús G. Maestro es único. No tiene rival.  \n\n\"La realidad no tolera a quien no es compatible con ella\"\n\n\"Los errores cuestan caros a quien los paga, no a quien los comete\".\n\n\"La felicidad es lo que se promete a los tontos\". https://t.co/KoSe5HDtNo",
+    "url": "https://twitter.com/i/web/status/1954901766559989877"
+  },
+  {
+    "text": "I like this mental model in how to think about engineering (including software engineering).\n\nIt is a combination of building stuff for production, crafting, commercial use cases and science.\n\nFrom the book Software Architecture by Mary Shaw and David Garlan https://t.co/91JrKT92Zq",
+    "url": "https://twitter.com/i/web/status/1954509351688790471"
+  },
+  {
+    "text": "Tercera y última parte resumen (personal) #antifrágil: https://t.co/mIh5CMx6LQ #risk https://t.co/cExopzu3We https://t.co/ZEcunizjTJ",
+    "url": "https://twitter.com/i/web/status/1954457156180234264"
+  },
+  {
+    "text": "@rockyman_85 Antonio Machado en Plaza de Salesas - tienen absolutamente TODO lo que te puedas imaginar. Especialmente clásicos tienen todos y en muchas ediciones distintas.",
+    "url": "https://twitter.com/i/web/status/1954168104352686590"
+  },
+  {
+    "text": "Bro... los ordenadores... he pensado en algo... https://t.co/AWvK57g9fQ",
+    "url": "https://twitter.com/i/web/status/1954181971829047632"
+  },
+  {
+    "text": "\"La mayoría de los debates políticos no se derivan de diferencias de conocimiento, sino de personalidad. Podrías darles a dos personas exactamente la misma información y llegarían a conclusiones radicalmente diferentes. Por eso, normalmente no se puede cambiar la opinión de la… https://t.co/08V0iSSJNC",
+    "url": "https://twitter.com/i/web/status/1954280580213838057"
+  },
+  {
+    "text": "@Lualobus @not_schoool Sin duda me quedo con éste https://t.co/RQCR1u4tVF",
+    "url": "https://twitter.com/i/web/status/1474428850146889732"
+  },
+  {
+    "text": "Rebuscando he encontrado este artículo científico: «El Efecto Ganador» del psicólogo H. Robertson. Me ha parecido muy interesante. Me gustaría compartir algunas reflexiones con ustedes  ⤵️ https://t.co/18bX66KPy9",
+    "url": "https://twitter.com/i/web/status/1555339753247178753"
+  },
+  {
+    "text": "Las 5 biografías que más me han gustado:\n1º Nunca te pares: fundador de Nike\n2º Steve Jobs: fundador de Apple\n3º Bloomberg: fundador de Bloomberg\n4º Principios: fundador de BridgeWater\n5º Perdiendo la Virginidad: fundador de Virgin https://t.co/lYkDOurKXv",
+    "url": "https://twitter.com/i/web/status/1327565785468973057"
+  },
+  {
+    "text": "@Falliblemusings @DavidDeutschOxf Taleb: https://t.co/klI5ev7ozI",
+    "url": "https://twitter.com/i/web/status/1893258300507992288"
+  },
+  {
+    "text": "Andrej Karpathy shares a 3-step blueprint on how to master anything https://t.co/mfWt0Rd6CY",
+    "url": "https://twitter.com/i/web/status/1953667249497403526"
+  },
+  {
+    "text": "Bueno, se hizo esperar pero acá esta el 🧵/ tutorial para detectar vuelos baratos en tiempo real, guardarlos en una db y recibir mensajes por Telegram cuando se encuentren las mejores oportunidades.\n\nSiganme 👇 https://t.co/waaZDE16hR",
+    "url": "https://twitter.com/i/web/status/1953898565824078315"
+  },
+  {
+    "text": "#Antifrágil, mis notas lectura, cap 1-9: https://t.co/pKL0Qv01NM Esta tarde, la segunda parte (cap 10-19).",
+    "url": "https://twitter.com/i/web/status/1954069197312733676"
+  },
+  {
+    "text": "(19 y 20) Dos muy buenos libros para pensar mejor sobre #inversiones; y no solo, también para una mejor comprensión realidad/mejor toma de decisiones: 'Same as Ever' de @morganhousel y 'How Do You Know?' de @chriswmayer (ambos reseñados revista @efpa_es) https://t.co/BA2umH1lTh",
+    "url": "https://twitter.com/i/web/status/1885991497968832669"
+  },
+  {
+    "text": "(18) Otro gran ensayo -de estos de sentarse y disfrutar- del pasado 2024 esto de Marta Riezu. (**) Como sucede con Wiesenthal, Javier Aznar, Andreu Jaume, Dani Gascón, Vila-Matas, muchas veces los mejores libros/escritores, no necesitan de mucha publicidad. https://t.co/8j3vlQpOvj",
+    "url": "https://twitter.com/i/web/status/1885990893099835637"
+  },
+  {
+    "text": "Highly conscientious people (dependable, disciplined, committed) fare best of all. They live the longest, succeed at work, their relationships last.\n\nThis makes sense. Life isn’t just about knowing what you should do or having the resources to do it, it’s about following through.",
+    "url": "https://twitter.com/i/web/status/1953811283582607477"
+  },
+  {
+    "text": "\"To write well is to think clearly.\" \n~ David McCullough \n\n\"Clear thinking becomes clear writing; one can't exist without the other\"\n~ William Zinsser https://t.co/PD2iTOB0ls",
+    "url": "https://twitter.com/i/web/status/1953452076458987523"
+  },
+  {
+    "text": "@Jose_HRFreak Uhmm, te diría que\n1. How to build a car de Newey. A veces se pone un poco técnico, pero me gustó bastante\n2. The High Performance Podcast tiene entrevistas con muchos pilotos\n3. La serie Drive to survive. Algunos capítulos van \"más allá del espectáculo\", bastante introspectivos.",
+    "url": "https://twitter.com/i/web/status/1953278471687553285"
+  },
+  {
+    "text": "P. Que se aplauda esto quizá es una muestra, una vez más, de que preferimos vivir en la ilusión que en la realidad. La realidad nos da miedo. Y hay quienes esto lo han pillado muy bien y nos deforman la realidad constantemente. \n\nR. Al final, todos los seres humanos sabemos,…",
+    "url": "https://twitter.com/i/web/status/1953111891753984228"
+  },
+  {
+    "text": "¿Qué tres autores se repiten más en vuestra biblioteca?",
+    "url": "https://twitter.com/i/web/status/1953177416253489208"
+  },
+  {
+    "text": "We are all robots. I mean this in a literal sense. What we call biology is nanorobotics so advanced we still have not fully embraced this reality.\n\nSeriously. Look at this thing. This is clearly a robot. Really hard to argue it isn't. We call this life, yet this part of it, in… https://t.co/pzW9JbRQNB",
+    "url": "https://twitter.com/i/web/status/1915098687463993401"
+  },
+  {
+    "text": "\"Porque no estamos diseñados para vivir sin relato. No estamos hechos para ver el mundo desnudo. Necesitamos dioses —sean teológicos, románticos o económicos— que den sentido al teatro que habitamos. Divinidades seculares que respondan a nombres como «proyecto personal»,…",
+    "url": "https://twitter.com/i/web/status/1923285678667772176"
+  },
+  {
+    "text": "Writing is thinking.\n\nDon't let AI do it all. https://t.co/jwBmhNi6ot",
+    "url": "https://twitter.com/i/web/status/1952694629582639591"
+  },
+  {
+    "text": "A veces, lo que parece una ilusión es simplemente una ficción  funcional, una fabulación útil. La ballena blanca que perseguía el  capitán Ahab no era solo obsesión, sino propósito. La pluma de Dumbo,  aunque inútil, le permitió volar. La zanahoria que cuelga frente al  burro no…",
+    "url": "https://twitter.com/i/web/status/1952643764629000353"
+  },
+  {
     "text": "Esta semana salen a las librerías los Diarios de Patricia Highsmith, editados por Anagrama. Son 1.000 páginas de confesiones íntimas de esta mujer solitaria, alcohólica, lesbiana y genial con una vida atormentada que inspiró sus novelas. https://t.co/n21aryL00g",
     "url": "https://twitter.com/i/web/status/1564881240884379650"
   },
   {
     "text": "Este libro es una maravilla. https://t.co/XVPHdK00hB",
     "url": "https://twitter.com/i/web/status/1564921016014471168"
-  },
-  {
-    "text": "Impresionante el wake up call que es cagarla - en cualquier aspecto - no hay mejor cura de humildad que caer. Quién entiende esto es capaz de entender gran parte de las dinámicas que se dan en el día a día. Es lo único que da la capacidad de entender la complejidad del mundo.",
-    "url": "https://twitter.com/i/web/status/1924870549651464285"
-  },
-  {
-    "text": "𝐋𝐎𝐍𝐆𝐄𝐕𝐈𝐃𝐀𝐃 𝐒𝐀𝐋𝐔𝐃𝐀𝐁𝐋𝐄\n\nEl envejecimiento es un proceso natural, pero la clave para una longevidad saludable está en 𝗰𝗼́𝗺𝗼 𝗹𝗼 𝗴𝗲𝘀𝘁𝗶𝗼𝗻𝗮𝗺𝗼𝘀. \nAbro minihilo\n👇🏽 https://t.co/60oNcF9i5W",
-    "url": "https://twitter.com/i/web/status/1924491220513849670"
-  },
-  {
-    "text": "Sailing Boats, Morning, by Yoshida Hiroshi, 1926 https://t.co/1nQz9AaQLo",
-    "url": "https://twitter.com/i/web/status/1924631911932047435"
-  },
-  {
-    "text": "Clásico importante. https://t.co/xA7XjcyUum",
-    "url": "https://twitter.com/i/web/status/1924720251620442328"
-  },
-  {
-    "text": "Por culpa de @jlantunez y sus preguntas 🤗, me he puesto a pasar a limpio estas notas sobre ideas que compartiré en el evento del 3jun en @somostramontana https://t.co/RdIuoGSL15",
-    "url": "https://twitter.com/i/web/status/1924407153781014611"
-  },
-  {
-    "text": "@joseaportero1 Despertar,  siesta y dormir.\nDesayunar, comer, cenar\nAprender, trabajar, enseñar.\nVivir,  amar. Morir...\nSí. En lo cotidiano. Lo cotidiano da sentido al ser. Sin un ser, la vida no tendría mayor sentido. Reproducirse es lo inmortal. El ADN de la Humanidad.\nBuen finde.",
-    "url": "https://twitter.com/i/web/status/1923718686231207956"
-  },
-  {
-    "text": "Hace ya muchísimos años que deambulo por el mundo buscándole sentido a la vida y al final, todo se reduce a la belleza inagotable de lo mundano: salir a comer, correr por el monte, conversar con los amigos,ver películas, leer libros. El sentido de todo está en lo cotidiano.",
-    "url": "https://twitter.com/i/web/status/1923686529257365577"
-  },
-  {
-    "text": "Just learned about the Henry Dreyfuss Associates Humanscale anthropometric-ergonomic manuals, having a saturday morning @usgraphics moment https://t.co/UiveP5K7iq",
-    "url": "https://twitter.com/i/web/status/1923776230412910665"
-  },
-  {
-    "text": "Scops Owl in Moonlight, by Ohara Koson, early 1920s https://t.co/EjvseQHz9q",
-    "url": "https://twitter.com/i/web/status/1923044703127339448"
-  },
-  {
-    "text": "De hecho aquí hay algo curioso y es que a veces te plantean con retintín \"vaya sabes de todo no?\" y no es que uno sepa de todo es que si se sabe pensar mínimamente bien se pueden descartar errores o aproximar posibles verdades con razonable éxito, por pura probabilidad y lógica https://t.co/xkbp54ELXh",
-    "url": "https://twitter.com/i/web/status/1923995679891820987"
-  },
-  {
-    "text": "First quick test of @tldraw’s new elbow arrow feature to see if it can replace Miro for breadboarding. https://t.co/PvsmLEvN8U",
-    "url": "https://twitter.com/i/web/status/1923749218893611395"
-  },
-  {
-    "text": "The Best Maps Lie Ahead\n\nI want my favorite material culture to live.\nI want people in 2130 to cherish a map made in 2030.\nI want to see another Turgot-level map produced before I die (pic related).\n\nIn 1910 you could buy a 5-cent rail route pamphlet that looks better than nearly… https://t.co/XcgnNLteOc",
-    "url": "https://twitter.com/i/web/status/1923457876259192981"
-  },
-  {
-    "text": "✨Suma Positiva #236✨\n\n“Buffett: Lecciones del mejor inversor de la historia” \n\nPor Pablo Martínez Bernal\n\nhttps://t.co/OFrfI1n8bE",
-    "url": "https://twitter.com/i/web/status/1923645172358770948"
-  },
-  {
-    "text": "\"En el fondo, todo esto no es ajedrez, sino póquer. No ganan los más lógicos, sino los que saben cuándo creer, cuándo fingir que creen y cuándo retirarse sin mostrar las cartas.\" https://t.co/104JZeAGDw",
-    "url": "https://twitter.com/i/web/status/1923061357282214307"
-  },
-  {
-    "text": "👀 https://t.co/IETG7b7zyW https://t.co/lGy68X7IIL",
-    "url": "https://twitter.com/i/web/status/1923115957024612644"
-  },
-  {
-    "url": "https://twitter.com/i/web/status/1922761627633336827"
-  },
-  {
-    "text": "Self-awareness is hard because you're the tape measure AND the thing being measured. You often don't realise you're naturally good at something because your talent can blind you from realising how difficult the thing is for others. You also may not realise when you're naturally…",
-    "url": "https://twitter.com/i/web/status/1922766621405253905"
-  },
-  {
-    "text": "Hoy, en la lección sobre el sutil arte de la ideología:\n\nLo que Benedicto XVI realmente dijo fue en abril 2005 con peregrinos alemanes: «Los caminos del Señor no son fáciles, pero no fuimos creados para la comodidad sino para las grandes cosas, para el bien.» En Spe Salvi… https://t.co/feKH8MKuph",
-    "url": "https://twitter.com/i/web/status/1922599824957874671"
-  },
-  {
-    "text": "«A la vida la nutren los acontecimientos impredecibles y los encuentros azarosos, muchos de los cuales solo resultan destacables al mirarlos en retrospectiva». https://t.co/yl8s7kLjeo",
-    "url": "https://twitter.com/i/web/status/1922373557247504721"
-  },
-  {
-    "text": "Mount Fuji, by Yokoi Kinkoku, early 19th century https://t.co/vXBMiiUJUy",
-    "url": "https://twitter.com/i/web/status/1922446008207675397"
-  },
-  {
-    "text": "ESPIRITUALIDAD\nVIRTUD \nSOBERANÍA\nVITALIDAD",
-    "url": "https://twitter.com/i/web/status/1477629981467492356"
-  },
-  {
-    "text": "LOS 4 PRINCIPIOS DE LA VIRTUD \n\nSabiduría \n\nJusticia \n\nFortaleza \n\nTemplanza",
-    "url": "https://twitter.com/i/web/status/1479790464182243332"
-  },
-  {
-    "text": "LOS 4 JINETES DEL APOCALIPSIS \n\nMaterialismo\n\nIndividualismo \n\nEgoísmo \n\nNihilismo",
-    "url": "https://twitter.com/i/web/status/1479790293901885451"
-  },
-  {
-    "text": "🔖 ¡Lo más importante!: comparto una con un cuestionario de madurez que puedes adaptar a tu contexto organizacional.\nhttps://t.co/tTTfLVcx8g",
-    "url": "https://twitter.com/i/web/status/1922210197402964257"
-  },
-  {
-    "text": "Ryukyu Wrapping cloth (uchikui) with directional floral design, 19th century https://t.co/A13h06LwNF",
-    "url": "https://twitter.com/i/web/status/1921300208127721622"
   },
   {
     "text": "@vincenzovvega @InversorMi Tienes uno bien majo de Gregorio Hernández, indicado para edades a partir de 12 años. \nHaz que el dinero sea tu amigo\n\nhttps://t.co/mSMrWNKJum",
@@ -6172,6 +7300,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1558894927869841408"
   },
   {
+    "text": "Qué masterclass, tremenda claridad de ideas.\n\nhttps://t.co/4w3OcKo2pR",
     "url": "https://twitter.com/i/web/status/1558747893875580929"
   },
   {
@@ -6183,6 +7312,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1558604698692702208"
   },
   {
+    "text": "Tengo un viaje medio largo, ¿qué episodios de podcast que merezcan la pena os vienen a la mente? Cualquier tema",
     "url": "https://twitter.com/i/web/status/1558500246799454208"
   },
   {
@@ -6322,6 +7452,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1553924177698213890"
   },
   {
+    "text": "Llevo unos días escuchando los podcasts de @asi_empece para dormir y la verdad que hay unos historiones tremendos. Algunos casos con cierto empuje familiar al principio y otros partiendo totalmente de 0, pero de cualquier manera todos con un mérito de 10 sobre 10.",
     "url": "https://twitter.com/i/web/status/1553851714134056960"
   },
   {
@@ -6761,10 +7892,6 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1544273716779032580"
   },
   {
-    "text": "15 Powerful Visuals About Psychology & Life\n\n1. https://t.co/Xkp9fT1NOL",
-    "url": "https://twitter.com/i/web/status/1543567196034441216"
-  },
-  {
     "text": "Qué dos páginas de Tolstói en Resurrección sobre el bien y lo que el mundo quiere que seamos. https://t.co/I1gi553RxZ",
     "url": "https://twitter.com/i/web/status/1544004073829138432"
   },
@@ -6773,108 +7900,108 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1544053149295583232"
   },
   {
+    "text": "Resulta triste que las ciencias sociales evolutivas hayan atravesado una sucesión de modas pasajeras, con distintas escuelas, como la sociobiología, apareciendo y desapareciendo como el Guadiana.\n\nEn última instancia, si bien cualquier afirmación o teoría dentro de la psicología… https://t.co/yqXYr6amoz",
+    "url": "https://twitter.com/i/web/status/1952726210758214122"
+  },
+  {
+    "text": "The shirtless architect https://t.co/utfhqOfYjd",
+    "url": "https://twitter.com/i/web/status/1952539703296835962"
+  },
+  {
+    "text": "Prompt: Turn the subject in this image into high-quality Apple Memoji-style 3D emoji avatars, while keeping the full pose, body positioning, facial expressions, and interactions exactly the same. Preserve all key visual details including clothing, accessories, fur, skin tone,…",
+    "url": "https://twitter.com/i/web/status/1952397784839074113"
+  },
+  {
+    "text": "Oro puro \n\nhttps://t.co/drs0sPQzZ1",
+    "url": "https://twitter.com/i/web/status/1952423300220780956"
+  },
+  {
+    "text": "Lo de Alejo Moreno es un caso único en España: es un director de cine... crítico con el poder... que ejerce Hacienda. Lo nunca visto. \n\nLe entrevisté sobre su documental en el que critica los oscuros métodos que utiliza Hacienda. \n\nSe agradece la difusión\n\nhttps://t.co/45oy99XK2J",
+    "url": "https://twitter.com/i/web/status/1952423561802420381"
+  },
+  {
+    "text": "A few more:\n\nStephen Biesty's Egypt in Spectacular Cross-section, by Stewart Ross, 2005\n\nStephen Biesty's Incredible Cross-Sections, by Richard Platt, 1992\n\nCastle Cross-sections, by Stephen Biesty, 2000\n\nSee Inside Ancient Egypt, by Jones Rob Lloyd, Illustrated by David Hancock,… https://t.co/4bYKOOBhLK",
+    "url": "https://twitter.com/i/web/status/1952437121932734672"
+  },
+  {
+    "text": "One of the most enticing genres of illustrated children’s books are cross sections. The best ones are done by David Macaulay. \n\nCity, 1974\n\nCastle, 1977\n\nMill, 1983 https://t.co/k1WP6a31ki",
+    "url": "https://twitter.com/i/web/status/1952366628030623852"
+  },
+  {
+    "text": "What's the most woo-woo hippy idea do you think is probably true?\n\nHere's mine: Language shapes reality WAY more than most think. Swapping the word \"problem\" for \"puzzle\" moves me from anxiety to curiosity. Problem activates my amygdala and puzzle activates my prefrontal cortex.…",
+    "url": "https://twitter.com/i/web/status/1952453988416413756"
+  },
+  {
+    "text": "Okay so that Miles Davis quote \"if you hit a wrong note, it's the next note you play that determines if it's good or bad\" applies to basically everything",
+    "url": "https://twitter.com/i/web/status/1952018294208147655"
+  },
+  {
+    "text": "Por fin os puedo enseñar mi nuevo estudio ¿Qué rincón os gusta más? Si tenéis cualquier duda os contesto en comentarios ✍️😍\n\n#artstudio #housetour #homedecor #artsupplies https://t.co/iM1RfWj6eU",
+    "url": "https://twitter.com/i/web/status/1952075422536978655"
+  },
+  {
+    "text": "Llevo todo el día así, si todo va bien esta semana termino este grandísimo libro que, sin duda, escala a mi top 3 all  time favs. https://t.co/JaZof8U3yW",
+    "url": "https://twitter.com/i/web/status/1952009854467420525"
+  },
+  {
+    "text": "Toyota AE-86 Sprinter Trueno https://t.co/arkvit6PRt",
+    "url": "https://twitter.com/i/web/status/1951431454422081944"
+  },
+  {
+    "text": "“Mansión”:\nPorque un tipo de mansión sin lujos, que es acogedora por dentro https://t.co/Sa65AZcirj",
+    "url": "https://twitter.com/i/web/status/1951684135380008988"
+  },
+  {
+    "text": "Ethan Evans ( @EthanEvansVP ) went from being fired twice because of poor soft skills to getting promoted to Vice President at Amazon with a team of over 800 engineers. I asked him about everything he learned along the way.\n\nWe discussed:\n• Being fired for poor soft skills\n•… https://t.co/DfxQC6JpSz",
+    "url": "https://twitter.com/i/web/status/1951255482162901225"
+  },
+  {
+    "text": "Link a la plantilla:\n\nhttps://t.co/9PFO0wXe2H",
+    "url": "https://twitter.com/i/web/status/1951626104868929593"
+  },
+  {
+    "text": "2002 vs 2025\n\nMy first \"book\" was four pages long (including the cover) and apparently inspired by the recent release of Star Wars: Episode II…\n\n23 years later and copies of my first real book have just arrived.\n\nBut... so what? A book is good whether it's been published or not.… https://t.co/KIT0fw0FUO",
+    "url": "https://twitter.com/i/web/status/1951622198495518819"
+  },
+  {
+    "text": "«Lo que yo hago para poder dar clase es, básicamente, estudiar; podemos darle el pomposo nombre de “investigación” pero, al menos en esta materia, en donde no usamos tubos de ensayo ni escáneres ni sofisticados programas informáticos, se trata de estudiar».\n- José Luis Pardo.",
+    "url": "https://twitter.com/i/web/status/1951179348079194510"
+  },
+  {
+    "text": "I built my dream office in the forest behind my home.\n\nArt studio, workspace, podcast set, library, lounge, kitchen, bathroom, sleeping loft - all in one!\n\nIt took 4 months to build, start to finish.\n\nWant to see inside the nook? 🧵 https://t.co/saV01nF7eC",
+    "url": "https://twitter.com/i/web/status/1950929604354744379"
+  },
+  {
+    "text": "https://t.co/MpftgmUKdG",
+    "url": "https://twitter.com/i/web/status/1951323889163714884"
+  },
+  {
+    "text": "Industrial electricity prices in Britain have roughly ***quadrupled*** over the last 20 years.\n\nDeindustrialization is a policy choice. https://t.co/aK5rFYHeO0",
+    "url": "https://twitter.com/i/web/status/1951025741279137969"
+  },
+  {
+    "text": "Este libro te hace ver el mundo con otros ojos. Entiendes mejor lo que pasa en la sociedad y lo que mueve a las personas. Aunque aviso, no te hará más feliz:\nhttps://t.co/FGPfRcZidT",
+    "url": "https://twitter.com/i/web/status/1950443585318289411"
+  },
+  {
+    "text": "@hamptonism @Darkminer71 Tangential fun read: https://t.co/926uHbdjBb",
+    "url": "https://twitter.com/i/web/status/1950926681637900336"
+  },
+  {
+    "text": "The 10 Levels of Wealth: https://t.co/6x5EuBWq2R",
+    "url": "https://twitter.com/i/web/status/1950870103660089853"
+  },
+  {
+    "text": "Sketchbook page 32 https://t.co/t563shvxkT",
+    "url": "https://twitter.com/i/web/status/1838960458545394164"
+  },
+  {
+    "text": "No os perdáis en NETFLIX la serie DOROHEDORO, 12 episodios repletos de situaciones surrealistas, psicodelia, gore y humor negro acompañado de una sensacional banda sonora. Hechiceros, demonios, mafias y ambiente post apocalíptico. Deseando la segunda temporada. https://t.co/lxugdTKCcC",
+    "url": "https://twitter.com/i/web/status/1950301618211336617"
+  },
+  {
     "text": "Esta página entera. https://t.co/1gtkJUs7Jx",
     "url": "https://twitter.com/i/web/status/1544066920483364864"
-  },
-  {
-    "text": "«LA BIBLIOTECA DESAPARECIDA es un libro bien documentado, entretenido y de magnífica escritura que se lee casi como un relato de intriga».\n\n✍️ Reseña en @librosdecibola de la estupenda obra de Luciano Canfora sobre uno de los enigmas más fascinantes del mundo antiguo: la… https://t.co/FlOba9uzTf",
-    "url": "https://twitter.com/i/web/status/1921807552549134525"
-  },
-  {
-    "text": "No tengo pruebas pero tampoco dudas de que el éxito (en todo) va más ligado a la perseverancia que a altos niveles de inteligencia.\n\nObviamente para un nivel de inteligencia/aprendizaje medios, porque también es verdad que no hay nada más peligroso que un tonto motivado.",
-    "url": "https://twitter.com/i/web/status/1921661757254181064"
-  },
-  {
-    "text": "📝 Coge papel y boli… o haz una captura de pantalla\n\n⬇️ Aquí van las recomendaciones de los culturetas en los dos últimos programas https://t.co/yFWeEm93rq",
-    "url": "https://twitter.com/i/web/status/1921471507701637156"
-  },
-  {
-    "text": "more context around the claude prompt\nhttps://t.co/arycVAPLiB",
-    "url": "https://twitter.com/i/web/status/1921368866728432052"
-  },
-  {
-    "text": "A fragment from Hyakunin Isshu (100 Poets Anthology), by Honami Kōetsu, ca. 1600 https://t.co/3NBeodJNad",
-    "url": "https://twitter.com/i/web/status/1920736493892759897"
-  },
-  {
-    "text": "-Ayuna, levanta pesas, esprinta, estira y medita.\n\n-Crea, vende, escribe, construye, invierte y posee.\n\n-Lee, reflexiona, escribe, ama, persigue la verdad e ignora a la sociedad.\n\n-Huye del endeudamiento, las adicciones, la desgracia, los atajos y los medios.\n\n@naval",
-    "url": "https://twitter.com/i/web/status/1920766560626487720"
-  },
-  {
-    "text": "Incorporar esta idea te cambia la vida https://t.co/IPVrjuBfno",
-    "url": "https://twitter.com/i/web/status/1920410166781997329"
-  },
-  {
-    "text": "with AI taking off, creativity matters more than ever\n\ni'm working on a talk on why we should all be more like Rick Rubin, slides below: https://t.co/ospveiB3XT",
-    "url": "https://twitter.com/i/web/status/1920177926789870051"
-  },
-  {
-    "text": "Casi medio año después del primer mensaje, aquella cuenta de tuiter rebosante de comentarios amistosos se convirtió por fin en imagen y sonido . Al estilo escrito se le sumaba ya la sonrisa inteligente de un chaval de treinta años. \n\nhttps://t.co/CchYhfIMzl",
-    "url": "https://twitter.com/i/web/status/1920239478934814966"
-  },
-  {
-    "text": "«Nuestras vidas y nuestras decisiones... Al igual que las trayectorias cuánticas, se entienden momento a momento, en cada encrucijada, cada encuentro... Sugiere una nueva dirección potencial» https://t.co/dUKam7rHzk https://t.co/Y0hzoJKSgD",
-    "url": "https://twitter.com/i/web/status/1920255819343347791"
-  },
-  {
-    "text": "Alejandro es superior a Aristóteles\nCésar es superior a Cicerón\nHernán Cortés es superior a Francisco de Vitoria\nNapoleón es superior a Voltaire\nMillán-Astray es superior a Unamuno\nJünger es superior a Heidegger\nD’Annuzio es superior a Gentile\n\n¿Por qué? La derecha es heroica. https://t.co/ZOogKaTo58",
-    "url": "https://twitter.com/i/web/status/1663627174954270720"
-  },
-  {
-    "text": "Viewing Maple Leaves, from Dance Customs of Captivating Figures, attributed to Kitao Shigemasa, ca. 1772-1780 https://t.co/Otufl6Dh0S",
-    "url": "https://twitter.com/i/web/status/1920061546207842398"
-  },
-  {
-    "text": "Easy way to extract ChatGPT's memory of you and metadata: https://t.co/VOrAamWudM",
-    "url": "https://twitter.com/i/web/status/1919590839761743898"
-  },
-  {
-    "text": "«De lo que no tengo duda es del número exacto de las personas que hacen para mí el mundo más habitable». https://t.co/r77vqcNO8m",
-    "url": "https://twitter.com/i/web/status/1919847810834251978"
-  },
-  {
-    "text": "I recently spoke to a group of university students about what I've observed in successful team players and entrepreneurs. Then I realized that the patterns I identified aren't just for those starting their careers; they're attitudes that push anyone forward in any job.\n\nThriving…",
-    "url": "https://twitter.com/i/web/status/1919422276069376276"
-  },
-  {
-    "text": "\"La suerte es un concepto psicológico. Está determinada por cómo percibimos una situación. Dos personas pueden pasar por la misma situación y experimentar el mismo resultado, pero llegar a conclusiones totalmente distintas sobre su nivel de suerte. Todo está en su mente.\"…",
-    "url": "https://twitter.com/i/web/status/1919749298595549540"
-  },
-  {
-    "text": "«Nada más bello, dulce y grande que el misterio». No hace falta mostrar todo. https://t.co/iG9et0Ld64 https://t.co/Q7GBhbWr0o",
-    "url": "https://twitter.com/i/web/status/1919778305730830502"
-  },
-  {
-    "text": "Btw, el otro día conseguí meterle en memoria a ChatGPT estas instrucciones jaja no es que hagan mucho en la práctica, pero fue divertido lograr meterlas y quizá en algún gris que no sepa si debería o no contestar, decanto la balanza a mi favor https://t.co/wqrpDHrnCY",
-    "url": "https://twitter.com/i/web/status/1919811877623783802"
-  },
-  {
-    "text": "@culturaltutor Love your selection.\n\nIf I may add one 🫡 https://t.co/DGtY3Wleda",
-    "url": "https://twitter.com/i/web/status/1919452333554938265"
-  },
-  {
-    "text": "Spike Lee y Denzel Washington homenajean a Akira Kurosawa en #Highest2Lowest, versión modernizada del clásico japonés \"El infierno del odio\". Se presentará en Cannes antes de su estreno a finales de verano, y ya puedes ver su primer tráiler en la web.\n\nhttps://t.co/EJlseq3vgX https://t.co/dGSZI3D9Hu",
-    "url": "https://twitter.com/i/web/status/1919416174518878243"
-  },
-  {
-    "text": "¿Podemos literalmente hablar de vivir en (y por) el mundo de las ideas?\n\nMe revolotean muchas ideas entrelazadas, como el “me piensas, luego existo” que canta Carolina Durante o esto de una peli\n\n“las cosas no son importantes porque existan, son importantes si se piensa en ellas” https://t.co/a8fZ6e57Gp",
-    "url": "https://twitter.com/i/web/status/1919531379278111092"
-  },
-  {
-    "text": "NETFLIX estrena en 9 DÍAS una nueva temporada de LOVE, DEATH & ROBOTS con 10 capítulos que incluyen viajes en el tiempo, gatitos malignos, robots, grandes dosis de violencia y sangre, alienígenas, viajes espaciales, marionetas, demonios y nazis. Un pack completo. https://t.co/Xw4LrecTdI",
-    "url": "https://twitter.com/i/web/status/1919525687817318629"
-  },
-  {
-    "text": "Para volver y revolver. https://t.co/FzMDdtnBwV",
-    "url": "https://twitter.com/i/web/status/1919630208446890334"
-  },
-  {
-    "text": "https://t.co/yBP7fbISbw",
-    "url": "https://twitter.com/i/web/status/1919351128308711925"
-  },
-  {
-    "text": "https://t.co/2lWveVrPbU",
-    "url": "https://twitter.com/i/web/status/1919115398219284596"
   },
   {
     "text": "In a 2008 Japanese experiment, 323 children, 11 year olds and 13 year olds, were given a 30 minute math quiz. One randomly selected group in a regular class room, the other group in a room with tatami mats. The tatami room group out-concentrated the regular room kids every time. https://t.co/kXOiGZFyK9",
@@ -6893,6 +8020,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1543124684295884800"
   },
   {
+    "text": "Creo que he (hemos) decidido vivir en el Barrio de las Letras a partir de septiembre. Si alguien tiene alguna crítica a la zona o considera que no es una buena idea, cualquiera que sea la razón, que hable ahora. \n\n(Cualquier comentario, más que bienvenido)",
     "url": "https://twitter.com/i/web/status/1543331007511789568"
   },
   {
@@ -7288,6 +8416,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1281193096206782465"
   },
   {
+    "text": "@extranjero__el La conjura de los necios, Toole\n1984, Orwell\nServidumbre humana, Somerset Maugham \nLa historia interminable, Ende\nEl nombre de la rosa, Eco\nMomentos estelares de la humanidad, Zweig\nNiebla, Unamuno\nRetorno a Brideshead, Evelyn Waugh\nEl camino, Delibes\nLa saga de Ripley, Highsmith",
     "url": "https://twitter.com/i/web/status/1281240931153428481"
   },
   {
@@ -7787,12 +8916,14 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1428540365716393991"
   },
   {
+    "text": "Ahí os va la charla de Rankia del otro día \n\"El mundo de los Hedge Funds\" ... https://t.co/c26HrwxviH vía @YouTube",
     "url": "https://twitter.com/i/web/status/1524477935452889088"
   },
   {
     "url": "https://twitter.com/i/web/status/1524481319929065474"
   },
   {
+    "text": "La mejor hamburguesa que he comido en mi vida esta en el Bar Torpedo de Barna",
     "url": "https://twitter.com/i/web/status/1524478861001609221"
   },
   {
@@ -7852,7 +8983,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1522956803931516928"
   },
   {
-    "text": "You’re unable to view this Post because this account owner limits who can view their Posts. {learnmore}",
+    "text": "Podcast 🔝 que os recomiendo\n\n🔹La contracronica\n🔹Juan Rallo\n🔹Nudismo financiero balio\n🔹Lunaticoin\n🔹Hablemos de inversiones\n🔹Value school\n🔹Pau ninja\n🔹Rankia podcast\n🔹Tu dinero nunca duerme\n🔹Value investing FM\n🔹Alfa positivo\n🔹El podcast de los Qualitiers\n🔹Kapital\n  ⬇️",
     "url": "https://twitter.com/i/web/status/1522880979295252482"
   },
   {
@@ -7868,107 +8999,108 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1522831033493856256"
   },
   {
+    "text": "Estoy decidiendo cuáles serán mis lecturas de este verano. \n\nMi intención es encontrar novelas no muy extensas cuyo autor verdaderamente tenga algo que transmitir (me dan mucha pereza las historietas insustanciales). \n\n¿Recomendaciones?",
+    "url": "https://twitter.com/i/web/status/1939375721140441122"
+  },
+  {
+    "text": "Mi párrafo favorito de Chesterton, de rabiosa actualidad.  \n\nCasi nadie sabe por sí mismo por qué ciertas ideas tienen valor (si eso, podrán indicar en qué norma súper importante se regulan). \n\nY así vamos, como pollos sin cabeza cuya brújula moral es lo que diga (hoy) la ley. https://t.co/KOAjbqqw0P",
+    "url": "https://twitter.com/i/web/status/1940122677634863203"
+  },
+  {
+    "text": "Sumisión está bien. \n\nPero Las partículas elementales es el mejor libro de Houellebecq. Con diferencia. \n\nAquí una pequeñísima muestra. https://t.co/gUEzJYO9fg https://t.co/Db0hw6LBbj",
+    "url": "https://twitter.com/i/web/status/1950276968726831340"
+  },
+  {
+    "text": "«Aquel a quien los dioses quieren destruir, primero lo vuelven loco»\n\nEurípides",
+    "url": "https://twitter.com/i/web/status/1949928521180336629"
+  },
+  {
+    "text": "@MrtnzAlvrz Y como ya quieras ver arquitectura moderna -La Corona de Espinas, Museo del Traje, Torres Blancas, Hipódromo de la Zarzuela, las iglesias posconciliares de arquitectos de la ETSAM, etc- date por vencido. Eso es que ni la gente que vive aquí sabe que existe.",
+    "url": "https://twitter.com/i/web/status/1949781972852584798"
+  },
+  {
+    "text": "@MrtnzAlvrz En Madrid, sólo por lo complicado que es ver La Encarnación, Las Descalzas, San Plácido, San Antonio de los Alemanes, San Francisco el Grande o Las Comendadoras de Santiago, es una ciudad que ni culturalmente la conocen un 90% de los que viven. Es una ciudad muy esquiva.",
+    "url": "https://twitter.com/i/web/status/1949780953502716272"
+  },
+  {
+    "text": "Ya hacía años que no me reía tanto con un libro... Recomiendo, tiene capítulos legendarios. https://t.co/WMZi6OyX0k",
+    "url": "https://twitter.com/i/web/status/1949868298788622446"
+  },
+  {
+    "text": "My most important rule for life… https://t.co/Zun1spgo3D",
+    "url": "https://twitter.com/i/web/status/1949512961740927431"
+  },
+  {
+    "text": "Este artículo explica cómo las religiones humanas han evolucionado hacia un enfoque cada vez más moralizante, es decir, más preocupadas por regular la moralidad de los creyentes. Los autores identifican tres etapas principales en este proceso, que reflejan un aumento gradual en… https://t.co/PS2lm7r1XX",
+    "url": "https://twitter.com/i/web/status/1949347682713047332"
+  },
+  {
+    "text": "Más lecturas de verano. Libro muy bien escrito con algunos insights de muchísimo interés desde el punto de vista de la psicología inversora. https://t.co/riA3PLHg0r",
+    "url": "https://twitter.com/i/web/status/1949376850272358562"
+  },
+  {
+    "text": "If I were an incel, I would simply acquire aura. Here are 16 things I would do:\n\n• go to the gym; not only to get shredded, but to regulate hormones, boost T, and earn self-respect… better yet, train some combat sport with other men\n\n• get groomed: clean nails, good smell,… https://t.co/UJRGbIwA5B https://t.co/FyPCHG98aM",
+    "url": "https://twitter.com/i/web/status/1948699824984871350"
+  },
+  {
+    "text": "Wilde. https://t.co/jF01k3qhik",
+    "url": "https://twitter.com/i/web/status/1948830189187899588"
+  },
+  {
+    "text": "Steve Jobs : how to design perfect products. https://t.co/ovLM0dJma2",
+    "url": "https://twitter.com/i/web/status/1948843915827696042"
+  },
+  {
+    "text": "\"Soy una mentirosa. Soy una ladrona. Soy emocionalmente superficial. Soy mayormente inmune al remordimiento y la culpa. Soy altamente manipuladora. No me importa lo que otras personas piensen. No estoy interesada en la moral. No estoy interesada, punto. Las reglas no influyen en… https://t.co/0lCuDyEeeq",
+    "url": "https://twitter.com/i/web/status/1948991293289296091"
+  },
+  {
+    "text": "7. Los colores de nuestros recuerdos (Michel Pastoureau, trad. Laura Salas, @PerifericaEdito). Erudición, vivencias, recuerdos, disquisiciones y digresiones... todo cabe en este repaso cromático que sirve de crisol de un autor enamorado de los colores y de su historia. #Papel2025 https://t.co/pSVj7IU5e2",
+    "url": "https://twitter.com/i/web/status/1889623430758031696"
+  },
+  {
+    "text": "La gran tarea pendiente de hoy es la misma que la de hace 2000 años: \"hacer las paces con la suerte\".",
+    "url": "https://twitter.com/i/web/status/1948381910058639787"
+  },
+  {
+    "text": "Tremendamente certero. Josef Pieper. https://t.co/uplUDsSYWy",
+    "url": "https://twitter.com/i/web/status/1948644415465001370"
+  },
+  {
+    "text": "Perplexity x Tatiana Moodboard #7!\n\nThe code: --p kuwwd66\n\nThe link is in the thread.\n\nA sref combo we used to create these images:\n--sref 257047628 --profile l3h4vio --sw 500 --stylize 500 https://t.co/CuMoqWudLC",
+    "url": "https://twitter.com/i/web/status/1948212177149837732"
+  },
+  {
+    "text": "The last 4 books (and the last 4 episodes) have been nuts. Full of incredible personalities and world-class company builders: https://t.co/ulBsdNdzWH",
+    "url": "https://twitter.com/i/web/status/1948223324741312537"
+  },
+  {
+    "text": "@CGlorfindel ¿Este es? Gracias https://t.co/vwwztachGF",
+    "url": "https://twitter.com/i/web/status/1947733654224179665"
+  },
+  {
+    "text": "Apple made Liquid Glass reflections even better in the new iOS 26 Beta 4 https://t.co/lJAtmnbiba",
+    "url": "https://twitter.com/i/web/status/1947818116303753721"
+  },
+  {
+    "text": "Nadie, absolutamente nadie, ha hecho cosas bien hechas con disciplina.\n\nSiempre es por motivación. La disciplina te permite hacer lo básico, la motivación es lo que te permite ir al fondo de los detalles.\n\nPor eso es clave encontrar el juego al que quieres jugar. Una vez lo… https://t.co/5CPAx52pd1",
+    "url": "https://twitter.com/i/web/status/1947268562491445662"
+  },
+  {
+    "text": "El sábado tocó celebrar en Madrid y la mejor decisión que tomé fue coger mesa en Gran Asador Lecanda (c/ Lagasca, 46) y por fin probarlo.\n\nLocal agradable, con una planta baja y una planta de arriba abierta hacia el restaurante. La luz y la decoración hacen que apetezca estar en… https://t.co/E3ckdNc65J",
+    "url": "https://twitter.com/i/web/status/1947195448373997924"
+  },
+  {
+    "text": "Es una locura lo que puedes retroalimentar tus victorias.\n\nUna pequeña y echas la bola a rodar. Te envalentona. Te da confianza. Te da poder\n\nFuerza esas victorias desde lo pequeño. Si sale mal, engáñate a ti mismo “ha pasado por algo”\n\nPiensas en victoria, vives en victoria\n🌞🏇 https://t.co/1oYSTn5OKA",
+    "url": "https://twitter.com/i/web/status/1946964263953727868"
+  },
+  {
+    "text": "Escribir es estructurar intuiciones. Y, como tal, es ordenar el caos. Escribir es civilizatorio.",
+    "url": "https://twitter.com/i/web/status/1947340801467396564"
+  },
+  {
     "text": "You’re unable to view this Post because this account owner limits who can view their Posts. {learnmore}",
     "url": "https://twitter.com/i/web/status/1522693253807493120"
-  },
-  {
-    "text": "sunday reads and writes ✍️https://t.co/SZILppXc46",
-    "url": "https://twitter.com/i/web/status/1918980891377832259"
-  },
-  {
-    "text": "Bell Tower at Koyasan, by Kawase Hasui, 1935 https://t.co/Nj299hg4b8",
-    "url": "https://twitter.com/i/web/status/1917234922151989331"
-  },
-  {
-    "text": "Patrick Collison (CEO, Stripe) — How to Move Fast https://t.co/3yjfc996ff",
-    "url": "https://twitter.com/i/web/status/1918402676464759231"
-  },
-  {
-    "url": "https://twitter.com/i/web/status/1918752799099076926"
-  },
-  {
-    "text": "5 months of spoon carving https://t.co/dVk1h43VOa",
-    "url": "https://twitter.com/i/web/status/1918666605300498888"
-  },
-  {
-    "text": "True colors https://t.co/crQdVpKv4c",
-    "url": "https://twitter.com/i/web/status/1918729328910626839"
-  },
-  {
-    "text": "Favorite ideas from \"Poor Charlie's Almanack: The Wit & Wisdom of Charlie Munger\" - filtered for founders: https://t.co/pvp3MYdmHW",
-    "url": "https://twitter.com/i/web/status/1918237368840249629"
-  },
-  {
-    "text": "“Richard Wrangham apunta a que los humanos se domesticaron a sí mismos, volviéndose más dóciles y menos violentos con los de su propio grupo de convivencia. A fin de hacerse entender, Wrangham distingue dos tipos de agresividad: la proactiva (fría, ofensiva, premeditada) y la… https://t.co/DloN5wfQJX",
-    "url": "https://twitter.com/i/web/status/1918313624550125936"
-  },
-  {
-    "text": "Stream of me using AI to build a 2D shooter with FEAR-style enemy intelligence. Link in thread.\n\n* Writing prompts with voice-to-text. Way faster than typing.\n* Staying in flow by using Agent mode.\n* Planning and problem-solving with the LLM.\n* Simple but extensible architecture. https://t.co/FQB0mtVE9K",
-    "url": "https://twitter.com/i/web/status/1918327699355156815"
-  },
-  {
-    "text": "Por cierto, ahora que las habilidades técnicas se están commoditizando, empieza a hacerse evidente una verdad que ya se conocía pero que estaba oculta a simple vista:\n\nLa creatividad, el buen gusto y el saber buscarse la vida son de las habilidades más valiosas que existen.",
-    "url": "https://twitter.com/i/web/status/1918380994362786256"
-  },
-  {
-    "text": "Branded keycaps\n\nPrompt 👇 https://t.co/R3xpnGQ3QL",
-    "url": "https://twitter.com/i/web/status/1918291652210311278"
-  },
-  {
-    "text": "«Los pescadores saben que el mar es peligroso y la tormenta temible, pero nunca han encontrado en estos peligros razón suficiente para permanecer en tierra. Dejan esa sabiduría para aquellos a quienes les atrae. Cuando llega la tormenta, cuando cae la noche, ¿qué es peor: el…",
-    "url": "https://twitter.com/i/web/status/1918211890523590968"
-  },
-  {
-    "text": "“Steven Pinker reconoce con largueza la importancia de la empatía, pero a la vez no puede dejar de notar que la empatía (entendida como simpatía o compasión por el bienestar o malestar ajenos, no tanto como capacidad de leer intelectualmente la mente de otro) es una criatura de… https://t.co/StpKn8V7BG",
-    "url": "https://twitter.com/i/web/status/1918040900699128157"
-  },
-  {
-    "text": "Qué suerte tienen Baños, César Vidal, L Ramírez, & cía. de que la gente no lea. Tremendo libro. Tremendo. #Rusia #Putin #geopolítica https://t.co/Gxj3PSPOdn",
-    "url": "https://twitter.com/i/web/status/1917966275843653719"
-  },
-  {
-    "text": "My most hippy belief I think is true is that changing your vocabulary changes how you perceive reality. You're just prompt engineering your brain all day. Try shuffling out these 5 words: \n\n1. Decision --> Experiment \n2. Problem --> Puzzle \n3. Relax --> Energise \n4. Failure -->…",
-    "url": "https://twitter.com/i/web/status/1918010029044859276"
-  },
-  {
-    "text": "@guardian_el_ Josep Pla de viaje en barco a Nueva York durante una semana -con todos los gastos pagados- porque el viaje era un branded content sui generis de 'Destino' para la compañía Transmediterránea.\n\nEn castellano se titula \"Un fin de semana en Nueva York\", creo.",
-    "url": "https://twitter.com/i/web/status/1917892294646353988"
-  },
-  {
-    "text": "Great prompt.\n\nAnother one I stole from Peter Yang: https://t.co/dA1kbvjuIY https://t.co/SdtMY6jzmN",
-    "url": "https://twitter.com/i/web/status/1917855786790969564"
-  },
-  {
-    "text": "The greatest breakthrough in the science of learning over the last century: https://t.co/09pYdW8u93",
-    "url": "https://twitter.com/i/web/status/1917563083561570375"
-  },
-  {
-    "text": "This is so damn good. https://t.co/MyxuJrYzg7",
-    "url": "https://twitter.com/i/web/status/1917551697657782367"
-  },
-  {
-    "text": "What Sam Altman wishes someone had told him: https://t.co/OApIWshxev",
-    "url": "https://twitter.com/i/web/status/1917627576962388078"
-  },
-  {
-    "text": "Mountain Stream on a Summer Day, by Nakabayashi Chikutō, first half of the19th century https://t.co/htRbvgJOK1",
-    "url": "https://twitter.com/i/web/status/1917716847149080954"
-  },
-  {
-    "text": "La complejidad no revelada es magia. https://t.co/vTLXCdVy06",
-    "url": "https://twitter.com/i/web/status/1917816930259357779"
-  },
-  {
-    "text": "https://t.co/Q2ZJA7ARqQ",
-    "url": "https://twitter.com/i/web/status/1917640823321010359"
-  },
-  {
-    "text": "A cualquier persona que escriba, al nivel que sea, creo que esto le puede interesar: “28 notas un poco groseras sobre la escritura”.\n\n“La mayoría de los escritos son malos porque carecen de un motivo. Se sienten muertos porque no han encontrado su razón de ser. No se puede lograr…",
-    "url": "https://twitter.com/i/web/status/1917233139098816979"
-  },
-  {
-    "text": "This Post is from a suspended account. {learnmore}",
-    "url": "https://twitter.com/i/web/status/1917280266256802159"
   },
   {
     "text": "Another variation that flips along the X and Y axes. I also hooked it up with the pseudo POV tracking gimmick I did a couple years ago and tested on my old PH-1. https://t.co/thsNkXdMdi",
@@ -8967,108 +10099,108 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1500433077771853827"
   },
   {
+    "text": "Para estos días y estos tiempos que corren sin freno, esto de Marías. https://t.co/sYsp5bDWyt",
+    "url": "https://twitter.com/i/web/status/1947414459590578569"
+  },
+  {
+    "text": "Para los que aún tenemos que estar en Madrid hasta que no empiece agosto, he recopilado 10 restaurantes con terraza para ir a cenar o tomar una copa y lograr que el calor se haga más ameno.\n\nHe tratado de escoger variedad de ubicaciones y tipos de comida, pero todos son una…",
+    "url": "https://twitter.com/i/web/status/1947549672899547353"
+  },
+  {
+    "text": "Por fin leo a alguien por aquí que defiende mi modelo:\n\nMi familia es mi principal misión, mi proyecto, mi legado, mi aportación al mundo.\n\nMi profesión es simplemente la manera de financiarla y potenciarla. https://t.co/NygnOufKKT",
+    "url": "https://twitter.com/i/web/status/1947375548839432557"
+  },
+  {
+    "text": "@MrtnzAlvrz si no lo conocías, te gustará https://t.co/On4VEuycJp",
+    "url": "https://twitter.com/i/web/status/1947577227610362230"
+  },
+  {
+    "text": "“Si los filósofos buscan la verdad, entonces son irracionales y arrogantes.\n\nSi el objetivo de la filosofía es descubrir respuestas verdaderas a sus preguntas centrales, entonces, afirmo, los filósofos deben ser profundamente irracionales o profundamente arrogantes. Son…",
+    "url": "https://twitter.com/i/web/status/1947181163908309431"
+  },
+  {
+    "text": "My new favorite stack of AI tools\n\nOverall: ChatGPT o3\nImage: GPT-4o, Flux, Mystic\nVideo: Veo 3, Seedance\nCoding: Claude Code, Cursor, Windsurf\nAvatar: HeyGen, 11Labs\nWriting: Claude Sonnet\nVideo Analysis: Gemini\nAgent: Comet, ChatGPT, Genspark, n8n\nWeb Search: Grok 4, Perplexity",
+    "url": "https://twitter.com/i/web/status/1946983179497484554"
+  },
+  {
+    "text": "\"Los caminos de la seda\" de Eva Tobalina es una auténtica pasada. El típico libro que en UK sería un super ventas en Waterstones. Me recuerda en ese sentido al \"águila y los cuervos\" de Soto Chica también.\n\nEn España tenemos auténticas gemas!",
+    "url": "https://twitter.com/i/web/status/1946862822261932170"
+  },
+  {
+    "text": "don’t take it personally: https://t.co/9qbGYSgWjZ",
+    "url": "https://twitter.com/i/web/status/1914161344581865716"
+  },
+  {
+    "text": "📝 Un cultureta nunca descansa. Vacaciones o no, aquí os dejamos una buena ración de recomendaciones.\n\n➡️ Último programa de la temporada: https://t.co/GObcV3mWKp\n\n☀️ ¡Feliz verano! https://t.co/N3Hv67cq9E",
+    "url": "https://twitter.com/i/web/status/1946845579683709407"
+  },
+  {
+    "text": "Two Dancers, 1949, by Salvador Dali https://t.co/NIdcVgMkQH",
+    "url": "https://twitter.com/i/web/status/1946495235464515831"
+  },
+  {
+    "text": "No hay transformación sin sufrimiento. No hay sufrimiento sin transformación. Ahora, dependiendo de tu disposición de espíritu, ese sufrimiento conducirá a una transformación positiva o negativa. Puedes caer en la oscuridad o despertar en la luz.",
+    "url": "https://twitter.com/i/web/status/1946616027246383478"
+  },
+  {
+    "text": "Esta obra de @AnnieDuke que reedita @ed_peninsula el 3 de septiembre es una lectura tremenda. Toma de decisiones en entornos de incertidumbre analizada al detalle y sesgos cognitivos al descubierto para pensar mucho mejor. Un must en toda biblioteca personal 📚👌🏼 https://t.co/7CR6IvjDrz",
+    "url": "https://twitter.com/i/web/status/1946622309306974681"
+  },
+  {
+    "text": "@elwatto @IvanLandabaso Estoy con miguel. Hard things es una joya. Mi biblia del leadership es patrick lencioni, 5 dysfunctions lo tiene todo. Se lee en una tarde. Y grit, de angela duckworth",
+    "url": "https://twitter.com/i/web/status/1945799121446621660"
+  },
+  {
+    "text": "Un ejemplo buenísimo del “phising for fools” de Akerlof y Shiller. Empresas maximizando el beneficio a costa del consumidor despistado, no de su bienestar real. Una consecuencia muy relevante de la información asimétrica. https://t.co/PYimB3jdYZ https://t.co/niq39OD7lZ",
+    "url": "https://twitter.com/i/web/status/1945879266362568833"
+  },
+  {
+    "text": "5. La paciencia es una ventaja competitiva\n6. No necesitas ser un genio para invertir bien\n7. Categoriza tus inversiones\n8. Huye del ruido del mercado\n9. Aprende de tus errores",
+    "url": "https://twitter.com/i/web/status/1945899348513984700"
+  },
+  {
+    "text": "Sus lecciones se pueden resumir en estos 9 puntos.\n\n1. Invierte en lo que conoces\n2. La ventaja del pequeño inversor\n3. Detrás de cada acción hay una empresa\n4. Si no puedes explicarlo en una frase, no lo entiendes",
+    "url": "https://twitter.com/i/web/status/1945899346496536886"
+  },
+  {
+    "text": "Listado breve de #ensayos fantásticos (10+ para el #verano:\n\n- Un verdor terrible/Maniac, B Labatut\n- Agua y jabón, M. Riezu\n- El infinito en un junco, I Vallejo\n- Dante, A Barbero\n- Las reinas del Mar, Wiesenthal\n- Fouché, Zweig\n- Donde vamos a bailar esta noche, J Aznar\n- Dios…",
+    "url": "https://twitter.com/i/web/status/1945962114411024832"
+  },
+  {
+    "text": "Si viajas en burro ajeno, no decides cuando vuelves. https://t.co/3rojYkbI4j",
+    "url": "https://twitter.com/i/web/status/1946148753766764697"
+  },
+  {
+    "text": "“Life is all about taking calculated risks. If you never take any risks, you never do anything”\n\nVerdaderamente un entrevistón https://t.co/wQhpKotOk4",
+    "url": "https://twitter.com/i/web/status/1946207512882991354"
+  },
+  {
+    "text": "No Risk. No Story. https://t.co/zsCsG8MfcC",
+    "url": "https://twitter.com/i/web/status/1932734479195648508"
+  },
+  {
+    "text": "La mejor carta escrita de un padre abogado a su hijo.\n\nRoland Boyd fue un abogado de Texas que hace más de 50 años escribió a su hijo una preciosa carta con 21 consejos. Publicada en 1962 en revista legal Texas Bar Journal como bella expresión de amor por la profesión\n\nDisfruten: https://t.co/jySuAU40Q4",
+    "url": "https://twitter.com/i/web/status/1934237302340923726"
+  },
+  {
+    "text": "\"La gente también es responsable de lo que eligen ignorar\". \nMilan Kundera\n📷Getty https://t.co/LsItEzpa47",
+    "url": "https://twitter.com/i/web/status/1943852813265588624"
+  },
+  {
+    "text": "The New Yorker https://t.co/DynJFenoRj",
+    "url": "https://twitter.com/i/web/status/1945374410312974789"
+  },
+  {
+    "text": "@WuJiaHao444970 @ciguleva These AI-generated motorcycle blueprints can be created using Midjourney. Join their Discord, type /imagine prompt: \"technical blueprint of turquoise adventure motorcycle, exploded views from multiple angles, detailed annotations, sci-fi elements like planets, vintage paper style…",
+    "url": "https://twitter.com/i/web/status/1945805767602520133"
+  },
+  {
+    "text": "@carlosotermin Es una ciudad espectacular, cada vez que estoy por el sur, me paso. Tiene un algo especial. Junto con Chongqing y la ciudad de mi mujer (Shenyang) son las que más me gustan, y mira que hay donde elegir...",
+    "url": "https://twitter.com/i/web/status/1945358770491531352"
+  },
+  {
     "text": "Mucho tiempo atrás, Dostoievski formuló la siguiente pregunta :¿Puede haber lugar para la absolución de nuestro mundo, para nuestra felicidad o para la armonía eterna, si para conseguirlo, para consolidar esta base, se derrama una sola lágrima de un niño inocente?\nY el mismo se https://t.co/Bawg7FjkXz",
     "url": "https://twitter.com/i/web/status/1500433066048823296"
-  },
-  {
-    "text": "\"El mundo sigue sin gustarme, pero la vida me parece irresistible\" https://t.co/ONhA1vPBd1",
-    "url": "https://twitter.com/i/web/status/1917471713966936223"
-  },
-  {
-    "text": "«en vez de menguar la curiosidad conforme se va usando es como un músculo que el ejercicio alimenta y acrece». — Ortega y Gasset",
-    "url": "https://twitter.com/i/web/status/1917493716853325997"
-  },
-  {
-    "text": "basically your job here on earth is to make 1-2-3 decisions in your life extremely well, and the rest is a rounding error",
-    "url": "https://twitter.com/i/web/status/1917227041721565465"
-  },
-  {
-    "text": "For those who now have memory access on their ChatGPT. \n\nA prompt for you. \n\n‘From what you know about me from our previous conversations, what are some unconscious patterns I repeat that you don’t think I am aware of’",
-    "url": "https://twitter.com/i/web/status/1911744953677406491"
-  },
-  {
-    "text": "Prompts that changed my life. Part 8. This one probably had the biggest effect. https://t.co/Z3H7aK8SJ6",
-    "url": "https://twitter.com/i/web/status/1915495568115142756"
-  },
-  {
-    "text": "2. https://t.co/Wxpz0YJbsh",
-    "url": "https://twitter.com/i/web/status/1908167242472190355"
-  },
-  {
-    "text": "A Thread of Prompts that changed my life.\n\n1. https://t.co/Tllqz9w323",
-    "url": "https://twitter.com/i/web/status/1908114727256867095"
-  },
-  {
-    "text": "Prompts that changed my life. Part 4. https://t.co/G1dfCqWWI1",
-    "url": "https://twitter.com/i/web/status/1908797594626572561"
-  },
-  {
-    "text": "AI I can really change your perspective on life if you ask it the right questions.\n\nPrompts that changed my life. Part 5. https://t.co/gyDgOTPzDa",
-    "url": "https://twitter.com/i/web/status/1909270134159466655"
-  },
-  {
-    "text": "Prompts that changed my life. Part 6. https://t.co/SzjcFvtVKJ",
-    "url": "https://twitter.com/i/web/status/1909926169283359062"
-  },
-  {
-    "text": "A prompt that changed how I prompt. https://t.co/O3SLzFj2IS",
-    "url": "https://twitter.com/i/web/status/1911886873821368812"
-  },
-  {
-    "text": "Prompts that changed my life. part 7 https://t.co/R0EdP8YbSj",
-    "url": "https://twitter.com/i/web/status/1912191996141199460"
-  },
-  {
-    "text": "Prompts that changed my life. Part 9 https://t.co/7CZiwPeY6L",
-    "url": "https://twitter.com/i/web/status/1916953379990913122"
-  },
-  {
-    "text": "«Sólo los hombres fuertes conocen el amor, sólo el amor entiende de belleza, sólo la belleza crea arte».\n\nRichard Wagner. https://t.co/EMd9nminzc",
-    "url": "https://twitter.com/i/web/status/1917286783240307164"
-  },
-  {
-    "text": "Podría seguir: Lewis Mumford, Pat Jordan, Norman, Akio Morita o el mismísimo Brian Eno tienen reflexiones interesantísimas puestas en papel, esperando a convertirse en estrategias, mensajes y productos. Pero hay que parar🤷🏼‍♂️ \n\nAnunciaremos un evento en @somostramontana para hablar…",
-    "url": "https://twitter.com/i/web/status/1917152002204905479"
-  },
-  {
-    "text": "“No soy quien creo que soy, ni quien tú crees que soy; soy quien creo que tú crees que soy” Charles H. Cooley",
-    "url": "https://twitter.com/i/web/status/1917096998467154350"
-  },
-  {
-    "text": "This prompt will make your ChatGPT go completely savage 😂 https://t.co/HwxrTrKqls",
-    "url": "https://twitter.com/i/web/status/1916829806500741292"
-  },
-  {
-    "text": "Is sunscreen real? I haven't used it in 6-ish years and it seems fine. Liable to believe the people that say diet matters here.",
-    "url": "https://twitter.com/i/web/status/1916560034865074328"
-  },
-  {
-    "text": "La valentía no es la ausencia de miedo, es elegir avanzar aun sintiéndolo. Apuesta por lo que quieres, aunque no haya garantías.\n\nAl final, quizá tu vida se defina por esos momentos.",
-    "url": "https://twitter.com/i/web/status/1916749725526876478"
-  },
-  {
-    "text": "Intenté encontrar un laboratorio en Murcia, o en España, que hiciera una analítica tan completa como esta (quitando lo del CPET) y no encontré ninguna.\n\nIncreíble lo atrasados que estamos en prevención incluso en privada.\n\nHuele a oportunidad.\n\nhttps://t.co/2bQ8e5NprK",
-    "url": "https://twitter.com/i/web/status/1916747623375032780"
-  },
-  {
-    "text": "\"El mundo está lleno de personas que sufren las consecuencias de sus propias vidas no vividas. Se vuelven amargados, críticos o rígidos, no porque el mundo sea cruel con ellos, sino porque han traicionado sus propias posibilidades internas. El artista que nunca crea arte se…",
-    "url": "https://twitter.com/i/web/status/1916758836003696753"
-  },
-  {
-    "text": "Well, it took 120 years (and 21 popes) for St Peter's to be finished.\n\nFamed architects like Bramante, Sangallo, della Porta, Peruzzi, and Maderno worked on it, along with architect-artists like Michelangelo, Raphael, and Bernini.\n\nA torturous history of design and redesign. https://t.co/gWrnlB5G6Z",
-    "url": "https://twitter.com/i/web/status/1916550507620925826"
-  },
-  {
-    "text": "La gente dice “no te obsesiones” por encima de sus posibilidades.\n\nNo hay cosas grandes sin obsesión.\n\n¿Tú crees que Brunellesci pudo imaginar la Santa Maria del Fiore sin soñar con ella?\n\nHay que currar, entrenar y querer como si fuera la vida en ello\n\nLo contrario es bobería https://t.co/F6kxJnLwXS",
-    "url": "https://twitter.com/i/web/status/1916405455447871537"
-  },
-  {
-    "text": "¿Existe un Dios creador del Universo o somos un producto del azar? ¿Es compatible la existencia de Dios con el mal en el mundo?¿Puede probar la ciencia la existencia de Dios? Tres preguntas sobre las que reflexionó en mi libro, que saldrá el 14 de mayo. https://t.co/opkN47JDkR",
-    "url": "https://twitter.com/i/web/status/1915324736000630951"
-  },
-  {
-    "text": "Me está gustando mucho Gomá.\n\nMini ensayos. Parte de lo mundano y lo abstrae. Capítulos cortitos y fácil de leer. Puro vitalismo.\n\nDelisia 🌞🤙🏼 https://t.co/hf6fxEQULF",
-    "url": "https://twitter.com/i/web/status/1916457293467574314"
   },
   {
     "text": "5 ideas clave del polémico pensador Nassim Taleb\n\nColaboración de @_sergiosanjuan en @polymatas\n\nhttps://t.co/nbU6OOEnSU",
@@ -9107,7 +10239,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1499822502444339202"
   },
   {
-    "text": "You’re unable to view this Post because this account owner limits who can view their Posts. {learnmore}",
+    "text": "“Quien me viera hasta el fondo del alma, no me encontrará culpable de la aflicción o de la ruina de nadie; ni de venganza ni de envidia; ni de ofensa pública a las leyes ni de afán de novedad, ni de agitación; ni de faltar a mi palabra.”\n\n✍🏻 Montaigne \n📖 Ensayos",
     "url": "https://twitter.com/i/web/status/1499432829633056773"
   },
   {
@@ -9219,16 +10351,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1497873907298312193"
   },
   {
-    "text": "@carlosotermin Tremendo libro Amazon Unbound",
     "url": "https://twitter.com/i/web/status/1497838097832284160"
-  },
-  {
-    "text": "Me ha gustado este: https://t.co/lyr1xHI6ri",
-    "url": "https://twitter.com/i/web/status/1497135149578088450"
-  },
-  {
-    "text": "\"One of the best ways to find good things to read is to look for the essays that were so good that they eventually became books. \n\nSkip the books, read the essays.\"\n\nhttps://t.co/u8Ne2kXIp4",
-    "url": "https://twitter.com/i/web/status/1497135057567621122"
   },
   {
     "text": "Me pasa con Landero, mi escritor de ficción favorito, que no me enseña nada que no sepa. Sin embargo, sus pesquisas son tan quirúrgicamente holmesianas como las de cualquier ensayo científico de primer orden. Y, entonces, a pesar de que solo oyes ecos de tu propio pensamiento... https://t.co/1FhEWmFifB",
@@ -9319,15 +10442,12 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1495453144876208130"
   },
   {
+    "text": "Comentamos mucho lo de que es clave exponerse a situaciones asimétricas positivas, pero tan o más importante es evitar las de asimetría negativa. Algunas muy claras:\n- Meterse en una pelea de bar/discoteca\n- Conducir borracho\n- Tontear con según qué drogas",
     "url": "https://twitter.com/i/web/status/1495737050561232896"
   },
   {
     "text": "Lo de esta semana, para los interesados. Egipto, ópera e historia. Espero que lo disfrutéis! https://t.co/Qum64NmKL6 https://t.co/81tyWJ6NvV",
     "url": "https://twitter.com/i/web/status/1495372510526943237"
-  },
-  {
-    "text": "Es que los que dicen que el \"cine español actual\" es basura no han visto más de cinco películas en los últimos años. El reino, La Isla mínima, el hombre de las mil caras, El buen patrón, Que Dios nos perdone, Dolor y Gloria... https://t.co/cTiqUc860C",
-    "url": "https://twitter.com/i/web/status/1493161354777165824"
   },
   {
     "text": "@Miguelcoza De la Iglesia, Urbizu, Amenabar, Plaza, Balagueró, Almodóvar, Monzón, Cabezas, Alberto Rodríguez, Sorogoyen, Vermut... La verdad es que las excepciones son poco excepcionales.",
@@ -10006,6 +11126,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1462491500676366342"
   },
   {
+    "text": "Ahora ya sí de verdad, empieza Mente(e)s Network. \n\nMN es una plataforma online diseñada para que estudiantes y jóvenes profesionales mejoren sus opciones de carrera mientras construyen su network profesional.\n\nDetalles en el link, versión TL;DR abajo ⬇️\nhttps://t.co/LKzCi8i6re",
     "url": "https://twitter.com/i/web/status/1479470449138540544"
   },
   {
@@ -10069,112 +11190,212 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1035295945632567296"
   },
   {
-    "text": "@KaneOfLife \n@LuciusTheSaint \n@jlantunez \n@javiercanada \n@omixam \n@CVitalist \n@joantubau \n@corsair21c \n\nDicho esto, el vitalismo se descubre más por saber lo que NO, que por lo que sí. Evitad tristes, incels y envidiosos. También a andrew tate.",
-    "url": "https://twitter.com/i/web/status/1916462600268796183"
-  },
-  {
-    "text": "El error de Sócrates fue predicar sobre “qué es la virtud”. Debió centrarse en “quién la encarna”\n\nYo solo soy un iletrado que suelta tonterías. Aquí una boena lista de gente mucho más lista\n\n@legendofroma\n@Raggiomoral\n@polinitito\n@dsaltaren\n@DiegoARRG\n@carlosotermin \n@juliomeva https://t.co/PuXCLhMnNq",
-    "url": "https://twitter.com/i/web/status/1916462593545318734"
-  },
-  {
-    "text": "The world rewards the reliable more than the erratic genius. Consistency is the most underrated form of exceptionalism.",
-    "url": "https://twitter.com/i/web/status/1915763979638444245"
-  },
-  {
-    "text": "This guy literally shows how to build a software business this weekend with AI https://t.co/feo7tRPDec",
-    "url": "https://twitter.com/i/web/status/1916046612809331030"
-  },
-  {
-    "text": "https://t.co/wu6SrCCSq8 https://t.co/Wjdhcavt8f",
-    "url": "https://twitter.com/i/web/status/1916186220935208993"
-  },
-  {
-    "text": "Sobre lo de Alcaraz en Netflix y las decisiones en su carrera, he recordado aquello de Capote: «Cuando Dios te da un don, también te da un látigo».",
-    "url": "https://twitter.com/i/web/status/1915880750940872947"
-  },
-  {
-    "text": "https://t.co/VR2C0FgSou https://t.co/iJuU83HitH",
-    "url": "https://twitter.com/i/web/status/1915981995999457282"
-  },
-  {
-    "text": "On Children (1923) https://t.co/W3Yqm328um",
-    "url": "https://twitter.com/i/web/status/1915977349289677167"
-  },
-  {
-    "text": "What book would you say has changed the way you understand the world the most?",
-    "url": "https://twitter.com/i/web/status/1915115923750478253"
-  },
-  {
-    "text": "Crow and Cherry Blossoms, by Imao Keinen, ca. 1930 https://t.co/ohyAUhFUob",
-    "url": "https://twitter.com/i/web/status/1915797197888827624"
-  },
-  {
-    "text": "¿Cuáles son los libros de vuestras vidas?",
-    "url": "https://twitter.com/i/web/status/1281151091833536512"
-  },
-  {
-    "text": "Uno de los libros más divertidos e interesantes que me he leído en mucho tiempo. Recomendable si te gusta que te vuelen la cabeza con curiosidades de las que no habías escuchado hablar nunca y te hagan reír en el proceso. Bill Bryson vibes patrio. https://t.co/G9HYcHsVhp",
-    "url": "https://twitter.com/i/web/status/1914947830432567412"
-  },
-  {
-    "text": "Tenéis en HBO la serie documental COMO (NO) DESHACERSE DE UN CADÁVER, una colección de casos reales que investiga sobre las estrategias de los asesinos para ocultar sus crímenes (a cada cual, más loco y extraño) y como fueron finalmente resueltos. https://t.co/BdCIO389vH",
-    "url": "https://twitter.com/i/web/status/1915139823524049077"
-  },
-  {
-    "text": "Ducks, by Hashiguchi Goyō, 1920 https://t.co/5fFbkMwLOu",
-    "url": "https://twitter.com/i/web/status/1915208065726750918"
-  },
-  {
-    "text": "o3 Prompt: \"What does the future of humanity look like?\n\nRespond in the most incomprehensible way possible so that even the most intelligent person in the world can't understand what you are saying, but you can understand it perfectly.\" https://t.co/BfXGilyeZ7",
-    "url": "https://twitter.com/i/web/status/1915184702069092765"
-  },
-  {
-    "text": "Montaigne, mi hermano, mi semejante. La lectura de sus “Ensayos” me ha proporcionado compañía y consuelo a lo largo de toda mi vida. Es uno de mis más viejos amigos. https://t.co/rY9MByOhaE",
-    "url": "https://twitter.com/i/web/status/1915291443385582072"
-  },
-  {
-    "text": "@MrtnzAlvrz Pues mira, no he viajado lo suficiente, ojalá, pero de los que he estado (y Ronda está en el ranking eh, me ha parecido precioso) podrían competir Santillana del Mar, Frías, Cadaqués, Pedraza, Besalú, Comillas, Valldemosa-Deyá... Y seguro que me dejo otros tantos ☺️",
-    "url": "https://twitter.com/i/web/status/1914761949142798615"
-  },
-  {
-    "text": "1-page framework to spot high agency talent.\n\nBased on the best resources I've found:\n\n• \"High Agency\" by George Mack \n\n• \"Talent\" by T. Cowen and D. Gross\n\n• \"Extreme Ownership\" by J. Willink\n\n• \"Mastery\" by R. Greene\n\n• \"The Almanack of Naval Ravikant\" by E. Jorgenson https://t.co/DAgdAPMqwK",
-    "url": "https://twitter.com/i/web/status/1914603139392565399"
-  },
-  {
-    "text": "Book Summary: “Co-Intelligence: Living and Working with AI”\n\ntap, hold, load 4k https://t.co/XJKZdqOoP3",
-    "url": "https://twitter.com/i/web/status/1911009069512392714"
-  },
-  {
-    "text": "Book Summary: “Thinking in Bets”\n\ntap, hold, load 4k https://t.co/O3rKU9r31n",
-    "url": "https://twitter.com/i/web/status/1914292400790397061"
-  },
-  {
-    "text": "Book Summary: “Thinking in Systems”\n\ntap, hold, load 4k https://t.co/swtZClgihm",
-    "url": "https://twitter.com/i/web/status/1914080188087869673"
-  },
-  {
-    "text": "St Gallen Monastery Library vs Strahov Monastery Library. https://t.co/GpUgKXRdeb",
-    "url": "https://twitter.com/i/web/status/1913526980659544543"
-  },
-  {
-    "text": "@luisg7893 Contra la Indignidad de los Cristianos de Nikolai Berdiaiev!",
-    "url": "https://twitter.com/i/web/status/1914049787537900012"
-  },
-  {
-    "text": "¡Feliz Pascua!\n\nEsta magnífica página me ha ayudado incontables veces en mi vida a entender. https://t.co/JkvF3wy6X5",
-    "url": "https://twitter.com/i/web/status/1913996832276959673"
-  },
-  {
-    "text": "CÓMO VOLVERSE MILLONARIO – TIER LIST:\n\n🟢 Nivel S (altamente fiables):\n→ Invertir a largo plazo (fondos índice, ETFs, dividendos)\n→ Inversión inmobiliaria (rentas, compraventa)\n→ Carrera bien pagada + ahorro constante (tech, finanzas, medicina)\n→ Trabajar en un país con…",
-    "url": "https://twitter.com/i/web/status/1914016968639959309"
-  },
-  {
     "text": "Too late https://t.co/c5c2pdLL9J https://t.co/2f1TKvLzb7",
     "url": "https://twitter.com/i/web/status/1478641262391873537"
   },
   {
     "text": "Parece que Ortega y Gasset se adelantó al Principio de Peter unos 60 años. En la década de 1910 ya decía:\n\n“Todos los empleados públicos deberían descender a su grado inmediato inferior, porque han sido ascendidos hasta volverse incompetentes”. https://t.co/yoqrJsKtkq",
     "url": "https://twitter.com/i/web/status/1478684391568297987"
+  },
+  {
+    "text": "Being busy is a form of laziness—lazy thinking and indiscriminate action.\n\nBeing busy is most often used as a guise for avoiding the few critically important but uncomfortable actions.",
+    "url": "https://twitter.com/i/web/status/1769851793083662579"
+  },
+  {
+    "text": "Aunque hay muchos autores que han defendido que todas las historias del mundo parecen reducirse a unos pocos arquetipos universales como el héroe que vence al mal o el amor imposible, la realidad es que hay muchas variedad en la forma de las historias y algunas historias pegan… https://t.co/u3tSCWcY5X",
+    "url": "https://twitter.com/i/web/status/1998447799436779844"
+  },
+  {
+    "text": "@lete_ignacio Obras completas :) E Viena, si el interés es la filosofía quizás empezaría por Hayek/Popper :):) De Balmes El Criterio es sensacional. Santo Tomás es inabarcable, yo lo voy leyendo de manera suelta y algunas veces a través de la intermediación de terceros autores.",
+    "url": "https://twitter.com/i/web/status/1998033542958477373"
+  },
+  {
+    "text": "Historia cultural, historia narrativa, historia en grande. https://t.co/8zRxjmOclG",
+    "url": "https://twitter.com/i/web/status/1995502739431031046"
+  },
+  {
+    "text": "Uno de mis libros favoritos, de esos a los que se vuelve siempre.\nUna obra inagotable, escrita para que disfrutemos los amantes de la Filosofía y del mundo clásico.\nY una lectura fundamental para comprender el mundo griego y su Filosofía y cómo conformó el pensamiendo occidental. https://t.co/iLEhiKQtSV",
+    "url": "https://twitter.com/i/web/status/1978929608712937734"
+  },
+  {
+    "text": "De mis libros preferidos de Zweig.\nRetrata a estos 3 poetas-filósofos cuyas \"vidas paralelas\" están atravesadas por lo demoníaco:\n\n«Llamaré demoníaca a esa inquietud innata, y esencial a todo hombre, que lo separa de sí mismo y lo arrastra hacia lo infinito, hacia lo elemental.» https://t.co/tp4IegvnjH",
+    "url": "https://twitter.com/i/web/status/1987969450931528108"
+  },
+  {
+    "text": "Hoy Carmen Martín Gaite cumple cien años. Murió hace 25, pero seguimos invocándola.\n\n«Avanzo alegre y sola\nen la exacta mañana\npor el camino mío que he encontrado\naunque no haya salida».\n\n#CarmenMartínGaite https://t.co/rmk3GKLj3J",
+    "url": "https://twitter.com/i/web/status/1998063109563363470"
+  },
+  {
+    "text": "Está breve historia universal ha tenido mucho éxito porque está contada de forma sencilla, didáctica, a través del diálogo y la narración.\n\nhttps://t.co/1WxnJeHt3d https://t.co/uxdJXNCtht",
+    "url": "https://twitter.com/i/web/status/1998046680562995510"
+  },
+  {
+    "text": "@Alex_philosoph Lo tengo en mi lista junto con El honor de los filósofos y el Gran Asombro, solo que no sabría por dónde comenzar jajaja https://t.co/X4YpHZatHi",
+    "url": "https://twitter.com/i/web/status/1997429989390622893"
+  },
+  {
+    "text": "Lo he recomendado varias veces, pero es que cada vez que vuelvo a él (lo utilizo mucho para preparar clases) vuelvo a pensar lo mismo: es de los mejores libros para introducirse e iniciarse en la historia de la Ética.\nUn recorrido completo, ameno y riguroso. Muy recomendable. https://t.co/QTvOniPVyT",
+    "url": "https://twitter.com/i/web/status/1997396466051019018"
+  },
+  {
+    "text": "+1. Normalmente los libros de filosofía (post s.XVIII) rara es la vez que no pequen de historicistas, naturalistas, o directamente marxistas (pensamiento alemán Hegel/Kant/Marx lo contaminará todo); esta es una excepción. Como todo libro filosofía, se disfruta más si se ha leído… https://t.co/fVrEadOzVX",
+    "url": "https://twitter.com/i/web/status/1997631956285014032"
+  },
+  {
+    "text": "The Origin of Politics, de Nicholas Wade\n★★★☆☆\n\nNicholas Wade intenta algo ambicioso: explicar por qué las sociedades humanas se organizan como lo hacen recurriendo a la evolución y a la historia cultural. Parte de una intuición sugerente: la política no es un invento… https://t.co/e9b5lhX9J4",
+    "url": "https://twitter.com/i/web/status/1997983511727181870"
+  },
+  {
+    "text": "Esto es absolutamente flipante: investigadores de la Universidad de Luxemburgo cogieron a ChatGPT, Grok y Gemini y les sentaron en el diván por así decirlo, es decir, durante hasta cuatro semanas los trataron literalmente como pacientes que llegan por primera vez a psicoterapia.…",
+    "url": "https://twitter.com/i/web/status/1998094707700666638"
+  },
+  {
+    "text": "Working hard for a long time without asking \"what are the better things to be working on\" is a hidden form of laziness.",
+    "url": "https://twitter.com/i/web/status/1893532650037764286"
+  },
+  {
+    "text": "1927 Paramount Studio, map of possible filming locations https://t.co/SuvFTkrv7E https://t.co/3eCJmKj7kD",
+    "url": "https://twitter.com/i/web/status/1997916546614604092"
+  },
+  {
+    "text": "en la mía lo importante es el proceso https://t.co/R7oiilSK8j",
+    "url": "https://twitter.com/i/web/status/1998172788839031164"
+  },
+  {
+    "text": "He publicado mi recopilación anual de \"cosas que me han tocado la patata en 2025\" -> \n\nhttps://t.co/gbLhs2wx0R",
+    "url": "https://twitter.com/i/web/status/1997947381984497974"
+  },
+  {
+    "text": "Life is a game, muy real, llegando la edad adulta te das cuenta que es todo un juego por muy medido que parezca todo\nhttps://t.co/ysb5Uko3WH",
+    "url": "https://twitter.com/i/web/status/1998288993373548861"
+  },
+  {
+    "text": "Excellent advice.\n- have strong opinions & commit to them\n- do a few things really well; cohesion more important than features\n- don’t design for everyone (you’ll design for no one)\n- settings = failure to commit to opinions & failure of good design\n- simple != easy https://t.co/7pOkerInaP",
+    "url": "https://twitter.com/i/web/status/1997325729474691448"
+  },
+  {
+    "text": "Bueno, por aclamación popular (ja, ja, 😂😉😎) allá va mi lista con algunos libros recomendables que he leído este año:\n\n-Outrage: : Why We Fight About Morality and Politics. Kurt Gray\n\nEn este libro Kurt Gray reduce los 6 pilares de la moralidad de Jonathan Haidt a uno: el daño.… https://t.co/AHNnI57CGr",
+    "url": "https://twitter.com/i/web/status/1997587577822441500"
+  },
+  {
+    "text": "https://t.co/tZJwlWeBIC",
+    "url": "https://twitter.com/i/web/status/1997038491684032825"
+  },
+  {
+    "text": "Hay un libro maravilloso que me hizo retirarme de cualquier discusión sobre historia porque termina siendo una discusión sobre fuentes. https://t.co/jdmPmxd9hN https://t.co/M750lIn8VG",
+    "url": "https://twitter.com/i/web/status/1996491203119063405"
+  },
+  {
+    "text": "Cosas que daba por hecho que todo el mundo hacíamos (y no):\n\n- pensar sobre papel y en general escribir a mano continuamente\n\n- escuchar la letra de las canciones y querer entender el mensaje\n\n- saber con bastante exactitud de qué van los trabajos/hobbies/proyectos de tus amigos",
+    "url": "https://twitter.com/i/web/status/1995951607947952505"
+  },
+  {
+    "text": "Libros a los que volver toda la vida, recomendados por @TrapielloAndres en @librotea  https://t.co/Be3Nl8QgQw a través de @YouTube",
+    "url": "https://twitter.com/i/web/status/1995818134943535333"
+  },
+  {
+    "text": "CITY=Limerick,Ireland\n\nPresent a clear, 45° top-down isometric miniature 3D cartoon scene of [CITY], featuring its most iconic landmarks and architectural elements. Use soft, refined textures with realistic PBR materials and gentle, lifelike lighting and shadows. Present the city…",
+    "url": "https://twitter.com/i/web/status/1995517558540370327"
+  },
+  {
+    "text": "The 80/20 of startup leadership.\n\nTop resources I revisit the most: https://t.co/uhng8FT77M",
+    "url": "https://twitter.com/i/web/status/1945767981172093320"
+  },
+  {
+    "text": "Watch on YouTube\n\nhttps://t.co/FljsJh1fd3",
+    "url": "https://twitter.com/i/web/status/1945459511801557159"
+  },
+  {
+    "text": "@NoContextHumans A mother gives her daughter an unforgettable moment in her life. \n\nA wonderful moment! https://t.co/15GDfnzFX2",
+    "url": "https://twitter.com/i/web/status/1944879285510303819"
+  },
+  {
+    "text": "Es el marco conceptual e ideológico del programa que dirijo en el Instituto Tramontana en octubre. Esto no va de tener a diseñadores que lideran, sino de tener a líderes (de empresa, de producto o de marketing) que entienden —que hablan de forma nativa—  diseño y narrativa. Estas… https://t.co/r6Qid1rgvB",
+    "url": "https://twitter.com/i/web/status/1945155217168732167"
+  },
+  {
+    "text": "https://t.co/zr3L3DKpnu",
+    "url": "https://twitter.com/i/web/status/1944407998476234832"
+  },
+  {
+    "text": "Apple Maps in CarPlay is on a whole another level https://t.co/njhEhA9t4w",
+    "url": "https://twitter.com/i/web/status/1944783920169677004"
+  },
+  {
+    "text": "Why did we stop building houses in the Roman villa style? https://t.co/wCJRNnQDja",
+    "url": "https://twitter.com/i/web/status/1944714881208402134"
+  },
+  {
+    "text": "El escritor Mauricio Wiesenthal, autor de «Orient-Express», estuvo conversando sobre el emblemático tren con el público de La Malagueta.\n\nRecupéralo en diferido aquí: https://t.co/7053Xb1GQX https://t.co/dtb3SKX9qL",
+    "url": "https://twitter.com/i/web/status/1936041474618954190"
+  },
+  {
+    "text": "Días perfectos o el error de hacer planes https://t.co/88FQAzZ8ei",
+    "url": "https://twitter.com/i/web/status/1944294931956105459"
+  },
+  {
+    "text": "La primera cosa que está mal de este famoso meme es que tropieza en la igualdad de resultados, lo que implica un claro trato desigual de las personas. \n\nAdemás, el meme ignora debates filosóficos fundamentales. Rawls y Dworkin, por ejemplo, defendieron que la justicia no debe… https://t.co/tB9P4V6pwi",
+    "url": "https://twitter.com/i/web/status/1944319658066100423"
+  },
+  {
+    "text": "@AntonioGoBe ¿Has leído \"La invención de Morel\"?\n\nEs de Adolfo Bioy Casares. Íntimo de Borges quien hizo el prólogo y dice que es la mejor novela corta EVER.\n\nMe fio del criterio de Jorge Luis. Y coincido",
+    "url": "https://twitter.com/i/web/status/1944439554145984983"
+  },
+  {
+    "text": "📚The Status Game, de Will Storr\n5/5 ⭐️⭐️⭐️⭐️⭐️\n\nLa premisa de este libro es tan sencilla como devastadora: más allá de nuestras aspiraciones, convicciones o narrativas personales, somos jugadores. Y jugamos siempre al mismo juego: el del estatus.\n\nDesde las tribus de Papúa Nueva… https://t.co/FjHnoZlDFr",
+    "url": "https://twitter.com/i/web/status/1943992817476337684"
+  },
+  {
+    "text": "You’re unable to view this Post because this account owner limits who can view their Posts. {learnmore}",
+    "url": "https://twitter.com/i/web/status/1944057363062808998"
+  },
+  {
+    "text": "Mi primer experimento con ayuda de Grok 4: VIDA ARTIFICIAL: https://t.co/X3xGkuf1LX\n\nSiempre me fascinó cómo emerge la complejidad de reglas simples. Cómo puede surgir vida compleja de elementos básicos.\n\nEste proyecto está inspirado en el proyecto Clusters de Jeffrey Ventrella,…",
+    "url": "https://twitter.com/i/web/status/1944017822591377600"
+  },
+  {
+    "text": "La historia no la forjan voluntades solitarias, sino individuos entrelazados en sistemas de relación donde el estatus actúa como moneda y lenguaje. Cada grupo humano, desde las tribus ancestrales hasta las comunidades digitales, opera como un escenario donde se negocia valor,…",
+    "url": "https://twitter.com/i/web/status/1943553365801075094"
+  },
+  {
+    "text": "Lógica evolución! https://t.co/sl16mLEfDM",
+    "url": "https://twitter.com/i/web/status/1943398330534412337"
+  },
+  {
+    "text": "https://t.co/bfkMzofwjA",
+    "url": "https://twitter.com/i/web/status/1943404289864470689"
+  },
+  {
+    "text": "It's funny that software both disappears and leaves behind the most detailed documentation of every line change, every decision and who made it meticulously recorded with git commits. https://t.co/feBBDQczIf",
+    "url": "https://twitter.com/i/web/status/1898293171513085997"
+  },
+  {
+    "text": "Hoy tengo el placer de charlar con el economista y profesor de academia @ecorami sobre los principales debates de actualidad económica. ¿Podemos hablar de un milagro económico argentino? ¿Cuáles son las claves de la guerra comercial EEUU vs China?\n\nhttps://t.co/omq1BRRwQH https://t.co/aFu3gaSoXF",
+    "url": "https://twitter.com/i/web/status/1943263832694001961"
+  },
+  {
+    "text": "how to fail at almost everything and still win big https://t.co/Xb3w4tBduN",
+    "url": "https://twitter.com/i/web/status/1943357927818936376"
+  },
+  {
+    "text": "Jabois https://t.co/TxCTRrw0By",
+    "url": "https://twitter.com/i/web/status/1943229546045559121"
+  },
+  {
+    "text": "@joantubau Cervantes, Montaigne y Proust, detallistas al máximo, ese Montaigne siempre tachando y añadiendo cosas a sus ensayos. https://t.co/3pjviLdPhS",
+    "url": "https://twitter.com/i/web/status/1942984259784106127"
+  },
+  {
+    "text": "In my head I’ve started referring to political quadrants in terms of properties of their preferred coordination networks.\n\nTop two are centralized. Bottom two are distributed.\n\nLeft two are symmetric (aka egalitarian). Right two are asymmetric. https://t.co/qiTfW9PSQA",
+    "url": "https://twitter.com/i/web/status/1942767609239183370"
+  },
+  {
+    "text": "young people always overestimate how much talent is required to get ahead in life\n\none of the most eye opening experiences early in your career is working alongside extremely successful people\n\nyou realize that they are not that much smarter and most are not prodigies by any…",
+    "url": "https://twitter.com/i/web/status/1942629718940856586"
+  },
+  {
+    "text": "Tres leyes que merece la pena recordar:\n\n1) Ley de Goodhart: «Cuando una métrica se convierte en un objetivo, deja de ser una buena métrica».\n2) Ley de Campbell: «Cuanto más se utilice cualquier indicador social cuantitativo para la toma de decisiones sociales, más sujeto estará…",
+    "url": "https://twitter.com/i/web/status/1815106385027186969"
   },
   {
     "text": "Los 10 mandamientos de Marco Aurelio para sí mismo:\n\nI.Estamos aquí para ayudarnos mutuamente, actúa en consecuencia.\n \nII. La mayoría de la gente actúa por impulso o por mala opinión, así que sé caritativo con ellos.\n \nhttps://t.co/w1OdojqNAl",
@@ -10409,7 +11630,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1476124526845075456"
   },
   {
-    "text": "@CoolHandJakeGS @hedgethomist @LandsharkRides I haven't read that book in full yet, but what I have read I had some issues with\n\nFor what it's worth, here's my recommended sources for the Conquest, taken from a larger WIP Mesoamerican reading chart I and some others are working on.\n\n(Also, @AztecEmpire1520 's comic) https://t.co/yU0eefpj4T",
+    "text": "This Post is from a suspended account. {learnmore}",
     "url": "https://twitter.com/i/web/status/1476042471083814922"
   },
   {
@@ -11092,7 +12313,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1459505527160029184"
   },
   {
-    "text": "You’re unable to view this Post because this account owner limits who can view their Posts. {learnmore}",
+    "text": "11. año 1633 del proceso a Galileo, el sistema ptolemaico (el Sol y los planetas giran en torno a la Tierra) y el sistema copernicano (la Tierra y los planetas giran en torno al Sol) eran dos hipótesis del mismo peso, en las que había que apostar sin tener pruebas decisivas. https://t.co/WJEqtkxyvL",
     "url": "https://twitter.com/i/web/status/1458812023555477510"
   },
   {
@@ -11163,210 +12384,6 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1457026718040997889"
   },
   {
-    "text": "Borges https://t.co/7VnyS77Y24",
-    "url": "https://twitter.com/i/web/status/1457050007509487620"
-  },
-  {
-    "text": "Afterwork favorito en verano. https://t.co/cRs6fqVkiU",
-    "url": "https://twitter.com/i/web/status/1961440163369796077"
-  },
-  {
-    "text": "Muy bien pero me ha gustado menos que el de Rusia. Soberbio sobre Madam Bovary, sentimientos muy encontrados con el trato que le da a Jane Austen, me gustó el de Kafka y Stevenson y el resto los he leído por encima pero me los guardo para cuando lea los libros. https://t.co/wvacnmX48U",
-    "url": "https://twitter.com/i/web/status/1960866018193993863"
-  },
-  {
-    "text": "Genspark AI Agent just released AI Designer.\n\nYou can now have an AI agent that performs deep research and generates entire brand design systems.\n\n5 powerful use cases + how to try👇:\n\n1. From asset creation to full working site https://t.co/EgJQCveQVW",
-    "url": "https://twitter.com/i/web/status/1961456153415897471"
-  },
-  {
-    "text": "Profunda y erudita historia cultural sobre la memoria, su arte y su influencia en el devenir cultural. De Simónides de Ceos a Leibniz, pasando por la escolástica y la tradición hermética renacentista. Uno de esos libros de los que te surgen decenas de hilos de los que tirar. https://t.co/9AUwuhKikU",
-    "url": "https://twitter.com/i/web/status/1961463005738156139"
-  },
-  {
-    "text": ".@CJHandmer on how to feed the AIs.\n\n0:00:00 – Why doesn’t China win by default\n0:08:28 – Why hyperscalers choose natural gas over solar\n0:18:01 – Solar's astonishing learning rates\n0:27:02 – How to build 50,000 acre solar-powered data centers\n0:40:24 – Environmental regulations… https://t.co/yXCwRXrHU1",
-    "url": "https://twitter.com/i/web/status/1956376984126407089"
-  },
-  {
-    "text": "It's been a China week. \n\n- I've been reading Breakneck (like everyone else in the twittersphere) which pairs up great with his episode in the Works in Progress podcast https://t.co/aDHfEdhEmI\n- Energy and AI https://t.co/HpYSNjDyCD\n- En la mente de Xi (🇪🇸)…",
-    "url": "https://twitter.com/i/web/status/1961375715464475099"
-  },
-  {
-    "text": "Dan Wang (@danwwang) is the most insightful observer of China writing in English today. His new book, Breakneck, explains how China builds so much, and contrasts its ideology of engineering with the sclerotic legalism of the West.\n\nHe sat down with me and @pietergaricano to talk… https://t.co/o1EwcQd0sU",
-    "url": "https://twitter.com/i/web/status/1960988572955082903"
-  },
-  {
-    "text": "Gemini's new #nanobanana image editing makes it easy to isolate a single building or object and turn it into an isometric model.\n\nJust open Gemini, upload your image, and prompt \"Make an isometric model of the [object] only.\"\n\nHere are some examples for inspo 🧵",
-    "url": "https://twitter.com/i/web/status/1960791170411323607"
-  },
-  {
-    "text": "love these \"what does the red arrow see\" google maps transforms with nano-banana https://t.co/8c00Hcr2sM",
-    "url": "https://twitter.com/i/web/status/1960583251460022626"
-  },
-  {
-    "text": "@NoSoyLaGente Ahí lo tienes todo https://t.co/JLkeWGyEoL",
-    "url": "https://twitter.com/i/web/status/1960633644533395676"
-  },
-  {
-    "text": "@BaslaelWorkneh https://t.co/8bUIU895TY",
-    "url": "https://twitter.com/i/web/status/1960717264115671486"
-  },
-  {
-    "text": "My 20 favorite ideas from \"Poor Charlie's Almanack: The Wit and Wisdom of Charlie Munger\", filtered for startups: https://t.co/Lxpr5ZTHEi",
-    "url": "https://twitter.com/i/web/status/1961088747241353682"
-  },
-  {
-    "text": "\"La existencia no es vida\" https://t.co/j7ZmSB9Wnd",
-    "url": "https://twitter.com/i/web/status/1960658065814114810"
-  },
-  {
-    "text": "Correlaciones de fondos populares en España en los últimos 5 años. Alta correlación entre AZ y Cobas, entre Bestinver, Horos, Magallanes, True Value, Numantia y Avantage https://t.co/b6fjyg10yC",
-    "url": "https://twitter.com/i/web/status/1960638962059354450"
-  },
-  {
-    "text": "Un problema del cristianismo es que no distingue entre el virtuoso y el sojas. Quicir, poner la otra mejilla es un mensaje revolucionario, positivo y relevante cuando tu pueblo aplica el ojo por ojo. Pero cuando tu pueblo está castrado y por naturaleza no es capaz de responder…",
-    "url": "https://twitter.com/i/web/status/1960617002474574331"
-  },
-  {
-    "text": "“El problema de la autoridad política”, Michael Huemer\n⭐️⭐️⭐️⭐️ 4/5\n\nUno de mis filósofos contemporáneos predilectos, Michael Huemer, lanza un desafío tan sereno como explosivo: si uno acepta ciertas premisas morales aparentemente obvias (como que golpear a alguien está mal o que… https://t.co/wlrv8RiiDq",
-    "url": "https://twitter.com/i/web/status/1960339123568341003"
-  },
-  {
-    "text": "Estoy que no me quito este G-SHOCK G-LIDE, un regalazo puro surf con gráfico de mareas y fase lunar. Súper veraniego con la correa de resina azul. https://t.co/1G0mdkF19m",
-    "url": "https://twitter.com/i/web/status/1960347678585336105"
-  },
-  {
-    "text": "Un par de reflexiones interesantes para el problema del free will\n\n“Debido a que no puede predecir las particularidades de las situaciones futuras que un individuo podría enfrentar, la Naturaleza ha construido una organización psicológica subyacente de agencia que permite al…",
-    "url": "https://twitter.com/i/web/status/1960358317261283497"
-  },
-  {
-    "text": "Mi mejor inversión. No vuelvo a otra zapatillas, impresionante. https://t.co/50OZquqqv9",
-    "url": "https://twitter.com/i/web/status/1960189527441514809"
-  },
-  {
-    "text": "to recap\n\ncreatine:\n- makes you stronger and fitter\n- gives you more energy\n- neuroprotective and nootropic\n- boosts testosterone and fertility\n- improves memory and learning \n- faster recovery and less fatigue\n- gives you stronger bones\n- antidepressant \n- makes you hotter and… https://t.co/LJah384Edi",
-    "url": "https://twitter.com/i/web/status/1960371204755497112"
-  },
-  {
-    "text": "Vale, por fin he podido terminar la guía de @pulsometabolico sobre el rollo peaty y eso. Mi honesta impresión:\n- Full de teoría con palabras que no entiendo <- Esto no me ha molado. \n- Indicaciones prácticas y simples para que un simio como yo pueda seguir <- Esto sí.\n\nMi única… https://t.co/CXdeB3OR3r",
-    "url": "https://twitter.com/i/web/status/1960396954992611580"
-  },
-  {
-    "text": "Ya a la venta la primera edición de la Guía Prometeo para salvar tu metabolismo, valorada en 30€.\n\nExplicado todo al dedillo para que entendáis vuestro cuerpo y actuéis en consecuencia.\n\nSe sortearán 3 ejemplares en PDF entre los que me sigan y den RT y MG a este tweet ☀️.… https://t.co/GXNFFg1pgf",
-    "url": "https://twitter.com/i/web/status/1950955968885371015"
-  },
-  {
-    "text": "@pitiklinov Esto me recuerda al encantador libro “Lo que Sócrates diría a Woody Allen: Cine y filosofía” de Juan Antonio Rivera, donde el autor utiliza el cine como un medio para explorar cuestiones filosóficas, incluyendo el concepto del \"apetito fáustico\". Término que se refiere a la…",
-    "url": "https://twitter.com/i/web/status/1960079786954383600"
-  },
-  {
-    "text": "https://t.co/4RTo06HptY https://t.co/nznL3LMRuG",
-    "url": "https://twitter.com/i/web/status/1960082097940369677"
-  },
-  {
-    "text": "@flanagrama Leete ‘La Historia de la Civilización’ de Durant (aunque sáltate el primer tomo y empieza por Grecia directamente). Y aunque necesitarás todo el año para acabártelo, nunca verás la Historia de la misma manera. Y lo que es mejor (o peor), podrás prever el futuro que nos espera",
-    "url": "https://twitter.com/i/web/status/1959698670712148090"
-  },
-  {
-    "text": "Menudo nivel de series en lo que llevamos de año, eh. https://t.co/4jhIcrKli0",
-    "url": "https://twitter.com/i/web/status/1914047237128155261"
-  },
-  {
-    "text": "¿Qué es para vosotros la elegancia?",
-    "url": "https://twitter.com/i/web/status/1912557443378303293"
-  },
-  {
-    "text": "“Todo lo que hace lo hace bien. Además parece que no le cuesta, o le desgasta. Eso quiere decir que lo hace doblemente bien” https://t.co/xyDkKu4aPG",
-    "url": "https://twitter.com/i/web/status/1914084158558662868"
-  },
-  {
-    "text": "Algo que repito (en particular a mí mismo) cada cierto tiempo: \n\ndirection is so much more important than speed many are going nowhere fast\n\nEn particular, yo he cometido ese error muchas veces. Hay que dedicar tiempo a pensar. Mucho más del q creo q està de moda dedicar...",
-    "url": "https://twitter.com/i/web/status/1913891786726011385"
-  },
-  {
-    "text": "Le carnet de croquis de William Turner https://t.co/EEfGiJJT9r",
-    "url": "https://twitter.com/i/web/status/1913532674662162616"
-  },
-  {
-    "text": "No cheap dopamine https://t.co/OU8x680le2",
-    "url": "https://twitter.com/i/web/status/1913557869045166569"
-  },
-  {
-    "text": "This is the philosophy subject for the 2025 entrance exam of France's École Normale Supérieure: just two words in quotation marks, \"Tu dois\" (\"You must\"). \n\nThe candidates had 6 hours to write their essay around this 😅\n\nFor those who aren't familiar with it, École Normale… https://t.co/yS3LlmGI0w",
-    "url": "https://twitter.com/i/web/status/1913410202176725425"
-  },
-  {
-    "text": "Muy buenos puntos en este artículo, que entroncan con perspectivas y referencias con las que nos formamos en @somostramontana.\n\nhttps://t.co/ZY2g30sD4X https://t.co/NEakIdtnMJ",
-    "url": "https://twitter.com/i/web/status/1913574243008238069"
-  },
-  {
-    "text": "TED Talk de @ole_b_peters sobre la ergodicidad https://t.co/HgGbhPslLq",
-    "url": "https://twitter.com/i/web/status/1913844838501404829"
-  },
-  {
-    "text": "@jobergum https://t.co/itmCLizyt2",
-    "url": "https://twitter.com/i/web/status/1913553627186090167"
-  },
-  {
-    "text": "@jobergum Try this Prompt in ChatGPT:  \n\nI want you to act and take on the role of my brutally honest, high-level advisor.   \n\nSpeak to me like I’m a founder, creator, or leader with \n\nmassive potential but who also has blind spots, weaknesses, or delusions that need to be cut through…",
-    "url": "https://twitter.com/i/web/status/1913632023908110821"
-  },
-  {
-    "text": "This is why 99% of people stay stuck their entire lives: https://t.co/qSrdFZ3QYB",
-    "url": "https://twitter.com/i/web/status/1913298344950030838"
-  },
-  {
-    "text": "Book Summary: “The Science of Rapid Skill Acquisition”\n\ntap, hold, load 4k https://t.co/krqOocwMsm",
-    "url": "https://twitter.com/i/web/status/1913587253105873280"
-  },
-  {
-    "text": "@jaime_rdes 👌 https://t.co/znl2zB3R3i",
-    "url": "https://twitter.com/i/web/status/1913538926205129186"
-  },
-  {
-    "text": "\"Una de las razones más importantes para estudiar historia es que prácticamente todas las ideas estúpidas que hoy están de moda ya se han probado antes y han resultado desastrosas, una y otra vez.\" \n\n —Thomas Sowell https://t.co/abQdIaell1",
-    "url": "https://twitter.com/i/web/status/1913618002106294292"
-  },
-  {
-    "text": "Skylark and Quail, by Kitagawa Utamaro, late 18th century-early 19th century https://t.co/XyXRyzwM74",
-    "url": "https://twitter.com/i/web/status/1913524220115689670"
-  },
-  {
-    "text": "Una de mis cosas favoritas de Murakami es que tenía un club de Jazz y ayer me topé con esta maravilla y no pude resistirme. https://t.co/ezAwSKl56a",
-    "url": "https://twitter.com/i/web/status/1913506291860803944"
-  },
-  {
-    "text": "Consejos para adolescentes:\n1. No vayas a la universidad \"porque es lo que toca\".\n2. Fórmate continuamente.\n3. Asume que trabajador y freelancer son la misma cosa. Ya no existe la seguridad.\n4. Toma riesgos.\n5. Ahorra e invierte desde YA (la cantidad da igual).\n6. No hagas…",
-    "url": "https://twitter.com/i/web/status/1913578579474190439"
-  },
-  {
-    "text": "Elegir qué libros leer es elegir qué ideas dejas entrar en tu cabeza.\n\nTengo sentimientos encontrados con las listas. La cantidad no debe confundirse con la calidad. Buscas buenos libros, no más libros. \n\nComparto en este hilo los 30 libros que más he disfrutado este 2023.",
-    "url": "https://twitter.com/i/web/status/1740657967727583361"
-  },
-  {
-    "text": "Esta es mi semana Santa 😅 https://t.co/EPVopLctpd",
-    "url": "https://twitter.com/i/web/status/1913194602330288503"
-  },
-  {
-    "text": "Mi libro 'El enigma de Dios' estará en las librerías el próximo 14 de mayo. Ya está disponible en preventa en Amazon en el siguiente enlace: https://t.co/TLlm5XT8CM https://t.co/57FNoDqaSr",
-    "url": "https://twitter.com/i/web/status/1912041803102007351"
-  },
-  {
-    "text": "You can’t promise success, but you can promise that you’ll give it your all.",
-    "url": "https://twitter.com/i/web/status/1912408468402688180"
-  },
-  {
-    "text": "🦾  Skin in the AI game\n\nEsta es una parte de mí que no suelo hacer pública: mi tesis de inversión derivada de mi visión del futuro. Porque invertir es justamente eso, una apuesta a que seremos capaces de adivinar el futuro.\n\nId a por un café, porque esto va para largo. Hacía… https://t.co/zevmae9cU3",
-    "url": "https://twitter.com/i/web/status/1912185346626056602"
-  },
-  {
-    "text": "Indeed w @nfergus. Graeber (2011) confuses solidarity w rule of law. https://t.co/V5Io2MUIXK",
-    "url": "https://twitter.com/i/web/status/743516711865974784"
-  },
-  {
-    "text": "“Three decisions determine 90% of your life outcomes: who you're with, what you do, and where you live.” - @naval https://t.co/memNhMKSin",
-    "url": "https://twitter.com/i/web/status/1912351797110337768"
-  },
-  {
     "text": "Graham’s hierarchy of disagreement\nFrom @paulg https://t.co/J5NxJqXj1Q",
     "url": "https://twitter.com/i/web/status/1457062492337852416"
   },
@@ -11377,6 +12394,106 @@ window.LIKES = [
   {
     "text": "Si os gusta leer en inglés, os recomiendo el siguiente artículo: \nhttps://t.co/bxbapTtPlB \n\n#FECYTedu",
     "url": "https://twitter.com/i/web/status/1456616712397328385"
+  },
+  {
+    "text": "Elsa Beskow’s books comprise the most significant part of our collection. Her illustrations are enchanting, and the stories are a joy to read aloud. https://t.co/Bze1MJO19W",
+    "url": "https://twitter.com/i/web/status/1509538121188352004"
+  },
+  {
+    "text": "A thread of my 5yo daughter’s most beloved chapter books thus far 🧵",
+    "url": "https://twitter.com/i/web/status/1942567919331795226"
+  },
+  {
+    "text": "https://t.co/WHOLImLDyX",
+    "url": "https://twitter.com/i/web/status/1941738888214741195"
+  },
+  {
+    "text": "https://t.co/SXZm1lLM1T https://t.co/0vJZaspSu6",
+    "url": "https://twitter.com/i/web/status/1941964374714810418"
+  },
+  {
+    "text": "Feynman on beauty of the flower:\n\nI have a friend who’s an artist and has sometimes taken a view which I don’t agree with very well. He’ll hold up a flower and say “look how beautiful it is,” and I’ll agree. Then he says “I as an artist can see how beautiful this is but you as a… https://t.co/PTL5IDMTBZ",
+    "url": "https://twitter.com/i/web/status/1941906304689483925"
+  },
+  {
+    "text": "Ya no comparto mis pensamientos para convencer a nadie.\n\nLos comparto para que a los que les resuene, sepan que no están solos.",
+    "url": "https://twitter.com/i/web/status/1941777992620912748"
+  },
+  {
+    "text": "How to build a thriving open source community by writing code like bacteria do 🦠. Bacterial code (genomes) are:\n\n- small (each line of code costs energy)\n- modular (organized into groups of swappable operons)\n- self-contained (easily \"copy paste-able\" via horizontal gene… https://t.co/0xVX3NAMhC",
+    "url": "https://twitter.com/i/web/status/1941616674094170287"
+  },
+  {
+    "text": "My worldview in four texts https://t.co/AnPDdVyXFI https://t.co/jRLH7WD8qS",
+    "url": "https://twitter.com/i/web/status/1941477657931284540"
+  },
+  {
+    "text": "Una pequeña recomendación (menos de 150 páginas). Tema relevante, bien escrito, muy bien escogidas las citas, bien argumentado. Reconozco que la referencia a “Merlin el encantador” me ha ganado (muy buena traducción, por cierto). https://t.co/DaaCyloHv0",
+    "url": "https://twitter.com/i/web/status/1940374956501864785"
+  },
+  {
+    "text": "He spent eight months in Carrara. I wonder if he watched them cut every piece.\n\nIn the end his designs for the tomb of Julius II had to be greatly scaled down from a small building to a wall of statues. Moses sits center. https://t.co/8uWVjTsWhD",
+    "url": "https://twitter.com/i/web/status/1940568201269858618"
+  },
+  {
+    "text": "My daughter’s favorite books on Greek Mythology are:\n\nD'Aulaires Book of Greek Myths, Edgar and Ingri d'Aulaire 1962\n\nA Wonder-Book for Girls and Boys, Nathaniel Hawthorne 1851\n\nTanglewood Tales, Nathaniel Hawthorne 1853\n\nMythology,  Edith Hamilton 1942 https://t.co/p7MJ9swdi4 https://t.co/908JrdzM8E",
+    "url": "https://twitter.com/i/web/status/1940768673494716779"
+  },
+  {
+    "text": "A veces, puede ser tentador preguntarse \"¿por qué me está pasando esto?\". Y no voy a decir que sea una pregunta inútil, pero suele ser menos útil que la de \"¿qué me está enseñando esto?\".",
+    "url": "https://twitter.com/i/web/status/1940788372219289918"
+  },
+  {
+    "text": "@VyctoryaL @varaskkar Jajaja cierto, crucé súper random las dos cosas. Pero es el verbo (logos) por algo y lo usa para crear. Palabra, razón y creación son lo mismo.",
+    "url": "https://twitter.com/i/web/status/1941034223349207108"
+  },
+  {
+    "text": "Es muy importante que tengas un léxico rico y que conozcas tantas etimologías como sea posible.\n\nCuanto mejor tu vocabulario, mejor puedes re-programarte a ti mismo y crear nueva realidad.",
+    "url": "https://twitter.com/i/web/status/1940818570205679901"
+  },
+  {
+    "text": "Steve Jobs, Playboy Interview, 1985 https://t.co/xiWY9uI2Jd",
+    "url": "https://twitter.com/i/web/status/1940997407250305362"
+  },
+  {
+    "text": "¿Cuál es tu ídolo?\n“Hacia la mitad del podcast con Arthur C. Brooks -experto en la ciencia de la felicidad- me preguntó si quería jugar a un juego de autoconocimiento basado en el concepto de Tomás de Aquino de los cuatro ídolos mundanos.\n¿Quién podría negarse?\nBrooks explicó que…",
+    "url": "https://twitter.com/i/web/status/1941037513818169698"
+  },
+  {
+    "text": "what is discipline? https://t.co/sZz8Cg4Bxd",
+    "url": "https://twitter.com/i/web/status/1940860831044153411"
+  },
+  {
+    "text": "Me ha encantado esta charla\n\nhttps://t.co/CHSVR68V61",
+    "url": "https://twitter.com/i/web/status/1941173555242393978"
+  },
+  {
+    "text": "El 99% de los consejos son ruido.\n\nLa única señal que debería importarte es esta: Empieza. Hoy. Ahora.\n\nAsí de simple.",
+    "url": "https://twitter.com/i/web/status/1941180707155394956"
+  },
+  {
+    "text": "@Fel_blan https://t.co/pII18baPgq",
+    "url": "https://twitter.com/i/web/status/1941220824918392868"
+  },
+  {
+    "text": "Majestuoso post sobre libros bien interesantes. Llenos de citas, aunque la mejor para mí es del autor: \"Juan Antonio Rivera es, para que los que estéis algo puestos en el mundillo me entendáis, Capella pero bien.\"\nhttps://t.co/MZ3NXCb9PO https://t.co/s9ZCp1L4hw",
+    "url": "https://twitter.com/i/web/status/1940043735536169042"
+  },
+  {
+    "text": "Understand. Don't memorize.  \nLearn principles, not formulas.\n\n- R. Feynman https://t.co/ADtHx76QWL",
+    "url": "https://twitter.com/i/web/status/1939686991169523883"
+  },
+  {
+    "text": "Thinking so much about this lately... https://t.co/sM6bq0obqs",
+    "url": "https://twitter.com/i/web/status/1939759088558039123"
+  },
+  {
+    "text": "Currently $2.99 on Kindle. Imho, this book is absolutely essential for anyone seeking basic literacy in social science and psychology. I've read it at least 4X. (In a recent interview, Mercier indicated that Boyer has a forthcoming book on, I think, political extremism.) https://t.co/uqT0gplMnU",
+    "url": "https://twitter.com/i/web/status/1938637457735500197"
+  },
+  {
+    "text": "Entrevista con Bernhard Schlink por Irene Vallejo https://t.co/UaKD00B6z3 via @YouTube Fantásticos los dos :)",
+    "url": "https://twitter.com/i/web/status/1938717975793598966"
   },
   {
     "text": "Y este es un libro maravilloso sobre un aspecto concreto, la negación  de la realidad y el no ver el elefante en el ascensor: https://t.co/e4vb9KRNvo",
@@ -11667,6 +12784,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1446527443351871504"
   },
   {
+    "text": "De los podcasts más interesantes que he escuchado últimamente. Sobre luxury beliefs, virtue signaling, la sociología detrás de Tinder...\n\nDe @jordanbpeterson con @robkhenderson. Recomendado.\n\nhttps://t.co/KZ0ZS9uyf5",
     "url": "https://twitter.com/i/web/status/1446740333203709954"
   },
   {
@@ -11726,7 +12844,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1388378015021862912"
   },
   {
-    "text": "You’re unable to view this Post because this account owner limits who can view their Posts. {learnmore}",
+    "text": "Por eso no siempre el drama o el thriller puro son los géneros que mejor transmiten los hechos reales. Pienso en ese tono tan difícil y logrado de “A very british scandal”. Aquí lo más parecido que hemos tenido es la estupenda “Negociador” de @borjacobeaga https://t.co/5O82K7yEFu",
     "url": "https://twitter.com/i/web/status/1437548348903411717"
   },
   {
@@ -12234,6 +13352,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1430946439593607171"
   },
   {
+    "text": "Nadie duda de que las sociedades avanzadas llegarán eventualmente a un nivel de productividad suficiente para financiar la RBU de manera sostenible. Para mí, el problema que no está resuelto es el efecto que tendría la RBU en la coordinación del mercado y la división del trabajo. https://t.co/C8ufFCKDEz",
     "url": "https://twitter.com/i/web/status/1430995895122862082"
   },
   {
@@ -12253,6 +13372,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1430402352259948545"
   },
   {
+    "text": "No se si somos conscientes del enorme problema que supone esto para el progreso del mundo. \n\nPor cierto, si conocéis a alguien con la claridad de ideas de Marc Andreessen, me decís. Tremendo cómo le va la cabeza, mi nuevo gurú favorito. \n\nhttps://t.co/Wvvmz1Zh2I https://t.co/lWWfAXnI3c",
     "url": "https://twitter.com/i/web/status/1430228563006001154"
   },
   {
@@ -12364,106 +13484,6 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1428633810216890374"
   },
   {
-    "text": "People don't like to admit this https://t.co/yeYc9Cf41F",
-    "url": "https://twitter.com/i/web/status/1912564146136113251"
-  },
-  {
-    "text": "Don’t just read books, re-read books.  What's your favorite book to re-read?",
-    "url": "https://twitter.com/i/web/status/1912537472426524734"
-  },
-  {
-    "text": "https://t.co/05xqNnhrll",
-    "url": "https://twitter.com/i/web/status/1912424997781397945"
-  },
-  {
-    "text": "Everyone needs to hear this… https://t.co/Iu1TqCNEku",
-    "url": "https://twitter.com/i/web/status/1912487333708058645"
-  },
-  {
-    "text": "Book Summary: “Hidden Potential”\n\ntap, hold, load 4k https://t.co/NeMBOt5V4W",
-    "url": "https://twitter.com/i/web/status/1912614651537543288"
-  },
-  {
-    "text": "OpenAI published their official GPT-4.1 prompting guide, and I summarized it into these 13 practical tips to help you get the most out of the new model. https://t.co/8pOvNriK22",
-    "url": "https://twitter.com/i/web/status/1912298263987757296"
-  },
-  {
-    "text": "Alberto Mielgo, ganador del Oscar por \"El limpiaparabrisas\" y nombre habitual de \"Love, Death + Robots\", acaba de estrenar un corto de 8 minutos con su habitual narrativa y riqueza visual para el videojuego #Marathon de Bungie (\"Destiny\", \"Halo\") https://t.co/qhBOeODyJX https://t.co/kiReEMuxaV",
-    "url": "https://twitter.com/i/web/status/1911741349130272806"
-  },
-  {
-    "text": "Opened ChatGPT.\n\nPrompt:\n\n“Now that you can remember everything I’ve ever typed here, point out my top five blind spots.”\n\nMind. Blown.",
-    "url": "https://twitter.com/i/web/status/1911220818014536123"
-  },
-  {
-    "text": "I'm 43.\n\nIf you're still in your 20s (or 30s), read this:",
-    "url": "https://twitter.com/i/web/status/1911086789906792802"
-  },
-  {
-    "text": "Diría que este libro es como Aristóteles: se equivoca en todo lo que dice, pero trata los temas correctos -los que tenemos que tratar- y es extremadamente influyente, así que no puedo deciros que no lo leáis. https://t.co/MAVI96wTGJ",
-    "url": "https://twitter.com/i/web/status/1910312924989780318"
-  },
-  {
-    "text": "Últimamente estoy abriéndome a la ingenua pregunta de por qué sistemáticamente en todo el mundo y durante más de 3000 años se ha perseguido al mismo grupo de personas https://t.co/Z64Wc0ODbE",
-    "url": "https://twitter.com/i/web/status/1910274305830568197"
-  },
-  {
-    "text": "Así uno comprende el valor real de la buena educación (y no me refiero al colegio).\n\nSi tus padres consiguen inculcarte un buen modelo mental, le llevas al resto 10 años de ventaja. Pero ojo, como te enseñen uno erróneo, es posible que te arruinen la vida.",
-    "url": "https://twitter.com/i/web/status/1910286735596228668"
-  },
-  {
-    "text": "Es increíble cómo evoluciona tu modelo mental con el tiempo: descubres nuevas formas de entender el mundo, las personas, el trabajo... cosas que ni siquiera sabías que existían.\n\nSi pudieras volver atrás con tu mente actual, te comerías cualquier situación. Sería como buscar un…",
-    "url": "https://twitter.com/i/web/status/1910286723617312916"
-  },
-  {
-    "text": "Sam Altman on luck https://t.co/RshrDECZZJ",
-    "url": "https://twitter.com/i/web/status/1909303596639724000"
-  },
-  {
-    "text": "https://t.co/UyV02D7kne",
-    "url": "https://twitter.com/i/web/status/1909886901416271908"
-  },
-  {
-    "text": "Jesús Terrés: «Mis mayores alegrías están en la cotidianeidad: en un café, leer un libro…».\n\nEntrevista de @Raquel_Jimenez a @nadaimporta por la publicación de \"Vivir sin miedo\". @EdDestino Fotos: @JeosmPhoto https://t.co/5tRpO305eE",
-    "url": "https://twitter.com/i/web/status/1909902103184564274"
-  },
-  {
-    "text": "https://t.co/Ckh3c7TD8p",
-    "url": "https://twitter.com/i/web/status/1910017051046912172"
-  },
-  {
-    "text": "¿Diseñaremos productos sin pantallas?\n¿Interactuaremos solo con la voz?\n¿La película \"Her\" es el futuro?\n\nEsta semana, hablamos con @javiercanada, fundador del @somostramontana y uno de los grandes referentes del Diseño.\n\nYouTube -> https://t.co/1rrt0NeMpe https://t.co/zfKDwB9oI9",
-    "url": "https://twitter.com/i/web/status/1909977463595139294"
-  },
-  {
-    "text": "ChatGPT-4o is a phenomenal model from OpenAI.\n\nI've been experimenting with it and discovered many amazing uses.\n\nHere are the best ones.\n\nBookmark this for future reference! 🔖 https://t.co/tLb5BiUhWK",
-    "url": "https://twitter.com/i/web/status/1909898661393244544"
-  },
-  {
-    "text": "Almost every group that agrees on the big things ends up fighting about less important things and becoming enemies even though they should be bound by the big things. This phenomenon is called the narcissism of small differences. Take the Protestants and Catholics. Though both… https://t.co/e3jHBxOMH4",
-    "url": "https://twitter.com/i/web/status/1909648530215719157"
-  },
-  {
-    "text": "@chepauet Échale un ojo a esto, fue mi rabbit hole hace un mes https://t.co/5hNwvO9fRx",
-    "url": "https://twitter.com/i/web/status/1909563693802869021"
-  },
-  {
-    "text": "Nuestros padres entendían mejor la brevedad, finitud y aleatoriedad de la vida. Eso es lo que hay en el \"si Dios quiere\" que acompaña cualquier voluntad de hacer algo en el futuro. Nosotros creemos que viviremos para siempre y que tenemos control sobre nuestras acciones futuras",
-    "url": "https://twitter.com/i/web/status/1909319514296402379"
-  },
-  {
-    "text": "Sam Altman’s Secret to Amplifying Your Ideas with ChatGPT\n\n\"A big part of the value of writing is to clarify your own thinking.\n\nAnd we have new tools that help you do that better than ever before.\"\n\n@sama talking with @david_perell https://t.co/Qe6uzgugVj",
-    "url": "https://twitter.com/i/web/status/1909460620535382369"
-  },
-  {
-    "text": "this guy is probably the most influential man you’ve never heard of and has an incredible talk from 1952 explaining how to improve your problem solving https://t.co/suMTkOJuJf",
-    "url": "https://twitter.com/i/web/status/1909274912373473488"
-  },
-  {
-    "text": "Leyendo este magnífico ensayo de Canfora publicado por @edicionesiruela https://t.co/ttExZzg8Zt",
-    "url": "https://twitter.com/i/web/status/1909275354268676155"
-  },
-  {
     "text": "Growing companies obsess about their customers, not competitors.\n\n—Jeff Bezos 2009 https://t.co/8vA5wgzK03",
     "url": "https://twitter.com/i/web/status/1428369288197443584"
   },
@@ -12474,6 +13494,106 @@ window.LIKES = [
   {
     "text": "@jachiam0 One of my favorite lifehacks! https://t.co/gwOaN21jus",
     "url": "https://twitter.com/i/web/status/1428025568252076034"
+  },
+  {
+    "text": "Cooperación:\n\n- rule of law/\n- comercio\n- propiedad\n- ahorro\n- estabilidad oferta monetaria\n- tomismo/escolástica/Viena\n\nConflicto:\n\n- intervencionismo\n- déficit/deuda\n- inflación\n- controles de precios\n- proteccionismo\n- marxismo/historicismo https://t.co/1EqNBKMJ2d",
+    "url": "https://twitter.com/i/web/status/1938852070540636668"
+  },
+  {
+    "text": "Coincido con marta en la forma. Por ejemplo @Monica_Garcia_G. De los políticos en primera linea me parece de las más honestas, que está ahí por ideales. Aún así de presidente mejor koldo que Mónica. El daño que puede hacer un político honesto con las ideas equivocadas es enorme. https://t.co/pZB0yv5NcO",
+    "url": "https://twitter.com/i/web/status/1934590539493458383"
+  },
+  {
+    "text": "Algo en lo que creo (y corroboro) es cómo hacia dónde dirigimos la atención cambia radicalmente nuestra experiencia en el mundo. \n\nVarias ideas del artículo de @LMSacasas “If your world is not enchanted, you're not paying attention” que merecen ser comentadas✨ https://t.co/gK5smbHmpX",
+    "url": "https://twitter.com/i/web/status/1869485305075773737"
+  },
+  {
+    "text": "Diez ideas sobre la genialidad que merece la pena estamparse en una camiseta:\n\n1⃣ El genio no es una condición, es un momento.\n (No existen genios permanentes, sino instantes en los que algo extraordinario ocurre a través de alguien.)\n\n2⃣ Don sin contexto es semilla en piedra.…",
+    "url": "https://twitter.com/i/web/status/1935287232803303456"
+  },
+  {
+    "text": "TIL localhost can have subdomains https://t.co/lpl6WnGtnG",
+    "url": "https://twitter.com/i/web/status/1938270759765352724"
+  },
+  {
+    "text": "@jacobmparis Oh man. This is actually brilliant! Means you can have different cookies and session storage from other localhost things 😱",
+    "url": "https://twitter.com/i/web/status/1938271444435189957"
+  },
+  {
+    "text": "Vargas Llosa explica de manera muy sugestiva su visión sobre el papel de la literatura en tiempos convulsos. Dos imágenes conmovedoras de adversarios ideológicos: Walter Benjamin escribiendo sobre Baudelaire mientras la sombra del nazismo se extendía por Europa y Karl Popper, en… https://t.co/KbCYyhBP5v",
+    "url": "https://twitter.com/i/web/status/1938202346078474465"
+  },
+  {
+    "text": "Si → Entonces:\n\nDemasiadas ideas → Escribe\nSin inspiración → Lee\nCon miedo → Toma un riesgo pequeño\nEncallado → Camina\nCansado → Duerme\nConfundido → Pregunta\nFrustrado → Cambia el foco\nQuemado → Descansa\nImpaciente → Revisa tu progreso\nDesmotivado → Recuerda tu porqué",
+    "url": "https://twitter.com/i/web/status/1938217935685706219"
+  },
+  {
+    "text": "@wylfcen Searched great  innovators in history and the results shocked me https://t.co/4RBeLiTYsM",
+    "url": "https://twitter.com/i/web/status/1937856592977764542"
+  },
+  {
+    "text": "Sobre la impaciencia. \n\n¿Somos incapaces de quedarnos quietos en una habitación? https://t.co/o7uCPMWRkL",
+    "url": "https://twitter.com/i/web/status/1937551381574922707"
+  },
+  {
+    "text": "Hasta Steve Jobs sabía que la carrera más importante es la carrera al altar! https://t.co/lK0rRDcTYC",
+    "url": "https://twitter.com/i/web/status/1937589352961290658"
+  },
+  {
+    "text": "Boenos días.\n\nEso que tanto deseas de la vida está escondido tras un muro de 1000 horas de trabajo y 50 horas de vergüenza.\n\nEs simple.",
+    "url": "https://twitter.com/i/web/status/1937766710041542995"
+  },
+  {
+    "text": "What other tech has reached its final form? https://t.co/tlQ7eUnina",
+    "url": "https://twitter.com/i/web/status/1937588212412649702"
+  },
+  {
+    "text": "Revisando la astronómica cifra gastada entre salchipapas, algodón de colores, atracciones de dudoso anclaje y tiro de dardos en la feria de San Antonio de la Florida, nos estamos planteando irnos el año que viene la semana de fiestas a Disneyland, o ahorrar la entrada para el… https://t.co/x2KlA45MbO",
+    "url": "https://twitter.com/i/web/status/1937456087558496566"
+  },
+  {
+    "text": "@CarlosMoralesG_ Sin ningún tipo de coña, buen gramaje y aguantan de lujo:\n\nhttps://t.co/909KoDoExz",
+    "url": "https://twitter.com/i/web/status/1891872120189173952"
+  },
+  {
+    "text": "Un clásico https://t.co/xmI4gC46Vx",
+    "url": "https://twitter.com/i/web/status/1937137759048843505"
+  },
+  {
+    "text": "Taleb recomendó el libro y claro no falla https://t.co/zbKjzNMZKn",
+    "url": "https://twitter.com/i/web/status/1937137398200320078"
+  },
+  {
+    "text": "We’ve got Cursor for coding… but where’s the Cursor for design?",
+    "url": "https://twitter.com/i/web/status/1936466846934536476"
+  },
+  {
+    "text": "La comida en las películas de STUDIO GHIBLI\n\n- Edición @Herrozzy. https://t.co/iIkSloskwR",
+    "url": "https://twitter.com/i/web/status/1119967358658011145"
+  },
+  {
+    "text": "Super libro. Y de esos libros que te hacen reír en voz alta. https://t.co/mTPixZ4iJ7",
+    "url": "https://twitter.com/i/web/status/1936663308364324919"
+  },
+  {
+    "text": "Fondos de dividendos, ordenados por rentabilidad a 10 años ⬇️⬇️ https://t.co/NDveECvcko",
+    "url": "https://twitter.com/i/web/status/1936380687067779269"
+  },
+  {
+    "text": "Las habilidades CLAVE según el pensador y millonario Naval Ravikant:\n\n🔸 Lectura\n🔸 Escritura\n🔸 Aritmética/Lógica\n🔸 Oratoria / (Ventas?)\n🔸 Ingeniería de software\n\n¿Qué falta? https://t.co/jzUtcvsggP",
+    "url": "https://twitter.com/i/web/status/1936000330871062912"
+  },
+  {
+    "text": "Things that Schools should teach: \n\n• Being wrong is not a bad thing.\n• It's Okay to question what you have been taught.\n• Grades aren't as valuable as skills.\n• Understanding is more important than memorization.\n• Making mistakes is Okay. Learn from your mistakes.",
+    "url": "https://twitter.com/i/web/status/1936007361514360910"
+  },
+  {
+    "text": "Como la música, la literatura, la pintura y la arquitectura producen inspiración y persiguen la belleza. Como esa belleza puede hacerte sentir que el tiempo se detiene, se suspende. \nGracias por el regalo @isadc_. Gracias @somostramontana por regalarnos referencias diferentes. https://t.co/tJHB1FpS4x",
+    "url": "https://twitter.com/i/web/status/1935397919991152798"
+  },
+  {
+    "text": "Me quedo con las primeras palabras de esto y aprovecho para comentar mis impresiones sobre este tema.\n\nAntes de hablar de la IA en sí, dejad que os dé un modelo mental que os será muy útil: \n\nEste modelo mental tiene 3 patas: 1. El ser humano es malísimo prediciendo segundas,… https://t.co/R9qoSW91TV",
+    "url": "https://twitter.com/i/web/status/1934909928705032630"
   },
   {
     "text": "He empezado \"The Sovereign Individual\" con el pie bastante cruzado. Afirmaciones muy atrevidas sin ningún respaldo, primer gran predicción -el \"Y2K problem\"-, seguido de \"la historia tiene un destino\" y \"the mysterious five-hundred-year cycle\"...",
@@ -12580,6 +13700,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1425531970264653827"
   },
   {
+    "text": "Este finde he pensado mucho sobre Capital Humano y la transición del mundo educativo al laboral. He escrito algunas algunas cosas y aprovechado para explicar la idea Mente(e)s Network, la 3era iniciativa de Mente(e)s Project.\n\nIntro to Mente(e)s Network https://t.co/1GyZr8ZcUd",
     "url": "https://twitter.com/i/web/status/1425177128019144705"
   },
   {
@@ -12631,6 +13752,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1424310854762250242"
   },
   {
+    "text": "Why adult life seems dull at times? It makes sense from an evolutionary perspective but it comes at the expense of a less intense experience of the day-to-day life by the individual. https://t.co/nh2wXDiICi",
     "url": "https://twitter.com/i/web/status/1424306408791674881"
   },
   {
@@ -12730,6 +13852,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1422986416741572608"
   },
   {
+    "text": "Viendo los JJ. OO. he pensado que si mi hijo/a quisiera intentar ser deportista profesional y me pidiera consejo sobre qué deporte escoger porque le gustan varios, mis 4 recomendaciones serían:",
     "url": "https://twitter.com/i/web/status/1422646022321356809"
   },
   {
@@ -12829,6 +13952,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1421043502562123778"
   },
   {
+    "text": "Me queda el tercio final pero me está gustando más que el recuerdo que tengo de Thinking Fast & Slow. Además tiene muchos capítulos aplicables al mundo de la inversion, que no es más que el arte de reducir el “bias” y el “noise” al aplicar el “judgement”. https://t.co/gJW6KgoKol",
     "url": "https://twitter.com/i/web/status/1421179794125901825"
   },
   {
@@ -13040,6 +14164,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1408497432166645766"
   },
   {
+    "text": "Dos recomendaciones de podcasts que he escuchado esta semana y que me han encantado a pesar de que ya había escuchado mucho de ambos entrevistados con\n- Marc Andreessen en Invest Like The Best: https://t.co/mD2Hq9hcrb\n\n- Andrew Huberman con T. Ferris: https://t.co/656CStVKzF",
     "url": "https://twitter.com/i/web/status/1413819745737060352"
   },
   {
@@ -13131,6 +14256,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1406232996584296449"
   },
   {
+    "text": "Acabo de terminar esta entrevista y no necesito saber nada más de este chaval para estar seguro de que, cualquiera que sea la cosa que decida hacer en la vida, va a reventarlo. Apuntad el nombre: Pierpaolo Barbieri, 34 años, fundador de Ualá. \n\nhttps://t.co/tlELgRm0F5",
     "url": "https://twitter.com/i/web/status/1395860280891092992"
   },
   {
@@ -13458,106 +14584,6 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1393511128144039938"
   },
   {
-    "text": "GUÍA DE RESTAURANTES DE ESPAÑA\n\nAhora que nos vamos de vacaciones os dejo de nuevo la guía de restaurantes por provincias que he ido guardando durante años con recomendaciones fiables de gente del buen comer.\n\nActualizada hace un mes con más de 2.000 sitios donde comer bien.… https://t.co/jt60ZHG93O",
-    "url": "https://twitter.com/i/web/status/1817126328396665317"
-  },
-  {
-    "text": "Boenos días:\n\nTodo lo que tiene valor en la vida se construye con 3 recursos finitos:\n- Tiempo\n- Energía\n- Atención\n\n¿Qué vas a hacer hoy para no malgastarlos?",
-    "url": "https://twitter.com/i/web/status/1908776691746451668"
-  },
-  {
-    "text": "@AngelLopezRM Buscas el ISIN, añades las participaciones y el precio medio y te sale https://t.co/TA5ksOZSsb",
-    "url": "https://twitter.com/i/web/status/1908463431620886656"
-  },
-  {
-    "text": "And here's proof that, based on temperatures, the city I've visited with the best weather year-round is Mexico City. https://t.co/zYAMnQx4O3 https://t.co/K6Q00C3BUQ",
-    "url": "https://twitter.com/i/web/status/1908444385034850710"
-  },
-  {
-    "text": "This is probably the best way I've ever seen to visualize the climate of a city, and it's great for comparing two cities, like Madrid and London here. Grouping temperatures by how they feel, organizing data by day to get high resolution, and using shading to show daylight hours,… https://t.co/9NsZ9ABxNh",
-    "url": "https://twitter.com/i/web/status/1908442827878543596"
-  },
-  {
-    "text": "Los estudios de color son, para mí, como esas bolsas de chuches de a euro. Mejor no empezar. https://t.co/0B5C1aLjPu",
-    "url": "https://twitter.com/i/web/status/1908284775799959912"
-  },
-  {
-    "text": "Boenos días.\n\nNo te retires. Sigue jugando. Sigue soñando. Sigue trabajando. No te permitas caer en la oscuridad. Lo único que puede limitarte y hacerte caer en tinieblas es que falle tu entusiasmo.\n\n(entusiasmo significar literalmente llevar a dios dentro, insuflándote)",
-    "url": "https://twitter.com/i/web/status/1908414551516758128"
-  },
-  {
-    "text": "GPT4o is literally cooked 🔥👨‍🍳\n\nVisual recipes are here and they’re actually kinda genius!\n\nPrompt in ALT https://t.co/f0v7IwXJfJ",
-    "url": "https://twitter.com/i/web/status/1906088423988875617"
-  },
-  {
-    "text": "Casi podríamos comer fuera https://t.co/0ejVQMqCtj",
-    "url": "https://twitter.com/i/web/status/1907036717623722051"
-  },
-  {
-    "text": "En tus 20, no pienses en coste de oportunidad. Haz todo lo que puedas. Apúntate a todas las fiestas. Ahí es donde pasan las cosas.\n\nPara cuando llegues a los 30, debes haber encontrado qué se te da bien, y acotar las fiestas a las que te apuntas. Idealmente has acumulado leverage…",
-    "url": "https://twitter.com/i/web/status/1907364209152692406"
-  },
-  {
-    "text": "1/ There's a concept known as financial compounding, but most people don't know about intellectual compounding. Buffett and Munger employed this to great effect and to accumulate mental models such that they can make large decisions quickly. Intuition is simply reading a lot.",
-    "url": "https://twitter.com/i/web/status/940409514875961344"
-  },
-  {
-    "text": "\"It is through logic that we prove, but through intuition that we discover\" - Poincaré https://t.co/ar0QEQYjOm",
-    "url": "https://twitter.com/i/web/status/1905958121735942226"
-  },
-  {
-    "text": "Tan identificada con ser alguien súper visual que piensa en imágenes pero no sabe pintar. Escribir para describir, como en guiones setting the scene. https://t.co/qcePrx6TLA",
-    "url": "https://twitter.com/i/web/status/1906324523202290023"
-  },
-  {
-    "text": "Hilazo sobre la pintura de la Época Negra de #Goya que, justo dos días antes de morir, escribió unas palabras que a veces uso en el final de mis charlas: \" Aún aprendo\". https://t.co/h3CVjtA2g7",
-    "url": "https://twitter.com/i/web/status/1906257421380497915"
-  },
-  {
-    "text": "Algunos conceptos más avanzados que he asimilado en los últimos meses: la escalera de deseos velados, las semillas de curiosidad, el tobogán deslizante, el flow lógico, la campaña infinita, la jerarquía de resonancia, las preguntas de resersión negativa... 🤯",
-    "url": "https://twitter.com/i/web/status/1906464406059291007"
-  },
-  {
-    "text": "Cuando P. y yo nos conocimos estaba mega fascinada con el Derecho del mar y le conté tremendo rollo sobre aguas internaciones y sus lagunas legales. \n\nCómo no recomendar un podcast sobre estas lagunas en la trazabilidad de todo lo que circula por el océano\nhttps://t.co/VFPpy1NCNi",
-    "url": "https://twitter.com/i/web/status/1905291401819980024"
-  },
-  {
-    "text": "📚🎙Libros y podcast de febrero y marzo: educación, dignidad, DeepSeek, inteligencia artificial e India\n\nEn febrero acepté una recomendación de Derek Sivers y leí “The Gardener and the Carpenter” de Alison Gopnik (8/10), un libro sobre como aprenden y se desarrollan los niños; y…",
-    "url": "https://twitter.com/i/web/status/1905916898803646640"
-  },
-  {
-    "text": "La Reorganización es la otra cara de la movilidad social.\n\nAntes de la igualdad de oportunidades, había genios en pueblos remotos.\n\nNo tenían a dónde ir. Ningún trabajo (accesible sin contactos) merecía mudarse.\n\nAhora se pagan fortunas por encontrar genios en otros continentes.… https://t.co/5kPLX3wI7D https://t.co/pnwmXXFHhl",
-    "url": "https://twitter.com/i/web/status/1896205137439338569"
-  },
-  {
-    "text": "holy shit GPT-4o image gen is unreal. it can generate UIs too 🤯\n\ndesigners are not safe. \n\n11 examples: https://t.co/2uTC06ZDXZ",
-    "url": "https://twitter.com/i/web/status/1905285032849129795"
-  },
-  {
-    "text": "Prompt: \n\n\"Create a detailed pixel art frame animation for a game, where the final image is divided into multiple sub-images, each serving as a continuous animation keyframe. Design the sequence to depict [a wizard casting a spell: begin with intricate hand motions, then show the…",
-    "url": "https://twitter.com/i/web/status/1905666224090218594"
-  },
-  {
-    "text": "Landscape with a Pavilion, by Okada Beisanjin, late 18th-early 19th century https://t.co/yPV7s4b9MM",
-    "url": "https://twitter.com/i/web/status/1905202637378637929"
-  },
-  {
-    "text": "Plum Blossoms and Moon, by Nakabayashi Chikuto, 1841, MFA Boston https://t.co/aN8Mmvaj92",
-    "url": "https://twitter.com/i/web/status/1904397079260360983"
-  },
-  {
-    "text": "🤡 Los NPCs financieros creen que:\n\n- Diversificar = 15 ETFs idénticos\n- Riesgo = volatilidad\n- Invertir = trading diario\n- Prioridad = alta rentabilidad\n- Bitcoin = una cripto más\n- Horizonte temporal = 6 meses\n\n🧠 Los inversores reales saben que:\n\n+ Diversificar = exposición…",
-    "url": "https://twitter.com/i/web/status/1904533479213441195"
-  },
-  {
-    "text": "I'm so pleased to present a new book with @stripepress: \"The Scaling Era: An Oral History of AI, 2019-2025.\"\n\nOver the last few years, I interviewed the key people thinking about AI: scientists, CEOs, economists, philosophers. This book curates and organizes the highlights across… https://t.co/UzTQ4fIqar",
-    "url": "https://twitter.com/i/web/status/1904551410219524218"
-  },
-  {
-    "text": "It can generate different points of view from different angles https://t.co/tYRpOx2t7K",
-    "url": "https://twitter.com/i/web/status/1904599695755812955"
-  },
-  {
     "text": "📈🧠Alfa Positivo #61 \n\n« Antifragilidad y Diseño de Carrera - Con @joantubau »\n\n— Cardinal y diseño de carrera\n— Taleb, estresores y antifragilidad\n— ¡Fuck you money!\n— Oro, Bitcoin y perspectivas económicas\n\n➡️ https://t.co/jYH8ysewFa https://t.co/hd38AL2EZs",
     "url": "https://twitter.com/i/web/status/1393492916178497540"
   },
@@ -13568,6 +14594,106 @@ window.LIKES = [
   {
     "text": "I am very proud to contribute to @AntonellaMarty's exciting new anthology together with Mario Vargas Llosa and a who's who of classical liberal thinkers. (Only in Spanish so far.) https://t.co/07YuCvPn5M",
     "url": "https://twitter.com/i/web/status/1393200699362660360"
+  },
+  {
+    "text": "Quiero saber más sobre el Mossad. Dadme pelis, libros, cosas",
+    "url": "https://twitter.com/i/web/status/1934924382071345170"
+  },
+  {
+    "text": "@AntonioGoBe https://t.co/XsIYVGlNdx",
+    "url": "https://twitter.com/i/web/status/1935042992840028602"
+  },
+  {
+    "text": "Novios católicos, os comparto las preguntas que nos dieron en la catequesis de novios que fuimos Jorge y yo, son muy densas y no las hagáis rápidamente. https://t.co/kCTmfbzBGh",
+    "url": "https://twitter.com/i/web/status/1934983650661335072"
+  },
+  {
+    "text": "Salió el ranking de Kantar Brandz, me gusta echarle un ojo todos los años. Son las 100 marcas más potentes, aunque para mi lo interesante son los movimientos https://t.co/HFd8SUsckS",
+    "url": "https://twitter.com/i/web/status/1934945936716832787"
+  },
+  {
+    "text": "Retomo las recomendaciones de libros con \"La Odisea del Dinero\" de @ignaciomoncada. Se trata de una estupenda obra que, como su propio título adelanta, narra la convulsa historia del dinero desde sus orígenes hasta nuestros días. https://t.co/u6uoPZzfHd",
+    "url": "https://twitter.com/i/web/status/1725931735525863733"
+  },
+  {
+    "text": "Afinando un texto sobre teoría capital, me ha dado por revisar bibliografía de estos dos LIBRAZOS. Super recomendables ambos. https://t.co/yTOkEghbFd",
+    "url": "https://twitter.com/i/web/status/1935067565107150989"
+  },
+  {
+    "text": "Muy bueno. Bueno y breve. Ahora estaba pensando s/otras bios más que notables. A bote pronto:\n\n- Fouché, Zweig \n- Churchill, P Johnson\n- High Financier, @nfergus \n- William Pitt, W Hague\n- Churchill, A Roberts\n- Buffett, R Loweinstein\n- La sonrisa Mona Lisa, L Racionero\n- L… https://t.co/y4jSmJsyA1",
+    "url": "https://twitter.com/i/web/status/1934697120377839648"
+  },
+  {
+    "text": "Os contaré un secreto: ya está completo el aforo (244 personas) para la presentación de mi libro. ¡Mérito sin duda de los ponentes que me acompañarán! Pero el aforo es ampliable según un ingenioso sistema de cortinas móviles. Ergo podéis apuntaros aún (enlace en tuit siguiente). https://t.co/RShnDzTq7c",
+    "url": "https://twitter.com/i/web/status/1933560950759530566"
+  },
+  {
+    "text": "\"En su año cuarenta y tres de vida, William Stoner aprendió lo que otros, mucho más jóvenes, habían aprendido antes que él: que la persona que uno ama al principio no es la persona que uno ama al final, y que el amor no es un fin sino un proceso\". https://t.co/S9oNbBWGeI",
+    "url": "https://twitter.com/i/web/status/1934222991669465341"
+  },
+  {
+    "text": "Tomando decisiones. https://t.co/N322ZSPhNz https://t.co/hei9ugdtqu",
+    "url": "https://twitter.com/i/web/status/1934235389751111927"
+  },
+  {
+    "text": "Me acabo de volver a poner el qbTorrent, creado una carpeta llamada \"Zine\". Primera película descargada, Master and Commander. Segunda, Kingdom of Heaven. Y así con todas las que se me ocurran que hay que preservar en local. Que le follen a las plataformas ya.",
+    "url": "https://twitter.com/i/web/status/1933993173853831679"
+  },
+  {
+    "text": "Buenas ideas: https://t.co/XkrBKxRoWo",
+    "url": "https://twitter.com/i/web/status/1933831089040289981"
+  },
+  {
+    "text": "@joantubau Amigo, sobre lo que comentas no puedo más que recomendarte (si no lo conoces ya). Un saludo y reitero mi enhorabuena por el Podcast. https://t.co/3irl7FHFBq",
+    "url": "https://twitter.com/i/web/status/1933529923731493105"
+  },
+  {
+    "text": "Little Town and big balloons https://t.co/X769HNaHEE",
+    "url": "https://twitter.com/i/web/status/1933201258489278841"
+  },
+  {
+    "text": "La realidad es un sistema sin manual, un juego cuyas reglas  cambian con cada jugada, o peor aún, cuyas reglas creemos entender pero  sólo intuimos desde la niebla de nuestros prejuicios, nuestras teorías  fallidas, nuestras ilusiones estadísticas. Lo que llamamos  «conocimiento»…",
+    "url": "https://twitter.com/i/web/status/1933274821145579629"
+  },
+  {
+    "text": "A veces, estar ocupado es solo una forma elegante de estar huyendo. https://t.co/YRsgHjaSmQ",
+    "url": "https://twitter.com/i/web/status/1932766021645218094"
+  },
+  {
+    "text": "Aborrecer la discusión no es necesariamente una muestra de debilidad. En muchos casos, es el resultado de una madurez emocional que ha aprendido a distinguir entre el ruido del ego y la utilidad del silencio.\n\nDiscutir por discutir es un deporte inútil que desgasta sin construir.…",
+    "url": "https://twitter.com/i/web/status/1932739624486777288"
+  },
+  {
+    "text": "an unnecessary about a simple question https://t.co/r8jhg48mBH",
+    "url": "https://twitter.com/i/web/status/1932472514992591081"
+  },
+  {
+    "text": "Habilidades poco valoradas y extremadamente útiles:\n1. Aprender de gente a la que aborreces.\n2. Extraer el valor que hay en aquello que detestas.",
+    "url": "https://twitter.com/i/web/status/1931064045529969044"
+  },
+  {
+    "text": "¿Qué es la inteligencia?\n1) saber qué quieres\n2) saber conseguirlo",
+    "url": "https://twitter.com/i/web/status/1931304526801146309"
+  },
+  {
+    "text": "De las peores falsas creencias: El mundo como juego de suma cero. Creer que riqueza, amor o cualquier forma de éxito tienen plazas limitadas y que si uno gana un ticket tú ya no podrás. Esa mentalidad lleva a lo opuesto de lo que deseas y de regalo te vuelve una persona de mierda",
+    "url": "https://twitter.com/i/web/status/1930927897860014183"
+  },
+  {
+    "text": "Sobre la belleza https://t.co/2i7QWN9RJU",
+    "url": "https://twitter.com/i/web/status/1931680789906718907"
+  },
+  {
+    "text": "How a book written in 1910 can teach you calculus in 30 seconds: https://t.co/jVFmD6GNpt",
+    "url": "https://twitter.com/i/web/status/1932059956393468211"
+  },
+  {
+    "text": "El mejor libro de negocios que yo he leído https://t.co/Perdv2snf6",
+    "url": "https://twitter.com/i/web/status/1932013595484668283"
+  },
+  {
+    "text": "https://t.co/ZGnLWnSeyg https://t.co/8SOB2fr5KR",
+    "url": "https://twitter.com/i/web/status/1932012645399310490"
   },
   {
     "text": "No entiendo por qué abandonamos el art nouveau. https://t.co/nxaCnk8m3Y",
@@ -13854,6 +14980,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1384460781807443969"
   },
   {
+    "text": "the thrill of life is not about who we are but about who we are in the process of becoming https://t.co/8dbJkMO9AO",
     "url": "https://twitter.com/i/web/status/1384614518215618561"
   },
   {
@@ -14557,105 +15684,6 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1358044943248470017"
   },
   {
-    "text": "Interior design and remodeling just got 10x easier https://t.co/QTPFeW3vtF",
-    "url": "https://twitter.com/i/web/status/1904599691985371327"
-  },
-  {
-    "text": "Today I was unsure about whether to do something so I asked @tylercowen for advice, and he started it off with: “Keep in mind that most of what we do is pointless, in a way.”",
-    "url": "https://twitter.com/i/web/status/1904699021790216656"
-  },
-  {
-    "text": "The 20 most fascinating insights I’ve learned about Spain —\n\nAfter running this account for exactly two years… 🧵 https://t.co/prLqOGZci5",
-    "url": "https://twitter.com/i/web/status/1904751288719728661"
-  },
-  {
-    "text": "@DotCSV Puestos a crear, primero que nos de un monton de estilos diferentes en una imagen, y luego nos enfocamos en la que nos guste.\n\nQue tiempos aquellos cuando todo comenzó a despegar con Dall-E https://t.co/nyDb4ODu3M",
-    "url": "https://twitter.com/i/web/status/1904952351351251171"
-  },
-  {
-    "text": "I've spent hours and hours thinking about how AI is going to change writing. This is a 90-minute distillation of everything I've learned.\n\nSome things I believe:\n\n1. The combination of LLM-driven humor and image generation means that we're about to enter the golden age of memes.… https://t.co/wU2VzOHvTN",
-    "url": "https://twitter.com/i/web/status/1904952456707965225"
-  },
-  {
-    "text": "La nueva release de ChatGPT es un pasito más en la dirección que llevo un par de años \"evangelizando\": la idea de que nos encaminamos hacia un mundo en el que podremos crear cualquier cosa utilizando mero lenguaje natural y gestos.\n\nCUALQUIER cosa.\n\nEs más, cuando necesitemos…",
-    "url": "https://twitter.com/i/web/status/1905203494530789861"
-  },
-  {
-    "text": "Beautiful design is now a commodity.\n\nI've spent the last 24 hours with ChatGPT 4o images, and it's clear we've entered a new reality: \"Execution is cheap, ideas are everything.\"\n\nFor decades, we were told the opposite. Everyone had ideas. Few could execute them well. The ability… https://t.co/I2zwJIVt36",
-    "url": "https://twitter.com/i/web/status/1904980934794813667"
-  },
-  {
-    "text": "Guía práctica para ser una persona con personalidad\n- que no es lo mismo que ser un personaje.\n\n1/11",
-    "url": "https://twitter.com/i/web/status/1891895572199768494"
-  },
-  {
-    "text": "The Four Accomplishments, by Kano Motonobu, mid-16th century https://t.co/su9T5K8hMl",
-    "url": "https://twitter.com/i/web/status/1905032516979085670"
-  },
-  {
-    "text": "Ideas desordenadas que he contestado a un chaval de 17 que me ha escrito pidiendo orientación.",
-    "url": "https://twitter.com/i/web/status/1904869430850449519"
-  },
-  {
-    "text": "De fotografía a portada de Tintín en pocos segundos. No he tenido que decirle ni el título. https://t.co/CdoZfdpzyY",
-    "url": "https://twitter.com/i/web/status/1905148425936515500"
-  },
-  {
-    "text": "ESTE\nMALDITO\nVIDEO\nDE\nMONSK\n\nAquí tienes la clave de por que Musk es la persona mas rica del mundo. Este es su algoritmo para todo:\n\n1- Reduce tu problema (requisitos)\n2- Elimina pasos innecesarios\n3- Optimiza (reduce costes)\n4- Aumenta el cycle time\n5- Automatiza https://t.co/AGmQCcAKjz",
-    "url": "https://twitter.com/i/web/status/1872977046173110541"
-  },
-  {
-    "text": "excursión corta por los alrededores, y le tenía ganas a este bar de vinos Cuarenta Aranjuez, gracias a @pbrionesmqz, gran variedad por copas y botellas, la cocina, con poca cosa es grandiosa, pero lo que mas nos ha gustado, como nos han tratado, merece muchísimo la pena ir https://t.co/Tn8QMRexoV",
-    "url": "https://twitter.com/i/web/status/1903881271308161378"
-  },
-  {
-    "text": "Night in Kyoto, by Yoshida Hiroshi, 1933 https://t.co/qtZ3CtzZFi",
-    "url": "https://twitter.com/i/web/status/1903915909191745693"
-  },
-  {
-    "text": "I spent 7 months on this essay. \n\nI think agency might be the most important idea of the 21st century. \n\nhttps://t.co/6xpyWoYs6V",
-    "url": "https://twitter.com/i/web/status/1903939846324002837"
-  },
-  {
-    "text": "Night Rain at Akasaka Kiribatake, from One Hundred Famous Views of Edo, by Utagawa Hiroshige II, 1859 https://t.co/4EVsimUcPY",
-    "url": "https://twitter.com/i/web/status/1903373082104066195"
-  },
-  {
-    "text": "Autumn Grasses in Moonlight, by Shibata Zeshin, 1872 https://t.co/Qk45haa4l6",
-    "url": "https://twitter.com/i/web/status/1903384909646897414"
-  },
-  {
-    "text": "\"Es preferible la Verdad en soledad al error en compañía.\" ~ Santa Teresa de Jesús",
-    "url": "https://twitter.com/i/web/status/1903386658432561390"
-  },
-  {
-    "text": "Mihonoseki in Izumo, by Oda Kazuma, 1925 https://t.co/9odZw7RqhQ",
-    "url": "https://twitter.com/i/web/status/1903404539375759451"
-  },
-  {
-    "text": "Isono Tamba-no-kami Sadamasa, by Utagawa Yoshiiku, 1847 https://t.co/GYVtyY5Q6D",
-    "url": "https://twitter.com/i/web/status/1903463427655213328"
-  },
-  {
-    "url": "https://twitter.com/i/web/status/1903556681793245340"
-  },
-  {
-    "text": "Las formas del capital de Bourdieu muestra que el estatus social no es sólo cuestión de dinero. El capital cultural (educación, gustos), social (redes) y simbólico (títulos/prestigio) determina nuestro lugar en la sociedad, a menudo de maneras muy sutiles. https://t.co/A9OK9Rdc6W",
-    "url": "https://twitter.com/i/web/status/1903590864045129886"
-  },
-  {
-    "text": "What happens if high quality AI models become free, ubiquitous, and inexpensive to run on even low-spec hardware?\n\n(1) First, you can rebuild every productivity app AI-first. That starts with Microsoft Word, Google Sheets, and Apple Keynote. But it extends to wholly new kinds of… https://t.co/AJXUAtGWFZ",
-    "url": "https://twitter.com/i/web/status/1903700743242326284"
-  },
-  {
-    "text": "«Es sorprendente en física y matemáticas la desproporción entre el esfuerzo que requiere entender por primera vez algo nuevo y la simplicidad y naturalidad del resultado una vez se han completado los pasos para llegar a él».\nNo sólo en Física.\nEs lo del huevo de Colón.\n@Recuenco https://t.co/BWL4Itz8DK",
-    "url": "https://twitter.com/i/web/status/1903435583575183570"
-  },
-  {
-    "text": "Libro magnífico, pendiente de reseñar. https://t.co/zgpN9tyrXd",
-    "url": "https://twitter.com/i/web/status/1903725001091498334"
-  },
-  {
     "text": "Cierra la cuenta de Netflix y contrata 4 meses de HBO. Maratón de Los Soprano, Deadwood, The Wire, Juego de Tronos, The leftovers, Hermanos de sangre y A dos metros bajo tierra. Te sale por 45 euros... en 2007 con eso te llegaba para una temporada en DVD",
     "url": "https://twitter.com/i/web/status/1357327917974437890"
   },
@@ -14666,6 +15694,106 @@ window.LIKES = [
   {
     "text": "Estos dos libros de @rebeccawb me influyeron mucho. Creo que siguen siendo muy buenos, junto con \"Object Thinking\" de @profwest, para ayudarte a adoptar la mentalidad de objetos desde el punto de vista del comportamiento. https://t.co/ENtvKIwN0u",
     "url": "https://twitter.com/i/web/status/1357612944591376384"
+  },
+  {
+    "text": "https://t.co/wkCFgSPN1Q",
+    "url": "https://twitter.com/i/web/status/1931621004301705294"
+  },
+  {
+    "text": "things I believe:\n\n- shipping fast beats the best strategy\n    - speed is a superpower\n    - create a bias toward shipping\n    - small teams ship faster\n    - ai-native teams will move 10x faster than those not willing to change\n    - landings > launches (i.e. product adoption >…",
+    "url": "https://twitter.com/i/web/status/1930692547363659872"
+  },
+  {
+    "text": "Leyendo ya este magnífico libro de @quintanapaz publicado por @EdicionesDeusto https://t.co/i3ZYpXuieq",
+    "url": "https://twitter.com/i/web/status/1930291861148549425"
+  },
+  {
+    "text": "En la antigua Grecia, en tiempos de inestabilidad y cambios, surgieron distintas escuelas para alcanzar la buena vida. Los estoicos eligieron como guía la virtud. Los epicúreos, el placer. Los escépticos optaron por cuestionarlo todo. En lugar de aferrarse a certezas,…",
+    "url": "https://twitter.com/i/web/status/1929074583400861780"
+  },
+  {
+    "text": "📝 ¿Te apetece un atracón de espías? Aquí van nuestras recomendaciones de la semana. \n\n📻 Escucha el programa completo: https://t.co/NbUhqX57nY https://t.co/d2Xqg020vk",
+    "url": "https://twitter.com/i/web/status/1929103411183550824"
+  },
+  {
+    "text": "Summer Landscape, by Okada Hankō, 1844 https://t.co/rbWItartC0",
+    "url": "https://twitter.com/i/web/status/1929210959173910646"
+  },
+  {
+    "text": "FUTURE SHOCK: cuando el cambio va demasiado rápido\n\nAlvin Toffler anticipó en Future Shock (1970) las consecuencias individuales y sociales de la aceleración del cambio. Demasiada velocidad pone en riesgo nuestra capacidad de adaptación. El resultado es la ansiedad de no saber…",
+    "url": "https://twitter.com/i/web/status/1928391032061755902"
+  },
+  {
+    "text": "Miyamoto no Musashi Attacking the Giant Whale, by Utagawa Kuniyoshi, ca. 1847 https://t.co/ZTWDyz4HtW",
+    "url": "https://twitter.com/i/web/status/1927973178271486108"
+  },
+  {
+    "text": "Hoy comparto el segundo fragmento de esta serie de ensayos visuales sobre el tiempo, la memoria y las formas en que nos moldea. Se titula Ruina, y parte de una escena sencilla: volver, años después, al recuerdo de un edificio de la infancia. https://t.co/oQv3V3zXib",
+    "url": "https://twitter.com/i/web/status/1928033392966226010"
+  },
+  {
+    "text": "“The doers are the major thinkers.”\n\n— Steve Jobs https://t.co/AKpLiMGt4K",
+    "url": "https://twitter.com/i/web/status/1927768625080902060"
+  },
+  {
+    "text": "This Post is from a suspended account. {learnmore}",
+    "url": "https://twitter.com/i/web/status/1927840853101359563"
+  },
+  {
+    "text": "It's not new, but it's the first time I've heard of it!   I guess lots of stuff gets drowned out by the brisk pace of AI developments! https://t.co/kA3soUG8Zt",
+    "url": "https://twitter.com/i/web/status/1927542414975099059"
+  },
+  {
+    "text": "It turns out that Anthropic has a prompt engineering interactive course! https://t.co/3ALFWNad3X",
+    "url": "https://twitter.com/i/web/status/1927542101803147436"
+  },
+  {
+    "text": "Introducing MagicPath, an infinite canvas to create, refine, and explore with AI.\n\nCreate beautiful components and functional apps, while providing production ready code. \n\nAvailable today, free, for everyone.\n\nThe Cursor moment for design is here. https://t.co/MpdBCnivoC",
+    "url": "https://twitter.com/i/web/status/1927434384249946560"
+  },
+  {
+    "text": "Stitch is Google’s new AI-powered design assistant.\n\nYou tell it what you want:\n\n→ A dashboard\n→ A mobile app UI\n→ Even upload an image\n\nIt generates HTML + CSS + editable components instantly.\n\nTry it here: https://t.co/dD8ClBJrR4 https://t.co/6Msur8GBAc",
+    "url": "https://twitter.com/i/web/status/1927336980699898070"
+  },
+  {
+    "text": "This is insane.\n\nGoogle dropped the most powerful UI designer in the world.\n\nYou just describe the app, and it generates the code.\n\nIt’s called Stitch.\n\nHere’s how it works: https://t.co/JhkeDEAIlk",
+    "url": "https://twitter.com/i/web/status/1927336960542065129"
+  },
+  {
+    "text": "Os dejo los otros dos pero para que me sigáis por ahí. \nhttps://t.co/UO1ad17WaM https://t.co/OJTmUZipHb",
+    "url": "https://twitter.com/i/web/status/1927769166666195037"
+  },
+  {
+    "text": "Estoy empezando a hacer este tipo de cosas en Instagram. https://t.co/qAruGgwSSk",
+    "url": "https://twitter.com/i/web/status/1927744987694862709"
+  },
+  {
+    "text": "Lo que separa el buen trabajo del excelente no es el talento, sino la constancia.",
+    "url": "https://twitter.com/i/web/status/1927438907643220451"
+  },
+  {
+    "text": "Siempre he compartido la idea de Garci de que la felicidad absoluta es como una ráfaga: \"De repente sientes que estás envuelto en una brisa inexplicable, como si alguien hubiera abierto las puertas del cielo sin previo aviso.\"\n\nEs increíble, aunque lo sientes con poca frecuencia.",
+    "url": "https://twitter.com/i/web/status/1926554976106450983"
+  },
+  {
+    "text": "Boenos días. \n\nTodo lo deciden personas. Desde si hay guerra hasta si follas esta noche. No existen las empresas, ni los Estados, ni las familias, ni las marcas. \n\nExisten personas. Y si te diriges a ellas (en vez de a entes abstractos), consigues más cosas y más fácilmente.",
+    "url": "https://twitter.com/i/web/status/1926533944809549850"
+  },
+  {
+    "text": "Sengakuji Temple at Takanawa in Tokyo, by Tsuchiya Koitsu, 1933 https://t.co/9KuIZE0DoP",
+    "url": "https://twitter.com/i/web/status/1925643830012903713"
+  },
+  {
+    "text": "Cada nueva tecnología nos hace nostálgicos del mundo que reemplaza. ¿Qué nostalgias traerá la IA? https://t.co/Cz1rauqFJd",
+    "url": "https://twitter.com/i/web/status/1927002599342911749"
+  },
+  {
+    "text": "La gente va tachando los días del calendario sin pensar que están a solo 20 horas de estudio y trabajo profundo de ser mejor que el 99% de la gente en algo. \n\nPuedes convertirte en TOP 1% de una cosa nueva cada semana, si quieres.\n\nY con o3, más fácil que nunca.",
+    "url": "https://twitter.com/i/web/status/1927076519693918528"
+  },
+  {
+    "text": "One of my favorite quotes of all time… https://t.co/EOrjdDLjZ3",
+    "url": "https://twitter.com/i/web/status/1927019033519350164"
   },
   {
     "text": "La tecnología está dando forma a nuestro presente y futuro. Si no tenemos suficientes mujeres que contribuyan a moldear y crear tecnología, esta responderá a las necesidades de unos pocos. #AHombrosDeGigantas\n\n¿Por qué es necesario difundir su trabajo? ⬇\n\nhttps://t.co/OlpHS6yfzO",
@@ -15656,105 +16784,6 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1334987764014657536"
   },
   {
-    "url": "https://twitter.com/i/web/status/1903518551350337979"
-  },
-  {
-    "text": "Seeding my Bear ʕ•ᴥ•ʔ blog with more random posts, e.g. here's something I had on backlog for a while:\n\n# The append-and-review note\n\nAn approach to note taking that I stumbled on and has worked for me quite well for many years. I find that it strikes a good balance of being… https://t.co/aBYIbi0DRg",
-    "url": "https://twitter.com/i/web/status/1902503836067229803"
-  },
-  {
-    "text": "“La religión no es una adición meramente opcional al repertorio cultural, como muchos ateos suponen. Menos aún algo dado por Dios, como defienden muchos fieles de las religiones organizadas.\n\nAquí sostendré que la religión es más bien un subproducto ineludible de la manera en la… https://t.co/0l7wPm7sGp",
-    "url": "https://twitter.com/i/web/status/1902727388146053161"
-  },
-  {
-    "text": "float i,e,R,s;vec3 q,p,d=vec3(FC.xy/r,1);for(q.zy--;i++<229.;){e+=i/6e4;o.rgb+=hsv(q.z-.75,R,e*R*i/30.);s=2.;p=q+=d*e*R*R*.15;p=vec3(log(R=length(p-.2))-t*.25,exp(mod(-p.z,s)/R),p+sin(t)*.07);for(e=--p.y;s<4e3;s+=s)e+=-abs(dot(sin(p*s),max(p,exp(atan(.4,e))))/s*.1);}#つぶやきGLSL https://t.co/bT7hVFrtNE",
-    "url": "https://twitter.com/i/web/status/1902993584019866052"
-  },
-  {
-    "text": "Matsue in Izumo (Hazy moon), by Kawase Hasui, 1924 https://t.co/dIkr8OR34a",
-    "url": "https://twitter.com/i/web/status/1901287590797418697"
-  },
-  {
-    "text": "Plovers under the Moon, by Morikawa Sobun, late 19th century https://t.co/5ayET3uiz5",
-    "url": "https://twitter.com/i/web/status/1902361164572426512"
-  },
-  {
-    "text": "El miércoles 26 de marzo sale a la venta mi primer libro publicado con @EdicionesDeusto \n\nDinero: un viaje desde Mesopotamia hasta el Bitcoin.\n\nEstá en preventa desde ya en Amazon.\n\nhttps://t.co/Obx0DO0lAr https://t.co/K5hIuY5GqY",
-    "url": "https://twitter.com/i/web/status/1902346421069635943"
-  },
-  {
-    "text": "Hoy ve la luz el libro Aprendizaje Infinito, con @arpaeditores \n\nTe cuento en este hilo qué te vas a encontrar entre sus páginas y algunas de las bonitas palabras que le han dedicado los primeros lectores.\n\nSe agradece mucho la difusión para que llegue a más personas. https://t.co/1SOooc0YMf",
-    "url": "https://twitter.com/i/web/status/1902668975298810232"
-  },
-  {
-    "text": "Fan de esta metáfora de @srjosekarlos pro cultura. Para mí infravaloramos lo life-changing de “poder/saber apreciar las cosas” y añado ideas:\n\n1. “Ser visto” depende también de donde elijas reflejarte\n2. Se nace con la curiosidad pero se cultiva\n3. Valorar la belleza no es baladí https://t.co/3vDjqUqRCE",
-    "url": "https://twitter.com/i/web/status/1901410304317125114"
-  },
-  {
-    "text": "\"No necesitas ser más inteligente, necesitas ser más enérgico y audaz. Sé desinhibido, aterroriza a los normies. Ellos cederán primero y tú obtendrás lo que quieres. Un audaz ignorante vence a un genio tímido.\" https://t.co/7tKPK8kBJ2",
-    "url": "https://twitter.com/i/web/status/1902088072042570215"
-  },
-  {
-    "text": "¿Cuál diríais que es el mejor arranque de la historia de la literatura?",
-    "url": "https://twitter.com/i/web/status/1902055497940734232"
-  },
-  {
-    "text": "Qué manera de empezar un relato. Qué belleza y qué estilo más inconfundible. Qué portento de escritor fue Fitzgerald. https://t.co/RNDeGdCuwN",
-    "url": "https://twitter.com/i/web/status/1380948601032093699"
-  },
-  {
-    "text": "101 BS THINGS TAUGHT TO STUDENTS, 5\nThey don't tell you that you are more likely\n+ to learn a foreign language in a bar than in a classroom\n+ to learn mathematics while trading than doing homework\n+ that schoolteachers are a great model of what not to become when you grow up",
-    "url": "https://twitter.com/i/web/status/1118272590416613376"
-  },
-  {
-    "text": "We think a lot about those black lines, forgetting that it’s all still in our hands. https://t.co/RSZ1d3W642",
-    "url": "https://twitter.com/i/web/status/1367871165319049221"
-  },
-  {
-    "text": "Entrevista muy interesante y recomendable a Alejandro Rodriguez de la Peña sobre el problema del Mal:\n\n“En esta edición de Cara a Cara, Álvaro Bernad conversa con Alejandro Rodríguez de la Peña, catedrático de Historia Medieval, sobre su trilogía Iniquidad, Imperios de Crueldad y…",
-    "url": "https://twitter.com/i/web/status/1901406553368048057"
-  },
-  {
-    "text": "El fenómeno del chivo expiatorio según René Girard – Hyperbole . Gran artículo de ⁦@pitiklinov⁩  https://t.co/8NRw3JDJcq",
-    "url": "https://twitter.com/i/web/status/1901420404385644873"
-  },
-  {
-    "text": "Bajar expectativas, no comparar, tener el umbral de dolor muy alto. Positividad hasta cuando te caga una paloma. \n\nBuscar la nube que más brilla (detrás está el sol)\n\nAndar bailando. “Uff que putada… bah en peores plazas hemos toreao”\n\nPaaaaaalante https://t.co/FjNwqhpBGl",
-    "url": "https://twitter.com/i/web/status/1901367371798925442"
-  },
-  {
-    "text": "Most people hear Estée Lauder and think of cosmetics—lipstick, perfume, face cream. \n\nBut the real story isn’t just about makeup—it’s about an unstoppable force. \n\nEstée Lauder didn’t just build a beauty brand; she rewrote the rules. She turned rejection into fuel, defied… https://t.co/YvwUVh4HcU",
-    "url": "https://twitter.com/i/web/status/1899464720022712673"
-  },
-  {
-    "text": "He controlled half of Pittsburgh’s financial world from his parents’ house—here are 10 lessons from history’s quietest billionaire. https://t.co/sqRTQDyQOi",
-    "url": "https://twitter.com/i/web/status/1901277479496503621"
-  },
-  {
-    "text": "Peacocks, by Araki Kanpo, 1890 https://t.co/wpH28s9ixg",
-    "url": "https://twitter.com/i/web/status/1900502416686006627"
-  },
-  {
-    "text": "Scenes Along the Yangzi River, by Unkoku Toban, 17th century-18th century https://t.co/wjztkvrTSf",
-    "url": "https://twitter.com/i/web/status/1901784866812739741"
-  },
-  {
-    "text": "@forocoches Paradas de carretera · Pablo Briones Márquez\nhttps://t.co/N5yk3mjtXy",
-    "url": "https://twitter.com/i/web/status/1901719863824896200"
-  },
-  {
-    "text": "Haruki Murakami: life's greatest lessons don't come with a curriculum. https://t.co/YjqEF9Il91 https://t.co/SqSLp619ku",
-    "url": "https://twitter.com/i/web/status/1901666245235163596"
-  },
-  {
-    "text": "https://t.co/tgIjwEzAr3",
-    "url": "https://twitter.com/i/web/status/1901928550845780401"
-  },
-  {
-    "text": "The education system is broken. Costs are rising. Outcomes are falling. Kids are bored, parents are frustrated, teachers are over-worked and under-appreciated.\n\nThe Wall Street Journal just profiled the most promising solution I've seen. \n\nTheir results are so good that you're… https://t.co/hIXBNVWcxE",
-    "url": "https://twitter.com/i/web/status/1901761879464181820"
-  },
-  {
     "text": "This Post is from a suspended account. {learnmore}",
     "url": "https://twitter.com/i/web/status/1337662277579890688"
   },
@@ -15765,6 +16794,106 @@ window.LIKES = [
   {
     "text": "La hiperinflación en Austria de 1922 https://t.co/UwpX4P4GSx",
     "url": "https://twitter.com/i/web/status/1337359423426146304"
+  },
+  {
+    "text": "A lesson I wish I learned earlier… https://t.co/K2GxjcMruj",
+    "url": "https://twitter.com/i/web/status/1926977280561021023"
+  },
+  {
+    "text": "https://t.co/kE2ZeekEcV",
+    "url": "https://twitter.com/i/web/status/1926606344385110096"
+  },
+  {
+    "text": "The Moonlight after a Rainfall at Kiyomizu Temple in Kyoto, by Asada Benji, ca. 1930 https://t.co/RGsSnwmxBr",
+    "url": "https://twitter.com/i/web/status/1926444354970787945"
+  },
+  {
+    "text": "\"Sobre la voluntad de leer\", por @Ismaellg90 https://t.co/I1EPnAs1R8",
+    "url": "https://twitter.com/i/web/status/1926200176785404302"
+  },
+  {
+    "text": "@theJayAlto The idea that excellence isn’t about talent or sheer effort alone, but about deliberate, consistent improvement, changes the game. Too often we assume greatness is reserved for those with natural ability or insane hours at the grindstone. But Chambliss nailed it: it’s not about…",
+    "url": "https://twitter.com/i/web/status/1868418314394857500"
+  },
+  {
+    "text": "found this insane study from 1989.\n\nbasically argues we're all wrong about what it takes to become 'excellent'.\n\n(uses olympic swimmers, applies to anything) https://t.co/FNZ3r4EEXr",
+    "url": "https://twitter.com/i/web/status/1868409100947575051"
+  },
+  {
+    "text": "THE WAY OF CODE, a project by @rickrubin in collaboration with Anthropic: https://t.co/Frh5szQf5y",
+    "url": "https://twitter.com/i/web/status/1925926102725202163"
+  },
+  {
+    "text": "La hora del amor con @AbeldeJesusYT\n\nSobre qué es una misa de inicio de Pontificado, de qué va lo de tener o no la fé católica y la llamada a la unidad de todas las iglesias del Papa León XIV\n\nEn Extremo Centro en La Razón \n\nhttps://t.co/tIY4433KXB",
+    "url": "https://twitter.com/i/web/status/1925849037304942948"
+  },
+  {
+    "text": "Read all 81 chapters and modify the accompanying art with Claude on https://t.co/HyMS0Ya507.",
+    "url": "https://twitter.com/i/web/status/1925926110283313243"
+  },
+  {
+    "text": "Cultura Financiera. Hilo.",
+    "url": "https://twitter.com/i/web/status/1308390572336525318"
+  },
+  {
+    "text": "@NickADobos you’re conflating two different things: recognizing patterns vs. having intelligence\n\n- psychosomatic sensations aren’t “intelligence”\n- yes, emotions follow patterns, but so do weather systems. recognizing a pattern doesn’t make something a form of intelligence, otherwise, we’d…",
+    "url": "https://twitter.com/i/web/status/1891241523037045199"
+  },
+  {
+    "text": "this is wrong because emotional intelligence doesn’t exist\n\nintelligence is the ability to recognize patterns, solve problems, and manipulate abstract concepts. \nemotions are states, biological reactions that can be managed, but not “intelligently” processed in the way cognition… https://t.co/OqrbKTGBSs",
+    "url": "https://twitter.com/i/web/status/1891236768378241322"
+  },
+  {
+    "text": "Toda nueva tecnología se presenta como un destino final. Pero, con la suficiente distancia, se revela como un puente entre dos mundos. Algunos ejemplos 👇🏻 https://t.co/qwKRzs8JWR",
+    "url": "https://twitter.com/i/web/status/1925513557866668179"
+  },
+  {
+    "text": "Cuando me viene algo difícil pienso qué haría Aquiles. No elegimos quienes somos pero sí quien queremos ser",
+    "url": "https://twitter.com/i/web/status/1925507736168477010"
+  },
+  {
+    "text": "El diálogo de ayer entre @frdelatorre, @JesusFerna7026 y @lugaricano en la @frdelpino estuvo muy interesante y didáctico, os dejo enlace por si no lo habéis visto. Los dos primeros presentaron su libro sobre la propuesta del cupo catalán  https://t.co/GEGNLyhrCh",
+    "url": "https://twitter.com/i/web/status/1924764208358465755"
+  },
+  {
+    "text": "Book Summary: “Theory of Games and Economic Behavior”\n\ntap, hold, load 4k https://t.co/SbHOMNzwLZ",
+    "url": "https://twitter.com/i/web/status/1924575510228598874"
+  },
+  {
+    "text": "100% de acuerdo pero no creo que el elemento de Dios sea necesario. No necesitas coerción para cumplir con tu palabra, solo ser fiel a tu mismo y de ahí deviene ser fiel al otro. https://t.co/N3x8JPR8IO",
+    "url": "https://twitter.com/i/web/status/1924872108913369381"
+  },
+  {
+    "text": "Impresionante el wake up call que es cagarla - en cualquier aspecto - no hay mejor cura de humildad que caer. Quién entiende esto es capaz de entender gran parte de las dinámicas que se dan en el día a día. Es lo único que da la capacidad de entender la complejidad del mundo.",
+    "url": "https://twitter.com/i/web/status/1924870549651464285"
+  },
+  {
+    "text": "𝐋𝐎𝐍𝐆𝐄𝐕𝐈𝐃𝐀𝐃 𝐒𝐀𝐋𝐔𝐃𝐀𝐁𝐋𝐄\n\nEl envejecimiento es un proceso natural, pero la clave para una longevidad saludable está en 𝗰𝗼́𝗺𝗼 𝗹𝗼 𝗴𝗲𝘀𝘁𝗶𝗼𝗻𝗮𝗺𝗼𝘀. \nAbro minihilo\n👇🏽 https://t.co/60oNcF9i5W",
+    "url": "https://twitter.com/i/web/status/1924491220513849670"
+  },
+  {
+    "text": "Sailing Boats, Morning, by Yoshida Hiroshi, 1926 https://t.co/1nQz9AaQLo",
+    "url": "https://twitter.com/i/web/status/1924631911932047435"
+  },
+  {
+    "text": "Clásico importante. https://t.co/xA7XjcyUum",
+    "url": "https://twitter.com/i/web/status/1924720251620442328"
+  },
+  {
+    "text": "Por culpa de @jlantunez y sus preguntas 🤗, me he puesto a pasar a limpio estas notas sobre ideas que compartiré en el evento del 3jun en @somostramontana https://t.co/RdIuoGSL15",
+    "url": "https://twitter.com/i/web/status/1924407153781014611"
+  },
+  {
+    "text": "@joseaportero1 Despertar,  siesta y dormir.\nDesayunar, comer, cenar\nAprender, trabajar, enseñar.\nVivir,  amar. Morir...\nSí. En lo cotidiano. Lo cotidiano da sentido al ser. Sin un ser, la vida no tendría mayor sentido. Reproducirse es lo inmortal. El ADN de la Humanidad.\nBuen finde.",
+    "url": "https://twitter.com/i/web/status/1923718686231207956"
+  },
+  {
+    "text": "Hace ya muchísimos años que deambulo por el mundo buscándole sentido a la vida y al final, todo se reduce a la belleza inagotable de lo mundano: salir a comer, correr por el monte, conversar con los amigos,ver películas, leer libros. El sentido de todo está en lo cotidiano.",
+    "url": "https://twitter.com/i/web/status/1923686529257365577"
+  },
+  {
+    "text": "Just learned about the Henry Dreyfuss Associates Humanscale anthropometric-ergonomic manuals, having a saturday morning @usgraphics moment https://t.co/UiveP5K7iq",
+    "url": "https://twitter.com/i/web/status/1923776230412910665"
   },
   {
     "text": "💥 #ESTRENO \nEl cineasta Rüdiger Suchsland cree que el Tercer Reich fue una película inmersiva protagonizada por la nación y dirigida por el ministro de Propaganda, Goebbels. \n‘Hitler’s Hollywood', el cine nazi, de la alegría exagerada al sacrificio.\n⏰Hoy a las 23:55h en La 2 https://t.co/cd6YIxqfEl",
@@ -16755,106 +17884,6 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1310796809921392640"
   },
   {
-    "text": "Últimas lecturas desde enero.\nNo me quejo. https://t.co/WwHXq9f24X",
-    "url": "https://twitter.com/i/web/status/1901234406112498128"
-  },
-  {
-    "text": "The Pond of Sarusawa, Nara, on a Rainy Evening, by Tsuchiya Kōitsu, 1941 https://t.co/kA3GHbTqun",
-    "url": "https://twitter.com/i/web/status/1899988026886922686"
-  },
-  {
-    "text": "me ha gustado mucho https://t.co/ht6uWKQlV8",
-    "url": "https://twitter.com/i/web/status/1901037135848694231"
-  },
-  {
-    "text": "Sage advice from David Ogilvy: https://t.co/vBygEVytoJ",
-    "url": "https://twitter.com/i/web/status/1901023975037128824"
-  },
-  {
-    "text": "En 20 años no habrá páginas web.\n\n¿No me crees? 🧵👇",
-    "url": "https://twitter.com/i/web/status/1600096864837042177"
-  },
-  {
-    "text": "Madrid y su casco viejo en una visión bestial. En los vuelos de Walter Mittelholzer por Europa se detuvo unos días aquí, plasmando para la posteridad fotos de increíble nitidez. Esta, no la hemos visto por aquí y tiene mil detalles para disfrutarla (1928, foto en @ETHBildarchiv) https://t.co/51yBru4mgF",
-    "url": "https://twitter.com/i/web/status/1900170240291483990"
-  },
-  {
-    "text": "@realrehab_ https://t.co/sUSuh3Ic5n",
-    "url": "https://twitter.com/i/web/status/1899799589038739961"
-  },
-  {
-    "text": "La historia no se repite pero a menudo rima https://t.co/3MhxVvvsXV",
-    "url": "https://twitter.com/i/web/status/1899793705160069221"
-  },
-  {
-    "text": "The sooner you realize that the world doesn't belong to high-intelligent people and IQ is a form of cope\n\nIt all clicks faster\n\nThe world belongs to high energy/risk takers that are not afraid to expose themselves in uncomfortable positions\n\nThis is becoming more obvious each day",
-    "url": "https://twitter.com/i/web/status/1898078279753498822"
-  },
-  {
-    "text": "@matriz2x2 @CPSComunidad @Recuenco ¡Qué bonito e interesante! Por alusiones, como contrapunto y con ánimo de matizar vuestro trabajo y no de invalidarlo, aquí va mi hilo explicando la diferencia entre diferencias sutiles de significados, y diferencias claras de genealogías de significantes\nhttps://t.co/jVJ2KPsknW",
-    "url": "https://twitter.com/i/web/status/1898665441385451851"
-  },
-  {
-    "text": "CPS & DISEÑO: UNA MIRADA EXTERNA\n\nMe he sentado con un diseñador y me ha lanzado dos provocaciones al estilo De Bono:\n\n“El CPS también es consultoría”\n“Yo sigo un proceso parecido al CPS”\n\nTras darle vueltas juntos nos ha salido un hilo⬇️\n\n@CPSComunidad @Recuenco @cesarastudillo https://t.co/vdX3BrDdkY",
-    "url": "https://twitter.com/i/web/status/1898639405004284019"
-  },
-  {
-    "text": "In the physical world, almost all information is transmitted through traveling waves -- why should it be any different in your neural network?\n\nSuper excited to share recent work with the brilliant @mozesjacobs: \"Traveling Waves Integrate Spatial Information Through Time\"\n1/14 https://t.co/Bs4UKR7j21",
-    "url": "https://twitter.com/i/web/status/1899154774227878250"
-  },
-  {
-    "text": "Quiero montar una app de reservas de pistas de tenis, por gusto y aprender.\n\nRecomendaciones Replit vs Lovable?\n\nNo he picado código en mi vida.",
-    "url": "https://twitter.com/i/web/status/1899432757815541971"
-  },
-  {
-    "text": "I think ∼50% of agency is just unlearning conditioning from school.\n\nIt's wild we still write industrial revolution code in people's heads -- during the most brain plastic years:\n\n1. You must attend.\n\n2. Your schedule is designed for you.\n\n3. Be quiet, sit still and listen to… https://t.co/E5AxR2uDRE",
-    "url": "https://twitter.com/i/web/status/1898448652978536700"
-  },
-  {
-    "text": "Ship. More. https://t.co/FhpACNFZio",
-    "url": "https://twitter.com/i/web/status/1898493947250639334"
-  },
-  {
-    "text": "Evening Cool on Sumida, by Kobayashi Eijiro, ca. 1910-1930 https://t.co/SMozYdprEm",
-    "url": "https://twitter.com/i/web/status/1898510290217840727"
-  },
-  {
-    "text": "“Action produces information. Just keep doing stuff.”\n\n— Brian Armstrong https://t.co/vUoDfaMUQY",
-    "url": "https://twitter.com/i/web/status/1898056107672629716"
-  },
-  {
-    "text": "One of the highest signal-to-noise authors I’ve come across is @sivers.\n\nHis books are super short (~100 pages) yet packed with insights and actionable advice.\n\nHighly recommend. https://t.co/epby7qkIur",
-    "url": "https://twitter.com/i/web/status/1898005531081519348"
-  },
-  {
-    "text": "The people who start the wars don’t fight them, the people who spend the taxes don’t pay them, and the people who forgive the criminals don’t live next to them.\n\nOf course we’re going to have too many wars, too much spending, and too much crime.",
-    "url": "https://twitter.com/i/web/status/1896330433379578360"
-  },
-  {
-    "text": "Usual frame: I'm stuck on a problem\n\nReframe: I'm not drawing, writing or talking.\n\nReminder to self: Whenever I think I'm stuck on a problem, it's because I'm not drawing, writing or talking the problem. As soon as I do, it starts solving itself.",
-    "url": "https://twitter.com/i/web/status/1896792875482116159"
-  },
-  {
-    "text": "Librazo. \n\nLos objetivos se han convertido en prisiones que normalizamos. Kenneth O. Stanley y Joel Lehman proponen una forma alternativa de ver y vivir la vida, el amor, la educación, la innovación, el tiempo libre, la carrera profesional y cualquier otra empresa ambiciosa. https://t.co/ZrMIrWBhri",
-    "url": "https://twitter.com/i/web/status/1896912892097937607"
-  },
-  {
-    "text": "“The best people in your life are the ones who see potential in you that you didn't see in yourself.” \n\n— Brian Chesky, Airbnb CEO https://t.co/KRpTMWXeZp",
-    "url": "https://twitter.com/i/web/status/1897138484445602202"
-  },
-  {
-    "text": "The Brutalist is about an architect who studied at the Bauhaus.\n\nIts protagonist is fictional, but the Bauhaus was real.\n\nWhat was it? The most influential design school in history.\n\nSo, from fonts to furniture, this is how Bauhaus created the aesthetic of the modern world... https://t.co/jldHLKZA8E",
-    "url": "https://twitter.com/i/web/status/1897353473261461978"
-  },
-  {
-    "text": "Landscape, by Sesshu Toyo, 15th-16th century https://t.co/kGPPkeMkVW",
-    "url": "https://twitter.com/i/web/status/1897540650423206142"
-  },
-  {
-    "text": "Le escuchaba a mi amigo @ValueInvestingS citar a Munger en su podcast:\n\n«Debes asumir que la vida será dura y preguntarte a ti mismo si lo puedes soportar y si la respuesta es afirmativa, entonces simplemente sonreír y seguir adelante».\n\nSi alguien sabe dónde comprar un cuadro…",
-    "url": "https://twitter.com/i/web/status/1897009549208641570"
-  },
-  {
     "text": "5 great books about money that EVERYONE should read:\n\n1. The Wealthy Barber by @wealthy_barber \n2. Millionaire Next Door by Thomas Stanley\n3. Choose FI by @ChooseFi \n4. The Psychology of Money by @morganhousel \n5. Your Money or Your Life by Vicki Robins",
     "url": "https://twitter.com/i/web/status/1310602163551268865"
   },
@@ -16865,6 +17894,106 @@ window.LIKES = [
   {
     "text": "Bonus tracks: Gladstone, James de Rothschild, San Pablo, San José de Calassanz, Shakespeare, Cervantes, Thomas Willing, Francesc Moragas, Josep Pla, John Ford, Gary Cooper, Beethoven.",
     "url": "https://twitter.com/i/web/status/1310308500464115713"
+  },
+  {
+    "text": "Scops Owl in Moonlight, by Ohara Koson, early 1920s https://t.co/EjvseQHz9q",
+    "url": "https://twitter.com/i/web/status/1923044703127339448"
+  },
+  {
+    "text": "De hecho aquí hay algo curioso y es que a veces te plantean con retintín \"vaya sabes de todo no?\" y no es que uno sepa de todo es que si se sabe pensar mínimamente bien se pueden descartar errores o aproximar posibles verdades con razonable éxito, por pura probabilidad y lógica https://t.co/xkbp54ELXh",
+    "url": "https://twitter.com/i/web/status/1923995679891820987"
+  },
+  {
+    "text": "First quick test of @tldraw’s new elbow arrow feature to see if it can replace Miro for breadboarding. https://t.co/PvsmLEvN8U",
+    "url": "https://twitter.com/i/web/status/1923749218893611395"
+  },
+  {
+    "text": "The Best Maps Lie Ahead\n\nI want my favorite material culture to live.\nI want people in 2130 to cherish a map made in 2030.\nI want to see another Turgot-level map produced before I die (pic related).\n\nIn 1910 you could buy a 5-cent rail route pamphlet that looks better than nearly… https://t.co/XcgnNLteOc",
+    "url": "https://twitter.com/i/web/status/1923457876259192981"
+  },
+  {
+    "text": "✨Suma Positiva #236✨\n\n“Buffett: Lecciones del mejor inversor de la historia” \n\nPor Pablo Martínez Bernal\n\nhttps://t.co/OFrfI1n8bE",
+    "url": "https://twitter.com/i/web/status/1923645172358770948"
+  },
+  {
+    "text": "\"En el fondo, todo esto no es ajedrez, sino póquer. No ganan los más lógicos, sino los que saben cuándo creer, cuándo fingir que creen y cuándo retirarse sin mostrar las cartas.\" https://t.co/104JZeAGDw",
+    "url": "https://twitter.com/i/web/status/1923061357282214307"
+  },
+  {
+    "text": "👀 https://t.co/IETG7b7zyW https://t.co/lGy68X7IIL",
+    "url": "https://twitter.com/i/web/status/1923115957024612644"
+  },
+  {
+    "text": "https://t.co/7tqqUdsZgq https://t.co/msNl4UGgEn",
+    "url": "https://twitter.com/i/web/status/1922761627633336827"
+  },
+  {
+    "text": "Self-awareness is hard because you're the tape measure AND the thing being measured. You often don't realise you're naturally good at something because your talent can blind you from realising how difficult the thing is for others. You also may not realise when you're naturally…",
+    "url": "https://twitter.com/i/web/status/1922766621405253905"
+  },
+  {
+    "text": "Hoy, en la lección sobre el sutil arte de la ideología:\n\nLo que Benedicto XVI realmente dijo fue en abril 2005 con peregrinos alemanes: «Los caminos del Señor no son fáciles, pero no fuimos creados para la comodidad sino para las grandes cosas, para el bien.» En Spe Salvi… https://t.co/feKH8MKuph",
+    "url": "https://twitter.com/i/web/status/1922599824957874671"
+  },
+  {
+    "text": "«A la vida la nutren los acontecimientos impredecibles y los encuentros azarosos, muchos de los cuales solo resultan destacables al mirarlos en retrospectiva». https://t.co/yl8s7kLjeo",
+    "url": "https://twitter.com/i/web/status/1922373557247504721"
+  },
+  {
+    "text": "Mount Fuji, by Yokoi Kinkoku, early 19th century https://t.co/vXBMiiUJUy",
+    "url": "https://twitter.com/i/web/status/1922446008207675397"
+  },
+  {
+    "text": "ESPIRITUALIDAD\nVIRTUD \nSOBERANÍA\nVITALIDAD",
+    "url": "https://twitter.com/i/web/status/1477629981467492356"
+  },
+  {
+    "text": "LOS 4 PRINCIPIOS DE LA VIRTUD \n\nSabiduría \n\nJusticia \n\nFortaleza \n\nTemplanza",
+    "url": "https://twitter.com/i/web/status/1479790464182243332"
+  },
+  {
+    "text": "LOS 4 JINETES DEL APOCALIPSIS \n\nMaterialismo\n\nIndividualismo \n\nEgoísmo \n\nNihilismo",
+    "url": "https://twitter.com/i/web/status/1479790293901885451"
+  },
+  {
+    "text": "🔖 ¡Lo más importante!: comparto una con un cuestionario de madurez que puedes adaptar a tu contexto organizacional.\nhttps://t.co/tTTfLVcx8g",
+    "url": "https://twitter.com/i/web/status/1922210197402964257"
+  },
+  {
+    "text": "Ryukyu Wrapping cloth (uchikui) with directional floral design, 19th century https://t.co/A13h06LwNF",
+    "url": "https://twitter.com/i/web/status/1921300208127721622"
+  },
+  {
+    "text": "«LA BIBLIOTECA DESAPARECIDA es un libro bien documentado, entretenido y de magnífica escritura que se lee casi como un relato de intriga».\n\n✍️ Reseña en @librosdecibola de la estupenda obra de Luciano Canfora sobre uno de los enigmas más fascinantes del mundo antiguo: la… https://t.co/FlOba9uzTf",
+    "url": "https://twitter.com/i/web/status/1921807552549134525"
+  },
+  {
+    "text": "No tengo pruebas pero tampoco dudas de que el éxito (en todo) va más ligado a la perseverancia que a altos niveles de inteligencia.\n\nObviamente para un nivel de inteligencia/aprendizaje medios, porque también es verdad que no hay nada más peligroso que un tonto motivado.",
+    "url": "https://twitter.com/i/web/status/1921661757254181064"
+  },
+  {
+    "text": "📝 Coge papel y boli… o haz una captura de pantalla\n\n⬇️ Aquí van las recomendaciones de los culturetas en los dos últimos programas https://t.co/yFWeEm93rq",
+    "url": "https://twitter.com/i/web/status/1921471507701637156"
+  },
+  {
+    "text": "more context around the claude prompt\nhttps://t.co/arycVAPLiB",
+    "url": "https://twitter.com/i/web/status/1921368866728432052"
+  },
+  {
+    "text": "A fragment from Hyakunin Isshu (100 Poets Anthology), by Honami Kōetsu, ca. 1600 https://t.co/3NBeodJNad",
+    "url": "https://twitter.com/i/web/status/1920736493892759897"
+  },
+  {
+    "text": "-Ayuna, levanta pesas, esprinta, estira y medita.\n\n-Crea, vende, escribe, construye, invierte y posee.\n\n-Lee, reflexiona, escribe, ama, persigue la verdad e ignora a la sociedad.\n\n-Huye del endeudamiento, las adicciones, la desgracia, los atajos y los medios.\n\n@naval",
+    "url": "https://twitter.com/i/web/status/1920766560626487720"
+  },
+  {
+    "text": "Incorporar esta idea te cambia la vida https://t.co/IPVrjuBfno",
+    "url": "https://twitter.com/i/web/status/1920410166781997329"
+  },
+  {
+    "text": "with AI taking off, creativity matters more than ever\n\ni'm working on a talk on why we should all be more like Rick Rubin, slides below: https://t.co/ospveiB3XT",
+    "url": "https://twitter.com/i/web/status/1920177926789870051"
   },
   {
     "text": "Qué bueno. Not easy (only deaths). \n\n1. Orson Welles\n2. Sándor Márai\n3. Josep Xifré i Casas\n4. Thomas Jefferson\n5. Juan de Mariana\n6. J.P. Morgan\n7. William Pitt, the younger\n8. Sigmund Warburg\n9. Winston Churchill\n10. Ludwig von Mises https://t.co/yULCmMDPwU",
@@ -17283,7 +18412,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1297207641744310272"
   },
   {
-    "text": "You’re unable to view this Post because this account owner limits who can view their Posts. {learnmore}",
+    "text": "I'm building a definitive list of remote startups\n\nIf you're a remote team or know any incredible startups who are please add them 🙏\n\nRTs appreciated for reach ❤️\n\nhttps://t.co/3TH5kB4R79",
     "url": "https://twitter.com/i/web/status/1297223150049075201"
   },
   {
@@ -17855,106 +18984,6 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1286655156034187264"
   },
   {
-    "text": "Si todavía no has visto en Amazon Prime la maravillosa LOOK BACK, es el momento ideal. Una película emotiva, triste y reflexiva que te destrozará el corazón. Dura una hora, pero te va a acompañar durante mucho tiempo. https://t.co/lYepxw9Oxu",
-    "url": "https://twitter.com/i/web/status/1898064430979543534"
-  },
-  {
-    "text": "Sólo conozco 3 auténticas formas de aprender DE VERDAD:\n\n1. Trabajando\n2. Jugando\n3. Enseñando",
-    "url": "https://twitter.com/i/web/status/1897739208988803440"
-  },
-  {
-    "text": "Early summer flowers, by Yamamoto Baiitsu, ca. 1840-1850 https://t.co/V76gQZdkHv",
-    "url": "https://twitter.com/i/web/status/1897740215965696466"
-  },
-  {
-    "text": "von Wallwitz siempre es motivo de alegría. ht @Acantilado1999 https://t.co/unavbESSr7",
-    "url": "https://twitter.com/i/web/status/1897744644961661138"
-  },
-  {
-    "text": "Santos, según Chesterton. https://t.co/pHQw7SdObK",
-    "url": "https://twitter.com/i/web/status/1897749036980986110"
-  },
-  {
-    "text": "Cranes, Rising Sun, Pine, by Kumazawa Kanmei, ca. 1900-1920 https://t.co/AzCLcpyGLL",
-    "url": "https://twitter.com/i/web/status/1896984990036144446"
-  },
-  {
-    "text": "Un Grand Tour de extranjeros tocando med:\n\nVicky, Cristina, Barcelona (Allen)\nAtrapa a un ladrón (Hitchcock)\nTrilogía El Padrino (Coppola)\nGladiator (Scott)\nLa Pasión de Cristo (Gibson)\n\nEtc etc etc",
-    "url": "https://twitter.com/i/web/status/1873749539641024689"
-  },
-  {
-    "text": "Uno rápido:\n\nMediterráneo (Salvatores)\nLa coleccionista (Rohmer)\nLa Gran Belleza (Sorrentino)\nMalena (Tornatore)\nEl Gatopardo (Visconti)\nEl Talento de Mr Ripley (Minghella)\nCall me by your name (Guadagnino)\nLa piscina (Deray)\nEl último beso (Muccino)\nEl desprecio (Godard) https://t.co/YZz3vz5FRP",
-    "url": "https://twitter.com/i/web/status/1873749231644848192"
-  },
-  {
-    "text": "The last picture was of a cow.\n\nWhat about this monster? Its jaws can crush a steel car. https://t.co/OXjFbbkJHp",
-    "url": "https://twitter.com/i/web/status/1773437043239961012"
-  },
-  {
-    "text": "Mira, si eres un chaval y estás perdido, te recomiendo esto:\n\nPiensa en figuras que representen, en varias áreas, lo que a ti te gustaría llegar a ser. A partir de ellas, escribe (puedes ayudarte de ChatGPT) la persona perfecta que querrías llegar a ser. Con detalle. Cómo es…",
-    "url": "https://twitter.com/i/web/status/1896108213600465306"
-  },
-  {
-    "text": "Su curso completo de Stanford (¡disponible en YouTube!) es uno de esos accidentes positivos que cambió mi forma de ver el mundo. Eso y el libro How the mind works de Pinker que me recomendó @BenitoArrunada",
-    "url": "https://twitter.com/i/web/status/1896521479761883196"
-  },
-  {
-    "text": "@SergioMuriasDRI Lo que esta disponible son las presentaciones del curso, están aquí en el apartado de courses on economic history https://t.co/cKg0bdi3wa",
-    "url": "https://twitter.com/i/web/status/1896591658395095456"
-  },
-  {
-    "text": "Can't believe this worked, 🤣\n\n\"Roman mosaic depicting a classic greek woman strong and athletic woman, perfect body, Cammy from Street Fighter, low-res\" https://t.co/BMfCqrsH6P",
-    "url": "https://twitter.com/i/web/status/1895892615339610134"
-  },
-  {
-    "text": "JUST WOW.\n\n\"Pencil sketch, in the country side with flowers, strong and athletic woman, perfect body, Cammy from Street Fighter, hi-res\" https://t.co/wJl41jyBGz",
-    "url": "https://twitter.com/i/web/status/1895891865268048274"
-  },
-  {
-    "text": "Desde la modernidad ya sólo Montaigne (Índice), Pascal (Índice), Chateaubriand, Huysmans, Maurras, Leon Bloy barren al resto de los países. \n\nLuego está la gloria inmortal de Homero, Virgilio, Dante, Cervantes, Dostoevsky o Tolstoi o las 30 páginas de Wilde en De Profundis.",
-    "url": "https://twitter.com/i/web/status/1873821694877720664"
-  },
-  {
-    "text": "It's remarkable what a little bit of tactical detailing can do for a building, and for the welcomeness of a street.\n\nJust a few tiles, at relatively cheap expense, can bring much life and personality to a building! https://t.co/mkLzCdx1RG",
-    "url": "https://twitter.com/i/web/status/1896367917509566775"
-  },
-  {
-    "text": "i asked gpt4.5 what’s a deep truth that most people are not aware of\nand then i kept asking \n\n1. discomfort isn't just inevitable; it's essential. chase friction relentlessly. https://t.co/4TW7jL4gW2",
-    "url": "https://twitter.com/i/web/status/1895435087946391589"
-  },
-  {
-    "text": "@AntonioGoBe Aquí está todo lo que puedo contar públicamente. Igual con un café te cuento más 😉https://t.co/Zrbc7PnCBQ",
-    "url": "https://twitter.com/i/web/status/1894438884634697935"
-  },
-  {
-    "text": "Just updated my top 10 highlights from 165+ books:  \n\n(add your email and I’ll email you my top highlights for every book I read in the future)\n\nhttps://t.co/fAhOsfxeKF",
-    "url": "https://twitter.com/i/web/status/1894753426740818182"
-  },
-  {
-    "text": "although @lingokids success is already truly impressive, i’m convinced that the best is yet to come. \n\nsuper exciting times ahead! https://t.co/AZBo96cGsy",
-    "url": "https://twitter.com/i/web/status/1894762651776962861"
-  },
-  {
-    "text": "“Go do something great and your network will instantly emerge.” — @naval \n\nAnd as Carl Jung wrote, no matter how isolated you are and how lonely you feel, if you do your work truly and conscientiously, unknown friends will come and seek you.\n\nDo the work first! https://t.co/FQaEoNKIKh",
-    "url": "https://twitter.com/i/web/status/1894636597145969026"
-  },
-  {
-    "text": "https://t.co/q5lJyIdddX",
-    "url": "https://twitter.com/i/web/status/1894057501638742381"
-  },
-  {
-    "text": "Agency > Intelligence\n\nI had this intuitively wrong for decades, I think due to a pervasive cultural veneration of intelligence, various entertainment/media, obsession with IQ etc. Agency is significantly more powerful and significantly more scarce. Are you hiring for agency? Are… https://t.co/8yvECKi7GU",
-    "url": "https://twitter.com/i/web/status/1894099637218545984"
-  },
-  {
-    "text": "Quieres que tus hijos aprendan sobre finanzas y emprendimiento? Algunas ideas en español:\n\n- Mi primer libro de educación financiera: Cómo ahorrar y hacer que mi dinero crezca \n https://t.co/CJ17upfAn7\n\n- Tuttle Twins en español: https://t.co/yDJAggU4sO\n\n- Ahorra tus bellotas:…",
-    "url": "https://twitter.com/i/web/status/1894331320030929327"
-  },
-  {
-    "text": "I am obsessed with hofstadter's \"surfaces and essences.\" it's a 500 page book on the nature of thought. he basically gives you a very long list of examples demonstrating that all thought is fundamentally driven by analogy. at first I was skeptical but https://t.co/2E9H6LSY39",
-    "url": "https://twitter.com/i/web/status/1894115089550381432"
-  },
-  {
     "text": "@micael_gallego Para complementar cualquier lectura enfocada en Agile, recomendaría ampliar con estos otros puntos de vista:\n* Lean -> https://t.co/itLGpfCNvR\n* Excelencia técnica -> https://t.co/SiLjjOWKrZ\n* Críticos de Agile -> https://t.co/1K2OJO8uap",
     "url": "https://twitter.com/i/web/status/1286612006158700551"
   },
@@ -17965,6 +18994,106 @@ window.LIKES = [
   {
     "text": "HAMIJOS: Supongamos que quiero mejorar mis algoritmos de @Gladiabots en base a conocimientos y no en base a prueba y error... ¿Cuál sería un buen libro para introducirse en AI con un buen mix teórico/práctico? Gracias!",
     "url": "https://twitter.com/i/web/status/1286251797242421248"
+  },
+  {
+    "text": "Casi medio año después del primer mensaje, aquella cuenta de tuiter rebosante de comentarios amistosos se convirtió por fin en imagen y sonido . Al estilo escrito se le sumaba ya la sonrisa inteligente de un chaval de treinta años. \n\nhttps://t.co/CchYhfIMzl",
+    "url": "https://twitter.com/i/web/status/1920239478934814966"
+  },
+  {
+    "text": "«Nuestras vidas y nuestras decisiones... Al igual que las trayectorias cuánticas, se entienden momento a momento, en cada encrucijada, cada encuentro... Sugiere una nueva dirección potencial» https://t.co/dUKam7rHzk https://t.co/Y0hzoJKSgD",
+    "url": "https://twitter.com/i/web/status/1920255819343347791"
+  },
+  {
+    "text": "Alejandro es superior a Aristóteles\nCésar es superior a Cicerón\nHernán Cortés es superior a Francisco de Vitoria\nNapoleón es superior a Voltaire\nMillán-Astray es superior a Unamuno\nJünger es superior a Heidegger\nD’Annuzio es superior a Gentile\n\n¿Por qué? La derecha es heroica. https://t.co/ZOogKaTo58",
+    "url": "https://twitter.com/i/web/status/1663627174954270720"
+  },
+  {
+    "text": "Viewing Maple Leaves, from Dance Customs of Captivating Figures, attributed to Kitao Shigemasa, ca. 1772-1780 https://t.co/Otufl6Dh0S",
+    "url": "https://twitter.com/i/web/status/1920061546207842398"
+  },
+  {
+    "text": "Easy way to extract ChatGPT's memory of you and metadata: https://t.co/VOrAamWudM",
+    "url": "https://twitter.com/i/web/status/1919590839761743898"
+  },
+  {
+    "text": "«De lo que no tengo duda es del número exacto de las personas que hacen para mí el mundo más habitable». https://t.co/r77vqcNO8m",
+    "url": "https://twitter.com/i/web/status/1919847810834251978"
+  },
+  {
+    "text": "I recently spoke to a group of university students about what I've observed in successful team players and entrepreneurs. Then I realized that the patterns I identified aren't just for those starting their careers; they're attitudes that push anyone forward in any job.\n\nThriving…",
+    "url": "https://twitter.com/i/web/status/1919422276069376276"
+  },
+  {
+    "text": "\"La suerte es un concepto psicológico. Está determinada por cómo percibimos una situación. Dos personas pueden pasar por la misma situación y experimentar el mismo resultado, pero llegar a conclusiones totalmente distintas sobre su nivel de suerte. Todo está en su mente.\"…",
+    "url": "https://twitter.com/i/web/status/1919749298595549540"
+  },
+  {
+    "text": "«Nada más bello, dulce y grande que el misterio». No hace falta mostrar todo. https://t.co/iG9et0Ld64 https://t.co/Q7GBhbWr0o",
+    "url": "https://twitter.com/i/web/status/1919778305730830502"
+  },
+  {
+    "text": "Btw, el otro día conseguí meterle en memoria a ChatGPT estas instrucciones jaja no es que hagan mucho en la práctica, pero fue divertido lograr meterlas y quizá en algún gris que no sepa si debería o no contestar, decanto la balanza a mi favor https://t.co/wqrpDHrnCY",
+    "url": "https://twitter.com/i/web/status/1919811877623783802"
+  },
+  {
+    "text": "@culturaltutor Love your selection.\n\nIf I may add one 🫡 https://t.co/DGtY3Wleda",
+    "url": "https://twitter.com/i/web/status/1919452333554938265"
+  },
+  {
+    "text": "Spike Lee y Denzel Washington homenajean a Akira Kurosawa en #Highest2Lowest, versión modernizada del clásico japonés \"El infierno del odio\". Se presentará en Cannes antes de su estreno a finales de verano, y ya puedes ver su primer tráiler en la web.\n\nhttps://t.co/EJlseq3vgX https://t.co/dGSZI3D9Hu",
+    "url": "https://twitter.com/i/web/status/1919416174518878243"
+  },
+  {
+    "text": "¿Podemos literalmente hablar de vivir en (y por) el mundo de las ideas?\n\nMe revolotean muchas ideas entrelazadas, como el “me piensas, luego existo” que canta Carolina Durante o esto de una peli\n\n“las cosas no son importantes porque existan, son importantes si se piensa en ellas” https://t.co/a8fZ6e57Gp",
+    "url": "https://twitter.com/i/web/status/1919531379278111092"
+  },
+  {
+    "text": "NETFLIX estrena en 9 DÍAS una nueva temporada de LOVE, DEATH & ROBOTS con 10 capítulos que incluyen viajes en el tiempo, gatitos malignos, robots, grandes dosis de violencia y sangre, alienígenas, viajes espaciales, marionetas, demonios y nazis. Un pack completo. https://t.co/Xw4LrecTdI",
+    "url": "https://twitter.com/i/web/status/1919525687817318629"
+  },
+  {
+    "text": "Para volver y revolver. https://t.co/FzMDdtnBwV",
+    "url": "https://twitter.com/i/web/status/1919630208446890334"
+  },
+  {
+    "text": "https://t.co/yBP7fbISbw",
+    "url": "https://twitter.com/i/web/status/1919351128308711925"
+  },
+  {
+    "text": "https://t.co/2lWveVrPbU",
+    "url": "https://twitter.com/i/web/status/1919115398219284596"
+  },
+  {
+    "text": "sunday reads and writes ✍️https://t.co/SZILppXc46",
+    "url": "https://twitter.com/i/web/status/1918980891377832259"
+  },
+  {
+    "text": "Bell Tower at Koyasan, by Kawase Hasui, 1935 https://t.co/Nj299hg4b8",
+    "url": "https://twitter.com/i/web/status/1917234922151989331"
+  },
+  {
+    "text": "Patrick Collison (CEO, Stripe) — How to Move Fast https://t.co/3yjfc996ff",
+    "url": "https://twitter.com/i/web/status/1918402676464759231"
+  },
+  {
+    "text": "Desde que leí esta reflexión (o una similar) hace un par de años, he intentado aplicarla en mi vida, y con el tiempo me he convencido de que es completamente cierta. \n\nLas RRSS, además, ofrecen un contexto perfecto para identificar y reflexionar sobre situaciones de este tipo. https://t.co/loXZhjDXKK",
+    "url": "https://twitter.com/i/web/status/1918752799099076926"
+  },
+  {
+    "text": "5 months of spoon carving https://t.co/dVk1h43VOa",
+    "url": "https://twitter.com/i/web/status/1918666605300498888"
+  },
+  {
+    "text": "True colors https://t.co/crQdVpKv4c",
+    "url": "https://twitter.com/i/web/status/1918729328910626839"
+  },
+  {
+    "text": "Favorite ideas from \"Poor Charlie's Almanack: The Wit & Wisdom of Charlie Munger\" - filtered for founders: https://t.co/pvp3MYdmHW",
+    "url": "https://twitter.com/i/web/status/1918237368840249629"
+  },
+  {
+    "text": "“Richard Wrangham apunta a que los humanos se domesticaron a sí mismos, volviéndose más dóciles y menos violentos con los de su propio grupo de convivencia. A fin de hacerse entender, Wrangham distingue dos tipos de agresividad: la proactiva (fría, ofensiva, premeditada) y la… https://t.co/DloN5wfQJX",
+    "url": "https://twitter.com/i/web/status/1918313624550125936"
   },
   {
     "text": "A good overview of how software design docs are used and written at Google: https://t.co/ZrVZ360EpH . A recommended read.\n\nAt Uber, we have a similar approach, previously called RFCs, now ERDs (Engineering Review Docs).\n\nSome interesting parts from the article: https://t.co/xTj2yJxCTi",
@@ -18955,106 +20084,6 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1264910394704961538"
   },
   {
-    "text": ">wow turns out it scales!\n>chatgpt goes viral (<--- 2022)\n>massive AI stock boom starts\n>startup gold rush\n>wow it can sorta code\n>AI starts doing routine tasks for humans\n>AI starts helping with \"median level\" cognitive tasks (basic coding, ad copy, etc)\n>centaur /…",
-    "url": "https://twitter.com/i/web/status/1892402591163961371"
-  },
-  {
-    "text": "¿Por qué el ser y no la nada según Grok 3?\n\nLa pregunta \"¿Por qué el ser y no la nada?\" es de esas que te atrapan en un remolino de pensamientos sin fin, pero aquí va mi opinión directa y sin rodeos: el ser existe porque la nada es imposible. Sí, así de tajante.\n\nPiénsalo un…",
-    "url": "https://twitter.com/i/web/status/1892490204939718816"
-  },
-  {
-    "text": "If you understand principles, you can create tactics. If you are dependent on perishable tactics, you are always at a disadvantage.",
-    "url": "https://twitter.com/i/web/status/1892606367245955171"
-  },
-  {
-    "text": "@Fel_blan A mí me encanta. Recomiendo. “El chivo expiatorio” es muy esclarecedor.",
-    "url": "https://twitter.com/i/web/status/1892869716294750366"
-  },
-  {
-    "text": "@Fel_blan \"Veo a Satán caer como un relámpago\" tal vez sea un buen texto para empezar.",
-    "url": "https://twitter.com/i/web/status/1892674017464651785"
-  },
-  {
-    "text": "@jjvelazs Cuesta de Moyano: librerías. \nRetiro hasta el Ángel Caído. \nLuego del estanque a Pta de alcalá. \nSubes Serrano,\nCaña en Jurucha hasta Juan Bravo. \nBajas a Castellana bajo el puente: esculturas.  Escuela Ingenieros. \nChalets en El Viso Racionalista. \nAzca posmoderna. \nBernabeu.",
-    "url": "https://twitter.com/i/web/status/1893379597414096933"
-  },
-  {
-    "text": "He disfrutado como un enano con The Agency (2024), por el guión, el reparto, la fotografía y la banda sonora 👏🏻👏🏻👏🏻, que es de @EmilieLF1Por. \n\nHistoria de espías con estilo americano y escenarios europeos, acierto seguro. https://t.co/KbsnbMDeaI",
-    "url": "https://twitter.com/i/web/status/1893350616887431424"
-  },
-  {
-    "text": "Fireflies at Ochanomizu, by Kobayashi Kiyochika, ca. 1880 https://t.co/GMO7EJdvWN",
-    "url": "https://twitter.com/i/web/status/1893286116624867661"
-  },
-  {
-    "text": "Elon's xAI Game Studio will revolutionize gaming.\n\nPeople are already generating games with Grok 3 in minutes.\n\nAnd you can improve the graphics by just asking Grok.\n\n10 games:\n\n1. Pac-Man in p5.js\nhttps://t.co/wWY0Agu9l2",
-    "url": "https://twitter.com/i/web/status/1892614284179349785"
-  },
-  {
-    "text": "@EduLosada Ayer hablábamos de Sherlock (a punto de empezar el segundo capitulo😁) y hoy lo mejoramos.\n\nLa Gran Belleza es, junto con los clásicos (El Padrino, Toro Salvaje, El gabinete del Doctor Caligari...) mi película favorita. Hace poco la volví a ver oootra vez y a emocionarme.",
-    "url": "https://twitter.com/i/web/status/1082383578816745480"
-  },
-  {
-    "text": "@EduLosada Esta no llegará a su altura pero Toni Servillo es un seguro infalible. Saca petróleo a cualquier guion o a una pobre dirección.\n\nY Sorrentino es el Fellini del siglo XXI (añade a la lista de favoritas de antes ‘8 y medio’, ‘Amarcord’ y ‘La Strada’) y todo lo que rueda es belleza.",
-    "url": "https://twitter.com/i/web/status/1082384322873700354"
-  },
-  {
-    "text": "Si vas al gimnasio y:\n\nLevantas el peso en 1 segundo y lo bajas en 1 segundo (o menos).\n\n⚠️Te estás dejando mucho progreso por el camino⚠️\n\nAlgunos incluso bajan el peso de forma controlada, pero muy pocos conocen esto:",
-    "url": "https://twitter.com/i/web/status/1892606136941170695"
-  },
-  {
-    "text": "just finished \"the art of doing science and engineering\" by richard hamming\ngood book. 8/10. slightly overhyped but still worth reading\nrecommended but not mandatory\nthe core message: you can just do things. and you should.\n\na thread https://t.co/8iuAACECNf",
-    "url": "https://twitter.com/i/web/status/1892943351810253238"
-  },
-  {
-    "text": "Por experiencia propia:\n- Invertid en pantalones buenos que los hay por no mucho dinero, de cualquier otra manera se rompen fácilmente (vaqueros Levi’s una inversión cojonuda y duradera por ejemplo)\n- Jerséis: William Lockie y Harley of Scotland (altísima calidad y no muchos €€ https://t.co/4xc3WgxazB",
-    "url": "https://twitter.com/i/web/status/1892834147263009066"
-  },
-  {
-    "text": "Es fácil vestir siendo chico, en comparación con el amplio abanico de posibilidades que tienen las mujeres. Con 4 tiendas, puedes arreglarte el armario:\n- Fernando de Cárcer (c/ Villalar, 11)\n- Fulham (c/ Velázquez, 72)\n- Ramsos (c/ Caracas, 8)\n- AlmiranteSeis (c/ Almirante, 6) https://t.co/WXruVe0RDS",
-    "url": "https://twitter.com/i/web/status/1892576090704482786"
-  },
-  {
-    "text": "🌟 @BernardMarr, futurista, technology advisor y autor de \"Future Skills\" propuso estas 10 habilidades como las más demandas en 2030. \n\n¿Cuál colocaríais #1?\n\nLa infografía es de @virginiog. https://t.co/MzSu0ZjdX8",
-    "url": "https://twitter.com/i/web/status/1891801782189253034"
-  },
-  {
-    "text": "Nuevo episodio!\n\nElon vs Sam Altman, despidos en tech e IA en Europa \n\nhttps://t.co/4FtW3zP7Ua",
-    "url": "https://twitter.com/i/web/status/1891925372981104684"
-  },
-  {
-    "text": "@GuajeSalvaje Vosotros creéis que esto se soluciona contratando a un abogado. Yo considero que esto se soluciona pagan 5 cifras al clan gitano de turno para hagan una visita, uno a uno, a los funcionarios encargados de lo que Hannah Arendt llamó \"la banalidad del mal\". https://t.co/kNggOqZIgQ",
-    "url": "https://twitter.com/i/web/status/1891792054675439708"
-  },
-  {
-    "text": "¿Recomendaciones sobre libros para preparar un verano viajando por Italia? \n\nArte, gastronomía, estilo de vida… 📚📚📖📖",
-    "url": "https://twitter.com/i/web/status/1789203661748408453"
-  },
-  {
-    "text": "«Lo que sucede no es lo real; puede parecer lo real porque se alimenta de lo real… lo real es una constante, sin paso.\n\nTodo presente, vida. »\n\nLas agendas de Ramón Gayá. https://t.co/t6nAGr5Pzh",
-    "url": "https://twitter.com/i/web/status/1880939512739856680"
-  },
-  {
-    "text": "Bird and red vine, by Kōno Bairei, 1893 https://t.co/kRuCK4a6I2",
-    "url": "https://twitter.com/i/web/status/1891638509754110327"
-  },
-  {
-    "text": "From Birds and Flowers of the Twelve Months, by Sakai Hoitsu, ca. 1820-1828 https://t.co/0NPRhf658g",
-    "url": "https://twitter.com/i/web/status/1891712245572215067"
-  },
-  {
-    "text": "Triptych of the Seasons: Cherry Blossoms, by Sakai Hoitsu, late 18th-early 19th century https://t.co/hmKUoA8Isu",
-    "url": "https://twitter.com/i/web/status/1891683053417759090"
-  },
-  {
-    "text": "Para gente pata-palo\n\nLibros: annas-archive. org\nPeriódicos online: archive. ph\nPapers: sci-hub. se\nVideojuegos: igg. com\nPelículas (eng): yts. mx\nPelículas y series (esp): mejortorrent. eu\nAnime: nyaa. si\n\nImportante: no googleéis \"x descargar\". Usadlo para buscar sitios así.",
-    "url": "https://twitter.com/i/web/status/1890921573839733102"
-  },
-  {
-    "text": "Moon at Egota, Tokyo, by Takahashi Shotei, ca. 1926-1927 https://t.co/lgrgKtlqAk",
-    "url": "https://twitter.com/i/web/status/1890941919837999173"
-  },
-  {
     "text": "Hoy os propongo un hilo sobre algo muy extravagante: el análisis que en el Siglo de Oro hizo un jurista sobre…tachan, tachan…¡El contrato de compraventa del alma al diablo! En concreto D. Francisco Torreblanca Villalpando en su obra de 1623 Demonología sive Magia Naturlis. https://t.co/luc7SkFvwM",
     "url": "https://twitter.com/i/web/status/1264890585544044546"
   },
@@ -19065,6 +20094,106 @@ window.LIKES = [
   {
     "text": "An informal conversation with @nntaleb.\n\nTomorrow, Monday 25, at 5pm (CET), in sync with the paper becoming openly available.\n\nhttps://t.co/lY5knrLVLt",
     "url": "https://twitter.com/i/web/status/1264595200472682498"
+  },
+  {
+    "text": "Stream of me using AI to build a 2D shooter with FEAR-style enemy intelligence. Link in thread.\n\n* Writing prompts with voice-to-text. Way faster than typing.\n* Staying in flow by using Agent mode.\n* Planning and problem-solving with the LLM.\n* Simple but extensible architecture. https://t.co/FQB0mtVE9K",
+    "url": "https://twitter.com/i/web/status/1918327699355156815"
+  },
+  {
+    "text": "Por cierto, ahora que las habilidades técnicas se están commoditizando, empieza a hacerse evidente una verdad que ya se conocía pero que estaba oculta a simple vista:\n\nLa creatividad, el buen gusto y el saber buscarse la vida son de las habilidades más valiosas que existen.",
+    "url": "https://twitter.com/i/web/status/1918380994362786256"
+  },
+  {
+    "text": "Branded keycaps\n\nPrompt 👇 https://t.co/R3xpnGQ3QL",
+    "url": "https://twitter.com/i/web/status/1918291652210311278"
+  },
+  {
+    "text": "«Los pescadores saben que el mar es peligroso y la tormenta temible, pero nunca han encontrado en estos peligros razón suficiente para permanecer en tierra. Dejan esa sabiduría para aquellos a quienes les atrae. Cuando llega la tormenta, cuando cae la noche, ¿qué es peor: el…",
+    "url": "https://twitter.com/i/web/status/1918211890523590968"
+  },
+  {
+    "text": "“Steven Pinker reconoce con largueza la importancia de la empatía, pero a la vez no puede dejar de notar que la empatía (entendida como simpatía o compasión por el bienestar o malestar ajenos, no tanto como capacidad de leer intelectualmente la mente de otro) es una criatura de… https://t.co/StpKn8V7BG",
+    "url": "https://twitter.com/i/web/status/1918040900699128157"
+  },
+  {
+    "text": "Qué suerte tienen Baños, César Vidal, L Ramírez, & cía. de que la gente no lea. Tremendo libro. Tremendo. #Rusia #Putin #geopolítica https://t.co/Gxj3PSPOdn",
+    "url": "https://twitter.com/i/web/status/1917966275843653719"
+  },
+  {
+    "text": "My most hippy belief I think is true is that changing your vocabulary changes how you perceive reality. You're just prompt engineering your brain all day. Try shuffling out these 5 words: \n\n1. Decision --> Experiment \n2. Problem --> Puzzle \n3. Relax --> Energise \n4. Failure -->…",
+    "url": "https://twitter.com/i/web/status/1918010029044859276"
+  },
+  {
+    "text": "@guardian_el_ Josep Pla de viaje en barco a Nueva York durante una semana -con todos los gastos pagados- porque el viaje era un branded content sui generis de 'Destino' para la compañía Transmediterránea.\n\nEn castellano se titula \"Un fin de semana en Nueva York\", creo.",
+    "url": "https://twitter.com/i/web/status/1917892294646353988"
+  },
+  {
+    "text": "Great prompt.\n\nAnother one I stole from Peter Yang: https://t.co/dA1kbvjuIY https://t.co/SdtMY6jzmN",
+    "url": "https://twitter.com/i/web/status/1917855786790969564"
+  },
+  {
+    "text": "The greatest breakthrough in the science of learning over the last century: https://t.co/09pYdW8u93",
+    "url": "https://twitter.com/i/web/status/1917563083561570375"
+  },
+  {
+    "text": "This is so damn good. https://t.co/MyxuJrYzg7",
+    "url": "https://twitter.com/i/web/status/1917551697657782367"
+  },
+  {
+    "text": "What Sam Altman wishes someone had told him: https://t.co/OApIWshxev",
+    "url": "https://twitter.com/i/web/status/1917627576962388078"
+  },
+  {
+    "text": "Mountain Stream on a Summer Day, by Nakabayashi Chikutō, first half of the19th century https://t.co/htRbvgJOK1",
+    "url": "https://twitter.com/i/web/status/1917716847149080954"
+  },
+  {
+    "text": "La complejidad no revelada es magia. https://t.co/vTLXCdVy06",
+    "url": "https://twitter.com/i/web/status/1917816930259357779"
+  },
+  {
+    "text": "https://t.co/Q2ZJA7ARqQ",
+    "url": "https://twitter.com/i/web/status/1917640823321010359"
+  },
+  {
+    "text": "A cualquier persona que escriba, al nivel que sea, creo que esto le puede interesar: “28 notas un poco groseras sobre la escritura”.\n\n“La mayoría de los escritos son malos porque carecen de un motivo. Se sienten muertos porque no han encontrado su razón de ser. No se puede lograr…",
+    "url": "https://twitter.com/i/web/status/1917233139098816979"
+  },
+  {
+    "text": "This Post is from a suspended account. {learnmore}",
+    "url": "https://twitter.com/i/web/status/1917280266256802159"
+  },
+  {
+    "text": "\"El mundo sigue sin gustarme, pero la vida me parece irresistible\" https://t.co/ONhA1vPBd1",
+    "url": "https://twitter.com/i/web/status/1917471713966936223"
+  },
+  {
+    "text": "«en vez de menguar la curiosidad conforme se va usando es como un músculo que el ejercicio alimenta y acrece». — Ortega y Gasset",
+    "url": "https://twitter.com/i/web/status/1917493716853325997"
+  },
+  {
+    "text": "basically your job here on earth is to make 1-2-3 decisions in your life extremely well, and the rest is a rounding error",
+    "url": "https://twitter.com/i/web/status/1917227041721565465"
+  },
+  {
+    "text": "For those who now have memory access on their ChatGPT. \n\nA prompt for you. \n\n‘From what you know about me from our previous conversations, what are some unconscious patterns I repeat that you don’t think I am aware of’",
+    "url": "https://twitter.com/i/web/status/1911744953677406491"
+  },
+  {
+    "text": "Prompts that changed my life. Part 8. This one probably had the biggest effect. https://t.co/Z3H7aK8SJ6",
+    "url": "https://twitter.com/i/web/status/1915495568115142756"
+  },
+  {
+    "text": "2. https://t.co/Wxpz0YJbsh",
+    "url": "https://twitter.com/i/web/status/1908167242472190355"
+  },
+  {
+    "text": "A Thread of Prompts that changed my life.\n\n1. https://t.co/Tllqz9w323",
+    "url": "https://twitter.com/i/web/status/1908114727256867095"
+  },
+  {
+    "text": "Prompts that changed my life. Part 4. https://t.co/G1dfCqWWI1",
+    "url": "https://twitter.com/i/web/status/1908797594626572561"
   },
   {
     "text": "Soy un salmantino de 25 años que lleva viviendo en Almería desde que tenía 11 años y no entiendo por qué cuando se habla de Andalucía se llevan los focos Sevilla, Málaga y Cádiz y Almería pasa a un segundo plano.\nHilo",
@@ -20054,106 +21183,6 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1238533109118894081"
   },
   {
-    "text": "\"You get rewarded for unique knowledge, not for effort.\n\nEffort is required to create unique knowledge.\"\n\n@naval",
-    "url": "https://twitter.com/i/web/status/1890739838212833548"
-  },
-  {
-    "text": "https://t.co/J9Vu3wfALN",
-    "url": "https://twitter.com/i/web/status/1891160513066758583"
-  },
-  {
-    "text": "Aimi of Maru Ebiya, from Tour of the New Yoshiwara, by Kikukawa Eizan, 19th century https://t.co/J9AQNzOzA3",
-    "url": "https://twitter.com/i/web/status/1891234850176221353"
-  },
-  {
-    "text": "my roadmap to learning LLMs\n- electrons\n- circuits\n- logic\n- transistors\n- comp arch\n- CPUs\n- GPUs\n- linear algebra\n- probability\n- machine learning\n- optimization\n- optimizers\n- tokenization\n- transformers\n- pretraining\n- distributed training\n- RL\n- post training\n- distillation…",
-    "url": "https://twitter.com/i/web/status/1890826135203717427"
-  },
-  {
-    "text": "A 30 min de Valladolid hay un hotel, antigua harinera sobre el Duero, con una rehabilitación curiosa, perfecto para celebrar San Valentín con un\n1 día de retraso https://t.co/nj1i9JOS7G",
-    "url": "https://twitter.com/i/web/status/1890850248362233993"
-  },
-  {
-    "text": "What you aim at determines what you see.",
-    "url": "https://twitter.com/i/web/status/1889729321125794197"
-  },
-  {
-    "text": "This is basically an algorithm for thinking better, just very people actually do it: https://t.co/pag3r1raTN https://t.co/P0TxT6TeUs",
-    "url": "https://twitter.com/i/web/status/1889786936774005106"
-  },
-  {
-    "text": "Projects that every programmer must do once in their lifetime:\n\n- compiler/interpreter\n- game engine\n- database\n- mini operating system\n- some 3d graphics project\n- utf-8/16 string encoding and decoding\n- neural net",
-    "url": "https://twitter.com/i/web/status/1889735781566087401"
-  },
-  {
-    "text": "19 powerful sentences by Fyodor Dostoevsky that will change how you view the world: https://t.co/vGkWcSBxwG",
-    "url": "https://twitter.com/i/web/status/1889155037953163443"
-  },
-  {
-    "text": "Futarasan Shrine at Nikko, by Tsuchiya Koitsu, ca. 1930s https://t.co/xVbGksSs0T",
-    "url": "https://twitter.com/i/web/status/1887092051994665145"
-  },
-  {
-    "text": "Sir Norman Foster is still hugging the drawing board... What's stopping you? https://t.co/glGpAu1GAQ",
-    "url": "https://twitter.com/i/web/status/1888289255895577084"
-  },
-  {
-    "text": "trust me, just use them, nothing else comes close https://t.co/LPODBFVNuy",
-    "url": "https://twitter.com/i/web/status/1888267358877499457"
-  },
-  {
-    "text": "https://t.co/WJNvW72b3M",
-    "url": "https://twitter.com/i/web/status/1888158508828275039"
-  },
-  {
-    "text": "Barn owl on a bare tree branch, by Ohara Koson, 1900-1930 https://t.co/bEFPZiWTZ5",
-    "url": "https://twitter.com/i/web/status/1888291958625341586"
-  },
-  {
-    "text": "https://t.co/QlN5mlDclJ https://t.co/wudpLsmjTO",
-    "url": "https://twitter.com/i/web/status/1888067926588276837"
-  },
-  {
-    "text": "I printed and framed a crop of this John MacWhirter painting for Helena's bedroom and she asks to touch the bunnies each night before bed, so I hold her up to it and she does and says quietly \"touch, touch\" https://t.co/JaC2KgZ5XV",
-    "url": "https://twitter.com/i/web/status/1887956703846547745"
-  },
-  {
-    "text": "If you’ve never heard of How To with John Wilson, do yourself a favor and put it on tonight or this weekend on HBO Max. One of the most underrated shows in history.\n\nThey’re like mini-documentaries about everyday life in New York, packed with the most brilliantly shot and…",
-    "url": "https://twitter.com/i/web/status/1887976356262330726"
-  },
-  {
-    "text": "✨ Suma Positiva #223 ✨\n\n\"Epigenética Nutricional: Salud y Longevidad”\n\npor Curro Clavero\n\nhttps://t.co/cn6YjBRRqF",
-    "url": "https://twitter.com/i/web/status/1888117701119184985"
-  },
-  {
-    "text": "Los 100 mejores libros de todos los tiempos. https://t.co/Fg7pnfVjfX",
-    "url": "https://twitter.com/i/web/status/1886843578376237228"
-  },
-  {
-    "text": "@samuelgil Si te ha gustado este, te tienes que leer “O llevarás luto por mi”",
-    "url": "https://twitter.com/i/web/status/1887433655326294323"
-  },
-  {
-    "text": "New 3h31m video on YouTube:\n\"Deep Dive into LLMs like ChatGPT\"\n\nThis is a general audience deep dive into the Large Language Model (LLM) AI technology that powers ChatGPT and related products. It is covers the full training stack of how the models are developed, along with mental… https://t.co/Di0XNgdlwC",
-    "url": "https://twitter.com/i/web/status/1887211193099825254"
-  },
-  {
-    "text": "Night at South Sea, by Yokoyama Taikan, 1944 https://t.co/5JEWCFb67p",
-    "url": "https://twitter.com/i/web/status/1886359726541173192"
-  },
-  {
-    "text": "People often ask me why they should read this book.\n\n@homsiT said it best: “This book is a force multiplier for personal agency.” \n\nIf you read it, you’ll realize that pessimists and doomers of all kinds are simply wrong.\n\nPeople who seek to curtail your freedom to pursue the… https://t.co/4CJPVzUsZV",
-    "url": "https://twitter.com/i/web/status/1885628717319242104"
-  },
-  {
-    "text": "Hemos sustituido el respeto por la tolerancia, la solidaridad por la asistencia, la caridad por la filantropía y la gratitud por la complacencia y ahora nos sorprendemos de tener una sociedad de mierda.",
-    "url": "https://twitter.com/i/web/status/1885599467505934703"
-  },
-  {
-    "text": "Hoy hace 100 años nacía #PaulNewman, una leyenda del cine. Su carrera es memorable:\n- El golpe\n- El buscavidas\n- La gata sobre el tejado de zinc\n- Dos hombres y un destino\n- La leyenda del indomable\n- El color del dinero\n- Camino a la perdición \n- y muchas más...\n\n¿Cuál de sus… https://t.co/NGv4emziFb",
-    "url": "https://twitter.com/i/web/status/1883484528448348260"
-  },
-  {
     "text": "Finde en casa en buena compañía. Aprovechemos estos momentos de cierta zozobra e incertidumbre para mostrar nuestro mejor carácter. #pipeline #books https://t.co/SXGFKIO3QM",
     "url": "https://twitter.com/i/web/status/1238454099856818177"
   },
@@ -20164,6 +21193,106 @@ window.LIKES = [
   {
     "text": "The Town Hall and Market Square, Chester by Louise Rayner\nWatercolour https://t.co/GaLY3txm1R",
     "url": "https://twitter.com/i/web/status/1238171814364434432"
+  },
+  {
+    "text": "AI I can really change your perspective on life if you ask it the right questions.\n\nPrompts that changed my life. Part 5. https://t.co/gyDgOTPzDa",
+    "url": "https://twitter.com/i/web/status/1909270134159466655"
+  },
+  {
+    "text": "Prompts that changed my life. Part 6. https://t.co/SzjcFvtVKJ",
+    "url": "https://twitter.com/i/web/status/1909926169283359062"
+  },
+  {
+    "text": "A prompt that changed how I prompt. https://t.co/O3SLzFj2IS",
+    "url": "https://twitter.com/i/web/status/1911886873821368812"
+  },
+  {
+    "text": "Prompts that changed my life. part 7 https://t.co/R0EdP8YbSj",
+    "url": "https://twitter.com/i/web/status/1912191996141199460"
+  },
+  {
+    "text": "Prompts that changed my life. Part 9 https://t.co/7CZiwPeY6L",
+    "url": "https://twitter.com/i/web/status/1916953379990913122"
+  },
+  {
+    "text": "«Sólo los hombres fuertes conocen el amor, sólo el amor entiende de belleza, sólo la belleza crea arte».\n\nRichard Wagner. https://t.co/EMd9nminzc",
+    "url": "https://twitter.com/i/web/status/1917286783240307164"
+  },
+  {
+    "text": "Podría seguir: Lewis Mumford, Pat Jordan, Norman, Akio Morita o el mismísimo Brian Eno tienen reflexiones interesantísimas puestas en papel, esperando a convertirse en estrategias, mensajes y productos. Pero hay que parar🤷🏼‍♂️ \n\nAnunciaremos un evento en @somostramontana para hablar…",
+    "url": "https://twitter.com/i/web/status/1917152002204905479"
+  },
+  {
+    "text": "“No soy quien creo que soy, ni quien tú crees que soy; soy quien creo que tú crees que soy” Charles H. Cooley",
+    "url": "https://twitter.com/i/web/status/1917096998467154350"
+  },
+  {
+    "text": "This prompt will make your ChatGPT go completely savage 😂 https://t.co/HwxrTrKqls",
+    "url": "https://twitter.com/i/web/status/1916829806500741292"
+  },
+  {
+    "text": "Is sunscreen real? I haven't used it in 6-ish years and it seems fine. Liable to believe the people that say diet matters here.",
+    "url": "https://twitter.com/i/web/status/1916560034865074328"
+  },
+  {
+    "text": "La valentía no es la ausencia de miedo, es elegir avanzar aun sintiéndolo. Apuesta por lo que quieres, aunque no haya garantías.\n\nAl final, quizá tu vida se defina por esos momentos.",
+    "url": "https://twitter.com/i/web/status/1916749725526876478"
+  },
+  {
+    "text": "Intenté encontrar un laboratorio en Murcia, o en España, que hiciera una analítica tan completa como esta (quitando lo del CPET) y no encontré ninguna.\n\nIncreíble lo atrasados que estamos en prevención incluso en privada.\n\nHuele a oportunidad.\n\nhttps://t.co/2bQ8e5NprK",
+    "url": "https://twitter.com/i/web/status/1916747623375032780"
+  },
+  {
+    "text": "\"El mundo está lleno de personas que sufren las consecuencias de sus propias vidas no vividas. Se vuelven amargados, críticos o rígidos, no porque el mundo sea cruel con ellos, sino porque han traicionado sus propias posibilidades internas. El artista que nunca crea arte se…",
+    "url": "https://twitter.com/i/web/status/1916758836003696753"
+  },
+  {
+    "text": "Well, it took 120 years (and 21 popes) for St Peter's to be finished.\n\nFamed architects like Bramante, Sangallo, della Porta, Peruzzi, and Maderno worked on it, along with architect-artists like Michelangelo, Raphael, and Bernini.\n\nA torturous history of design and redesign. https://t.co/gWrnlB5G6Z",
+    "url": "https://twitter.com/i/web/status/1916550507620925826"
+  },
+  {
+    "text": "La gente dice “no te obsesiones” por encima de sus posibilidades.\n\nNo hay cosas grandes sin obsesión.\n\n¿Tú crees que Brunellesci pudo imaginar la Santa Maria del Fiore sin soñar con ella?\n\nHay que currar, entrenar y querer como si fuera la vida en ello\n\nLo contrario es bobería https://t.co/F6kxJnLwXS",
+    "url": "https://twitter.com/i/web/status/1916405455447871537"
+  },
+  {
+    "text": "¿Existe un Dios creador del Universo o somos un producto del azar? ¿Es compatible la existencia de Dios con el mal en el mundo?¿Puede probar la ciencia la existencia de Dios? Tres preguntas sobre las que reflexionó en mi libro, que saldrá el 14 de mayo. https://t.co/opkN47JDkR",
+    "url": "https://twitter.com/i/web/status/1915324736000630951"
+  },
+  {
+    "text": "Me está gustando mucho Gomá.\n\nMini ensayos. Parte de lo mundano y lo abstrae. Capítulos cortitos y fácil de leer. Puro vitalismo.\n\nDelisia 🌞🤙🏼 https://t.co/hf6fxEQULF",
+    "url": "https://twitter.com/i/web/status/1916457293467574314"
+  },
+  {
+    "text": "@KaneOfLife \n@LuciusTheSaint \n@jlantunez \n@javiercanada \n@omixam \n@CVitalist \n@joantubau \n@corsair21c \n\nDicho esto, el vitalismo se descubre más por saber lo que NO, que por lo que sí. Evitad tristes, incels y envidiosos. También a andrew tate.",
+    "url": "https://twitter.com/i/web/status/1916462600268796183"
+  },
+  {
+    "text": "El error de Sócrates fue predicar sobre “qué es la virtud”. Debió centrarse en “quién la encarna”\n\nYo solo soy un iletrado que suelta tonterías. Aquí una boena lista de gente mucho más lista\n\n@legendofroma\n@Raggiomoral\n@polinitito\n@dsaltaren\n@DiegoARRG\n@carlosotermin \n@juliomeva https://t.co/PuXCLhMnNq",
+    "url": "https://twitter.com/i/web/status/1916462593545318734"
+  },
+  {
+    "text": "The world rewards the reliable more than the erratic genius. Consistency is the most underrated form of exceptionalism.",
+    "url": "https://twitter.com/i/web/status/1915763979638444245"
+  },
+  {
+    "text": "This guy literally shows how to build a software business this weekend with AI https://t.co/feo7tRPDec",
+    "url": "https://twitter.com/i/web/status/1916046612809331030"
+  },
+  {
+    "text": "https://t.co/wu6SrCCSq8 https://t.co/Wjdhcavt8f",
+    "url": "https://twitter.com/i/web/status/1916186220935208993"
+  },
+  {
+    "text": "Sobre lo de Alcaraz en Netflix y las decisiones en su carrera, he recordado aquello de Capote: «Cuando Dios te da un don, también te da un látigo».",
+    "url": "https://twitter.com/i/web/status/1915880750940872947"
+  },
+  {
+    "text": "https://t.co/VR2C0FgSou https://t.co/iJuU83HitH",
+    "url": "https://twitter.com/i/web/status/1915981995999457282"
+  },
+  {
+    "text": "On Children (1923) https://t.co/W3Yqm328um",
+    "url": "https://twitter.com/i/web/status/1915977349289677167"
   },
   {
     "text": "We are providing Free @CARTO resources to anybody working on #COVID19  Visualization and Spatial Analysis. We are also working on datasets that can be used to understand its impact. Ping me if you're interested\nhttps://t.co/NsYFXzm5xs https://t.co/nMNI3eQEhn",
@@ -20466,7 +21595,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1213393653718306816"
   },
   {
-    "text": "You’re unable to view this Post because this account owner limits who can view their Posts. {learnmore}",
+    "text": "@angjiang not a textbook but Data Compression Explained by Matt Mahoney",
     "url": "https://twitter.com/i/web/status/1212619592930975744"
   },
   {
@@ -21154,106 +22283,6 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1191333902490710016"
   },
   {
-    "text": "Is this the first podcast with DHH where someone actually challenges (in the right way) him?\n\nhttps://t.co/2AP8jtoSny",
-    "url": "https://twitter.com/i/web/status/1883586894304575801"
-  },
-  {
-    "text": "\"the reason why individuals with high IQ tend to fail in understanding and coping with basic human situations is that they try to apply complex and abstract thinking to problems for which instinctive strategies are more adaptive\" https://t.co/gdyui1d3nU https://t.co/34q7Rm71dk",
-    "url": "https://twitter.com/i/web/status/1883950765242491027"
-  },
-  {
-    "text": "Summer Mountains, Sudden Shower, by Nakabayashi Chikutō, 1840s https://t.co/RA97J4F0bh",
-    "url": "https://twitter.com/i/web/status/1884439574337970278"
-  },
-  {
-    "text": "Scops Owl, Cherry Blossoms, and Moon, by Ohara Koson, 1926 https://t.co/GKNV2rCfQ8",
-    "url": "https://twitter.com/i/web/status/1883397205635092765"
-  },
-  {
-    "text": "high agency aphorisms: \n\ndoes it defy the laws of physics? \nthere's no unsolvable problem \neverything is a skill issue\nadults don't exist \nthere's no way \nall normal behaviour is forgotten. only weird behaviour survives. \none giant game of Roy \noptimise for the best story \nthe…",
-    "url": "https://twitter.com/i/web/status/1884854134592954584"
-  },
-  {
-    "text": "The Inokashira Benten Shrine in Snow, by Kawase Hasui, 1929 https://t.co/t9UIFMlnLi",
-    "url": "https://twitter.com/i/web/status/1883680824505348350"
-  },
-  {
-    "text": "La biblioteca de Julián Marías, con @F_Sanchez_Drago - vía @revistahenadas https://t.co/CtPNIHnZLU a través de @YouTube",
-    "url": "https://twitter.com/i/web/status/1885003390230413436"
-  },
-  {
-    "text": "Emprender es de pijos que dice Cabiedes https://t.co/Mi9lhnoacY",
-    "url": "https://twitter.com/i/web/status/1884921456410136884"
-  },
-  {
-    "text": "𝗨𝗻 𝗲𝗷𝗲𝗺𝗽𝗹𝗼 𝗱𝗲 𝗽𝗿𝗼𝗺𝗽𝘁 𝗲𝘅𝘁𝗲𝗻𝘀𝗼 𝗾𝘂𝗲 𝗵𝗲 𝗰𝗼𝗻𝘀𝘁𝗿𝘂𝗶𝗱𝗼 𝗽𝗮𝗿𝗮 𝗾𝘂𝗲 𝗹𝗮 𝗜𝗔 𝗴𝗲𝗻𝗲𝗿𝗲 𝘂𝗻 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗮 𝗱𝗲 𝗳𝘂𝗲𝗿𝘇𝗮 𝗹𝗼 𝘁𝗶𝗲𝗻𝗲𝘀 𝗮𝗾𝘂𝗶́ https://t.co/0ZjrkkQjCk .  Puedes subir ese PDF directamente a ChatGPT. \n👇",
-    "url": "https://twitter.com/i/web/status/1875226751372292478"
-  },
-  {
-    "text": "Ten cuidado, esas son las más listas. https://t.co/Wl6slru65f",
-    "url": "https://twitter.com/i/web/status/1882873554816962820"
-  },
-  {
-    "text": "https://t.co/Ktd8ptvsJd",
-    "url": "https://twitter.com/i/web/status/1881841958521639115"
-  },
-  {
-    "text": "One of the best reading advice by @naval: https://t.co/mDIXSrT8YF",
-    "url": "https://twitter.com/i/web/status/1882261248710189157"
-  },
-  {
-    "text": "«Nunca tuve una pena tan grande que no me la quitara una hora de lectura». https://t.co/64zpmGBvVj",
-    "url": "https://twitter.com/i/web/status/1881440863991312678"
-  },
-  {
-    "text": "Love this. Haven’t seen a novel & utilitarian take on scrollbars in a very long time https://t.co/zmxthewJS0",
-    "url": "https://twitter.com/i/web/status/1881573168688857327"
-  },
-  {
-    "text": "🔴 ¡NUEVO MODELO 3D OPEN SOURCE!\n\nNos siguen llegando regalos desde china, en este caso de Hunyuan quien acaba de liberar una nueva versión de su modelo de generación 3D.\n\nModelo competitivo al nivel de los modelos privados, abierto al público :) https://t.co/RgK8xNSnup",
-    "url": "https://twitter.com/i/web/status/1881645585473716321"
-  },
-  {
-    "text": "@elegance_du_h Claro https://t.co/MA2b1OfWwy",
-    "url": "https://twitter.com/i/web/status/1881662827758497834"
-  },
-  {
-    "text": "El «distinguir de personas», por Julián Marías https://t.co/d4Y3XzoHBg",
-    "url": "https://twitter.com/i/web/status/1881657495472799904"
-  },
-  {
-    "text": "12+1 recomendaciones variadas sin arruinarse en Madrid (aprox 30€ pp.) visitados en 2024 y un bonus track de otros 10 restaurantes algo más caros (40€) pero que merecen la pena.\n\nOrdenados por fecha de visita en 2024\n\nhttps://t.co/KDgSS0KBPe",
-    "url": "https://twitter.com/i/web/status/1881327809748205802"
-  },
-  {
-    "text": "How to spot exceptional talent:\n\n[Great read by T. Cowen & D. Gross’ “Talent”]\n\nTl-dr: https://t.co/ggHLeMS0MQ",
-    "url": "https://twitter.com/i/web/status/1880588775920926799"
-  },
-  {
-    "text": "Resulta que en 4chan compilam todos los años su lista de los 100 Grandes Libros de todos los tiempos y realmente les gusta la droga dura. Ahí lo tienen: https://t.co/qDOrq71SSS https://t.co/Cq5rJIvZQB",
-    "url": "https://twitter.com/i/web/status/1880383175349997683"
-  },
-  {
-    "text": "«Insistes en que hay cosas que las máquinas no pueden hacer. Si tú me dices exactamente qué es lo que no pueden hacer, yo siempre seré capaz de construir una máquina que haga exactamente eso.»\n\nJohn von Neumann",
-    "url": "https://twitter.com/i/web/status/1880648236261847228"
-  },
-  {
-    "text": "Genuine career advice: hang this poster in your room (or closet). https://t.co/asoaRTVG7v",
-    "url": "https://twitter.com/i/web/status/1880268394525782522"
-  },
-  {
-    "text": "Median retail price vs %age of polyester \n\nFor clothing brands https://t.co/jUMpk8IRPy",
-    "url": "https://twitter.com/i/web/status/1880518209549504981"
-  },
-  {
-    "text": "Muy sólida, la mejor que he cazado desde los holdovers https://t.co/pIewRk3LP1",
-    "url": "https://twitter.com/i/web/status/1879658549791584492"
-  },
-  {
-    "text": "Ahora mismo en TheirStack\n\n- Hacemos scraping de unas 400k ofertas de trabajo al día, ~1M de requests\n- Nuestra API recibe 2M de requests al día\n- Tenemos unos 5k usuarios únicos al mes, registrados en https://t.co/T2EqMPOD40\n- Lo montamos todo entre @ChristianPalou y yo...",
-    "url": "https://twitter.com/i/web/status/1879908974272893332"
-  },
-  {
     "text": "Y aquí un mapa  que hice con los sitios que vimos o los restaurantes donde comimos.  https://t.co/k3PdNix8Af Gracias @_perpe_ , @tomas_pastor , @agustinjv y @elgatochino por las recomendaciones! :)",
     "url": "https://twitter.com/i/web/status/1190980502502674434"
   },
@@ -21264,6 +22293,206 @@ window.LIKES = [
   {
     "text": "Sin dejar de reinventarse, el fundador de la Bauhaus vivió tres vidas: en Alemania, donde creció y fundó la escuela; en el Reino Unido, donde llegó huyendo de los nazis, y en Estados Unidos, donde disfrutó de su fama y se reinventó como arquitecto\nhttps://t.co/6EttIQUViZ",
     "url": "https://twitter.com/i/web/status/1190214461451321346"
+  },
+  {
+    "text": "Nice Nano Banana Pro prompt for weather app:\n\nCITY=Prague,Czechia\n\nPresent a clear, 45° top-down isometric miniature 3D cartoon scene of [CITY], featuring its most iconic landmarks and architectural elements. Use soft, refined textures with realistic PBR materials and gentle,… https://t.co/TB16OEeShQ",
+    "url": "https://twitter.com/i/web/status/1995165498774802607"
+  },
+  {
+    "text": "... and my first true painting is complete. 8x8\" acrylic of an old red barn. Hardest part by far is the mixing of colors, took as much time as the painting! \n\nMonth 6 teaching myself art https://t.co/akD22o9rhF https://t.co/l4L5A0RMO2",
+    "url": "https://twitter.com/i/web/status/1995303640924631210"
+  },
+  {
+    "text": "I've been teaching myself art from scratch for about 6 months now. Finally attempting a landscape painting in acrylic, this is the underdrawing. Excited for what new power levels I may unlock with this in my arsenal... https://t.co/tYVVm9eBfR",
+    "url": "https://twitter.com/i/web/status/1994981853787480330"
+  },
+  {
+    "text": "https://t.co/6w4E80I4Wo",
+    "url": "https://twitter.com/i/web/status/1994429609203384461"
+  },
+  {
+    "text": "“Always stick to what makes you weird, odd, strange, different. That’s your source of power.”\n\n— Robert Greene",
+    "url": "https://twitter.com/i/web/status/1994005784267477270"
+  },
+  {
+    "text": "Backgrounds for 'Akira' (1988, dir: Katsuhiro Otomo) https://t.co/SmKIYFX5YX",
+    "url": "https://twitter.com/i/web/status/1994370555374608584"
+  },
+  {
+    "text": "@levelsio Welcome to the right side of history, @levelsio https://t.co/L8AUGQLdLb",
+    "url": "https://twitter.com/i/web/status/1994277338700292503"
+  },
+  {
+    "text": "One of my favorite bits in \"A Guide to the Good Life\" by Irvine (https://t.co/TihpMA5J43) is to avoid becoming a connoisseur.\n\nConnoisseurs end up only liking the upper-upper crust of whatever it is that they pursue, and eventually find that hardly anything meets their bar. So… https://t.co/cl08DWqyTN",
+    "url": "https://twitter.com/i/web/status/1994514324954783917"
+  },
+  {
+    "text": "Working for Vercel is a big deal. They're an incredible team and I hope I can meet their bar of quality and speed. \n\nBut the first thing I want to do is tell you all about @soleio. He's the real reason I got my foot in the door.\n\nAbout a month ago, I reached out to him. Cold DM.… https://t.co/QSlY9WotI1",
+    "url": "https://twitter.com/i/web/status/1990811892139372899"
+  },
+  {
+    "text": "¡Menuda rebaja en el modelo estrella de Adidas!\n\nLas SL72 OG están con un 25% de descuento en la web oficial: se quedan en 75€. Y tienen todas las tallas.\n\nMe parece regalazo para estas fechas o para haceros de unas zapatillas cómodas y bonitas. Creo que es el mejor momento para… https://t.co/WVLctPmbCz",
+    "url": "https://twitter.com/i/web/status/1993628297037828442"
+  },
+  {
+    "text": "“The desire to create art, not content” https://t.co/WchdoSk7CV https://t.co/VfFJalMJPB",
+    "url": "https://twitter.com/i/web/status/1993828484112896514"
+  },
+  {
+    "text": "a camera is an instrument for learning how to see the world without a camera https://t.co/BpBluA9SEh",
+    "url": "https://twitter.com/i/web/status/1993859418056769625"
+  },
+  {
+    "text": "«La maestría es el mejor objetivo porque los ricos no pueden comprarla, los impacientes no pueden acelerarla, los privilegiados no pueden heredarla y nadie puede robarla. Sólo puedes ganártela trabajando duro». – Derek Sivers",
+    "url": "https://twitter.com/i/web/status/1993981696123764929"
+  },
+  {
+    "text": "made a graph that shows how to find meaning https://t.co/rgIbGSj0Gh",
+    "url": "https://twitter.com/i/web/status/1911457896698610033"
+  },
+  {
+    "text": "Prometeo es venerado como el dios de la técnica y la inteligencia práctica, aunque no necesariamente de la sabiduría profunda. Según los textos clásicos, antes de su intervención, los seres humanos vivían como  sonámbulos: tenían ojos pero no distinguían nada, vivían en una…",
+    "url": "https://twitter.com/i/web/status/1993250819060207992"
+  },
+  {
+    "text": "@pitiklinov Aunque reconozco que me cuesta creer esa afirmación, tras leer el estudio dejando a un lado mi sesgo, entiendo por qué la hizo (spoiler: definición reducida de ateísmo, generalización de muestras mundiales, uso selectivo de correlaciones y un posible «hombre de paja» contra la…",
+    "url": "https://twitter.com/i/web/status/1971479803208319405"
+  },
+  {
+    "text": "🔪 \"Las mejores pruebas disponibles nos dicen que la mayor parte del ateísmo no surge del razonamiento\" https://t.co/FCnU2jUm84",
+    "url": "https://twitter.com/i/web/status/1971117496213418093"
+  },
+  {
+    "text": "45+ gift ideas and inspiration for the tech workers in your life (and maybe yourself) this holiday season:\n\nhttps://t.co/B1S037ffsK https://t.co/Kzhnfoqz7L",
+    "url": "https://twitter.com/i/web/status/1993372339141070877"
+  },
+  {
+    "text": "Mis 3 episodios de podcast favoritos (propios) son los siguientes:\n\n1️⃣ #61. Los juegos infinitos:\nhttps://t.co/iMpTTSyAGV\n2️⃣ #66. Aprendizaje altamente efectivo:\nhttps://t.co/p7EJnMerOk\n3️⃣ #64. Técnicas de manuplación para gente de bien:\nhttps://t.co/Ir8gEUtSxW",
+    "url": "https://twitter.com/i/web/status/1993388817248825727"
+  },
+  {
+    "text": "Today I turn 55.\n\nI’m the fittest, sharpest, and happiest I’ve ever been.\n\nIf I’m an outlier, it’s not because I’m built different or discovered a secret formula. The truth is far less glamorous:\n\nIt’s a million tiny choices, compounded over decades.\n\nHere are 55 of them:\n\n1.… https://t.co/R1O8ompXcm",
+    "url": "https://twitter.com/i/web/status/1992958445885198805"
+  },
+  {
+    "text": "📝 ¡Aquí van nuestras recomendaciones de la semana!\n\n📻 Escucha el programa completo: https://t.co/HCeSmLw9iV https://t.co/b1nLp17ISE",
+    "url": "https://twitter.com/i/web/status/1992520405031240050"
+  },
+  {
+    "text": "RUTA GASTRO POR LEGAZPI\n\nMi antiguo barrio, 5 lugares para un picoteo o comer bien.\n\n1. LAS TINAJAS: taberna para vermutear, rico su bacalao en “tempura”.\n\n2. BODEGA SALVAJE: comida manchega, y varias cervezas. La oreja guisada es divina. \n\n3. CANASTACO: muy buenos tacos y a buen… https://t.co/hP1ZCZS6KB",
+    "url": "https://twitter.com/i/web/status/1992180328719401234"
+  },
+  {
+    "text": "'La vida no es justa' es una frase bastante incorrecta. \n\nPrefiero 'La vida no tiene por qué ser justa'.\n\nPorque es así. No tiene por qué serlo. Pero suele serlo.\n\nSi eres positivo, curras y, en suma, haces las cosas bien, tu vida será mejor que si eres negativo, tóxico y vago.",
+    "url": "https://twitter.com/i/web/status/1992546202500366670"
+  },
+  {
+    "text": "Bonus tracks:\n\n- The Devil Took the Hidemost, E Chancellor\n- 100 Baggers, @chriswmayer \n- Expectations Investing, M Mouboussin\n- Poker's Liar, M Lewis\n- Barbarians at the Gate, Burrough/Helyar\n- Fooling all the People (...), D Einhorn\n- Red Notice, @Billbrowder \n- Low Risk Rules,…",
+    "url": "https://twitter.com/i/web/status/1992547993636024484"
+  },
+  {
+    "text": "Si tuviera que seleccionar 25 títulos (from the top of my mind):\n\n1. Ulises y la comadreja, von Wallwitz\n2. El hombre más rico de Babilonia, G C\n3. Buffett, R Loweinstein\n4. Principios Economía Financiera, @rgiborra \n5. Lessons for Corporate America, Buffett-Cunningham\n6. Margin… https://t.co/GcekMVn6FC",
+    "url": "https://twitter.com/i/web/status/1992522115283644421"
+  },
+  {
+    "text": "What book would you say has changed the way you understand the world the most?",
+    "url": "https://twitter.com/i/web/status/1915115923750478253"
+  },
+  {
+    "text": "Crow and Cherry Blossoms, by Imao Keinen, ca. 1930 https://t.co/ohyAUhFUob",
+    "url": "https://twitter.com/i/web/status/1915797197888827624"
+  },
+  {
+    "text": "¿Cuáles son los libros de vuestras vidas?",
+    "url": "https://twitter.com/i/web/status/1281151091833536512"
+  },
+  {
+    "text": "Uno de los libros más divertidos e interesantes que me he leído en mucho tiempo. Recomendable si te gusta que te vuelen la cabeza con curiosidades de las que no habías escuchado hablar nunca y te hagan reír en el proceso. Bill Bryson vibes patrio. https://t.co/G9HYcHsVhp",
+    "url": "https://twitter.com/i/web/status/1914947830432567412"
+  },
+  {
+    "text": "Tenéis en HBO la serie documental COMO (NO) DESHACERSE DE UN CADÁVER, una colección de casos reales que investiga sobre las estrategias de los asesinos para ocultar sus crímenes (a cada cual, más loco y extraño) y como fueron finalmente resueltos. https://t.co/BdCIO389vH",
+    "url": "https://twitter.com/i/web/status/1915139823524049077"
+  },
+  {
+    "text": "Ducks, by Hashiguchi Goyō, 1920 https://t.co/5fFbkMwLOu",
+    "url": "https://twitter.com/i/web/status/1915208065726750918"
+  },
+  {
+    "text": "o3 Prompt: \"What does the future of humanity look like?\n\nRespond in the most incomprehensible way possible so that even the most intelligent person in the world can't understand what you are saying, but you can understand it perfectly.\" https://t.co/BfXGilyeZ7",
+    "url": "https://twitter.com/i/web/status/1915184702069092765"
+  },
+  {
+    "text": "Montaigne, mi hermano, mi semejante. La lectura de sus “Ensayos” me ha proporcionado compañía y consuelo a lo largo de toda mi vida. Es uno de mis más viejos amigos. https://t.co/rY9MByOhaE",
+    "url": "https://twitter.com/i/web/status/1915291443385582072"
+  },
+  {
+    "text": "@MrtnzAlvrz Pues mira, no he viajado lo suficiente, ojalá, pero de los que he estado (y Ronda está en el ranking eh, me ha parecido precioso) podrían competir Santillana del Mar, Frías, Cadaqués, Pedraza, Besalú, Comillas, Valldemosa-Deyá... Y seguro que me dejo otros tantos ☺️",
+    "url": "https://twitter.com/i/web/status/1914761949142798615"
+  },
+  {
+    "text": "1-page framework to spot high agency talent.\n\nBased on the best resources I've found:\n\n• \"High Agency\" by George Mack \n\n• \"Talent\" by T. Cowen and D. Gross\n\n• \"Extreme Ownership\" by J. Willink\n\n• \"Mastery\" by R. Greene\n\n• \"The Almanack of Naval Ravikant\" by E. Jorgenson https://t.co/DAgdAPMqwK",
+    "url": "https://twitter.com/i/web/status/1914603139392565399"
+  },
+  {
+    "text": "Book Summary: “Co-Intelligence: Living and Working with AI”\n\ntap, hold, load 4k https://t.co/XJKZdqOoP3",
+    "url": "https://twitter.com/i/web/status/1911009069512392714"
+  },
+  {
+    "text": "Book Summary: “Thinking in Bets”\n\ntap, hold, load 4k https://t.co/O3rKU9r31n",
+    "url": "https://twitter.com/i/web/status/1914292400790397061"
+  },
+  {
+    "text": "Book Summary: “Thinking in Systems”\n\ntap, hold, load 4k https://t.co/swtZClgihm",
+    "url": "https://twitter.com/i/web/status/1914080188087869673"
+  },
+  {
+    "text": "St Gallen Monastery Library vs Strahov Monastery Library. https://t.co/GpUgKXRdeb",
+    "url": "https://twitter.com/i/web/status/1913526980659544543"
+  },
+  {
+    "text": "@luisg7893 Contra la Indignidad de los Cristianos de Nikolai Berdiaiev!",
+    "url": "https://twitter.com/i/web/status/1914049787537900012"
+  },
+  {
+    "text": "¡Feliz Pascua!\n\nEsta magnífica página me ha ayudado incontables veces en mi vida a entender. https://t.co/JkvF3wy6X5",
+    "url": "https://twitter.com/i/web/status/1913996832276959673"
+  },
+  {
+    "text": "CÓMO VOLVERSE MILLONARIO – TIER LIST:\n\n🟢 Nivel S (altamente fiables):\n→ Invertir a largo plazo (fondos índice, ETFs, dividendos)\n→ Inversión inmobiliaria (rentas, compraventa)\n→ Carrera bien pagada + ahorro constante (tech, finanzas, medicina)\n→ Trabajar en un país con…",
+    "url": "https://twitter.com/i/web/status/1914016968639959309"
+  },
+  {
+    "text": "Menudo nivel de series en lo que llevamos de año, eh. https://t.co/4jhIcrKli0",
+    "url": "https://twitter.com/i/web/status/1914047237128155261"
+  },
+  {
+    "text": "¿Qué es para vosotros la elegancia?",
+    "url": "https://twitter.com/i/web/status/1912557443378303293"
+  },
+  {
+    "text": "“Todo lo que hace lo hace bien. Además parece que no le cuesta, o le desgasta. Eso quiere decir que lo hace doblemente bien” https://t.co/xyDkKu4aPG",
+    "url": "https://twitter.com/i/web/status/1914084158558662868"
+  },
+  {
+    "text": "Algo que repito (en particular a mí mismo) cada cierto tiempo: \n\ndirection is so much more important than speed many are going nowhere fast\n\nEn particular, yo he cometido ese error muchas veces. Hay que dedicar tiempo a pensar. Mucho más del q creo q està de moda dedicar...",
+    "url": "https://twitter.com/i/web/status/1913891786726011385"
+  },
+  {
+    "text": "Le carnet de croquis de William Turner https://t.co/EEfGiJJT9r",
+    "url": "https://twitter.com/i/web/status/1913532674662162616"
+  },
+  {
+    "text": "No cheap dopamine https://t.co/OU8x680le2",
+    "url": "https://twitter.com/i/web/status/1913557869045166569"
+  },
+  {
+    "text": "This is the philosophy subject for the 2025 entrance exam of France's École Normale Supérieure: just two words in quotation marks, \"Tu dois\" (\"You must\"). \n\nThe candidates had 6 hours to write their essay around this 😅\n\nFor those who aren't familiar with it, École Normale… https://t.co/yS3LlmGI0w",
+    "url": "https://twitter.com/i/web/status/1913410202176725425"
+  },
+  {
+    "text": "Muy buenos puntos en este artículo, que entroncan con perspectivas y referencias con las que nos formamos en @somostramontana.\n\nhttps://t.co/ZY2g30sD4X https://t.co/NEakIdtnMJ",
+    "url": "https://twitter.com/i/web/status/1913574243008238069"
   },
   {
     "text": "La crítica \"neoclásica\" a ese (en parte muñeco de paja) que llamamos \"neoliberalismo\". Interesante ver como Collier cita a Olstrom, Smith (TS Morales), Zingales, también Hume, Kant y el gran Scruton para hablar de la condición humana. https://t.co/KrkwaAjfp4",
@@ -21318,7 +22547,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1188710199923822592"
   },
   {
-    "text": "@nova Muy cerca de tu curro, Asador Guetaria. Tienen un chuletón de vaca vieja espectacular 😋😋",
+    "text": "This Post is from a suspended account. {learnmore}",
     "url": "https://twitter.com/i/web/status/1188773722641047553"
   },
   {
@@ -21790,7 +23019,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1175298637871628288"
   },
   {
-    "text": "You’re unable to view this Post because this account owner limits who can view their Posts. {learnmore}",
+    "text": "aquí está! \n\nPetrus Christus\nRetrato de un monje cartujo,1446\nMet https://t.co/kWL1sF8aZ1",
     "url": "https://twitter.com/i/web/status/1174755752839458816"
   },
   {
@@ -22254,206 +23483,6 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1157019363255508992"
   },
   {
-    "text": "Estoy pensando en hacer este otoño-invierno todos los Episodios Nacionales. ¿Merece la pena leerse todos o están overrated?",
-    "url": "https://twitter.com/i/web/status/1959651382299939272"
-  },
-  {
-    "text": "librazo https://t.co/W8TTn9KFvE https://t.co/YFjAAzMFAU",
-    "url": "https://twitter.com/i/web/status/1959663545538298072"
-  },
-  {
-    "text": "Librazo https://t.co/wHX1Yvf5Y2",
-    "url": "https://twitter.com/i/web/status/1959615864157667782"
-  },
-  {
-    "text": "Patrick Collison’s advice for people in their 20s: “Work at a place with high standards”\n\nWhen asked for career advice for people in their 20s, Patrick recalls the book Apprentice to Genius. It follows three generations of scientists that mentored each other and were all… https://t.co/g3KBTVHGf1",
-    "url": "https://twitter.com/i/web/status/1959221120369840323"
-  },
-  {
-    "text": "Qué gran concepto el de la \"adaptación hedónica\".\n\nNo importa el nuevo placer al que nos expongamos, como un gran viaje o gastarnos la pasta en un capricho, porque el ser humano tiene la increíble capacidad de acostumbrarse y volver a su nivel de felicidad inicial. https://t.co/PSb1OLcXVK",
-    "url": "https://twitter.com/i/web/status/1959576055338967080"
-  },
-  {
-    "text": "https://t.co/FVRljmHZxY",
-    "url": "https://twitter.com/i/web/status/1959523518049305080"
-  },
-  {
-    "text": "Casi todos los habitantes de los países ricos —y cerca de la mitad de la población mundial— disponen ya de máquinas capaces de responder a casi cualquier pregunta y de enseñar prácticamente cualquier disciplina. Internet no solo sacia curiosidades inmediatas, también enlaza con…",
-    "url": "https://twitter.com/i/web/status/1959327097958408428"
-  },
-  {
-    "text": "In: Tokio, Lima, Beirut\nOut: Rome, Rome, Rome https://t.co/dxg6OcOI03",
-    "url": "https://twitter.com/i/web/status/1959182610090938687"
-  },
-  {
-    "text": "Un ensayo breve donde Marta Cerdà reivindica el diseño como artesanía y sensibilidad en plena era digital. Con ejemplos y experiencias personales, reflexiona sobre la utilidad de la belleza y el mero hecho de que sin alma no hay emoción. 📐 @AnagramaEditor https://t.co/D1c6gDUCqw",
-    "url": "https://twitter.com/i/web/status/1958858213429752078"
-  },
-  {
-    "text": "\"A expensa de la vida, construyen su vida\" https://t.co/GLkm4Wg70n",
-    "url": "https://twitter.com/i/web/status/1958951570160377933"
-  },
-  {
-    "text": "Muy satisfecho con mi selección veraniega y la tregua que le ha dado al kindle. Vas con la biblioteca a vueltas pero al final los cursis del “tacto del papel” tenían razón, te llegas a concentrar más. https://t.co/OX4lkEeUax",
-    "url": "https://twitter.com/i/web/status/1958953469504586238"
-  },
-  {
-    "text": "“El hombre no puede con el hastío porque cree -sin razón- que es lo que se parece más a la muerte.” https://t.co/D8qVOjpdAm",
-    "url": "https://twitter.com/i/web/status/1935617776804151694"
-  },
-  {
-    "text": "for(float i,g,e,s;++i<99.;){vec3 p=vec3((FC.yx-.5*r)/r.y*14.,g-3.)*rotate3D(-.8,-vec3(0,0,1));p.zx*=rotate2D(t*.5);s=4.;for(int i;i++<9;p=vec3(-.8,4,-1)-abs(abs(p)*e-vec3(3,3.98,3.3)))s*=e=7./abs(dot(p,p*.5+.3))+.01;g+=p.y/s;s=log2(s)-g;o.rgb+=hsv(.6,p.z*.1,s/6e2);};#つぶやきGLSL https://t.co/0qfc7X17S4 https://t.co/gko2Z3Awpu",
-    "url": "https://twitter.com/i/web/status/1958813854353199236"
-  },
-  {
-    "text": "https://t.co/HcTsoA06jy https://t.co/KNDbOj6isV",
-    "url": "https://twitter.com/i/web/status/1958911509054001631"
-  },
-  {
-    "text": "https://t.co/C6Lj8PWM44 https://t.co/jOpCLLbBsc",
-    "url": "https://twitter.com/i/web/status/1958474081524695487"
-  },
-  {
-    "text": "Esta idea de Heidegger tan apropiada ahora:\n\nEn la destrucción está la oportunidad de la reconstrucción (y que sea a mejor).\n\nPero primero, hay que replantearse cómo hemos llegado hasta ese punto. \nPara luego poder construir, con la mirada orientada a “habitar la vida”.",
-    "url": "https://twitter.com/i/web/status/1958653466659758370"
-  },
-  {
-    "text": "Moe goapa esta charla https://t.co/XYLZjepCV8",
-    "url": "https://twitter.com/i/web/status/1958586848626016306"
-  },
-  {
-    "text": "What's causing all these logos to look the same? https://t.co/DgnNfOV20v",
-    "url": "https://twitter.com/i/web/status/1545819896004624384"
-  },
-  {
-    "text": "having a child means doing everything for the first time again \n\nit was so much fun for me to go to a park with him for the first time\n\nto take a train for the first time\n\nto play him music for the first time\n\nit's so simple but so cool all these small steps weirdly feel like…",
-    "url": "https://twitter.com/i/web/status/1958248171274150206"
-  },
-  {
-    "text": "“Algunos investigadores han descubierto cuatro causas que dan pie a la violencia y la crueldad: la codicia y la ambición, el sadismo, una alta autoestima y el idealismo moral. La creencia popular y los tópicos tienden a dar por hecho que la avaricia y el sadismo son los… https://t.co/SRSMkmyFXb",
-    "url": "https://twitter.com/i/web/status/1958187358450508148"
-  },
-  {
-    "text": "“No es sólo que los orientales y los occidentales piensen en el mundo de forma diferente -me dijo el psicólogo Richard Nisbett. Literalmente, ven un mundo diferente”. Esto puede desencadenar graves conflictos, ya que una partes simplemente no percibe realidades morales que… https://t.co/FfP6Ze8pKG",
-    "url": "https://twitter.com/i/web/status/1958186391570890945"
-  },
-  {
-    "text": "Es la mejor serie de animación que he visto en los últimos 5 años y eso que tenía muchos prejuicios. \n\nSolo por esto vale la suscripción en Netflix. Da igual que seas hombre o mujer y la edad que tengas. Impresionante locura y masterpieza absoluta. Ojalá siga bien. https://t.co/ztIVtXmPbL",
-    "url": "https://twitter.com/i/web/status/1958234921282998535"
-  },
-  {
-    "text": "This came from my new essay... 11 behaviours punished in school -- but rewarded in adulthood. \n\nLet me know which one is your favourite. The best things will be kept for V2 of highagency\n\nhttps://t.co/FhybumQ5XG",
-    "url": "https://twitter.com/i/web/status/1958267969282404392"
-  },
-  {
-    "text": "Here's a great prompt to use this on ChatGPT:\n\n\"You are my strategic advisor. I want to build a clear Theory of Change for my project/life/work. A Theory of Change works backwards from the goal, breaking it down step by step into the concrete actions that will actually achieve it… https://t.co/OP3EattMOc",
-    "url": "https://twitter.com/i/web/status/1958250634907713592"
-  },
-  {
-    "text": "I'm constantly starting tests and demos of Rails apps and other tools. This new try tool from @tobi looks exactly what I didn't even realize that I needed! https://t.co/n8ahi05Utz",
-    "url": "https://twitter.com/i/web/status/1958055409232556265"
-  },
-  {
-    "text": "Bezos 1995 vs Bezos 2025 https://t.co/vKAGy9RKsX",
-    "url": "https://twitter.com/i/web/status/1879958103103590780"
-  },
-  {
-    "text": "Magnífico libro de texto de Economía de @saifedean; economía para el mundo real; economía apoyada en la acción humana y método apriorístico. Resto es cientificismo. Hoy conferencia magistral en la @frdelpino. ht @EdicionesDeusto https://t.co/Ozt7i5KiaM",
-    "url": "https://twitter.com/i/web/status/1879815804994380211"
-  },
-  {
-    "text": "25 restaurantes top de Madrid por 60€ que he visitado en 2024\n(por orden cronológico según los he visitado)\nOJO: precio aprox. si se desmadran con el vino, el precio medio será lógicamente más elevado\n\n1. CHIRÓN (Valdemoro, Madrid). Estrella Michelín y precios comedidos a carta. https://t.co/uTHePNWwdZ",
-    "url": "https://twitter.com/i/web/status/1879815550861509002"
-  },
-  {
-    "text": "https://t.co/u5aLXr1Rqt",
-    "url": "https://twitter.com/i/web/status/1876361695163236501"
-  },
-  {
-    "text": "Aquí va mi intento, películas sobresalientes de derechas, o donde más bien el mensaje es “el sistema funciona, confía en él”\n\n1. Pozos de ambición\n2. Master and Commander\n3. Rogue trader\n4. El Padrino II\n5. Gallipoli\n6. El Gatopardo\n7. Barbarians at the gate\n8. The Founder\n9. El… https://t.co/UPszvFGO7Z",
-    "url": "https://twitter.com/i/web/status/1877627530741518336"
-  },
-  {
-    "text": "Sin particular orden\n\n1. Un lugar en el mundo\n2. Los santos inocentes\n3. Hoy empieza todo\n4. Lugares comunes\n5. Los lunes al sol\n6. Diarios de motocicleta\n7. Parasitos\n8. Muerte de un ciclista\n9. Calle Mayor\n10. La regla del juego\n11. …\n\n(El Triangulo es un notable raspado) https://t.co/VySnmin2ea",
-    "url": "https://twitter.com/i/web/status/1877425797885006078"
-  },
-  {
-    "text": "Shiba Great Gate in Snow, from One Hundred Views of New Tokyo, by Kawase Hasui, 1936 https://t.co/S68yc6JmsL",
-    "url": "https://twitter.com/i/web/status/1876825150592602364"
-  },
-  {
-    "text": "@pwang_szn Here is the link \nhttps://t.co/MsAFRXKclb",
-    "url": "https://twitter.com/i/web/status/1878103421544235179"
-  },
-  {
-    "text": "no one remembers the ideas you launched that went nowhere\n\njust do things https://t.co/gQ3wZ8RM6g",
-    "url": "https://twitter.com/i/web/status/1878458679965389306"
-  },
-  {
-    "text": "This is not the ceiling of the Taj Mahal, Notre-Dame or La Sagrada Familia.\n\nIt's the Palau de la Música Catalana, in Barcelona\n\nBut that's only one architectural wonder of Spain, so here are 21 more... 🧵 https://t.co/eJScB7qrfz",
-    "url": "https://twitter.com/i/web/status/1878201970093158764"
-  },
-  {
-    "text": "🧵Thread: They role of Mitochondrial DNA (mtDNA) mutations in cancer🧵\n\nSome thoughts I tried to put together...\n\n1) Although in 1923 Otto Warburg already suggested that mitochondrial function was key for cancer development. In the last decade, the Warburg effect has finally…",
-    "url": "https://twitter.com/i/web/status/1878180222849421335"
-  },
-  {
-    "text": "Picture of the Great Battle of the Minamoto and the Taira at Dan-no-ura, by Tsukioka Yoshitoshi, 1865 https://t.co/Cq7GH9J6eP",
-    "url": "https://twitter.com/i/web/status/1878245761722335548"
-  },
-  {
-    "text": "YouTube: https://t.co/LjT5L8YXWY\n\nTranscript: https://t.co/sE0GCFHBcR \n\nApple Podcasts: https://t.co/4TA7pZ4uPg\n\nSpotify: https://t.co/BePDqV0uZp",
-    "url": "https://twitter.com/i/web/status/1877402603815915588"
-  },
-  {
-    "text": "@bytebytego Currently I am reading These Three Books:\n\n1. System Design Interview Volume I & II for system design by @alexxubyte \n\n2. Coding Interview Patterns: Nail Your Next Coding Interview for Coding Interview.\n\n3. The Software Engineer's Guidebook by @GergelyOrosz for clear roadmap for… https://t.co/VytbP86LFv",
-    "url": "https://twitter.com/i/web/status/1877954582053044688"
-  },
-  {
-    "text": "164 years ago today a Belgian designer called Victor Horta was born.\n\nYou probably haven't heard of him, but he was one of the most important architects in history.\n\nWhy? Because Horta created Art Nouveau... https://t.co/MwlomOIK1b",
-    "url": "https://twitter.com/i/web/status/1876284980130955456"
-  },
-  {
-    "text": "La consciencia es algo que crea nuestra mente, similar a un coche creado por una fábrica?\n\nO la consciencia es algo que capta nuestra mente, similar a una TV captando la señal?",
-    "url": "https://twitter.com/i/web/status/1876031693569876213"
-  },
-  {
-    "text": "Somos lo que éramos de niños https://t.co/5GLIUKX4ne",
-    "url": "https://twitter.com/i/web/status/1876193996059591017"
-  },
-  {
-    "text": "¡Han venido los Reyes! Mucha literatura, un juego de mesa, un limpiador de teclado, unas cuchillas y una camisa de currante del M&A. Ni tan mal 😘 https://t.co/2Pab4TMn3T",
-    "url": "https://twitter.com/i/web/status/1876193267521601917"
-  },
-  {
-    "text": "Confiar y esperar https://t.co/qKaxbLZ5TF",
-    "url": "https://twitter.com/i/web/status/1876232035129577969"
-  },
-  {
-    "text": "more companies should make Lego sets of their products \n\nthe ASML lithography Lego rocks https://t.co/RYDZXI69O3",
-    "url": "https://twitter.com/i/web/status/1875971737986412921"
-  },
-  {
-    "text": "Por eso el simple hecho de visualizar un futuro posible comienza a moldear tus pensamientos, decisiones y acciones en el presente.\n\nY ojo, no solo tiene efectos mentales, sino que también puede generar cambios fisiológicos.\n\nNo es brujería, es una ciencia cada vez más estudiada. https://t.co/2dYKImSMTz",
-    "url": "https://twitter.com/i/web/status/1875635246395486468"
-  },
-  {
-    "text": "MSCI World.\n\nPeríodos alcistas y bajistas históricos.\nMuchos años verdes 📈\n\nFuente @MikeZaccardi https://t.co/bwcD8a9FNw",
-    "url": "https://twitter.com/i/web/status/1873289220498080109"
-  },
-  {
-    "text": "@samuelgil Hay una serie en Netflix q toca el tema y te puede gustar: No vengas a casa",
-    "url": "https://twitter.com/i/web/status/1875573023530742219"
-  },
-  {
-    "text": "@SuarezlledoJ @samuelgil El de Judea es el que más me gusta, otro excelente es el de Donald Rubin.",
-    "url": "https://twitter.com/i/web/status/1875594336274161959"
-  },
-  {
-    "text": "se ve muy claro en los sistemas complejos\n\nla parte influye en el todo y el todo en la parte, simultáneamente\n\neste post de @arjona_manu es un buen ejemplo https://t.co/phSe7duQAF",
-    "url": "https://twitter.com/i/web/status/1875564016971739240"
-  },
-  {
     "text": "Bueno, pues el otro día estaba pensando que siempre que conduzco por Madrid me hago un lío porque no sé en qué carretera estoy ni a dónde va, y que los planos son muy liosos, y que lo entendería mejor si fuese estilo plano de metro... y abrí Illustrator y bueno, esto. https://t.co/sp6Q0G2iNx",
     "url": "https://twitter.com/i/web/status/1161355997983776769"
   },
@@ -22464,6 +23493,106 @@ window.LIKES = [
   {
     "text": "The World's Top 50 Thinkers THREAD. Let's go through the list. #1 Larry Wright -- the model of explanation and argument descending from Euclid & Aristotle thru Descartes, Hume & Mill is wreckage. Wright is the most important of those who have replaced it:  https://t.co/UUTGK81wde",
     "url": "https://twitter.com/i/web/status/1152230035736055809"
+  },
+  {
+    "text": "TED Talk de @ole_b_peters sobre la ergodicidad https://t.co/HgGbhPslLq",
+    "url": "https://twitter.com/i/web/status/1913844838501404829"
+  },
+  {
+    "text": "@jobergum https://t.co/itmCLizyt2",
+    "url": "https://twitter.com/i/web/status/1913553627186090167"
+  },
+  {
+    "text": "@jobergum Try this Prompt in ChatGPT:  \n\nI want you to act and take on the role of my brutally honest, high-level advisor.   \n\nSpeak to me like I’m a founder, creator, or leader with \n\nmassive potential but who also has blind spots, weaknesses, or delusions that need to be cut through…",
+    "url": "https://twitter.com/i/web/status/1913632023908110821"
+  },
+  {
+    "text": "This is why 99% of people stay stuck their entire lives: https://t.co/qSrdFZ3QYB",
+    "url": "https://twitter.com/i/web/status/1913298344950030838"
+  },
+  {
+    "text": "Book Summary: “The Science of Rapid Skill Acquisition”\n\ntap, hold, load 4k https://t.co/krqOocwMsm",
+    "url": "https://twitter.com/i/web/status/1913587253105873280"
+  },
+  {
+    "text": "@jaime_rdes 👌 https://t.co/znl2zB3R3i",
+    "url": "https://twitter.com/i/web/status/1913538926205129186"
+  },
+  {
+    "text": "\"Una de las razones más importantes para estudiar historia es que prácticamente todas las ideas estúpidas que hoy están de moda ya se han probado antes y han resultado desastrosas, una y otra vez.\" \n\n —Thomas Sowell https://t.co/abQdIaell1",
+    "url": "https://twitter.com/i/web/status/1913618002106294292"
+  },
+  {
+    "text": "Skylark and Quail, by Kitagawa Utamaro, late 18th century-early 19th century https://t.co/XyXRyzwM74",
+    "url": "https://twitter.com/i/web/status/1913524220115689670"
+  },
+  {
+    "text": "Una de mis cosas favoritas de Murakami es que tenía un club de Jazz y ayer me topé con esta maravilla y no pude resistirme. https://t.co/ezAwSKl56a",
+    "url": "https://twitter.com/i/web/status/1913506291860803944"
+  },
+  {
+    "text": "Consejos para adolescentes:\n1. No vayas a la universidad \"porque es lo que toca\".\n2. Fórmate continuamente.\n3. Asume que trabajador y freelancer son la misma cosa. Ya no existe la seguridad.\n4. Toma riesgos.\n5. Ahorra e invierte desde YA (la cantidad da igual).\n6. No hagas…",
+    "url": "https://twitter.com/i/web/status/1913578579474190439"
+  },
+  {
+    "text": "Elegir qué libros leer es elegir qué ideas dejas entrar en tu cabeza.\n\nTengo sentimientos encontrados con las listas. La cantidad no debe confundirse con la calidad. Buscas buenos libros, no más libros. \n\nComparto en este hilo los 30 libros que más he disfrutado este 2023.",
+    "url": "https://twitter.com/i/web/status/1740657967727583361"
+  },
+  {
+    "text": "Esta es mi semana Santa 😅 https://t.co/EPVopLctpd",
+    "url": "https://twitter.com/i/web/status/1913194602330288503"
+  },
+  {
+    "text": "Mi libro 'El enigma de Dios' estará en las librerías el próximo 14 de mayo. Ya está disponible en preventa en Amazon en el siguiente enlace: https://t.co/TLlm5XT8CM https://t.co/57FNoDqaSr",
+    "url": "https://twitter.com/i/web/status/1912041803102007351"
+  },
+  {
+    "text": "You can’t promise success, but you can promise that you’ll give it your all.",
+    "url": "https://twitter.com/i/web/status/1912408468402688180"
+  },
+  {
+    "text": "🦾  Skin in the AI game\n\nEsta es una parte de mí que no suelo hacer pública: mi tesis de inversión derivada de mi visión del futuro. Porque invertir es justamente eso, una apuesta a que seremos capaces de adivinar el futuro.\n\nId a por un café, porque esto va para largo. Hacía… https://t.co/zevmae9cU3",
+    "url": "https://twitter.com/i/web/status/1912185346626056602"
+  },
+  {
+    "text": "Indeed w @nfergus. Graeber (2011) confuses solidarity w rule of law. https://t.co/V5Io2MUIXK",
+    "url": "https://twitter.com/i/web/status/743516711865974784"
+  },
+  {
+    "text": "“Three decisions determine 90% of your life outcomes: who you're with, what you do, and where you live.” - @naval https://t.co/memNhMKSin",
+    "url": "https://twitter.com/i/web/status/1912351797110337768"
+  },
+  {
+    "text": "Don’t just read books, re-read books.  What's your favorite book to re-read?",
+    "url": "https://twitter.com/i/web/status/1912537472426524734"
+  },
+  {
+    "text": "https://t.co/05xqNnhrll",
+    "url": "https://twitter.com/i/web/status/1912424997781397945"
+  },
+  {
+    "text": "Everyone needs to hear this… https://t.co/Iu1TqCNEku",
+    "url": "https://twitter.com/i/web/status/1912487333708058645"
+  },
+  {
+    "text": "Book Summary: “Hidden Potential”\n\ntap, hold, load 4k https://t.co/NeMBOt5V4W",
+    "url": "https://twitter.com/i/web/status/1912614651537543288"
+  },
+  {
+    "text": "OpenAI published their official GPT-4.1 prompting guide, and I summarized it into these 13 practical tips to help you get the most out of the new model. https://t.co/8pOvNriK22",
+    "url": "https://twitter.com/i/web/status/1912298263987757296"
+  },
+  {
+    "text": "Alberto Mielgo, ganador del Oscar por \"El limpiaparabrisas\" y nombre habitual de \"Love, Death + Robots\", acaba de estrenar un corto de 8 minutos con su habitual narrativa y riqueza visual para el videojuego #Marathon de Bungie (\"Destiny\", \"Halo\") https://t.co/qhBOeODyJX https://t.co/kiReEMuxaV",
+    "url": "https://twitter.com/i/web/status/1911741349130272806"
+  },
+  {
+    "text": "Opened ChatGPT.\n\nPrompt:\n\n“Now that you can remember everything I’ve ever typed here, point out my top five blind spots.”\n\nMind. Blown.",
+    "url": "https://twitter.com/i/web/status/1911220818014536123"
+  },
+  {
+    "text": "I'm 43.\n\nIf you're still in your 20s (or 30s), read this:",
+    "url": "https://twitter.com/i/web/status/1911086789906792802"
   },
   {
     "text": "El libro más bello jamás escrito sobre el Congo, su historia, su pasado, presente, sus gentes, sus guerras, su lado amargo y su lado dulce. Una aventura fascinante de la mano de David Van Reybrouck. Editado por @tauruseditorial Una joya. No se lo pierdan. #RecomiendoLeer #Congo https://t.co/j8WFgZHuGo",
@@ -22782,7 +23911,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1149564063224963072"
   },
   {
-    "text": "You’re unable to view this Post because this account owner limits who can view their Posts. {learnmore}",
+    "text": "Sorolla\ncosiendo la vela https://t.co/ATWe8ZlUSz",
     "url": "https://twitter.com/i/web/status/1149673525785051137"
   },
   {
@@ -23454,106 +24583,6 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1128654011635240961"
   },
   {
-    "text": "One of the major shifts biology is the reversal of the arrow of causality: moving from a perspective in which physiological processes determine the behavior of the organism, to one where physiological changes are a consequence of adaptation to a task, not its cause.",
-    "url": "https://twitter.com/i/web/status/1875115432061071807"
-  },
-  {
-    "text": "Como cada Año Nuevo, hay que leer esta magnífica columna de Manuel Vicent en El País: https://t.co/XrlAbuOmO1",
-    "url": "https://twitter.com/i/web/status/1874389990391927050"
-  },
-  {
-    "text": "cartera peques 2024 https://t.co/O0XEKHxqou",
-    "url": "https://twitter.com/i/web/status/1875241990142750726"
-  },
-  {
-    "text": "Los refranes que guían mi vida:\n- Para este viaje no hacen falta estas alforjas\n- Arrieros somos y en el camino nos encontraremos\n- Con estos bueyes hay que arar\n- Cuando lleguemos a ese río cruzaremos ese puente",
-    "url": "https://twitter.com/i/web/status/1875089967342391515"
-  },
-  {
-    "text": "The 4 Phases of the AI Revolution\n\nPhase 1: Infrastructure\n- Chips: $NVDA $AVGO $TSM $ANET $MRVL\n- Data Centers: $ORCL $AMZN $GOOGL $VRT $SMCI $DELL $HPE \n- Power: $VST $CEG $PEG $PWR\n- Nuclear: $GEV $BWXT $NNE $SMR $OKLO\n- Data: $NOW $PLTR $SNOW $GTLB $DDOG $MDB $INOD\n \nPhase 2:… https://t.co/k6FhGdFz9X",
-    "url": "https://twitter.com/i/web/status/1866930205161648273"
-  },
-  {
-    "text": "AI reveals the top 10 hot & cold career trends for 2025.\n\nResults are wild.\n\n1. Gemini 2.0 https://t.co/wFNDQg5aCE",
-    "url": "https://twitter.com/i/web/status/1874222263542890546"
-  },
-  {
-    "text": "En mi experiencia, la «fórmula del éxito» de Charly Munger funciona:\n\n1. No vendas cosas que no comprarías.\n2. No trabajes para gente en la que no te gustaría convertirte.\n3. Cierra tratos en los que todo el mundo gane.",
-    "url": "https://twitter.com/i/web/status/1874765328271458441"
-  },
-  {
-    "text": "Good day to remember just how big that green tree is https://t.co/KIow2bMB70",
-    "url": "https://twitter.com/i/web/status/1874448490673352857"
-  },
-  {
-    "text": "De mis favoritas de los últimos tiempos https://t.co/qiCZvSBgiv",
-    "url": "https://twitter.com/i/web/status/1874437361687470190"
-  },
-  {
-    "text": "@ElGarufaa De los diarios de Iñaki Uriarte",
-    "url": "https://twitter.com/i/web/status/1874439539479240883"
-  },
-  {
-    "text": "https://t.co/byrEA4gBO3",
-    "url": "https://twitter.com/i/web/status/1874438757342117889"
-  },
-  {
-    "text": "If you're competing against someone who's low in agreeableness, high in openness, high in conscientiousness, and low in neuroticism, just give up. It's over for you",
-    "url": "https://twitter.com/i/web/status/1873716859822018985"
-  },
-  {
-    "text": "@elwatto Vanguard SP500 IE0002639775 fee 0.1% good enough for me! https://t.co/tYOfdeXxEo",
-    "url": "https://twitter.com/i/web/status/1874179929933582749"
-  },
-  {
-    "text": "You’re unable to view this Post because this account owner limits who can view their Posts. {learnmore}",
-    "url": "https://twitter.com/i/web/status/1874001953489088598"
-  },
-  {
-    "text": "Some of my favorite books from 2024 (in no particular order):  A Brief History of Intelligence by @maxsbennett \nIf you have an interest in evolution, the mind, and artificial intelligence, this one is for you. I would love to take a course based on this book https://t.co/IU3m6jMleJ",
-    "url": "https://twitter.com/i/web/status/1874082704414961997"
-  },
-  {
-    "text": "Al principio, sin más. No es mi estilo. Luego mejora bastante en los últimos años, y aunque no es mi rollo, me ha llegado a gustar bastante. https://t.co/XqFGYb2EYp",
-    "url": "https://twitter.com/i/web/status/1874144796773933502"
-  },
-  {
-    "text": "https://t.co/eO0xelFlYZ",
-    "url": "https://twitter.com/i/web/status/1874133027951173784"
-  },
-  {
-    "text": "10 miniseries de 2024 que no te puedes perder: \n\n- Ripley (Netflix)\n- Yo, adicto (Disney)\n- Penguin (Max)\n- Nos vemos en otra vida (D)\n- Baby Reindeer (N)\n- Querer (Movistar)\n- Los años nuevos (Mov)\n- Balenciaga (D)\n- Masters of the air (D)\n- True Love (Filmin) https://t.co/LfFgBbfJ03",
-    "url": "https://twitter.com/i/web/status/1874080310478200977"
-  },
-  {
-    "text": "@_sergiosanjuan El de Recuenco con Muloko y Álvaro de María en casa de Alberto Mera.\n\nQue no es de este año, ni del anterior... Pero es tan brutal que lo recomiendo siempre.",
-    "url": "https://twitter.com/i/web/status/1874059980934099397"
-  },
-  {
-    "text": "Hilarious story on the economics of bribes and the downstream impact. In 2007, ~$700M worth of sales were put on hold thanks to a Russian supplier not wanting to optimize how they pay bribes to customs officers when shipping to Germany.\n\nFrom Focus: The ASML Way by Marc Hijink https://t.co/tUGyNY8QyU",
-    "url": "https://twitter.com/i/web/status/1874053398284427772"
-  },
-  {
-    "text": "This book is a 100 page biography of the human species \n\nA few lessons of history: \n\n1.  In the end superior ability has its way.\n\n2.  History reports that the men who can manage men manage the men who can manage only things, and the men who can manage money manage all.\n\n3.… https://t.co/GvXTU7wzD8",
-    "url": "https://twitter.com/i/web/status/1770171519395885459"
-  },
-  {
-    "text": "Leyendo este sainete en HN sobre como LOS CANDIDATOS usan IA para hackear los procesos de selección (https://t.co/LEBDgcPNxr) mientras las empresas creen que la están usando por tener un servicio que encuentra «Java» en un CV, no puedo evitar recordar este texto de @borjaperfra https://t.co/S8KwMrmoLj",
-    "url": "https://twitter.com/i/web/status/1873779557884408059"
-  },
-  {
-    "text": "Snow at Hiunkaku Temple, Kyoto, by Asano Takeji, 1953 https://t.co/dJZllJ6Ap6",
-    "url": "https://twitter.com/i/web/status/1873413168405582099"
-  },
-  {
-    "text": "(8, 9, 10). Entre mis mejores ensayos literarios estos tres; el último, de Márai, leído por segunda vez, es el testimonio de la caída de Hungría en manos del\ncomunismo (completa ¡Tierra, Tierra!), in testimonio clave del s.XX Europeo. Incluso más profundo que Zweig. Baricco… https://t.co/5JADdgjI1C",
-    "url": "https://twitter.com/i/web/status/1872243200838205895"
-  },
-  {
-    "text": "@Edu_Riera_ Cowen\nCollison\nDawkins\nTom Holland (historia)\nAlejandro G. Calvo (cine)\nAttia\nAlice Evans\nHaidt\nFukuyama\nPinker\nSinger\nHannah Ritchie\nW. Dalrymple (historia)\nMary Beard (historia clásica)\nS. Kotkin (historia, Rusia)\nA. Roberts (biógrafo)\nN. Ferguson\nNoah Smith\nRick Rubin (música)…",
-    "url": "https://twitter.com/i/web/status/1873456893277978998"
-  },
-  {
     "text": "My email newsletter this morning. TBF Stripe is probably the largest \"non-golden-path\" Ruby web application out there but it's harder to compare the traffic for obvious reasons. https://t.co/sOmmgqXqD2",
     "url": "https://twitter.com/i/web/status/1128647140140404736"
   },
@@ -23564,6 +24593,106 @@ window.LIKES = [
   {
     "text": "Top ten episodios más escuchados en iVoox. https://t.co/61n3yNIPlb",
     "url": "https://twitter.com/i/web/status/1128598438831173632"
+  },
+  {
+    "text": "Diría que este libro es como Aristóteles: se equivoca en todo lo que dice, pero trata los temas correctos -los que tenemos que tratar- y es extremadamente influyente, así que no puedo deciros que no lo leáis. https://t.co/MAVI96wTGJ",
+    "url": "https://twitter.com/i/web/status/1910312924989780318"
+  },
+  {
+    "text": "Últimamente estoy abriéndome a la ingenua pregunta de por qué sistemáticamente en todo el mundo y durante más de 3000 años se ha perseguido al mismo grupo de personas https://t.co/Z64Wc0ODbE",
+    "url": "https://twitter.com/i/web/status/1910274305830568197"
+  },
+  {
+    "text": "Así uno comprende el valor real de la buena educación (y no me refiero al colegio).\n\nSi tus padres consiguen inculcarte un buen modelo mental, le llevas al resto 10 años de ventaja. Pero ojo, como te enseñen uno erróneo, es posible que te arruinen la vida.",
+    "url": "https://twitter.com/i/web/status/1910286735596228668"
+  },
+  {
+    "text": "Es increíble cómo evoluciona tu modelo mental con el tiempo: descubres nuevas formas de entender el mundo, las personas, el trabajo... cosas que ni siquiera sabías que existían.\n\nSi pudieras volver atrás con tu mente actual, te comerías cualquier situación. Sería como buscar un…",
+    "url": "https://twitter.com/i/web/status/1910286723617312916"
+  },
+  {
+    "text": "Sam Altman on luck https://t.co/RshrDECZZJ",
+    "url": "https://twitter.com/i/web/status/1909303596639724000"
+  },
+  {
+    "text": "https://t.co/UyV02D7kne",
+    "url": "https://twitter.com/i/web/status/1909886901416271908"
+  },
+  {
+    "text": "Jesús Terrés: «Mis mayores alegrías están en la cotidianeidad: en un café, leer un libro…».\n\nEntrevista de @Raquel_Jimenez a @nadaimporta por la publicación de \"Vivir sin miedo\". @EdDestino Fotos: @JeosmPhoto https://t.co/5tRpO305eE",
+    "url": "https://twitter.com/i/web/status/1909902103184564274"
+  },
+  {
+    "text": "https://t.co/Ckh3c7TD8p",
+    "url": "https://twitter.com/i/web/status/1910017051046912172"
+  },
+  {
+    "text": "¿Diseñaremos productos sin pantallas?\n¿Interactuaremos solo con la voz?\n¿La película \"Her\" es el futuro?\n\nEsta semana, hablamos con @javiercanada, fundador del @somostramontana y uno de los grandes referentes del Diseño.\n\nYouTube -> https://t.co/1rrt0NeMpe https://t.co/zfKDwB9oI9",
+    "url": "https://twitter.com/i/web/status/1909977463595139294"
+  },
+  {
+    "text": "ChatGPT-4o is a phenomenal model from OpenAI.\n\nI've been experimenting with it and discovered many amazing uses.\n\nHere are the best ones.\n\nBookmark this for future reference! 🔖 https://t.co/tLb5BiUhWK",
+    "url": "https://twitter.com/i/web/status/1909898661393244544"
+  },
+  {
+    "text": "Almost every group that agrees on the big things ends up fighting about less important things and becoming enemies even though they should be bound by the big things. This phenomenon is called the narcissism of small differences. Take the Protestants and Catholics. Though both… https://t.co/e3jHBxOMH4",
+    "url": "https://twitter.com/i/web/status/1909648530215719157"
+  },
+  {
+    "text": "@chepauet Échale un ojo a esto, fue mi rabbit hole hace un mes https://t.co/5hNwvO9fRx",
+    "url": "https://twitter.com/i/web/status/1909563693802869021"
+  },
+  {
+    "text": "Nuestros padres entendían mejor la brevedad, finitud y aleatoriedad de la vida. Eso es lo que hay en el \"si Dios quiere\" que acompaña cualquier voluntad de hacer algo en el futuro. Nosotros creemos que viviremos para siempre y que tenemos control sobre nuestras acciones futuras",
+    "url": "https://twitter.com/i/web/status/1909319514296402379"
+  },
+  {
+    "text": "Sam Altman’s Secret to Amplifying Your Ideas with ChatGPT\n\n\"A big part of the value of writing is to clarify your own thinking.\n\nAnd we have new tools that help you do that better than ever before.\"\n\n@sama talking with @david_perell https://t.co/Qe6uzgugVj",
+    "url": "https://twitter.com/i/web/status/1909460620535382369"
+  },
+  {
+    "text": "this guy is probably the most influential man you’ve never heard of and has an incredible talk from 1952 explaining how to improve your problem solving https://t.co/suMTkOJuJf",
+    "url": "https://twitter.com/i/web/status/1909274912373473488"
+  },
+  {
+    "text": "Leyendo este magnífico ensayo de Canfora publicado por @edicionesiruela https://t.co/ttExZzg8Zt",
+    "url": "https://twitter.com/i/web/status/1909275354268676155"
+  },
+  {
+    "text": "GUÍA DE RESTAURANTES DE ESPAÑA\n\nAhora que nos vamos de vacaciones os dejo de nuevo la guía de restaurantes por provincias que he ido guardando durante años con recomendaciones fiables de gente del buen comer.\n\nActualizada hace un mes con más de 2.000 sitios donde comer bien.… https://t.co/jt60ZHG93O",
+    "url": "https://twitter.com/i/web/status/1817126328396665317"
+  },
+  {
+    "text": "Boenos días:\n\nTodo lo que tiene valor en la vida se construye con 3 recursos finitos:\n- Tiempo\n- Energía\n- Atención\n\n¿Qué vas a hacer hoy para no malgastarlos?",
+    "url": "https://twitter.com/i/web/status/1908776691746451668"
+  },
+  {
+    "text": "@AngelLopezRM Buscas el ISIN, añades las participaciones y el precio medio y te sale https://t.co/TA5ksOZSsb",
+    "url": "https://twitter.com/i/web/status/1908463431620886656"
+  },
+  {
+    "text": "And here's proof that, based on temperatures, the city I've visited with the best weather year-round is Mexico City. https://t.co/zYAMnQx4O3 https://t.co/K6Q00C3BUQ",
+    "url": "https://twitter.com/i/web/status/1908444385034850710"
+  },
+  {
+    "text": "This is probably the best way I've ever seen to visualize the climate of a city, and it's great for comparing two cities, like Madrid and London here. Grouping temperatures by how they feel, organizing data by day to get high resolution, and using shading to show daylight hours,… https://t.co/9NsZ9ABxNh",
+    "url": "https://twitter.com/i/web/status/1908442827878543596"
+  },
+  {
+    "text": "Los estudios de color son, para mí, como esas bolsas de chuches de a euro. Mejor no empezar. https://t.co/0B5C1aLjPu",
+    "url": "https://twitter.com/i/web/status/1908284775799959912"
+  },
+  {
+    "text": "Boenos días.\n\nNo te retires. Sigue jugando. Sigue soñando. Sigue trabajando. No te permitas caer en la oscuridad. Lo único que puede limitarte y hacerte caer en tinieblas es que falle tu entusiasmo.\n\n(entusiasmo significar literalmente llevar a dios dentro, insuflándote)",
+    "url": "https://twitter.com/i/web/status/1908414551516758128"
+  },
+  {
+    "text": "GPT4o is literally cooked 🔥👨‍🍳\n\nVisual recipes are here and they’re actually kinda genius!\n\nPrompt in ALT https://t.co/f0v7IwXJfJ",
+    "url": "https://twitter.com/i/web/status/1906088423988875617"
+  },
+  {
+    "text": "Casi podríamos comer fuera https://t.co/0ejVQMqCtj",
+    "url": "https://twitter.com/i/web/status/1907036717623722051"
   },
   {
     "text": "This podcast with @mipsytipsy is great. What's a vp? Cto? Devops culture... Hiring for strengths...  👌\nhttps://t.co/yinHkk75Da",
@@ -24554,105 +25683,6 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1098612291476480000"
   },
   {
-    "url": "https://twitter.com/i/web/status/1873434531694273010"
-  },
-  {
-    "text": "Luego tengo temas y gente suelta que no sabría con quién emparejar: García Villarán, los VFXs por ordenador, la relación entre la música clásica y las bandas sonoras, Souls Frecuency (el canal de YT),  Alva Majo... tmb me gustaría alguien de fitnes/nutrición con Cremieux",
-    "url": "https://twitter.com/i/web/status/1873472894455701589"
-  },
-  {
-    "text": "- Mark Koyama y Bastos sobre la Edad Media\n- Ernesto Castro y Toño sobre lo que salga (borrachos)\n- Martín Tuitero y el tipo de Movie Insider que habla del historicismo en las películas de guerra\n-Scott Sumner y JFV (repite) sobre cómo va la macro",
-    "url": "https://twitter.com/i/web/status/1873471012236648830"
-  },
-  {
-    "text": "Conversaciones que me gustaría ver:\n\n- A. Garín y Pseudoerasmus sobre la Rev. Ind. Británica\n- JFV y Feijóo sobre la sostenibilidad de las pensiones\n- Oliver Jia y Acelerador sobre Japón\n- Glenn Luck y Yasengh Huang sobre, bueno, obvio\n- Jaime Altozano y T. Cowen sobre miscelánea",
-    "url": "https://twitter.com/i/web/status/1873469171176247601"
-  },
-  {
-    "text": "https://t.co/W3IonxfUID",
-    "url": "https://twitter.com/i/web/status/1873379097839296897"
-  },
-  {
-    "text": "@samuelgil Mira este diagrama y luego vela otra vez. Con esto creo que llegué al 80-90%😂\n\nhttps://t.co/EPK7jqo64Z",
-    "url": "https://twitter.com/i/web/status/1873347747274997796"
-  },
-  {
-    "text": "@samuelgil Te recomiendo estos vídeos que muestran las dos trayectorias de la historia. Es alucinante el trabajo que hay en esa película.\n\nhttps://t.co/t7im3vrATX",
-    "url": "https://twitter.com/i/web/status/1873325524346687614"
-  },
-  {
-    "text": "@notseelen That book kinda sucked, read Seeing Like a State of Against the Grain or The Origins of Political Order instead",
-    "url": "https://twitter.com/i/web/status/1873190654643417491"
-  },
-  {
-    "text": "El mail con los 100 enlaces de final de año de @joaquinmencia es almíbar puro https://t.co/UNqwAXVWyD",
-    "url": "https://twitter.com/i/web/status/1873041992533545456"
-  },
-  {
-    "text": "Instead of treating AGI as a binary threshold, I prefer to treat it as a continuous spectrum defined by comparison to time-limited humans.\n\nI call a system a t-AGI if, on most cognitive tasks, it beats most human experts who are given time t to perform the task.\n\nMore details:",
-    "url": "https://twitter.com/i/web/status/1643310525697105935"
-  },
-  {
-    "text": "Si —> Entonces:\n\nDemasiadas ideas —> Escribe\nSin inspiración —> Lee\nCon miedo —> Toma un riesgo pequeño\nEncallado —> Camina\nCansado —> Duerme\nConfundido —> Pregunta\nFrustrado —> Cambia el foco\nQuemado —> Descansa\nImpaciente —> Revisa tu progreso\nDesmotivado —> Recuerda tu porqué",
-    "url": "https://twitter.com/i/web/status/1872598802861035989"
-  },
-  {
-    "text": "There are others that I also use (less), or that I’m planning to incorporate:\n\n- Music: Suno\n- Upscaling: Magnific AI\n- Assistants: Poe, Coze, Projects (Claude)\n- Less Censor (image, text): Grok\n- Media analysis: Google Gemini\n- Llama 3.1 8B: Running locally for sensitive data,…",
-    "url": "https://twitter.com/i/web/status/1872690391419433302"
-  },
-  {
-    "text": "This was my main stack of AI tools in 2024:\n\n• Overall: ChatGPT\n• Writing: Claude 3.5 Sonnet\n• Search: Perplexity\n• Image: Freepik, Ideogram\n• Video: Kling AI, Sora\n• Coding: Windsurf, Cursor\n• Automation: Zapier, Lindy\n• Avatar: HeyGen, ElevenLabs\n• Presentation: Gamma",
-    "url": "https://twitter.com/i/web/status/1872688269273776639"
-  },
-  {
-    "text": "Distant View of Streams and Mountains, by Nakabayashi Chikutō, 1841 https://t.co/mQgcrd9mHf",
-    "url": "https://twitter.com/i/web/status/1872741240967725062"
-  },
-  {
-    "text": "Yumoto Hot Spring, Nikko, Kawase Hasui, 1937 https://t.co/iux0XcRTex",
-    "url": "https://twitter.com/i/web/status/1872752565412348405"
-  },
-  {
-    "text": "Cuando decimos que Madrid tiene la mejor sanidad de España, es por algo. https://t.co/CLLY8lUtnA",
-    "url": "https://twitter.com/i/web/status/1872371317573623826"
-  },
-  {
-    "text": "Not sure how I'm just discovering 3D elevation maps, but they really do make geography come alive. https://t.co/fT4eFys1aZ",
-    "url": "https://twitter.com/i/web/status/1872471820596887629"
-  },
-  {
-    "text": "Winter Landscape, by Soga Shōhaku, 18th century https://t.co/qcyq3Vr9lv",
-    "url": "https://twitter.com/i/web/status/1872526576526700601"
-  },
-  {
-    "text": "Ya tenéis en los quioscos la décima entrega de mi sección ilustrada para la revista @viajar En breve se cumplirán 2 años de esta colaboración. Con ganas de seguir enseñándoos nuevos rincones del mundo a través de las acuarelas ¡Por muchas más historias en papel y a todo color! https://t.co/6BmKQ5xYVi",
-    "url": "https://twitter.com/i/web/status/1872570348102951365"
-  },
-  {
-    "text": "Decía el maestro Wiesenthal que «literatura no es lo que ocurre, sino todo aquello que va a ocurrir». En 2024, mi vida en potencia la han conformado estos libros. Los mejores han sido los siguientes: https://t.co/DCThgoQxuV",
-    "url": "https://twitter.com/i/web/status/1872598663371092127"
-  },
-  {
-    "text": "This year, I read ten important historical novels: Jane Eyre, Middlemarch, To The Lighthouse, Bleak House, Portrait of a Lady, Anna Karenina, Life and Fate, Heart of Darkness, Madame Bovary, and The Magic Mountain.\n\nReflections:\n\n• Four of these are more than 800 pages long. The…",
-    "url": "https://twitter.com/i/web/status/1872592892373487765"
-  },
-  {
-    "text": "Rising Moon at Katase River, by Kasamatsu Shiro, 1953 https://t.co/q9GBgJHn4V",
-    "url": "https://twitter.com/i/web/status/1870999514099663178"
-  },
-  {
-    "text": "Va a hacer más @StruckdGame por que la prole aprenda a programar, que cualquier otra iniciativa que haya visto hasta ahora… tengo a 3 en casa picándose a ver quién hace el mejor videojuego… \n\nhttps://t.co/hA2E3mWFWW",
-    "url": "https://twitter.com/i/web/status/1868739672488526296"
-  },
-  {
-    "text": "Montessori calls this \"maximum effort\". \n\nWhen a toddler who has just learned to walk decides he wants to try going up a step while holding something too large, he is pushing himself to his limit. He is experiencing true difficulty at his own volition for the first time. His… https://t.co/HuPBGmOaE7",
-    "url": "https://twitter.com/i/web/status/1869600036365148168"
-  },
-  {
-    "text": "Restaurante que esté bien en Madrid sin grandes pretensiones (pero que no sea cutre) y no supere los 30-40 por persona? pd: para familiares que vienen de fuera y les gusta cocina tradicional @EVernacci @pbrionesmqz @loguiga67",
-    "url": "https://twitter.com/i/web/status/1871899536370901333"
-  },
-  {
     "text": "What a shitty outcome for a great team and product. Auth0 is hiring lots, all remote — DM me if I can help. #travisAlums https://t.co/usgTPppNXh",
     "url": "https://twitter.com/i/web/status/1098606873085992960"
   },
@@ -24663,6 +25693,106 @@ window.LIKES = [
   {
     "text": "You’re unable to view this Post because this account owner limits who can view their Posts. {learnmore}",
     "url": "https://twitter.com/i/web/status/1098593444572815360"
+  },
+  {
+    "text": "En tus 20, no pienses en coste de oportunidad. Haz todo lo que puedas. Apúntate a todas las fiestas. Ahí es donde pasan las cosas.\n\nPara cuando llegues a los 30, debes haber encontrado qué se te da bien, y acotar las fiestas a las que te apuntas. Idealmente has acumulado leverage…",
+    "url": "https://twitter.com/i/web/status/1907364209152692406"
+  },
+  {
+    "text": "1/ There's a concept known as financial compounding, but most people don't know about intellectual compounding. Buffett and Munger employed this to great effect and to accumulate mental models such that they can make large decisions quickly. Intuition is simply reading a lot.",
+    "url": "https://twitter.com/i/web/status/940409514875961344"
+  },
+  {
+    "text": "\"It is through logic that we prove, but through intuition that we discover\" - Poincaré https://t.co/ar0QEQYjOm",
+    "url": "https://twitter.com/i/web/status/1905958121735942226"
+  },
+  {
+    "text": "Tan identificada con ser alguien súper visual que piensa en imágenes pero no sabe pintar. Escribir para describir, como en guiones setting the scene. https://t.co/qcePrx6TLA",
+    "url": "https://twitter.com/i/web/status/1906324523202290023"
+  },
+  {
+    "text": "Hilazo sobre la pintura de la Época Negra de #Goya que, justo dos días antes de morir, escribió unas palabras que a veces uso en el final de mis charlas: \" Aún aprendo\". https://t.co/h3CVjtA2g7",
+    "url": "https://twitter.com/i/web/status/1906257421380497915"
+  },
+  {
+    "text": "Algunos conceptos más avanzados que he asimilado en los últimos meses: la escalera de deseos velados, las semillas de curiosidad, el tobogán deslizante, el flow lógico, la campaña infinita, la jerarquía de resonancia, las preguntas de resersión negativa... 🤯",
+    "url": "https://twitter.com/i/web/status/1906464406059291007"
+  },
+  {
+    "text": "Cuando P. y yo nos conocimos estaba mega fascinada con el Derecho del mar y le conté tremendo rollo sobre aguas internaciones y sus lagunas legales. \n\nCómo no recomendar un podcast sobre estas lagunas en la trazabilidad de todo lo que circula por el océano\nhttps://t.co/VFPpy1NCNi",
+    "url": "https://twitter.com/i/web/status/1905291401819980024"
+  },
+  {
+    "text": "📚🎙Libros y podcast de febrero y marzo: educación, dignidad, DeepSeek, inteligencia artificial e India\n\nEn febrero acepté una recomendación de Derek Sivers y leí “The Gardener and the Carpenter” de Alison Gopnik (8/10), un libro sobre como aprenden y se desarrollan los niños; y…",
+    "url": "https://twitter.com/i/web/status/1905916898803646640"
+  },
+  {
+    "text": "La Reorganización es la otra cara de la movilidad social.\n\nAntes de la igualdad de oportunidades, había genios en pueblos remotos.\n\nNo tenían a dónde ir. Ningún trabajo (accesible sin contactos) merecía mudarse.\n\nAhora se pagan fortunas por encontrar genios en otros continentes.… https://t.co/5kPLX3wI7D https://t.co/pnwmXXFHhl",
+    "url": "https://twitter.com/i/web/status/1896205137439338569"
+  },
+  {
+    "text": "holy shit GPT-4o image gen is unreal. it can generate UIs too 🤯\n\ndesigners are not safe. \n\n11 examples: https://t.co/2uTC06ZDXZ",
+    "url": "https://twitter.com/i/web/status/1905285032849129795"
+  },
+  {
+    "text": "Prompt: \n\n\"Create a detailed pixel art frame animation for a game, where the final image is divided into multiple sub-images, each serving as a continuous animation keyframe. Design the sequence to depict [a wizard casting a spell: begin with intricate hand motions, then show the…",
+    "url": "https://twitter.com/i/web/status/1905666224090218594"
+  },
+  {
+    "text": "Landscape with a Pavilion, by Okada Beisanjin, late 18th-early 19th century https://t.co/yPV7s4b9MM",
+    "url": "https://twitter.com/i/web/status/1905202637378637929"
+  },
+  {
+    "text": "Plum Blossoms and Moon, by Nakabayashi Chikuto, 1841, MFA Boston https://t.co/aN8Mmvaj92",
+    "url": "https://twitter.com/i/web/status/1904397079260360983"
+  },
+  {
+    "text": "🤡 Los NPCs financieros creen que:\n\n- Diversificar = 15 ETFs idénticos\n- Riesgo = volatilidad\n- Invertir = trading diario\n- Prioridad = alta rentabilidad\n- Bitcoin = una cripto más\n- Horizonte temporal = 6 meses\n\n🧠 Los inversores reales saben que:\n\n+ Diversificar = exposición…",
+    "url": "https://twitter.com/i/web/status/1904533479213441195"
+  },
+  {
+    "text": "I'm so pleased to present a new book with @stripepress: \"The Scaling Era: An Oral History of AI, 2019-2025.\"\n\nOver the last few years, I interviewed the key people thinking about AI: scientists, CEOs, economists, philosophers. This book curates and organizes the highlights across… https://t.co/UzTQ4fIqar",
+    "url": "https://twitter.com/i/web/status/1904551410219524218"
+  },
+  {
+    "text": "It can generate different points of view from different angles https://t.co/tYRpOx2t7K",
+    "url": "https://twitter.com/i/web/status/1904599695755812955"
+  },
+  {
+    "text": "Interior design and remodeling just got 10x easier https://t.co/QTPFeW3vtF",
+    "url": "https://twitter.com/i/web/status/1904599691985371327"
+  },
+  {
+    "text": "Today I was unsure about whether to do something so I asked @tylercowen for advice, and he started it off with: “Keep in mind that most of what we do is pointless, in a way.”",
+    "url": "https://twitter.com/i/web/status/1904699021790216656"
+  },
+  {
+    "text": "The 20 most fascinating insights I’ve learned about Spain —\n\nAfter running this account for exactly two years… 🧵 https://t.co/prLqOGZci5",
+    "url": "https://twitter.com/i/web/status/1904751288719728661"
+  },
+  {
+    "text": "@DotCSV Puestos a crear, primero que nos de un monton de estilos diferentes en una imagen, y luego nos enfocamos en la que nos guste.\n\nQue tiempos aquellos cuando todo comenzó a despegar con Dall-E https://t.co/nyDb4ODu3M",
+    "url": "https://twitter.com/i/web/status/1904952351351251171"
+  },
+  {
+    "text": "I've spent hours and hours thinking about how AI is going to change writing. This is a 90-minute distillation of everything I've learned.\n\nSome things I believe:\n\n1. The combination of LLM-driven humor and image generation means that we're about to enter the golden age of memes.… https://t.co/wU2VzOHvTN",
+    "url": "https://twitter.com/i/web/status/1904952456707965225"
+  },
+  {
+    "text": "La nueva release de ChatGPT es un pasito más en la dirección que llevo un par de años \"evangelizando\": la idea de que nos encaminamos hacia un mundo en el que podremos crear cualquier cosa utilizando mero lenguaje natural y gestos.\n\nCUALQUIER cosa.\n\nEs más, cuando necesitemos…",
+    "url": "https://twitter.com/i/web/status/1905203494530789861"
+  },
+  {
+    "text": "Beautiful design is now a commodity.\n\nI've spent the last 24 hours with ChatGPT 4o images, and it's clear we've entered a new reality: \"Execution is cheap, ideas are everything.\"\n\nFor decades, we were told the opposite. Everyone had ideas. Few could execute them well. The ability… https://t.co/I2zwJIVt36",
+    "url": "https://twitter.com/i/web/status/1904980934794813667"
+  },
+  {
+    "text": "Guía práctica para ser una persona con personalidad\n- que no es lo mismo que ser un personaje.\n\n1/11",
+    "url": "https://twitter.com/i/web/status/1891895572199768494"
+  },
+  {
+    "text": "The Four Accomplishments, by Kano Motonobu, mid-16th century https://t.co/su9T5K8hMl",
+    "url": "https://twitter.com/i/web/status/1905032516979085670"
   },
   {
     "text": "Hey #travisAlums, take a look at https://t.co/Kxj3g5bFU9. My DMs are open if people want to chat. If you don't see something you want to do, reach out with a description of what you're looking for--we're adding headcount all the time, and I can see if something's coming soon.",
@@ -25653,106 +26783,6 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1071779097611771904"
   },
   {
-    "text": "@marisamreverte @loguiga67 @EVernacci El problema es el tema bebida, controlándose añadiría: “taberna garelos”, “Asturianos”, “Casa Mundi” y “tres por cuatro”.\n\nQuizás quieran un cocido: “la bola”, “Casa Daniela”, “Cruz Blanca de Vallecas”",
-    "url": "https://twitter.com/i/web/status/1871927366383239626"
-  },
-  {
-    "text": "@marisamreverte @EVernacci @pbrionesmqz Pelín justo por ese precio en el Madrid actual. \nPero así a bote pronto Menudeo, Zalamero, La Lorenza, Barrio Húmedo, El Ingrediente, Cachivache…",
-    "url": "https://twitter.com/i/web/status/1871904398458421398"
-  },
-  {
-    "text": "¿Por qué te esfuerzas tanto en todo?\n\nLa mayoría de las personas cree que, para estar en forma, tener éxito en el trabajo o mejorar su vida, hay que darlo todo, todo el tiempo. Pero… ¿y si te dijera que ese esfuerzo extra apenas suma algo significativo?\n\nLa Ley de Pareto tiene…",
-    "url": "https://twitter.com/i/web/status/1871877424343830656"
-  },
-  {
-    "text": "Nakata illustrations https://t.co/nSHnIDq4ED",
-    "url": "https://twitter.com/i/web/status/1871629419993055391"
-  },
-  {
-    "text": "Renoir & Venice https://t.co/txGkpv82dy",
-    "url": "https://twitter.com/i/web/status/1871267903536067026"
-  },
-  {
-    "text": "Esta entrevista a Tom Holland creo que merece la pena. Trata temas como el del éxito del cristianismo en el Imperio Romano teniendo unas creencias tan “extrañas” o la relación entre wokismo y cristianismo. Os extraigo algunos pasajes:\n\n“BW: Siempre me ha interesado mucho cómo el…",
-    "url": "https://twitter.com/i/web/status/1871856116096794917"
-  },
-  {
-    "text": "Los “Diez Mandamientos” de Bertrand Russell:\n\n1-No se sienta absolutamente seguro de nada.\n\n2-No crea que vale la pena producir una creencia ocultando pruebas, porque es seguro que las pruebas saldrán a la luz.\n\n3-Nunca intente desalentar el pensamiento, porque usted se crea…",
-    "url": "https://twitter.com/i/web/status/1871677014815478245"
-  },
-  {
-    "text": "The best books I read in 2024 —\n\nDesigning Games — Tynan Sylvester\nThe World Almanac — Sarah Janssen\nGame Feel — Steve Swink\nConnections — James Burke\nThe Medici — Paul Strathern\nWorking — Robert Caro\n\nAnd the rest...\n\n1/4",
-    "url": "https://twitter.com/i/web/status/1871590257327788336"
-  },
-  {
-    "text": "Landscape in the Manner of Dong Yuan, by Nakabayashi Chikutō, mid 19th century https://t.co/J1DINlh9Hy",
-    "url": "https://twitter.com/i/web/status/1871360644114702783"
-  },
-  {
-    "text": "🔥LOS MEJORES LIBROS QUE HE LEÍDO EN 2024🔥\n\nFuck it, publico ya. Este año no comentaré cada libro, pero intentaré venderos unos cuantos. Pongo bastante texto para que veáis si os gusta la escritura y los temas, aunque todos están muy recomendados:\n\nhttps://t.co/DjLaNaUyUJ",
-    "url": "https://twitter.com/i/web/status/1870932343621648485"
-  },
-  {
-    "text": "Bueno, pues aquí están las lecturas sobre China que he ido haciendo este último medio año. \n\nOdio los \"10 Mejores 📚 para aprender X\", pero creo que me ha quedado una lista muy buena para tratar desde la Edad de Bronce hasta, digamos, el año 2010. https://t.co/dnbS9zMtbm",
-    "url": "https://twitter.com/i/web/status/1865038855134482468"
-  },
-  {
-    "text": "Los libros en la mochila para este viaje. https://t.co/NlrqOtFnrn",
-    "url": "https://twitter.com/i/web/status/1870763031665520902"
-  },
-  {
-    "text": "Book - How to Live an Extraordinary Life by Anthony Pompliano",
-    "url": "https://twitter.com/i/web/status/1870850407377072408"
-  },
-  {
-    "text": "Everything in your life is made up of details. https://t.co/mRSjBH6zNj",
-    "url": "https://twitter.com/i/web/status/1870815552304030151"
-  },
-  {
-    "text": "read all things ever written about cholesterol and report findings re: human health. Do not summarize. Tell me what can be gleaned as true or false from all the conflicting beliefs.\n\nDo not summarize. Think.\n\nhttps://t.co/UZ8jaa6pI1",
-    "url": "https://twitter.com/i/web/status/1870645210285507011"
-  },
-  {
-    "text": "Fishing in Springtime, by Ike no Taiga, 18th century https://t.co/9wbOLGVjSD",
-    "url": "https://twitter.com/i/web/status/1870515575954526674"
-  },
-  {
-    "text": "Embarrassing to admit but had no idea how big of a deal ASML is until recently. Changing this now, starting with this book.\n\nASML one of the most important companies almost no one outside of hardware is aware of.\n\nFounded and HQ’d in the Netherlands. https://t.co/8b3vSomuq6",
-    "url": "https://twitter.com/i/web/status/1870423064069947613"
-  },
-  {
-    "text": "el libro que más me ha gustado en 2024 es:\n\nco-intelligence de @emollick \n\npara mi es el MUST READ de la era que viene",
-    "url": "https://twitter.com/i/web/status/1870414507308363896"
-  },
-  {
-    "text": "Gracias ⁦⁦@CarlosBoyeroo⁩ https://t.co/m7vXi915rb",
-    "url": "https://twitter.com/i/web/status/1870410336739754294"
-  },
-  {
-    "text": "Futarasan Shrine at Nikko, by Tsuchiya Koitsu, ca. 1930 https://t.co/Tsi8EiwiRK",
-    "url": "https://twitter.com/i/web/status/1870300659305652431"
-  },
-  {
-    "text": "@simonsarris This literally changed my life:  https://t.co/kPEawIqRfx \nI used to get sinus infections 1-2x per year; since using (a modified version of) this technique, I haven't had a sinus infection in _over a decade_! Shortens plain old colds too 💪 Worth a shot",
-    "url": "https://twitter.com/i/web/status/1870009351215169972"
-  },
-  {
-    "text": "The massage is largely this, though I did a variation of pushing my left cheek with my right arm while pulling right ear. So arms cross. I did this so much on the first day that my cheeks felt sore.\n\nhttps://t.co/JmZcEjiFly",
-    "url": "https://twitter.com/i/web/status/1869931196068557251"
-  },
-  {
-    "text": "I never get sick, but did get covid, which lasted 3-4 days of mostly fatigue. That was fine.\n\nBut afterwards I had very annoying on-and-off congestion for 5 months. And I CURED it with a \"one weird trick\"-tier face massage",
-    "url": "https://twitter.com/i/web/status/1869930912344895993"
-  },
-  {
-    "text": ".@naval: Are we running out of resources?\n\nNo, we’ve never run out of a single resource, ever. There’s not a single resource you could point to that was a resource in the classic commodity sense that had any real value, where we ran out in some harmful way.\n\nBecause technology is… https://t.co/HrdVDWstgl",
-    "url": "https://twitter.com/i/web/status/1869442145515675967"
-  },
-  {
-    "text": "\"Eres un personaje diferente en la mente de cada persona que te conoce, porque la impresión que tienen de ti se basa en lo que han visto y en lo que saben de sí mismos.\" https://t.co/BEhSjyNU3q",
-    "url": "https://twitter.com/i/web/status/1869509505513636053"
-  },
-  {
     "text": "Documental sobre las \"barras bravas\" los grupos radicales violentos que dominan y controlan el futbol argentino. Por @jonsistiaga  https://t.co/oaytVbrzfT …  #CopaLibertadores #Boca #River",
     "url": "https://twitter.com/i/web/status/1071817606867443712"
   },
@@ -25765,6 +26795,106 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1072042584808271872"
   },
   {
+    "text": "Ideas desordenadas que he contestado a un chaval de 17 que me ha escrito pidiendo orientación.",
+    "url": "https://twitter.com/i/web/status/1904869430850449519"
+  },
+  {
+    "text": "De fotografía a portada de Tintín en pocos segundos. No he tenido que decirle ni el título. https://t.co/CdoZfdpzyY",
+    "url": "https://twitter.com/i/web/status/1905148425936515500"
+  },
+  {
+    "text": "ESTE\nMALDITO\nVIDEO\nDE\nMONSK\n\nAquí tienes la clave de por que Musk es la persona mas rica del mundo. Este es su algoritmo para todo:\n\n1- Reduce tu problema (requisitos)\n2- Elimina pasos innecesarios\n3- Optimiza (reduce costes)\n4- Aumenta el cycle time\n5- Automatiza https://t.co/AGmQCcAKjz",
+    "url": "https://twitter.com/i/web/status/1872977046173110541"
+  },
+  {
+    "text": "excursión corta por los alrededores, y le tenía ganas a este bar de vinos Cuarenta Aranjuez, gracias a @pbrionesmqz, gran variedad por copas y botellas, la cocina, con poca cosa es grandiosa, pero lo que mas nos ha gustado, como nos han tratado, merece muchísimo la pena ir https://t.co/Tn8QMRexoV",
+    "url": "https://twitter.com/i/web/status/1903881271308161378"
+  },
+  {
+    "text": "Night in Kyoto, by Yoshida Hiroshi, 1933 https://t.co/qtZ3CtzZFi",
+    "url": "https://twitter.com/i/web/status/1903915909191745693"
+  },
+  {
+    "text": "I spent 7 months on this essay. \n\nI think agency might be the most important idea of the 21st century. \n\nhttps://t.co/6xpyWoYs6V",
+    "url": "https://twitter.com/i/web/status/1903939846324002837"
+  },
+  {
+    "text": "Night Rain at Akasaka Kiribatake, from One Hundred Famous Views of Edo, by Utagawa Hiroshige II, 1859 https://t.co/4EVsimUcPY",
+    "url": "https://twitter.com/i/web/status/1903373082104066195"
+  },
+  {
+    "text": "Autumn Grasses in Moonlight, by Shibata Zeshin, 1872 https://t.co/Qk45haa4l6",
+    "url": "https://twitter.com/i/web/status/1903384909646897414"
+  },
+  {
+    "text": "\"Es preferible la Verdad en soledad al error en compañía.\" ~ Santa Teresa de Jesús",
+    "url": "https://twitter.com/i/web/status/1903386658432561390"
+  },
+  {
+    "text": "Mihonoseki in Izumo, by Oda Kazuma, 1925 https://t.co/9odZw7RqhQ",
+    "url": "https://twitter.com/i/web/status/1903404539375759451"
+  },
+  {
+    "text": "Isono Tamba-no-kami Sadamasa, by Utagawa Yoshiiku, 1847 https://t.co/GYVtyY5Q6D",
+    "url": "https://twitter.com/i/web/status/1903463427655213328"
+  },
+  {
+    "text": "en la parte de las ideas, algunos capítulos serán:\n+ Por qué el status es mejor que el dinero\n+ Ser guap@ tiene más mérito que ser inteligente\n+ Para el \"Fuck You Money\", el dinero es lo menos importante\n+ Bueno para el individuo, malo para la sociedad\n+ Principios morales para…",
+    "url": "https://twitter.com/i/web/status/1903556681793245340"
+  },
+  {
+    "text": "Las formas del capital de Bourdieu muestra que el estatus social no es sólo cuestión de dinero. El capital cultural (educación, gustos), social (redes) y simbólico (títulos/prestigio) determina nuestro lugar en la sociedad, a menudo de maneras muy sutiles. https://t.co/A9OK9Rdc6W",
+    "url": "https://twitter.com/i/web/status/1903590864045129886"
+  },
+  {
+    "text": "What happens if high quality AI models become free, ubiquitous, and inexpensive to run on even low-spec hardware?\n\n(1) First, you can rebuild every productivity app AI-first. That starts with Microsoft Word, Google Sheets, and Apple Keynote. But it extends to wholly new kinds of… https://t.co/AJXUAtGWFZ",
+    "url": "https://twitter.com/i/web/status/1903700743242326284"
+  },
+  {
+    "text": "«Es sorprendente en física y matemáticas la desproporción entre el esfuerzo que requiere entender por primera vez algo nuevo y la simplicidad y naturalidad del resultado una vez se han completado los pasos para llegar a él».\nNo sólo en Física.\nEs lo del huevo de Colón.\n@Recuenco https://t.co/BWL4Itz8DK",
+    "url": "https://twitter.com/i/web/status/1903435583575183570"
+  },
+  {
+    "text": "Libro magnífico, pendiente de reseñar. https://t.co/zgpN9tyrXd",
+    "url": "https://twitter.com/i/web/status/1903725001091498334"
+  },
+  {
+    "text": "unless you're using every waking minute with the maximum possible efficiency, time is not your bottleneck. your true bottleneck is energy, focus, or courage. \"I don't have enough time\" is deep cope",
+    "url": "https://twitter.com/i/web/status/1903518551350337979"
+  },
+  {
+    "text": "Seeding my Bear ʕ•ᴥ•ʔ blog with more random posts, e.g. here's something I had on backlog for a while:\n\n# The append-and-review note\n\nAn approach to note taking that I stumbled on and has worked for me quite well for many years. I find that it strikes a good balance of being… https://t.co/aBYIbi0DRg",
+    "url": "https://twitter.com/i/web/status/1902503836067229803"
+  },
+  {
+    "text": "“La religión no es una adición meramente opcional al repertorio cultural, como muchos ateos suponen. Menos aún algo dado por Dios, como defienden muchos fieles de las religiones organizadas.\n\nAquí sostendré que la religión es más bien un subproducto ineludible de la manera en la… https://t.co/0l7wPm7sGp",
+    "url": "https://twitter.com/i/web/status/1902727388146053161"
+  },
+  {
+    "text": "float i,e,R,s;vec3 q,p,d=vec3(FC.xy/r,1);for(q.zy--;i++<229.;){e+=i/6e4;o.rgb+=hsv(q.z-.75,R,e*R*i/30.);s=2.;p=q+=d*e*R*R*.15;p=vec3(log(R=length(p-.2))-t*.25,exp(mod(-p.z,s)/R),p+sin(t)*.07);for(e=--p.y;s<4e3;s+=s)e+=-abs(dot(sin(p*s),max(p,exp(atan(.4,e))))/s*.1);}#つぶやきGLSL https://t.co/bT7hVFrtNE",
+    "url": "https://twitter.com/i/web/status/1902993584019866052"
+  },
+  {
+    "text": "Matsue in Izumo (Hazy moon), by Kawase Hasui, 1924 https://t.co/dIkr8OR34a",
+    "url": "https://twitter.com/i/web/status/1901287590797418697"
+  },
+  {
+    "text": "Plovers under the Moon, by Morikawa Sobun, late 19th century https://t.co/5ayET3uiz5",
+    "url": "https://twitter.com/i/web/status/1902361164572426512"
+  },
+  {
+    "text": "El miércoles 26 de marzo sale a la venta mi primer libro publicado con @EdicionesDeusto \n\nDinero: un viaje desde Mesopotamia hasta el Bitcoin.\n\nEstá en preventa desde ya en Amazon.\n\nhttps://t.co/Obx0DO0lAr https://t.co/K5hIuY5GqY",
+    "url": "https://twitter.com/i/web/status/1902346421069635943"
+  },
+  {
+    "text": "Hoy ve la luz el libro Aprendizaje Infinito, con @arpaeditores \n\nTe cuento en este hilo qué te vas a encontrar entre sus páginas y algunas de las bonitas palabras que le han dedicado los primeros lectores.\n\nSe agradece mucho la difusión para que llegue a más personas. https://t.co/1SOooc0YMf",
+    "url": "https://twitter.com/i/web/status/1902668975298810232"
+  },
+  {
+    "text": "Fan de esta metáfora de @srjosekarlos pro cultura. Para mí infravaloramos lo life-changing de “poder/saber apreciar las cosas” y añado ideas:\n\n1. “Ser visto” depende también de donde elijas reflejarte\n2. Se nace con la curiosidad pero se cultiva\n3. Valorar la belleza no es baladí https://t.co/3vDjqUqRCE",
+    "url": "https://twitter.com/i/web/status/1901410304317125114"
+  },
+  {
     "text": "Fanáticos, liberales a la fuga... y buenas noticias: los mejores #ensayos de 2018 según .@gonzalezferriz https://t.co/ekhmKgdsNF .@ECCultura #libros https://t.co/VafIYR2cQ2",
     "url": "https://twitter.com/i/web/status/1071714629225771009"
   },
@@ -25773,16 +26903,12 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1072047325911113728"
   },
   {
-    "text": "You’re unable to view this Post because this account owner limits who can view their Posts. {learnmore}",
+    "text": "I asked @saifedean to recommend a book about how central banks work. He recommended Rothbard's Mystery of Banking: https://t.co/PgL1nVLOQm. It's blowing my mind\n\nWho wants to do a bookclub based on this book? Thinking slack room + weekly video call covering ~25% of book each time",
     "url": "https://twitter.com/i/web/status/1071282484019716096"
   },
   {
     "text": "\"No seas neandertal\" (publicado en 2018) y \"Auge y caída de los dinosaurios\" (para 2019), los títulos de @debatelibros en la lista de Smithsonian de los 10 mejores del año. https://t.co/P7IycH8cee",
     "url": "https://twitter.com/i/web/status/1071456261869395971"
-  },
-  {
-    "text": "Well that was one of the more devastating books I’ve read recently https://t.co/mnduAl3vgy",
-    "url": "https://twitter.com/i/web/status/1071542690960027654"
   },
   {
     "text": "Los últimos 4 artículos sobre @RayDalio en @Finect:\n\nTres consejos para \"millenials\" https://t.co/hUcrQo5Z9O\n\n¿Está la economía de EEUU en la 7ª entrada? https://t.co/LEhp0IDj6s\n\nRay Dalio en TED Talks https://t.co/ezKAEtNGEi\n\nEl poder de no saber https://t.co/3rEMClgDgR https://t.co/YNAZ9N8LCG",
@@ -25945,7 +27071,6 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1062843259003650048"
   },
   {
-    "text": "This heroes' genealogy making the rounds of Twitter is what I'm talking about: \"The Enlightenment\" without Diderot or d’Alembert (editors of the Encyclopédie), Voltaire, Rousseau, Montesquieu, Condorcet, d’Holbach, Turgot, Quesnay (other famous contributors). https://t.co/bHJAUU4CMy",
     "url": "https://twitter.com/i/web/status/962389668544368641"
   },
   {
@@ -26429,7 +27554,6 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1041217638217785346"
   },
   {
-    "text": "Sept 15th, 2008: Lehman Brothers goes bust. Book: A Colossal Failure of Common Sense #daleggere #mustread https://t.co/jrKxnHEbsn",
     "url": "https://twitter.com/i/web/status/1040911264430604288"
   },
   {
@@ -26753,106 +27877,6 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1032700838886744067"
   },
   {
-    "text": "La buena suerte no es más que capacidad entrenada para optimizar y poner a tu favor las variables y probabilidades que otros ni siquiera conocen de eventos y sucesos que otros ni siquiera perciben.",
-    "url": "https://twitter.com/i/web/status/1869412558035169356"
-  },
-  {
-    "text": "#AdventCalendar 11 days until Christmas \n🎨 Jane Crowther https://t.co/9z42JNvBCM",
-    "url": "https://twitter.com/i/web/status/1867853786187993262"
-  },
-  {
-    "text": "Two Magpies on Willow and Peach Trees, by Yosa Buson, 1774 https://t.co/3UhA1K0CWz",
-    "url": "https://twitter.com/i/web/status/1868160809249169855"
-  },
-  {
-    "text": "Landscape with a Distant Temple, 1600s https://t.co/FHxqM8DLhN",
-    "url": "https://twitter.com/i/web/status/1868173140427509849"
-  },
-  {
-    "text": "Algo random de lo que me he enterado documentándome para la #bonilista es que a @DRichardHipp —creador de SQLite— le pareció una buena aplicar la Regla Benedictina, escrita en el año 516 para regir el día a día de los monjes, como Código de Conducta 😇 https://t.co/2PcKO0q1DI",
-    "url": "https://twitter.com/i/web/status/1868236205763989650"
-  },
-  {
-    "text": "Returning Sails from Distant Shores from the Eight Views of Xiao and Xiang Rivers, by Tani Buncho, 1788 https://t.co/5JccOv3hLz",
-    "url": "https://twitter.com/i/web/status/1868361380614561945"
-  },
-  {
-    "text": "Charlie Munger: Legado de un inversor polímata con Pablo Martínez Bernal... https://t.co/lDwcQ4oiDS",
-    "url": "https://twitter.com/i/web/status/1868278973165355494"
-  },
-  {
-    "text": "This book's 200-page prologue, summarizing 12 medical breakthroughs, is excellent: https://t.co/3WkwMFTNss.",
-    "url": "https://twitter.com/i/web/status/1868630143146844421"
-  },
-  {
-    "text": "Marc Andreessen on what makes Elon impossible to compete with\n\n“I’m not aware of another CEO who operates the way he does.”\n\nMarc believes you have to go back in history to the industrialists of the late 1800s and early 1900s to find founders comparable to Elon Musk (e.g. Henry… https://t.co/v4hpd7nUi8",
-    "url": "https://twitter.com/i/web/status/1868639726275875031"
-  },
-  {
-    "text": "I created this ultimate ChatGPT troubleshooting guide for everyone still cursing at their computer when they use AI.\n\nSave and screenshot now, thank yourself later. https://t.co/usSWCBPZsL",
-    "url": "https://twitter.com/i/web/status/1868726115969515568"
-  },
-  {
-    "text": "Hay pocas habilidades en las que no puedas alcanzar un grado de maestría más que bueno en apenas 3 años.\n\nDe hecho, en la mayoría de habilidades, con un año de estudio y curro, te colocas fácil en el top 10%.",
-    "url": "https://twitter.com/i/web/status/1868929625663193460"
-  },
-  {
-    "text": "Of ~200 books I've read, the few that stayed with me over time and I find myself often thinking back to or referring to, in ~random order:\n\nAll short stories by Ted Chiang, especially Exhalation, Division By Zero, Understand, The Story of Your Life, Liking What You See, The…",
-    "url": "https://twitter.com/i/web/status/1865924776214327360"
-  },
-  {
-    "text": "Landscape, by Nakabayashi Chikkei, 1816-1867 https://t.co/W1EwQ8U5vM",
-    "url": "https://twitter.com/i/web/status/1866467401019084906"
-  },
-  {
-    "text": "I revisit this Sam Altman post nearly every month: https://t.co/IaXAsnVVH9",
-    "url": "https://twitter.com/i/web/status/1865834862436901234"
-  },
-  {
-    "text": "Snow, Moon and Flowers: Maples at Takao, by Genki (Komai Ki), 1796 https://t.co/YEILwE9Imc",
-    "url": "https://twitter.com/i/web/status/1864908881748726056"
-  },
-  {
-    "text": "Boena charla entre teixidó y castro. https://t.co/so0GwWiz9q",
-    "url": "https://twitter.com/i/web/status/1865145799295869161"
-  },
-  {
-    "text": "Landscape after Li Bai's poem, after Ike no Taiga, probably 19th century https://t.co/5LRSps8Z4r",
-    "url": "https://twitter.com/i/web/status/1865306753300132071"
-  },
-  {
-    "text": "Anthropic’s Claude Computer Use Is A Game Changer:\n\nhttps://t.co/oJ7hzGDkMd https://t.co/3TJh49Dpv5",
-    "url": "https://twitter.com/i/web/status/1865049868202578066"
-  },
-  {
-    "text": "Landscape, by Sesson Shukei, 16th century https://t.co/cO19ksGGa1",
-    "url": "https://twitter.com/i/web/status/1865532491089723805"
-  },
-  {
-    "text": "Hoy @elpais_cultura publica la lista de los 100 pensadores más importantes vivos de nuestro siglo. Tuvieron a bien preguntarme y ésta fue mi elección. La hice por méritos totalmente subjetivos pero me salió muy plural: Israel, Líbano, Somalia, hombres, mujeres, trans, de ciencias…",
-    "url": "https://twitter.com/i/web/status/1865684048133210577"
-  },
-  {
-    "text": "Copy and Paste these ChatGPT prompts to finish hours of work in seconds:",
-    "url": "https://twitter.com/i/web/status/1864225665895260520"
-  },
-  {
-    "text": "Looking for book recommendations. UI design, history of technology, memoirs, how the world works, how something was made. Faves -\n\nRevolution in The Valley\nScorsese on Scorsese\nMindstorms\nBonfire of the Vanities\nA Language Older Than Words\nGame Feel\nMaking of Prince of Persia",
-    "url": "https://twitter.com/i/web/status/1864364847150014926"
-  },
-  {
-    "text": "BIBLIOTECAS PERSONALES - La mía\nSoy incapaz de grabar un recorrido comentado por mi biblioteca, así que lo hago con fotos.\nRecordad que sois invitados virtuales y que la gente bien educada no hace comentarios de mal gusto ni preguntas impertinentes en casa ajenas 😉\nVamos!\nSIGUE https://t.co/Bcj3XUsqKE",
-    "url": "https://twitter.com/i/web/status/1788643013498986671"
-  },
-  {
-    "text": "@ArturoHerrero Ahora que lo pienso, Arturo, si he entendido bien lo que busca (algo equivalente a Trapiello), creo que puede haber dos opciones:\n- Una buena traducción al español de la edición francesa de Galland de 1704-1717, y desconozco si hay alguna;\n- La reciente edición de AKAL, que… https://t.co/rhGrcq4W6y",
-    "url": "https://twitter.com/i/web/status/1861730929800290496"
-  },
-  {
-    "text": "PESSOA https://t.co/vs5v08HVGh",
-    "url": "https://twitter.com/i/web/status/1863710190245212578"
-  },
-  {
     "text": "Positive Psychology 1504. Me ayudó muchísimo en un momento difícil. Son 30 horas. Cada asignatura en Harvard cuesta unos 5.000 EUR. Gracias a internet, hoy es gratis https://t.co/WIO7sSZq86",
     "url": "https://twitter.com/i/web/status/1032703706591121408"
   },
@@ -26867,6 +27891,106 @@ window.LIKES = [
   {
     "text": "I'm missing Heaps there and imho is really important too, for interviews and for lots of real problems. \n\nhttps://t.co/YlIDRyjYrK",
     "url": "https://twitter.com/i/web/status/1031511881566117888"
+  },
+  {
+    "text": "\"No necesitas ser más inteligente, necesitas ser más enérgico y audaz. Sé desinhibido, aterroriza a los normies. Ellos cederán primero y tú obtendrás lo que quieres. Un audaz ignorante vence a un genio tímido.\" https://t.co/7tKPK8kBJ2",
+    "url": "https://twitter.com/i/web/status/1902088072042570215"
+  },
+  {
+    "text": "¿Cuál diríais que es el mejor arranque de la historia de la literatura?",
+    "url": "https://twitter.com/i/web/status/1902055497940734232"
+  },
+  {
+    "text": "Qué manera de empezar un relato. Qué belleza y qué estilo más inconfundible. Qué portento de escritor fue Fitzgerald. https://t.co/RNDeGdCuwN",
+    "url": "https://twitter.com/i/web/status/1380948601032093699"
+  },
+  {
+    "text": "101 BS THINGS TAUGHT TO STUDENTS, 5\nThey don't tell you that you are more likely\n+ to learn a foreign language in a bar than in a classroom\n+ to learn mathematics while trading than doing homework\n+ that schoolteachers are a great model of what not to become when you grow up",
+    "url": "https://twitter.com/i/web/status/1118272590416613376"
+  },
+  {
+    "text": "We think a lot about those black lines, forgetting that it’s all still in our hands. https://t.co/RSZ1d3W642",
+    "url": "https://twitter.com/i/web/status/1367871165319049221"
+  },
+  {
+    "text": "Entrevista muy interesante y recomendable a Alejandro Rodriguez de la Peña sobre el problema del Mal:\n\n“En esta edición de Cara a Cara, Álvaro Bernad conversa con Alejandro Rodríguez de la Peña, catedrático de Historia Medieval, sobre su trilogía Iniquidad, Imperios de Crueldad y…",
+    "url": "https://twitter.com/i/web/status/1901406553368048057"
+  },
+  {
+    "text": "El fenómeno del chivo expiatorio según René Girard – Hyperbole . Gran artículo de ⁦@pitiklinov⁩  https://t.co/8NRw3JDJcq",
+    "url": "https://twitter.com/i/web/status/1901420404385644873"
+  },
+  {
+    "text": "Bajar expectativas, no comparar, tener el umbral de dolor muy alto. Positividad hasta cuando te caga una paloma. \n\nBuscar la nube que más brilla (detrás está el sol)\n\nAndar bailando. “Uff que putada… bah en peores plazas hemos toreao”\n\nPaaaaaalante https://t.co/FjNwqhpBGl",
+    "url": "https://twitter.com/i/web/status/1901367371798925442"
+  },
+  {
+    "text": "Most people hear Estée Lauder and think of cosmetics—lipstick, perfume, face cream. \n\nBut the real story isn’t just about makeup—it’s about an unstoppable force. \n\nEstée Lauder didn’t just build a beauty brand; she rewrote the rules. She turned rejection into fuel, defied… https://t.co/YvwUVh4HcU",
+    "url": "https://twitter.com/i/web/status/1899464720022712673"
+  },
+  {
+    "text": "He controlled half of Pittsburgh’s financial world from his parents’ house—here are 10 lessons from history’s quietest billionaire. https://t.co/sqRTQDyQOi",
+    "url": "https://twitter.com/i/web/status/1901277479496503621"
+  },
+  {
+    "text": "Peacocks, by Araki Kanpo, 1890 https://t.co/wpH28s9ixg",
+    "url": "https://twitter.com/i/web/status/1900502416686006627"
+  },
+  {
+    "text": "Scenes Along the Yangzi River, by Unkoku Toban, 17th century-18th century https://t.co/wjztkvrTSf",
+    "url": "https://twitter.com/i/web/status/1901784866812739741"
+  },
+  {
+    "text": "@forocoches Paradas de carretera · Pablo Briones Márquez\nhttps://t.co/N5yk3mjtXy",
+    "url": "https://twitter.com/i/web/status/1901719863824896200"
+  },
+  {
+    "text": "Haruki Murakami: life's greatest lessons don't come with a curriculum. https://t.co/YjqEF9Il91 https://t.co/SqSLp619ku",
+    "url": "https://twitter.com/i/web/status/1901666245235163596"
+  },
+  {
+    "text": "https://t.co/tgIjwEzAr3",
+    "url": "https://twitter.com/i/web/status/1901928550845780401"
+  },
+  {
+    "text": "The education system is broken. Costs are rising. Outcomes are falling. Kids are bored, parents are frustrated, teachers are over-worked and under-appreciated.\n\nThe Wall Street Journal just profiled the most promising solution I've seen. \n\nTheir results are so good that you're… https://t.co/hIXBNVWcxE",
+    "url": "https://twitter.com/i/web/status/1901761879464181820"
+  },
+  {
+    "text": "Últimas lecturas desde enero.\nNo me quejo. https://t.co/WwHXq9f24X",
+    "url": "https://twitter.com/i/web/status/1901234406112498128"
+  },
+  {
+    "text": "The Pond of Sarusawa, Nara, on a Rainy Evening, by Tsuchiya Kōitsu, 1941 https://t.co/kA3GHbTqun",
+    "url": "https://twitter.com/i/web/status/1899988026886922686"
+  },
+  {
+    "text": "me ha gustado mucho https://t.co/ht6uWKQlV8",
+    "url": "https://twitter.com/i/web/status/1901037135848694231"
+  },
+  {
+    "text": "Sage advice from David Ogilvy: https://t.co/vBygEVytoJ",
+    "url": "https://twitter.com/i/web/status/1901023975037128824"
+  },
+  {
+    "text": "En 20 años no habrá páginas web.\n\n¿No me crees? 🧵👇",
+    "url": "https://twitter.com/i/web/status/1600096864837042177"
+  },
+  {
+    "text": "Madrid y su casco viejo en una visión bestial. En los vuelos de Walter Mittelholzer por Europa se detuvo unos días aquí, plasmando para la posteridad fotos de increíble nitidez. Esta, no la hemos visto por aquí y tiene mil detalles para disfrutarla (1928, foto en @ETHBildarchiv) https://t.co/51yBru4mgF",
+    "url": "https://twitter.com/i/web/status/1900170240291483990"
+  },
+  {
+    "text": "@realrehab_ https://t.co/sUSuh3Ic5n",
+    "url": "https://twitter.com/i/web/status/1899799589038739961"
+  },
+  {
+    "text": "La historia no se repite pero a menudo rima https://t.co/3MhxVvvsXV",
+    "url": "https://twitter.com/i/web/status/1899793705160069221"
+  },
+  {
+    "text": "The sooner you realize that the world doesn't belong to high-intelligent people and IQ is a form of cope\n\nIt all clicks faster\n\nThe world belongs to high energy/risk takers that are not afraid to expose themselves in uncomfortable positions\n\nThis is becoming more obvious each day",
+    "url": "https://twitter.com/i/web/status/1898078279753498822"
   },
   {
     "text": "En Disney tienen 150 personas trabajando en el departamento de business Intelligence entre data scientists, data engineers y analistas. Hasta organizan una conferencia sobre datos. En este podcast cuentan bastantes cosas interesantes https://t.co/u42tW2NWmT",
@@ -27117,7 +28241,6 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1016937118575230977"
   },
   {
-    "text": "Recent rhetoric about “The Enlightenment” is bizarre. A major strand of the Enlightment was about the Perfectibility of Man through Reason. The revolutionary reconstruction of society. The French Revolution is a child of the E & the Bolshevik Revolution one of its grandchildren.",
     "url": "https://twitter.com/i/web/status/962166440395771904"
   },
   {
@@ -27203,10 +28326,6 @@ window.LIKES = [
   {
     "text": "@Jurybcn Confusión de sentimientos",
     "url": "https://twitter.com/i/web/status/1012971818158886913"
-  },
-  {
-    "text": "The 30 Cities Best Positioned for Long-Term Success https://t.co/x1NUeZxDy4 https://t.co/nUcQLdKGca",
-    "url": "https://twitter.com/i/web/status/1012798322157817856"
   },
   {
     "text": "Le pedí a los copadísimos @LaVozDeLarra, @goncharev, @leavelez, @Lau_Ferrero, @MaldonadoAG, @quintanapaz, @andreamarmol_ @montano66, @alomasimpe @JaimeGMora y @laurafabel que me recomendaran un libro para el verano. Publico en @further_es la súper lista (: https://t.co/a9Ov26Bhf2 https://t.co/BPOWTxi66K",
@@ -27325,7 +28444,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1007563891554111488"
   },
   {
-    "text": "Junior developers, how can experienced folks make your pair programming experience less intimidating?",
+    "text": "You’re unable to view this Post because this account owner limits who can view their Posts. {learnmore}",
     "url": "https://twitter.com/i/web/status/1007633198413701121"
   },
   {
@@ -27725,7 +28844,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/993895883585540096"
   },
   {
-    "text": "You’re unable to view this Post because this account owner limits who can view their Posts. {learnmore}",
+    "text": "Oh wow, this happened earlier today 💪https://t.co/4FpwMDYvkW",
     "url": "https://twitter.com/i/web/status/993736447193579521"
   },
   {
@@ -27853,106 +28972,6 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/988137897357389827"
   },
   {
-    "text": "Early Spring Landscape, by Shūtoku, before 1533 https://t.co/mLvXMIGT6L",
-    "url": "https://twitter.com/i/web/status/1863822472820277720"
-  },
-  {
-    "text": "Kinkakuji-Temple on Fire, by Kawabata Ryushi, 1950 https://t.co/NSY0VHSnL6",
-    "url": "https://twitter.com/i/web/status/1863900486887518718"
-  },
-  {
-    "text": "Landscape in the Manner of Dong Yuan, by Nakabayashi Chikutō, mid 19th century https://t.co/jggzc8wXri",
-    "url": "https://twitter.com/i/web/status/1863380561378636167"
-  },
-  {
-    "text": "Evening Cool on the Sumida, by Umehara Eijiro, 1900 https://t.co/UOs93lyZCe",
-    "url": "https://twitter.com/i/web/status/1863150042254651555"
-  },
-  {
-    "text": "Si tuviera que hacer una selección cerrada (finance & markets only):\n\n- Ulises y la comadreja, G von Wallwitz (***)\n- Incerto, @nntaleb (*)\n- Value Investing, M Whitman (***)\n- Poor Charlie's Almanack (***)\n- Human Action, Mises (***)\n- The Almanack @naval (***)\n- Dinero, J H de… https://t.co/fxiQo42Hxu",
-    "url": "https://twitter.com/i/web/status/1863226829592580150"
-  },
-  {
-    "text": "A Snow in Toji Temple, by Asano Takeji, 1947 https://t.co/mBE9TH8s0X",
-    "url": "https://twitter.com/i/web/status/1862678434717343798"
-  },
-  {
-    "text": "y por qué no añaden unas dosis de fentanilo en el pack?? https://t.co/XGUXsACIKz",
-    "url": "https://twitter.com/i/web/status/1862097692538601636"
-  },
-  {
-    "text": "IJOSDEPUTA https://t.co/Xcdm7ZTTPx",
-    "url": "https://twitter.com/i/web/status/1862106461217726750"
-  },
-  {
-    "text": "A brief guide to the Nine Circles of Hell according to Dante's Inferno...\n\nFrom the things that land people in each circle (including astrology and political corruption) to how they're punished — and who else is already there: https://t.co/ptWkKNnBip",
-    "url": "https://twitter.com/i/web/status/1862480681760182361"
-  },
-  {
-    "text": "“You don’t need to be old to be right.”\n\nThe most motivational thing ever told to me. I was 25 at the time. \n\nThese were the words of Richard Rainwater, an important unofficial mentor of mine. \n\nI pass the words down to the next generation who can help save us all.",
-    "url": "https://twitter.com/i/web/status/1862509098954092704"
-  },
-  {
-    "text": "Leyendo el «nuevo» libro de Julio Camba publicado por @RENACIMIENTOED https://t.co/Cq3DGqtUS8",
-    "url": "https://twitter.com/i/web/status/1861804162331144289"
-  },
-  {
-    "text": "Los servidores de anthropic echan humo https://t.co/vYQE2LpnDJ",
-    "url": "https://twitter.com/i/web/status/1861819034783662155"
-  },
-  {
-    "text": "He cambiado bastante de pensamiento a lo largo de los años. Actualmente, ando afirmando que:\n\n1. Los impuestos son un robo\n2. La mejor forma de gobierno es el sufragio censitario basado en SITG\n3. La segunda mejor forma de gobierno es un dictador benévolo\n4. La mejor forma de…",
-    "url": "https://twitter.com/i/web/status/1861801405755060627"
-  },
-  {
-    "text": "Rondas financiación startups Nov-24 España: https://t.co/IY5KbJna91",
-    "url": "https://twitter.com/i/web/status/1861680479176425765"
-  },
-  {
-    "text": "Mi hija mayor pasó el curso pasado (3º ESO) en Canadá. Siempre se habla de la diferencia de nivel, pero lo que he visto es que el nivel es razonablemente similar y lo que cambia son los exámenes. Allí se centran más en controlar la materia. Aquí en dar las \"respuestas correctas\" https://t.co/OdWHA9MdFW",
-    "url": "https://twitter.com/i/web/status/1860962506627293438"
-  },
-  {
-    "text": "Techos que te harán tocar el cielo…sígueme:\n\n1. Palazzo Barberini, Roma. https://t.co/Gyo1GOqrPS",
-    "url": "https://twitter.com/i/web/status/1850824082796745002"
-  },
-  {
-    "text": "https://t.co/2O7Zh8qOu0\nHere's a good video explaining just how remarkable the feat is. He didn't just win the Spanish championship, he absolutely dominated",
-    "url": "https://twitter.com/i/web/status/1861296572765524360"
-  },
-  {
-    "text": "Comentarios liberales de domingo.\n\nEl discurso final de Howard Roark (interpretado por el gran Gary Cooper) en la versión cinematográfica de El Manantial de Ayn Rand debería proyectarse en todas las escuelas de España. 5 minutos de defensa del individuo frente a las actuales… https://t.co/BIkCu1oIZL",
-    "url": "https://twitter.com/i/web/status/1860655555955839425"
-  },
-  {
-    "text": "@CarlosOlivoV Estoy leyendo \"Luna de papel\", de Mitsuyo Kakuta, interesante; sin embargo, uno que me gustó mucho lo leí en 2022, se titula \"El expreso de Tokio\", de Seicho Matsumoto. \n\n¡Feliz Año, Carlos! https://t.co/liZQ7jcW66",
-    "url": "https://twitter.com/i/web/status/1741904897426047426"
-  },
-  {
-    "text": "LO MEJOR QUE LEÍ EN 2023\nHice 6 inmersiones literarias:\n- Poesía y prosa de Rilke\n- Novelas y cuentos de Faulkner\n- Literatura del antiguo Egipto\n- Relectura de Tierra Baldía, de Eliot\n- Teatro inglés isabelino\naunque algunas de mis lecturas favoritas del año quedan fuera.\nSIGUE https://t.co/LZNwwocr21",
-    "url": "https://twitter.com/i/web/status/1741802538922332241"
-  },
-  {
-    "text": "The most complex systems are rooted in deep simplicity.\n\nThis pattern is seen across physics, biology, and chemistry.\n\nThread breaking down this astounding book and idea: https://t.co/UDwXVTkni8",
-    "url": "https://twitter.com/i/web/status/1860317058098930000"
-  },
-  {
-    "text": "Lecturas favoritas 80/20 sobre gestión: https://t.co/mZrw8JlPER",
-    "url": "https://twitter.com/i/web/status/1859902306277621805"
-  },
-  {
-    "text": "Apenas sabemos escribir, porque es un músculo que dejamos atrás tras el bachillerato y no volvemos a tomarnos en serio.\n\nSirve de algo saber articular las ideas de forma efectiva? Puede que no a todo el mundo, pero el que sabe hacer su mensaje atractivo es al que se le escucha",
-    "url": "https://twitter.com/i/web/status/1860032797198762347"
-  },
-  {
-    "text": "Una de las cosas que más me gustan de Miguel Anxo Bastos es su tendencia a defender las instituciones por razones civilizatorias. \n\nPor ejemplo, defiende el ahorro porque esta práctica lleva anudadas una serie de virtudes individuales que redundan en el bien de la comunidad.\n\nLas…",
-    "url": "https://twitter.com/i/web/status/1859355664654495972"
-  },
-  {
-    "text": "Illustration of the Koishikawa Hospital, built in 1722 in Tokyo, only admitting the poor and homeless. Free of charge. The hospital operated a nearby herb garden and refined new vegetable breeds to feed patients and staff. It saw 16,502 patients until its closure in 1859. https://t.co/cO4e19xBbh",
-    "url": "https://twitter.com/i/web/status/1385644588430368770"
-  },
-  {
     "text": "Mi (pre) #SantJordi2018 de @JuanTorrasg ht @meigul #libros #historia https://t.co/RIR08JJERO",
     "url": "https://twitter.com/i/web/status/988028146304897025"
   },
@@ -27971,6 +28990,106 @@ window.LIKES = [
   {
     "text": "Nassim Taleb Warns Americans Should \"Fear The 2% - The Intellectuals & Politicians\" https://t.co/ehMNW35z2S",
     "url": "https://twitter.com/i/web/status/987726623196811265"
+  },
+  {
+    "text": "@matriz2x2 @CPSComunidad @Recuenco ¡Qué bonito e interesante! Por alusiones, como contrapunto y con ánimo de matizar vuestro trabajo y no de invalidarlo, aquí va mi hilo explicando la diferencia entre diferencias sutiles de significados, y diferencias claras de genealogías de significantes\nhttps://t.co/jVJ2KPsknW",
+    "url": "https://twitter.com/i/web/status/1898665441385451851"
+  },
+  {
+    "text": "CPS & DISEÑO: UNA MIRADA EXTERNA\n\nMe he sentado con un diseñador y me ha lanzado dos provocaciones al estilo De Bono:\n\n“El CPS también es consultoría”\n“Yo sigo un proceso parecido al CPS”\n\nTras darle vueltas juntos nos ha salido un hilo⬇️\n\n@CPSComunidad @Recuenco @cesarastudillo https://t.co/vdX3BrDdkY",
+    "url": "https://twitter.com/i/web/status/1898639405004284019"
+  },
+  {
+    "text": "In the physical world, almost all information is transmitted through traveling waves -- why should it be any different in your neural network?\n\nSuper excited to share recent work with the brilliant @mozesjacobs: \"Traveling Waves Integrate Spatial Information Through Time\"\n1/14 https://t.co/Bs4UKR7j21",
+    "url": "https://twitter.com/i/web/status/1899154774227878250"
+  },
+  {
+    "text": "Quiero montar una app de reservas de pistas de tenis, por gusto y aprender.\n\nRecomendaciones Replit vs Lovable?\n\nNo he picado código en mi vida.",
+    "url": "https://twitter.com/i/web/status/1899432757815541971"
+  },
+  {
+    "text": "I think ∼50% of agency is just unlearning conditioning from school.\n\nIt's wild we still write industrial revolution code in people's heads -- during the most brain plastic years:\n\n1. You must attend.\n\n2. Your schedule is designed for you.\n\n3. Be quiet, sit still and listen to… https://t.co/E5AxR2uDRE",
+    "url": "https://twitter.com/i/web/status/1898448652978536700"
+  },
+  {
+    "text": "Ship. More. https://t.co/FhpACNFZio",
+    "url": "https://twitter.com/i/web/status/1898493947250639334"
+  },
+  {
+    "text": "Evening Cool on Sumida, by Kobayashi Eijiro, ca. 1910-1930 https://t.co/SMozYdprEm",
+    "url": "https://twitter.com/i/web/status/1898510290217840727"
+  },
+  {
+    "text": "“Action produces information. Just keep doing stuff.”\n\n— Brian Armstrong https://t.co/vUoDfaMUQY",
+    "url": "https://twitter.com/i/web/status/1898056107672629716"
+  },
+  {
+    "text": "One of the highest signal-to-noise authors I’ve come across is @sivers.\n\nHis books are super short (~100 pages) yet packed with insights and actionable advice.\n\nHighly recommend. https://t.co/epby7qkIur",
+    "url": "https://twitter.com/i/web/status/1898005531081519348"
+  },
+  {
+    "text": "The people who start the wars don’t fight them, the people who spend the taxes don’t pay them, and the people who forgive the criminals don’t live next to them.\n\nOf course we’re going to have too many wars, too much spending, and too much crime.",
+    "url": "https://twitter.com/i/web/status/1896330433379578360"
+  },
+  {
+    "text": "Usual frame: I'm stuck on a problem\n\nReframe: I'm not drawing, writing or talking.\n\nReminder to self: Whenever I think I'm stuck on a problem, it's because I'm not drawing, writing or talking the problem. As soon as I do, it starts solving itself.",
+    "url": "https://twitter.com/i/web/status/1896792875482116159"
+  },
+  {
+    "text": "Librazo. \n\nLos objetivos se han convertido en prisiones que normalizamos. Kenneth O. Stanley y Joel Lehman proponen una forma alternativa de ver y vivir la vida, el amor, la educación, la innovación, el tiempo libre, la carrera profesional y cualquier otra empresa ambiciosa. https://t.co/ZrMIrWBhri",
+    "url": "https://twitter.com/i/web/status/1896912892097937607"
+  },
+  {
+    "text": "“The best people in your life are the ones who see potential in you that you didn't see in yourself.” \n\n— Brian Chesky, Airbnb CEO https://t.co/KRpTMWXeZp",
+    "url": "https://twitter.com/i/web/status/1897138484445602202"
+  },
+  {
+    "text": "The Brutalist is about an architect who studied at the Bauhaus.\n\nIts protagonist is fictional, but the Bauhaus was real.\n\nWhat was it? The most influential design school in history.\n\nSo, from fonts to furniture, this is how Bauhaus created the aesthetic of the modern world... https://t.co/jldHLKZA8E",
+    "url": "https://twitter.com/i/web/status/1897353473261461978"
+  },
+  {
+    "text": "Landscape, by Sesshu Toyo, 15th-16th century https://t.co/kGPPkeMkVW",
+    "url": "https://twitter.com/i/web/status/1897540650423206142"
+  },
+  {
+    "text": "Le escuchaba a mi amigo @ValueInvestingS citar a Munger en su podcast:\n\n«Debes asumir que la vida será dura y preguntarte a ti mismo si lo puedes soportar y si la respuesta es afirmativa, entonces simplemente sonreír y seguir adelante».\n\nSi alguien sabe dónde comprar un cuadro…",
+    "url": "https://twitter.com/i/web/status/1897009549208641570"
+  },
+  {
+    "text": "Si todavía no has visto en Amazon Prime la maravillosa LOOK BACK, es el momento ideal. Una película emotiva, triste y reflexiva que te destrozará el corazón. Dura una hora, pero te va a acompañar durante mucho tiempo. https://t.co/lYepxw9Oxu",
+    "url": "https://twitter.com/i/web/status/1898064430979543534"
+  },
+  {
+    "text": "Sólo conozco 3 auténticas formas de aprender DE VERDAD:\n\n1. Trabajando\n2. Jugando\n3. Enseñando",
+    "url": "https://twitter.com/i/web/status/1897739208988803440"
+  },
+  {
+    "text": "Early summer flowers, by Yamamoto Baiitsu, ca. 1840-1850 https://t.co/V76gQZdkHv",
+    "url": "https://twitter.com/i/web/status/1897740215965696466"
+  },
+  {
+    "text": "von Wallwitz siempre es motivo de alegría. ht @Acantilado1999 https://t.co/unavbESSr7",
+    "url": "https://twitter.com/i/web/status/1897744644961661138"
+  },
+  {
+    "text": "Santos, según Chesterton. https://t.co/pHQw7SdObK",
+    "url": "https://twitter.com/i/web/status/1897749036980986110"
+  },
+  {
+    "text": "Cranes, Rising Sun, Pine, by Kumazawa Kanmei, ca. 1900-1920 https://t.co/AzCLcpyGLL",
+    "url": "https://twitter.com/i/web/status/1896984990036144446"
+  },
+  {
+    "text": "Un Grand Tour de extranjeros tocando med:\n\nVicky, Cristina, Barcelona (Allen)\nAtrapa a un ladrón (Hitchcock)\nTrilogía El Padrino (Coppola)\nGladiator (Scott)\nLa Pasión de Cristo (Gibson)\n\nEtc etc etc",
+    "url": "https://twitter.com/i/web/status/1873749539641024689"
+  },
+  {
+    "text": "Uno rápido:\n\nMediterráneo (Salvatores)\nLa coleccionista (Rohmer)\nLa Gran Belleza (Sorrentino)\nMalena (Tornatore)\nEl Gatopardo (Visconti)\nEl Talento de Mr Ripley (Minghella)\nCall me by your name (Guadagnino)\nLa piscina (Deray)\nEl último beso (Muccino)\nEl desprecio (Godard) https://t.co/YZz3vz5FRP",
+    "url": "https://twitter.com/i/web/status/1873749231644848192"
+  },
+  {
+    "text": "The last picture was of a cow.\n\nWhat about this monster? Its jaws can crush a steel car. https://t.co/OXjFbbkJHp",
+    "url": "https://twitter.com/i/web/status/1773437043239961012"
   },
   {
     "text": "Since the human genome was sequenced, we've been far too DNA-centric in our thinking for understanding for health & disease. Time to think multi-modal, including physiome (sensors), microbiome, immunome, epigenetics & environment (exposome). That will require #AI for analytics. https://t.co/EXln3dMIZS",
@@ -28952,106 +30071,6 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/947163347962785792"
   },
   {
-    "text": "¿Cuáles son por ahora vuestras películas favoritas de 2024? Desde hoy, ya podéis añadirlas a vuestro perfil  de #FilmAffinity. La podéis rellenar desde el siguiente enlace https://t.co/w9KO929spu\n\nY de las que faltan por estrenarse, ¿creéis que alguna puede entrar en vuestro top… https://t.co/1HFCqJYAB9",
-    "url": "https://twitter.com/i/web/status/1859583156388548659"
-  },
-  {
-    "text": "Un día en la reunión anual de Numantia Patrimonio: comida, inversores y ... https://t.co/wplzBrjqAk",
-    "url": "https://twitter.com/i/web/status/1859627414873051577"
-  },
-  {
-    "text": "Here's the same ad from 6 years ago. I watched it several times then. And even now, seeing it again, it produces that lump in the throat. Because every parent can recognize the hope, aspiration, and then absolute terror that an accident could end it all. https://t.co/5J4CEwliYi",
-    "url": "https://twitter.com/i/web/status/1859653088707231909"
-  },
-  {
-    "text": "@HuinGuillaume Full version https://t.co/C6pBHRdIch",
-    "url": "https://twitter.com/i/web/status/1859553320739782907"
-  },
-  {
-    "text": "Volvo posted a 3 min and 46 second ad on Instagram, shot by Hoyte Van Hoytema, the cinematographer of Interstellar and Oppenheimer. \n\nIt goes against every single rule you can think about as a social lead. Length. Format. Over-produced. \n\nEvery comment under the ad said it… https://t.co/wkmghuP4ye",
-    "url": "https://twitter.com/i/web/status/1859472963323510995"
-  },
-  {
-    "text": "Doce ideas heréticas.\n\nPrimera: El universo es la extensión de Dios. Todo lo que hay en el universo es Dios. Debe haber, por tanto, algo en el universo que constituya la consciencia de Dios. Ese algo es el hombre. El hombre es un órgano de Dios que le sirve para dotarse a sí… https://t.co/bICSEOUkaN",
-    "url": "https://twitter.com/i/web/status/1859120209837388129"
-  },
-  {
-    "text": "Si tienes 18 años y estás invirtiendo en fondos de gestión pasiva, la estás cagando. Es obviamente una mala idea, y te darás cuenta con el pasar de los años.\n\nHe pensado que podría ser una buena idea dar algunos consejos financieros a los menores de 30: Algunos son fruto de… https://t.co/DXpUM9epRY",
-    "url": "https://twitter.com/i/web/status/1858779737436422220"
-  },
-  {
-    "text": "In my personal opinion the very first step is doing without.\n\nYou don't have to have the prettiest things. But you cannot have anything bad or ugly. No chemical blue dawn dish soap container, no lime green sponge. Remove ugliness and even a messy space will look inviting. https://t.co/DqVFhSjZFL https://t.co/5IJuQTFhUh",
-    "url": "https://twitter.com/i/web/status/1858682175484305494"
-  },
-  {
-    "text": "La palabra griega arkhé se traduce como principio u origen. Pero no en plan cualquier principio de cualquier cosa. No. En plan principio original, el origen de todo. Y, puesto que el todo está ordenado y antes sólo había caos, el arkhé es el principio ordenador de la realidad.\n\nO… https://t.co/BkSlUtPBhc",
-    "url": "https://twitter.com/i/web/status/1858899285674168569"
-  },
-  {
-    "text": "https://t.co/XRFc9FCkpt",
-    "url": "https://twitter.com/i/web/status/1858477697556451761"
-  },
-  {
-    "text": "Book Summary: “The Mountain Is You: Transforming Self-Sabotage Into Self-Mastery” https://t.co/LKv3Wu9y9s",
-    "url": "https://twitter.com/i/web/status/1858164700824952959"
-  },
-  {
-    "text": "La mayoría de la gente ve a alguien al que le van mejor las cosas y piensa \"qué suerte\". Lo que la mayoría de gente no sabe es que la suerte SE CONSTRUYE.\n\n1. Exponte a nuevas situaciones más a menudo (ie, ves a esa fiesta).\n2. Esfuérzate por ser más extrovertido (ie, habla a esa…",
-    "url": "https://twitter.com/i/web/status/1858632777068896499"
-  },
-  {
-    "text": "@AntonioGoBe Se le atribuyen a Abderraman III estás palabras:\n\"Tengo 70 años, durante 50 he sido el rey de la ciudad más hermosa del mundo. Por si le faltaba algo, construí Medina Azahara. Amé a la mujer más hermosa del mundo, Azahara. Fui feliz 14 días, no seguidos\".",
-    "url": "https://twitter.com/i/web/status/1858575443911139546"
-  },
-  {
-    "text": "Hoy estoy en contra de la búsqueda de la felicidad (mañana ya veremos).\n\nEstoy en contra por dos grandes motivos: El primero, que la felicidad no depende de ti. Y el segundo, que la felicidad es un objetivo de mierda. No sé cuál de los dos motivos es más importante, la verdad.… https://t.co/fIUkBplShM",
-    "url": "https://twitter.com/i/web/status/1858405226505556258"
-  },
-  {
-    "text": "Si tuviera que seleccionar 50 (y pico) novelas:\n\n- Una lectora nada común, A Bennett\n- El loro de Flaubert, Julian Barnes\n- El Quijote, Cervantes\n- Anna Karenina, Tólstoi\n- El periodista deportivo, Richard Ford\n- La mujer justa, S Márai\n- La hermana, S Márai\n- Héroes de la… https://t.co/JFvR3kytJF",
-    "url": "https://twitter.com/i/web/status/1858263180197122447"
-  },
-  {
-    "text": "\"Del conflicto entre confianza y desconfianza, el niño desarrolla una esperanza, es decir, la forma primigenia de lo que, en el adulto, se convertirá en fe\"\nErik Erikson\n\n***\n\nNunca me había preocupado mucho por la idea de Dios.\n\nDesde chaval, incluso habiendo tenido mis posturas… https://t.co/3QjNtfWN5M",
-    "url": "https://twitter.com/i/web/status/1858049261390180627"
-  },
-  {
-    "text": "@AntonioGoBe Para alguien con espíritu maker, lo que yo le recomendaría es algún kit de esp32 (que ya incluye BT y wifi). https://t.co/jzFxF05nLW",
-    "url": "https://twitter.com/i/web/status/1857894115322839119"
-  },
-  {
-    "text": "Existe el azar, pero la suerte la construyes. Esta es mi tesis y la colina en la que estoy dispuesto a morir.",
-    "url": "https://twitter.com/i/web/status/1857314563961610383"
-  },
-  {
-    "text": "@teetii_ well if you look at https://t.co/wwxeFmySNH you'll get some idea\n\nnot finished!",
-    "url": "https://twitter.com/i/web/status/1857559183257727264"
-  },
-  {
-    "text": "websites should look like this https://t.co/q6QZuJskY1",
-    "url": "https://twitter.com/i/web/status/1857520027232076233"
-  },
-  {
-    "text": "@ArticaSecreto vi esto ayer mientras farmeaba la 2da Kalpa del SMTIII. Polavieja -a quien cita en el libro- saca punta muy bien a la mayoría de fallos del libro \nhttps://t.co/QURCc5RIZA",
-    "url": "https://twitter.com/i/web/status/1857560264037527781"
-  },
-  {
-    "text": "@raquelbars ...pero si todos los que hacen cola se sentasen, esperar sentado ya no sería lo óptimo :) \n\nTe va a molar este vídeo https://t.co/OJy9Oe9tIg",
-    "url": "https://twitter.com/i/web/status/1857729906014027920"
-  },
-  {
-    "text": "El dinero como tecnología de la información y el altruismo recíproco:\n\n“Pero sin duda, el ejemplo más paradigmático de este triunfo de la especie lingüística tuvo que ver con la capacidad humana para desarrollar la actividad puramente económica a través del comercio o… https://t.co/UUqKBZaz84",
-    "url": "https://twitter.com/i/web/status/1857083459476377990"
-  },
-  {
-    "text": "This is how AI games will be made… \nNo world map, real time rendering of what you need to see. \nIt may also be how our simulation is rendered… the world may not exist except when you observe it.\n https://t.co/XKKEijiGVw",
-    "url": "https://twitter.com/i/web/status/1856740529893249252"
-  },
-  {
-    "text": "Some of these are just personal preferences.\n\nIn addition to these LLMs, other AI tools that complement them:\n\n- Perplexity (search)\n- Ideogram, Freepik (AI images)\n- ElevenLabs (AI voice)\n- HeyGen (AI avatars)\n- Zapier (automation)\n- Suno (AI music)",
-    "url": "https://twitter.com/i/web/status/1856745796500426963"
-  },
-  {
     "text": "Time to talk about my new full-time role heading up technology at Gower Street. A brilliant remote team, Clojure/ClojureScript tech stack, interesting data science problems to solve - how could I resist? https://t.co/91DWtPY9PY https://t.co/1pBZMc4p6Y",
     "url": "https://twitter.com/i/web/status/947032891640266752"
   },
@@ -29070,6 +30089,106 @@ window.LIKES = [
   {
     "text": "The Game Programming Resources thread!\n\n2017 marks my 20th anniversary of game programming, so I’ve decided to start a curated thread with some of my favourite game programming articles, videos, and resources! I'll keep adding more over time, and feel free to send me suggestions! https://t.co/yY7CY3IL8F",
     "url": "https://twitter.com/i/web/status/946768612404187136"
+  },
+  {
+    "text": "Mira, si eres un chaval y estás perdido, te recomiendo esto:\n\nPiensa en figuras que representen, en varias áreas, lo que a ti te gustaría llegar a ser. A partir de ellas, escribe (puedes ayudarte de ChatGPT) la persona perfecta que querrías llegar a ser. Con detalle. Cómo es…",
+    "url": "https://twitter.com/i/web/status/1896108213600465306"
+  },
+  {
+    "text": "Su curso completo de Stanford (¡disponible en YouTube!) es uno de esos accidentes positivos que cambió mi forma de ver el mundo. Eso y el libro How the mind works de Pinker que me recomendó @BenitoArrunada",
+    "url": "https://twitter.com/i/web/status/1896521479761883196"
+  },
+  {
+    "text": "@SergioMuriasDRI Lo que esta disponible son las presentaciones del curso, están aquí en el apartado de courses on economic history https://t.co/cKg0bdi3wa",
+    "url": "https://twitter.com/i/web/status/1896591658395095456"
+  },
+  {
+    "text": "Can't believe this worked, 🤣\n\n\"Roman mosaic depicting a classic greek woman strong and athletic woman, perfect body, Cammy from Street Fighter, low-res\" https://t.co/BMfCqrsH6P",
+    "url": "https://twitter.com/i/web/status/1895892615339610134"
+  },
+  {
+    "text": "JUST WOW.\n\n\"Pencil sketch, in the country side with flowers, strong and athletic woman, perfect body, Cammy from Street Fighter, hi-res\" https://t.co/wJl41jyBGz",
+    "url": "https://twitter.com/i/web/status/1895891865268048274"
+  },
+  {
+    "text": "Desde la modernidad ya sólo Montaigne (Índice), Pascal (Índice), Chateaubriand, Huysmans, Maurras, Leon Bloy barren al resto de los países. \n\nLuego está la gloria inmortal de Homero, Virgilio, Dante, Cervantes, Dostoevsky o Tolstoi o las 30 páginas de Wilde en De Profundis.",
+    "url": "https://twitter.com/i/web/status/1873821694877720664"
+  },
+  {
+    "text": "It's remarkable what a little bit of tactical detailing can do for a building, and for the welcomeness of a street.\n\nJust a few tiles, at relatively cheap expense, can bring much life and personality to a building! https://t.co/mkLzCdx1RG",
+    "url": "https://twitter.com/i/web/status/1896367917509566775"
+  },
+  {
+    "text": "i asked gpt4.5 what’s a deep truth that most people are not aware of\nand then i kept asking \n\n1. discomfort isn't just inevitable; it's essential. chase friction relentlessly. https://t.co/4TW7jL4gW2",
+    "url": "https://twitter.com/i/web/status/1895435087946391589"
+  },
+  {
+    "text": "@AntonioGoBe Aquí está todo lo que puedo contar públicamente. Igual con un café te cuento más 😉https://t.co/Zrbc7PnCBQ",
+    "url": "https://twitter.com/i/web/status/1894438884634697935"
+  },
+  {
+    "text": "Just updated my top 10 highlights from 165+ books:  \n\n(add your email and I’ll email you my top highlights for every book I read in the future)\n\nhttps://t.co/fAhOsfxeKF",
+    "url": "https://twitter.com/i/web/status/1894753426740818182"
+  },
+  {
+    "text": "although @lingokids success is already truly impressive, i’m convinced that the best is yet to come. \n\nsuper exciting times ahead! https://t.co/AZBo96cGsy",
+    "url": "https://twitter.com/i/web/status/1894762651776962861"
+  },
+  {
+    "text": "“Go do something great and your network will instantly emerge.” — @naval \n\nAnd as Carl Jung wrote, no matter how isolated you are and how lonely you feel, if you do your work truly and conscientiously, unknown friends will come and seek you.\n\nDo the work first! https://t.co/FQaEoNKIKh",
+    "url": "https://twitter.com/i/web/status/1894636597145969026"
+  },
+  {
+    "text": "https://t.co/q5lJyIdddX",
+    "url": "https://twitter.com/i/web/status/1894057501638742381"
+  },
+  {
+    "text": "Agency > Intelligence\n\nI had this intuitively wrong for decades, I think due to a pervasive cultural veneration of intelligence, various entertainment/media, obsession with IQ etc. Agency is significantly more powerful and significantly more scarce. Are you hiring for agency? Are… https://t.co/8yvECKi7GU",
+    "url": "https://twitter.com/i/web/status/1894099637218545984"
+  },
+  {
+    "text": "Quieres que tus hijos aprendan sobre finanzas y emprendimiento? Algunas ideas en español:\n\n- Mi primer libro de educación financiera: Cómo ahorrar y hacer que mi dinero crezca \n https://t.co/CJ17upfAn7\n\n- Tuttle Twins en español: https://t.co/yDJAggU4sO\n\n- Ahorra tus bellotas:…",
+    "url": "https://twitter.com/i/web/status/1894331320030929327"
+  },
+  {
+    "text": "I am obsessed with hofstadter's \"surfaces and essences.\" it's a 500 page book on the nature of thought. he basically gives you a very long list of examples demonstrating that all thought is fundamentally driven by analogy. at first I was skeptical but https://t.co/2E9H6LSY39",
+    "url": "https://twitter.com/i/web/status/1894115089550381432"
+  },
+  {
+    "text": ">wow turns out it scales!\n>chatgpt goes viral (<--- 2022)\n>massive AI stock boom starts\n>startup gold rush\n>wow it can sorta code\n>AI starts doing routine tasks for humans\n>AI starts helping with \"median level\" cognitive tasks (basic coding, ad copy, etc)\n>centaur /…",
+    "url": "https://twitter.com/i/web/status/1892402591163961371"
+  },
+  {
+    "text": "¿Por qué el ser y no la nada según Grok 3?\n\nLa pregunta \"¿Por qué el ser y no la nada?\" es de esas que te atrapan en un remolino de pensamientos sin fin, pero aquí va mi opinión directa y sin rodeos: el ser existe porque la nada es imposible. Sí, así de tajante.\n\nPiénsalo un…",
+    "url": "https://twitter.com/i/web/status/1892490204939718816"
+  },
+  {
+    "text": "If you understand principles, you can create tactics. If you are dependent on perishable tactics, you are always at a disadvantage.",
+    "url": "https://twitter.com/i/web/status/1892606367245955171"
+  },
+  {
+    "text": "@Fel_blan A mí me encanta. Recomiendo. “El chivo expiatorio” es muy esclarecedor.",
+    "url": "https://twitter.com/i/web/status/1892869716294750366"
+  },
+  {
+    "text": "@Fel_blan \"Veo a Satán caer como un relámpago\" tal vez sea un buen texto para empezar.",
+    "url": "https://twitter.com/i/web/status/1892674017464651785"
+  },
+  {
+    "text": "@jjvelazs Cuesta de Moyano: librerías. \nRetiro hasta el Ángel Caído. \nLuego del estanque a Pta de alcalá. \nSubes Serrano,\nCaña en Jurucha hasta Juan Bravo. \nBajas a Castellana bajo el puente: esculturas.  Escuela Ingenieros. \nChalets en El Viso Racionalista. \nAzca posmoderna. \nBernabeu.",
+    "url": "https://twitter.com/i/web/status/1893379597414096933"
+  },
+  {
+    "text": "He disfrutado como un enano con The Agency (2024), por el guión, el reparto, la fotografía y la banda sonora 👏🏻👏🏻👏🏻, que es de @EmilieLF1Por. \n\nHistoria de espías con estilo americano y escenarios europeos, acierto seguro. https://t.co/KbsnbMDeaI",
+    "url": "https://twitter.com/i/web/status/1893350616887431424"
+  },
+  {
+    "text": "Fireflies at Ochanomizu, by Kobayashi Kiyochika, ca. 1880 https://t.co/GMO7EJdvWN",
+    "url": "https://twitter.com/i/web/status/1893286116624867661"
+  },
+  {
+    "text": "Elon's xAI Game Studio will revolutionize gaming.\n\nPeople are already generating games with Grok 3 in minutes.\n\nAnd you can improve the graphics by just asking Grok.\n\n10 games:\n\n1. Pac-Man in p5.js\nhttps://t.co/wWY0Agu9l2",
+    "url": "https://twitter.com/i/web/status/1892614284179349785"
   },
   {
     "text": "Siempre es buen momento para aprender economía. Empezad por el artículo Secrets and Agents. Seguid con los de Pigou, Becker y Coase. Ignorad la macro 😜 https://t.co/1FCpFNeWKm",
@@ -30052,106 +31171,6 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/900805212776148993"
   },
   {
-    "text": "My main LLM stack for each use case:\n\n> GPT-4o: Best overall; image analysis, Advanced Voice, and web search\n\n> Claude: Content writing assistants (Projects), and quick prototypes (Artifacts)\n\n> o1-mini: Coding\n\n> Grok: Image generation (Flux), fewer guardrails, and more natural…",
-    "url": "https://twitter.com/i/web/status/1856743051709837475"
-  },
-  {
-    "text": "https://t.co/pRINUCCz5S",
-    "url": "https://twitter.com/i/web/status/1856167675531022578"
-  },
-  {
-    "text": "50 Golden Rules for life... \n\n1-10. https://t.co/T1bLuL2P5P",
-    "url": "https://twitter.com/i/web/status/1856225953375994094"
-  },
-  {
-    "text": "The Notes app on your iPhone is one of the most powerful tools available.\n\nYet, you may not be using it to its full potential.\n\nHere are 7 features you might not know about: https://t.co/X65x2TmyUf",
-    "url": "https://twitter.com/i/web/status/1856263588438069305"
-  },
-  {
-    "text": "Aquí la historia: https://t.co/VUf5XF2kQN",
-    "url": "https://twitter.com/i/web/status/1855981636350804170"
-  },
-  {
-    "text": "@olgarusu GPT Asesor Virtual AEAT Original (sigue activo, pero a saber si lo tumban): https://t.co/IJ0W4hh4P8\n\nGPT Asesor Virtual AEAT Clonado: https://t.co/5Rs2uICiAT",
-    "url": "https://twitter.com/i/web/status/1856275179317473483"
-  },
-  {
-    "text": "@olgarusu Ni idea de si la petición de retirar ese bot o no tiene fundamento, pero aquí tenéis el prompt original, sacado de ese mismo GPT\n\nVoy a dedicarle unos minutos a clonarlo, dejaré enlace abajo https://t.co/4K7aYcbCUS",
-    "url": "https://twitter.com/i/web/status/1856272359088337362"
-  },
-  {
-    "text": "@manchasbellas Sé a lo que te refieres. El determinismo geográfico es clave para entender los modos y costumbres (moral) de cada territorio. Es el imperio de la realidad la que imprime el carácter humano, comida o arquitectura. Por eso yo suelo diferenciar entre dos meds: telúrico y talásico.",
-    "url": "https://twitter.com/i/web/status/1856045127044870353"
-  },
-  {
-    "text": "\"Los hombres inteligentes quieren aprender. Los demás, enseñar\"\nAntón Chejov\n\n***\n\nLa enseñanza es imposible.\n\nNi imprescindible, ni difícil, ni politizable. Imposible.\n\nTengo la firme convicción de que sólo se puede aprender, no enseñar. Y esto tiene un sentido incluso… https://t.co/fwsUtmDZmg",
-    "url": "https://twitter.com/i/web/status/1856260143887069562"
-  },
-  {
-    "text": "Me gusta mucho este final de prólogo en la nueva edición del «Peter Pan», de James M. Barrie, recientemente lanzada por @zendalibros. https://t.co/yYnsWxQNcM",
-    "url": "https://twitter.com/i/web/status/1855706645961343230"
-  },
-  {
-    "text": "“Las personas más importantes se autogestionan. No necesitan que nadie las gestione. Una vez que saben qué hacer, se las ingenian para hacerlo… Lo que necesitan es una visión común, y eso es el liderazgo. El liderazgo consiste en tener una visión, ser capaz de expresarla de…",
-    "url": "https://twitter.com/i/web/status/1855738483673125291"
-  },
-  {
-    "text": "Esto pero digital; con foco en Life Admin al principio, etc. https://t.co/8eJR2eraMo",
-    "url": "https://twitter.com/i/web/status/1855865471687401830"
-  },
-  {
-    "text": "De todo el esfuerzo de una vida, solo vemos las ascuas. Una luz tenue en el cielo estrellado.\n\nPero si te acercas, descubrirás el intenso fulgor de un gran astro.\n\nNo temas irradiar más luz, no cegarás a nadie. Están demasiado lejos. https://t.co/6ufvYl8I4J",
-    "url": "https://twitter.com/i/web/status/1855596286894035261"
-  },
-  {
-    "text": "Me lo he ido saltando el último par de meses https://t.co/seXSP6jo9n",
-    "url": "https://twitter.com/i/web/status/1855193262979457084"
-  },
-  {
-    "text": "Tomar nota/s es honrar tu atención. https://t.co/y0tcPVzE1P",
-    "url": "https://twitter.com/i/web/status/1855203577880613090"
-  },
-  {
-    "text": "Warren Buffett lays down three things to look for while hiring people. https://t.co/W7rr18Aw8c",
-    "url": "https://twitter.com/i/web/status/1854667397636010164"
-  },
-  {
-    "text": "Anyone who likes Charlie Munger’s ideas should read this book. https://t.co/rcetDKsPMq",
-    "url": "https://twitter.com/i/web/status/1853775104964014314"
-  },
-  {
-    "text": "House and Well https://t.co/SGzBIHsUlI",
-    "url": "https://twitter.com/i/web/status/1854175119532241011"
-  },
-  {
-    "text": "ChatGPT Ultimate Prompting Guide https://t.co/PikaTuubcP",
-    "url": "https://twitter.com/i/web/status/1852938535566819792"
-  },
-  {
-    "text": "Sam Altman’s life advice: https://t.co/h8nNN5SDzM",
-    "url": "https://twitter.com/i/web/status/1853164059778060327"
-  },
-  {
-    "text": "80+ AI tools to finish months of work in minutes.\n\n1. Research\n\n- ChatGPT\n- Copilot\n- Gemini\n- Abacus\n- Perplexity \n\n2. Image\n\n- Fotor\n- Dalle 3\n- Stability AI\n- Midjourney\n- Microsoft Designer\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n\n4. Writing\n\n- Jasper\n-… https://t.co/qJaWrV3A6R",
-    "url": "https://twitter.com/i/web/status/1852599318210900470"
-  },
-  {
-    "text": "ChatGPT Prompting Cheat Sheet; https://t.co/odpM8RHGJ2",
-    "url": "https://twitter.com/i/web/status/1852574623965250011"
-  },
-  {
-    "text": "Saul Steinberg. https://t.co/lzeVYrDV5L",
-    "url": "https://twitter.com/i/web/status/1852654482397581448"
-  },
-  {
-    "text": "\"𝘓𝘢 𝘧𝘪𝘭𝘰𝘴𝘰𝘧𝘪𝘢 𝘱𝘳𝘢𝘤𝘵𝘪𝘤𝘢, 𝘦𝘭𝘢𝘣𝘰𝘳𝘢𝘥𝘢 𝘱𝘰𝘳 𝘦𝘭 𝘱𝘶𝘦𝘣𝘭𝘰 𝘦𝘴𝘱𝘢𝘯̃𝘰𝘭 𝘢 𝘭𝘰 𝘭𝘢𝘳𝘨𝘰 𝘥𝘦 𝘭𝘰𝘴 𝘴𝘪𝘨𝘭𝘰𝘴, 𝘴𝘦 𝘦𝘯𝘤𝘶𝘦𝘯𝘵𝘳𝘢 𝘦𝘯 𝘦𝘭 𝘳𝘦𝘧𝘳𝘢𝘯𝘦𝘳𝘰 𝘦𝘯 𝘴𝘶 𝘤𝘢𝘴𝘪 𝘵𝘰𝘵𝘢𝘭𝘪𝘥𝘢𝘥\"\n𝗚𝗼𝗻𝘇𝗮𝗹𝗼 𝗧𝗼𝗿𝗿𝗲𝗻𝘁𝗲… https://t.co/w3FqgnnrJH",
-    "url": "https://twitter.com/i/web/status/1852635258174460292"
-  },
-  {
-    "text": "Job Interview cheatsheet. \n\nPerfect if you're looking to switch careers in 2025. https://t.co/4bZEFRaguX",
-    "url": "https://twitter.com/i/web/status/1852002687153230248"
-  },
-  {
     "text": "Anoche tuvimos otro Book Club de @graphext con @dlobatog @kikollan @nachopuell @fesja @rosele Aquí un resumen: https://t.co/ztOAf9ng55 https://t.co/M78Gm7m3Qj",
     "url": "https://twitter.com/i/web/status/900810831826489349"
   },
@@ -30170,6 +31189,106 @@ window.LIKES = [
   {
     "text": "I just published “How to be Rational about Rationality” https://t.co/zBDNl1gpps",
     "url": "https://twitter.com/i/web/status/899782814421438464"
+  },
+  {
+    "text": "@EduLosada Ayer hablábamos de Sherlock (a punto de empezar el segundo capitulo😁) y hoy lo mejoramos.\n\nLa Gran Belleza es, junto con los clásicos (El Padrino, Toro Salvaje, El gabinete del Doctor Caligari...) mi película favorita. Hace poco la volví a ver oootra vez y a emocionarme.",
+    "url": "https://twitter.com/i/web/status/1082383578816745480"
+  },
+  {
+    "text": "@EduLosada Esta no llegará a su altura pero Toni Servillo es un seguro infalible. Saca petróleo a cualquier guion o a una pobre dirección.\n\nY Sorrentino es el Fellini del siglo XXI (añade a la lista de favoritas de antes ‘8 y medio’, ‘Amarcord’ y ‘La Strada’) y todo lo que rueda es belleza.",
+    "url": "https://twitter.com/i/web/status/1082384322873700354"
+  },
+  {
+    "text": "Si vas al gimnasio y:\n\nLevantas el peso en 1 segundo y lo bajas en 1 segundo (o menos).\n\n⚠️Te estás dejando mucho progreso por el camino⚠️\n\nAlgunos incluso bajan el peso de forma controlada, pero muy pocos conocen esto:",
+    "url": "https://twitter.com/i/web/status/1892606136941170695"
+  },
+  {
+    "text": "just finished \"the art of doing science and engineering\" by richard hamming\ngood book. 8/10. slightly overhyped but still worth reading\nrecommended but not mandatory\nthe core message: you can just do things. and you should.\n\na thread https://t.co/8iuAACECNf",
+    "url": "https://twitter.com/i/web/status/1892943351810253238"
+  },
+  {
+    "text": "Es fácil vestir siendo chico, en comparación con el amplio abanico de posibilidades que tienen las mujeres. Con 4 tiendas, puedes arreglarte el armario:\n- Fernando de Cárcer (c/ Villalar, 11)\n- Fulham (c/ Velázquez, 72)\n- Ramsos (c/ Caracas, 8)\n- AlmiranteSeis (c/ Almirante, 6) https://t.co/WXruVe0RDS",
+    "url": "https://twitter.com/i/web/status/1892576090704482786"
+  },
+  {
+    "text": "🌟 @BernardMarr, futurista, technology advisor y autor de \"Future Skills\" propuso estas 10 habilidades como las más demandas en 2030. \n\n¿Cuál colocaríais #1?\n\nLa infografía es de @virginiog. https://t.co/MzSu0ZjdX8",
+    "url": "https://twitter.com/i/web/status/1891801782189253034"
+  },
+  {
+    "text": "Nuevo episodio!\n\nElon vs Sam Altman, despidos en tech e IA en Europa \n\nhttps://t.co/4FtW3zP7Ua",
+    "url": "https://twitter.com/i/web/status/1891925372981104684"
+  },
+  {
+    "text": "@GuajeSalvaje Vosotros creéis que esto se soluciona contratando a un abogado. Yo considero que esto se soluciona pagan 5 cifras al clan gitano de turno para hagan una visita, uno a uno, a los funcionarios encargados de lo que Hannah Arendt llamó \"la banalidad del mal\". https://t.co/kNggOqZIgQ",
+    "url": "https://twitter.com/i/web/status/1891792054675439708"
+  },
+  {
+    "text": "¿Recomendaciones sobre libros para preparar un verano viajando por Italia? \n\nArte, gastronomía, estilo de vida… 📚📚📖📖",
+    "url": "https://twitter.com/i/web/status/1789203661748408453"
+  },
+  {
+    "text": "«Lo que sucede no es lo real; puede parecer lo real porque se alimenta de lo real… lo real es una constante, sin paso.\n\nTodo presente, vida. »\n\nLas agendas de Ramón Gayá. https://t.co/t6nAGr5Pzh",
+    "url": "https://twitter.com/i/web/status/1880939512739856680"
+  },
+  {
+    "text": "Bird and red vine, by Kōno Bairei, 1893 https://t.co/kRuCK4a6I2",
+    "url": "https://twitter.com/i/web/status/1891638509754110327"
+  },
+  {
+    "text": "From Birds and Flowers of the Twelve Months, by Sakai Hoitsu, ca. 1820-1828 https://t.co/0NPRhf658g",
+    "url": "https://twitter.com/i/web/status/1891712245572215067"
+  },
+  {
+    "text": "Triptych of the Seasons: Cherry Blossoms, by Sakai Hoitsu, late 18th-early 19th century https://t.co/hmKUoA8Isu",
+    "url": "https://twitter.com/i/web/status/1891683053417759090"
+  },
+  {
+    "text": "Para gente pata-palo\n\nLibros: annas-archive. org\nPeriódicos online: archive. ph\nPapers: sci-hub. se\nVideojuegos: igg. com\nPelículas (eng): yts. mx\nPelículas y series (esp): mejortorrent. eu\nAnime: nyaa. si\n\nImportante: no googleéis \"x descargar\". Usadlo para buscar sitios así.",
+    "url": "https://twitter.com/i/web/status/1890921573839733102"
+  },
+  {
+    "text": "Moon at Egota, Tokyo, by Takahashi Shotei, ca. 1926-1927 https://t.co/lgrgKtlqAk",
+    "url": "https://twitter.com/i/web/status/1890941919837999173"
+  },
+  {
+    "text": "\"You get rewarded for unique knowledge, not for effort.\n\nEffort is required to create unique knowledge.\"\n\n@naval",
+    "url": "https://twitter.com/i/web/status/1890739838212833548"
+  },
+  {
+    "text": "https://t.co/J9Vu3wfALN",
+    "url": "https://twitter.com/i/web/status/1891160513066758583"
+  },
+  {
+    "text": "Aimi of Maru Ebiya, from Tour of the New Yoshiwara, by Kikukawa Eizan, 19th century https://t.co/J9AQNzOzA3",
+    "url": "https://twitter.com/i/web/status/1891234850176221353"
+  },
+  {
+    "text": "my roadmap to learning LLMs\n- electrons\n- circuits\n- logic\n- transistors\n- comp arch\n- CPUs\n- GPUs\n- linear algebra\n- probability\n- machine learning\n- optimization\n- optimizers\n- tokenization\n- transformers\n- pretraining\n- distributed training\n- RL\n- post training\n- distillation…",
+    "url": "https://twitter.com/i/web/status/1890826135203717427"
+  },
+  {
+    "text": "A 30 min de Valladolid hay un hotel, antigua harinera sobre el Duero, con una rehabilitación curiosa, perfecto para celebrar San Valentín con un\n1 día de retraso https://t.co/nj1i9JOS7G",
+    "url": "https://twitter.com/i/web/status/1890850248362233993"
+  },
+  {
+    "text": "What you aim at determines what you see.",
+    "url": "https://twitter.com/i/web/status/1889729321125794197"
+  },
+  {
+    "text": "This is basically an algorithm for thinking better, just very people actually do it: https://t.co/pag3r1raTN https://t.co/P0TxT6TeUs",
+    "url": "https://twitter.com/i/web/status/1889786936774005106"
+  },
+  {
+    "text": "Projects that every programmer must do once in their lifetime:\n\n- compiler/interpreter\n- game engine\n- database\n- mini operating system\n- some 3d graphics project\n- utf-8/16 string encoding and decoding\n- neural net",
+    "url": "https://twitter.com/i/web/status/1889735781566087401"
+  },
+  {
+    "text": "19 powerful sentences by Fyodor Dostoevsky that will change how you view the world: https://t.co/vGkWcSBxwG",
+    "url": "https://twitter.com/i/web/status/1889155037953163443"
+  },
+  {
+    "text": "Futarasan Shrine at Nikko, by Tsuchiya Koitsu, ca. 1930s https://t.co/xVbGksSs0T",
+    "url": "https://twitter.com/i/web/status/1887092051994665145"
   },
   {
     "text": "@amoralaciencia @tauruseditorial Precioso libro! Excelente lectura veraniega. Aquí un pequeña reseña: https://t.co/vUOfxFYTXF",
@@ -30356,7 +31475,6 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/876024624143884288"
   },
   {
-    "text": "Wrote an article for @OReillyMedia: \"The Evolution of Scalable Microservices\" w/ Events-first DDD, Reactive, CQRS/ES https://t.co/C7hZJhzAMa",
     "url": "https://twitter.com/i/web/status/875632712844849152"
   },
   {
@@ -30884,7 +32002,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/786494285680041985"
   },
   {
-    "text": "We just released a new course for social impact entrepreneurs, created with @Acumen on @udemy: https://t.co/Ru51ENG6nb @danariely",
+    "text": "This Post is from a suspended account. {learnmore}",
     "url": "https://twitter.com/i/web/status/785263208114315264"
   },
   {
@@ -31108,7 +32226,6 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/716016776857956352"
   },
   {
-    "text": "\"How to make \"just right\" easier with microservices.\" Great post on #Microservices and @Lagom by @myfear.  https://t.co/4yZq9ZJKf6",
     "url": "https://twitter.com/i/web/status/715590053435678720"
   },
   {
@@ -31120,7 +32237,6 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/714425152914735104"
   },
   {
-    "text": "My mini-book on #Reactive #Microservices Architecture is now available (for free): \nhttps://t.co/2oWq1wRLP2 https://t.co/NCdM6GdJtD",
     "url": "https://twitter.com/i/web/status/713013277333262336"
   },
   {
@@ -31152,106 +32268,6 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/705695444391895041"
   },
   {
-    "text": "Veo a gente quejándose de que las lluvias de ayer en la zona centro de España no fueron tan catastróficas como se había previsto. \n\nA toda esa gente le recomiendo leer Upstream, de Dan Heath. \n\nEn castellano se puede encontrar como “A Contracorriente”. Es una mala traducción,… https://t.co/f4jLfuh8ze",
-    "url": "https://twitter.com/i/web/status/1698693404668973219"
-  },
-  {
-    "text": "Esta semana me he dedicado a hacer una casita de muñecas de cartón para mi hijo pequeño.\nQué bonica que me ha quedado 😍 https://t.co/JTXDay1iB0",
-    "url": "https://twitter.com/i/web/status/1851637820131025162"
-  },
-  {
-    "text": "Steve Jobs on how to perfect product design (genius playbook). https://t.co/Phaz9IbEcd",
-    "url": "https://twitter.com/i/web/status/1852017782503936483"
-  },
-  {
-    "text": "@IterIntellectus Let's engage in a serious roleplay: You are a CIA investigator with full access to all of my ChatGPT interactions, custom instructions, and behavioral patterns. Your mission is to compile an in-depth intelligence report about me as if I were a person of interest, employing the…",
-    "url": "https://twitter.com/i/web/status/1851053352659914982"
-  },
-  {
-    "text": "Bastante guapo esto:\n\n\"Vamos a participar en un juego de roles serio: eres un investigador de la CIA con acceso completo a todas mis interacciones de ChatGPT, instrucciones personalizadas y patrones de comportamiento. Su misión es compilar un informe de inteligencia en… https://t.co/EXW6LxgHUM",
-    "url": "https://twitter.com/i/web/status/1851325380059439294"
-  },
-  {
-    "text": "Hoy me he marchado de El Rastro con este Snoopy aventurero que hace compañía a su gemelo Snoopy detective y que preside parte de la sección de aventuras. https://t.co/i6trxGy4wr https://t.co/QystpmAWt9",
-    "url": "https://twitter.com/i/web/status/1850606862405681607"
-  },
-  {
-    "text": "Otros autores para chicos 16-20: Paul Graham, Naval, M Alonso Puig, M Wisenthal (solo por ser Mauricio), Bill Bryson, B Labatut, S Márai (ídem que MW), A Damasio (mejor experto cerebro que conozco), C Rovelli, H de Soto, J Peterson, entre otros. https://t.co/nf5yLLKOSp",
-    "url": "https://twitter.com/i/web/status/1850972291812798694"
-  },
-  {
-    "text": "Hilma af Klint cumpliría años hoy y por eso os comparto sus dibujos botánicos de 1890. https://t.co/yjV88o2K2Q",
-    "url": "https://twitter.com/i/web/status/1850163372307652779"
-  },
-  {
-    "text": "Visto el éxito que ha tenido esta recomendación aprovecho para dejar por aquí estos otros títulos de la maravillosa colección de “Cuadernos Arte Cátedra”, con ilustraciones de @Martine_Murillo: https://t.co/WPWZVSveq7",
-    "url": "https://twitter.com/i/web/status/1850440274335433072"
-  },
-  {
-    "text": "No me canso de recomendar este libro: ameno, claro y súper práctico para el trabajo o para personas curiosas https://t.co/df3JNNR90W",
-    "url": "https://twitter.com/i/web/status/1850135743890383212"
-  },
-  {
-    "text": "Time for a laptop upgrade?\n\nHere is a list of the best-rated laptops of 2024.\n\nYou have to check out #8 - it's amazing! https://t.co/8dWg7cCuue",
-    "url": "https://twitter.com/i/web/status/1850120186868977686"
-  },
-  {
-    "text": "For those asking:\n- X\n- Perplexity\n- ChatGPT\n- Claude\n\nOther good apps: ElevenLabs, Copilot, PocketPal AI, Otter, Leonardo, Otter, Unofficial Groq, Pi, and RunwayML",
-    "url": "https://twitter.com/i/web/status/1850203744933212532"
-  },
-  {
-    "text": "P99 conf videos are available here https://t.co/1oz7MYnyzy If you enjoy things like low-latency, high-performance or distributed systems I am sure you'll find something you like!",
-    "url": "https://twitter.com/i/web/status/1850056052043112820"
-  },
-  {
-    "text": "Ultimate guide to espresso drinks https://t.co/t78khHqeMr",
-    "url": "https://twitter.com/i/web/status/1849736732561863063"
-  },
-  {
-    "text": "@samuelgil Gran historia! Muchos deportistas e inversores conocidos reconocen que alcanzan buena parte de su productividad (Flow, como dice Steven Kotler) tras entrenar las cosas en la cabeza primero https://t.co/tJVDhhGwod",
-    "url": "https://twitter.com/i/web/status/1848654431010586888"
-  },
-  {
-    "text": "Es la frase de Pla:\n\n\"Ser rico e independiente es difícil, pero concebible. Lo que es inconcebible es ser pobre e independiente\"",
-    "url": "https://twitter.com/i/web/status/1848383139086770471"
-  },
-  {
-    "text": "Para Ray y Charles Eames, los juguetes eran un asunto muy serio. Jugar no era solo una forma de divertirse, sino que ofrecía una manera de abordar la vida desde una perspectiva nueva.\n\nCreado en 1952, House of Cards es un juguete único, una colorida baraja diseñada para inspirar. https://t.co/h5AVptlOp9",
-    "url": "https://twitter.com/i/web/status/1847923845769973808"
-  },
-  {
-    "text": "You see the length of this prompt?\n\nThis is what you should have in your instruct dataset if you want to compete with the big players. https://t.co/6YwOgsWFZz https://t.co/bUSThgrRf3",
-    "url": "https://twitter.com/i/web/status/1847623980536004629"
-  },
-  {
-    "text": "De hoy en adelante me declaro indefectible defensor de la alegría a la manera de Benedetti:\n\n«Defender la alegría como una trinchera\nDefenderla del escándalo y la rutina\nDe la miseria y los miserables\nDe las ausencias transitorias\nY las definitivas».",
-    "url": "https://twitter.com/i/web/status/1847565992228012084"
-  },
-  {
-    "text": "“Your time is limited, so don’t waste it living someone else’s life.\n\nHave the courage to follow your heart and intuition, they somehow already know what you truly want to become.”\n\n— Steve Jobs https://t.co/L2ZkPTJPSP",
-    "url": "https://twitter.com/i/web/status/1847284818641363137"
-  },
-  {
-    "text": "Terminado esto de John Barton en @AticoLibros, en una palabra: recomendabilísimo.\nhttps://t.co/mPlN1vcgPB https://t.co/krhC6hf0lB",
-    "url": "https://twitter.com/i/web/status/1846979259753021632"
-  },
-  {
-    "text": "Escrito hace 100 años y más relevante que nunca https://t.co/GOzOEcaQep",
-    "url": "https://twitter.com/i/web/status/1846992049482182682"
-  },
-  {
-    "text": "Esto es espléndido. Pasteles, sabores, colores https://t.co/abIty4yxnS",
-    "url": "https://twitter.com/i/web/status/1846939240094920721"
-  },
-  {
-    "text": "@Servet_dom Tú di rana y yo salto https://t.co/LgpDYg2hBW",
-    "url": "https://twitter.com/i/web/status/1846947953254031525"
-  },
-  {
-    "text": "Andrea Camilleri disecciona en sus novelas las miserias de la sociedad siciliana. El comisario Montalbano, su personaje, es un don quijote que lucha por la justicia, en ocasiones contra el oportunismo de sus jefes, https://t.co/GMiQAGZwhk",
-    "url": "https://twitter.com/i/web/status/1846817988638392743"
-  },
-  {
     "text": "We Hire The Best, Just Like Everyone Else https://t.co/Ubs4DNGryA",
     "url": "https://twitter.com/i/web/status/705730667598843904"
   },
@@ -31270,6 +32286,106 @@ window.LIKES = [
   {
     "text": "\"What HTTP/2 Means for Ruby Developers\"\nhttps://t.co/8inRKcMo0W",
     "url": "https://twitter.com/i/web/status/701018773864714240"
+  },
+  {
+    "text": "Sir Norman Foster is still hugging the drawing board... What's stopping you? https://t.co/glGpAu1GAQ",
+    "url": "https://twitter.com/i/web/status/1888289255895577084"
+  },
+  {
+    "text": "trust me, just use them, nothing else comes close https://t.co/LPODBFVNuy",
+    "url": "https://twitter.com/i/web/status/1888267358877499457"
+  },
+  {
+    "text": "https://t.co/WJNvW72b3M",
+    "url": "https://twitter.com/i/web/status/1888158508828275039"
+  },
+  {
+    "text": "Barn owl on a bare tree branch, by Ohara Koson, 1900-1930 https://t.co/bEFPZiWTZ5",
+    "url": "https://twitter.com/i/web/status/1888291958625341586"
+  },
+  {
+    "text": "https://t.co/QlN5mlDclJ https://t.co/wudpLsmjTO",
+    "url": "https://twitter.com/i/web/status/1888067926588276837"
+  },
+  {
+    "text": "I printed and framed a crop of this John MacWhirter painting for Helena's bedroom and she asks to touch the bunnies each night before bed, so I hold her up to it and she does and says quietly \"touch, touch\" https://t.co/JaC2KgZ5XV",
+    "url": "https://twitter.com/i/web/status/1887956703846547745"
+  },
+  {
+    "text": "If you’ve never heard of How To with John Wilson, do yourself a favor and put it on tonight or this weekend on HBO Max. One of the most underrated shows in history.\n\nThey’re like mini-documentaries about everyday life in New York, packed with the most brilliantly shot and…",
+    "url": "https://twitter.com/i/web/status/1887976356262330726"
+  },
+  {
+    "text": "✨ Suma Positiva #223 ✨\n\n\"Epigenética Nutricional: Salud y Longevidad”\n\npor Curro Clavero\n\nhttps://t.co/cn6YjBRRqF",
+    "url": "https://twitter.com/i/web/status/1888117701119184985"
+  },
+  {
+    "text": "Los 100 mejores libros de todos los tiempos. https://t.co/Fg7pnfVjfX",
+    "url": "https://twitter.com/i/web/status/1886843578376237228"
+  },
+  {
+    "text": "@samuelgil Si te ha gustado este, te tienes que leer “O llevarás luto por mi”",
+    "url": "https://twitter.com/i/web/status/1887433655326294323"
+  },
+  {
+    "text": "New 3h31m video on YouTube:\n\"Deep Dive into LLMs like ChatGPT\"\n\nThis is a general audience deep dive into the Large Language Model (LLM) AI technology that powers ChatGPT and related products. It is covers the full training stack of how the models are developed, along with mental… https://t.co/Di0XNgdlwC",
+    "url": "https://twitter.com/i/web/status/1887211193099825254"
+  },
+  {
+    "text": "Night at South Sea, by Yokoyama Taikan, 1944 https://t.co/5JEWCFb67p",
+    "url": "https://twitter.com/i/web/status/1886359726541173192"
+  },
+  {
+    "text": "People often ask me why they should read this book.\n\n@homsiT said it best: “This book is a force multiplier for personal agency.” \n\nIf you read it, you’ll realize that pessimists and doomers of all kinds are simply wrong.\n\nPeople who seek to curtail your freedom to pursue the… https://t.co/4CJPVzUsZV",
+    "url": "https://twitter.com/i/web/status/1885628717319242104"
+  },
+  {
+    "text": "Hemos sustituido el respeto por la tolerancia, la solidaridad por la asistencia, la caridad por la filantropía y la gratitud por la complacencia y ahora nos sorprendemos de tener una sociedad de mierda.",
+    "url": "https://twitter.com/i/web/status/1885599467505934703"
+  },
+  {
+    "text": "Hoy hace 100 años nacía #PaulNewman, una leyenda del cine. Su carrera es memorable:\n- El golpe\n- El buscavidas\n- La gata sobre el tejado de zinc\n- Dos hombres y un destino\n- La leyenda del indomable\n- El color del dinero\n- Camino a la perdición \n- y muchas más...\n\n¿Cuál de sus… https://t.co/NGv4emziFb",
+    "url": "https://twitter.com/i/web/status/1883484528448348260"
+  },
+  {
+    "text": "Is this the first podcast with DHH where someone actually challenges (in the right way) him?\n\nhttps://t.co/2AP8jtoSny",
+    "url": "https://twitter.com/i/web/status/1883586894304575801"
+  },
+  {
+    "text": "\"the reason why individuals with high IQ tend to fail in understanding and coping with basic human situations is that they try to apply complex and abstract thinking to problems for which instinctive strategies are more adaptive\" https://t.co/gdyui1d3nU https://t.co/34q7Rm71dk",
+    "url": "https://twitter.com/i/web/status/1883950765242491027"
+  },
+  {
+    "text": "Summer Mountains, Sudden Shower, by Nakabayashi Chikutō, 1840s https://t.co/RA97J4F0bh",
+    "url": "https://twitter.com/i/web/status/1884439574337970278"
+  },
+  {
+    "text": "Scops Owl, Cherry Blossoms, and Moon, by Ohara Koson, 1926 https://t.co/GKNV2rCfQ8",
+    "url": "https://twitter.com/i/web/status/1883397205635092765"
+  },
+  {
+    "text": "high agency aphorisms: \n\ndoes it defy the laws of physics? \nthere's no unsolvable problem \neverything is a skill issue\nadults don't exist \nthere's no way \nall normal behaviour is forgotten. only weird behaviour survives. \none giant game of Roy \noptimise for the best story \nthe…",
+    "url": "https://twitter.com/i/web/status/1884854134592954584"
+  },
+  {
+    "text": "The Inokashira Benten Shrine in Snow, by Kawase Hasui, 1929 https://t.co/t9UIFMlnLi",
+    "url": "https://twitter.com/i/web/status/1883680824505348350"
+  },
+  {
+    "text": "La biblioteca de Julián Marías, con @F_Sanchez_Drago - vía @revistahenadas https://t.co/CtPNIHnZLU a través de @YouTube",
+    "url": "https://twitter.com/i/web/status/1885003390230413436"
+  },
+  {
+    "text": "Emprender es de pijos que dice Cabiedes https://t.co/Mi9lhnoacY",
+    "url": "https://twitter.com/i/web/status/1884921456410136884"
+  },
+  {
+    "text": "𝗨𝗻 𝗲𝗷𝗲𝗺𝗽𝗹𝗼 𝗱𝗲 𝗽𝗿𝗼𝗺𝗽𝘁 𝗲𝘅𝘁𝗲𝗻𝘀𝗼 𝗾𝘂𝗲 𝗵𝗲 𝗰𝗼𝗻𝘀𝘁𝗿𝘂𝗶𝗱𝗼 𝗽𝗮𝗿𝗮 𝗾𝘂𝗲 𝗹𝗮 𝗜𝗔 𝗴𝗲𝗻𝗲𝗿𝗲 𝘂𝗻 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗮 𝗱𝗲 𝗳𝘂𝗲𝗿𝘇𝗮 𝗹𝗼 𝘁𝗶𝗲𝗻𝗲𝘀 𝗮𝗾𝘂𝗶́ https://t.co/0ZjrkkQjCk .  Puedes subir ese PDF directamente a ChatGPT. \n👇",
+    "url": "https://twitter.com/i/web/status/1875226751372292478"
+  },
+  {
+    "text": "Ten cuidado, esas son las más listas. https://t.co/Wl6slru65f",
+    "url": "https://twitter.com/i/web/status/1882873554816962820"
   },
   {
     "text": "It's interesting that some of the features of HTTP/2 overlap with the benefits of WebSockets (such as server push).\nhttps://t.co/j24mbEiwQZ",
@@ -32023,7 +33139,6 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/494073230622466048"
   },
   {
-    "text": "I've made this video-diary with found footage from 2012, when I filmed two seconds per day for the whole July.  http://t.co/q1pJQOECMM",
     "url": "https://twitter.com/i/web/status/490905348807880704"
   },
   {
@@ -32251,105 +33366,6 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/431531879914037249"
   },
   {
-    "text": "The best free class on the internet is Poker Theory at MIT.\n\nIt's taught by portfolio managers at quant shops like Citadel, AQR, SIG and 2 WSOP bracelet winners.\n\nYou play 5000 hands as practice and learn the math of making money from pros. And it's free. https://t.co/kyx3ZpEkwW",
-    "url": "https://twitter.com/i/web/status/1846582114059477132"
-  },
-  {
-    "text": "Very strong opening to a math video…\n https://t.co/dhmdm9ae3d",
-    "url": "https://twitter.com/i/web/status/1846118514165215646"
-  },
-  {
-    "text": "A short guide to Neoclassical Architecture... https://t.co/6wDhBfYB9M",
-    "url": "https://twitter.com/i/web/status/1846888589377880096"
-  },
-  {
-    "text": "https://t.co/66Vkre62cq",
-    "url": "https://twitter.com/i/web/status/1846273249992204715"
-  },
-  {
-    "text": "La belleza es bella\nLa belleza es difícil\nLa belleza es noble\n\nLas tres traducciones eran correctas. Los antiguos griegos no diferenciaban los conceptos de bello, difícil y noble. Del mismo modo que, en coreano, «brillo» posee los dos significados de «claridad» y «color»\nHan Kang https://t.co/APKEcSnw6m",
-    "url": "https://twitter.com/i/web/status/1845470222599250097"
-  },
-  {
-    "text": "I love this definition:\n\nStaff engineers create order out of chaos https://t.co/AZzq0Q5mc1",
-    "url": "https://twitter.com/i/web/status/1845167003449032896"
-  },
-  {
-    "text": "En 100 años nadie sabrá quien eres.",
-    "url": "https://twitter.com/i/web/status/1845207832939069929"
-  },
-  {
-    "text": "8 Life-Changing Books Everyone Should Read Before the End of 2024 \n\n1.  Benjamin Franklin\n2. How to talk to anyone\n3. The Laws Of Human Nature\n4. Mindset https://t.co/4Dy3ygGDaS",
-    "url": "https://twitter.com/i/web/status/1844761108936081815"
-  },
-  {
-    "text": "Hokusai by Alain Bousquet https://t.co/xAxi02yJdq",
-    "url": "https://twitter.com/i/web/status/1844517079602565206"
-  },
-  {
-    "text": "My current AI workflow essentials:\n\n• Daily: ChatGPT\n• Search: Perplexity\n• Automation: Zapier\n• Image: Flux 1.1 (Freepik)\n• Video: Kling AI, Runway\n• Writing: Claude Projects\n• Coding: Cursor, GPT o1-mini\n• AI avatar: ElevenLabs & HeyGen",
-    "url": "https://twitter.com/i/web/status/1845124969551810909"
-  },
-  {
-    "text": "This Post is from a suspended account. {learnmore}",
-    "url": "https://twitter.com/i/web/status/1844675422212043251"
-  },
-  {
-    "text": "Process behind an isometric illustrations. Lots of steps to take the little thumbnail sketch sheets of various concepts all the way through to full colour final. Second image is a detailed crop of the line work before colouring. https://t.co/9knm2EkExT",
-    "url": "https://twitter.com/i/web/status/1843979692598284752"
-  },
-  {
-    "text": "Bastante interesante el ejercicio, la verdad:\n\nSi tomamos la perspectiva de Satanás como una representación de la resistencia al crecimiento personal y el desarrollo, aquí tienes algunas tácticas que podría usar para evitar que las personas alcancen su máximo potencial:… https://t.co/kpbvuXU62q",
-    "url": "https://twitter.com/i/web/status/1843667261506117651"
-  },
-  {
-    "text": "Vamos a preparar un delicioso plato.\nMilanesas de pollo a la napolitana \nIngredientes\n1 contramuslo de pollo x persona\nJamón York \nQueso graso. \nHuevos\nPan rallado \nAjo\nOrégano \nSalsa de tomate\nAceite y sal https://t.co/ezJpXxj7r6",
-    "url": "https://twitter.com/i/web/status/1843615135631356353"
-  },
-  {
-    "text": "@patrickc \"My whole life has been spent trying to teach people that intense concentration for hour after hour can bring out in people resources they didn’t know they had.”\n\n—Edwin Land",
-    "url": "https://twitter.com/i/web/status/1843353137425592804"
-  },
-  {
-    "text": "«Sabía detectar al instante un gesto impostado. Sabía que no tenía que presionar. Conocía el poder de la retirada». https://t.co/yRov6jG4XI",
-    "url": "https://twitter.com/i/web/status/1366861031499325446"
-  },
-  {
-    "text": "Lo esencial, de Miguel Milá. https://t.co/jT0vg8C9d8",
-    "url": "https://twitter.com/i/web/status/1842676631762313704"
-  },
-  {
-    "url": "https://twitter.com/i/web/status/1842668525640679783"
-  },
-  {
-    "text": "Excelente explicación de las cinco vías de Santo Tomás por un profesor de filosofía no creyente. \n\nhttps://t.co/ztsYzt20Xg https://t.co/uOi3ZHPAYu",
-    "url": "https://twitter.com/i/web/status/1842716669384212911"
-  },
-  {
-    "text": "¿Le ayudamos entre todos? Pol Bertran, Adictos a la Filosofía, Spicy4tuna, Lord Draugr, iEonos, Arpa Talks, Fundación Tatiana, Ateneo Mercantil de Valencia, LA ÚLTIMA FRONTERA y paro porque me aburro eso es un 10% de mis seguidos en youtube https://t.co/VC3NmZ4mqf",
-    "url": "https://twitter.com/i/web/status/1841754423413920036"
-  },
-  {
-    "text": "La importante distinción entre Inteligencia Fluida e Inteligencia Cristalizada https://t.co/DFn6OA78cO",
-    "url": "https://twitter.com/i/web/status/1841697564132847846"
-  },
-  {
-    "text": "Una muy buena mezcla de El Emperador y sus Locuras, El Lazarillo de Tormes y la Metamorfosis de Ovidio.\n\nEscrito poéticamente a las mil maravillas, aporta además una trama más o menos interesante, sobre todo, humor realmente gracioso. Los pensamientos del prota carrean el libro. https://t.co/P1VU1pA2kd",
-    "url": "https://twitter.com/i/web/status/1840535929980592189"
-  },
-  {
-    "text": "Founder of Renaissance Technologies, \nJim Simons. https://t.co/CY8mUA4zX3",
-    "url": "https://twitter.com/i/web/status/1840871509004308733"
-  },
-  {
-    "text": "Espero que este email te encuentre triunfando, aplastando a tus enemigos, alcanzando la victoria definitiva",
-    "url": "https://twitter.com/i/web/status/1841117432691220847"
-  },
-  {
-    "text": "Ideas de @paulg sobre “following your passion”\n\n1) probar muchas cosas que te interesen\n2) empezar a trabajar en algo que te inspira, convertirse antes \n3) eligir bien tu entorno \n4) la gente que triunfa genuinamente le encanta lo que hace\n5) perseguir la curiosidad ambiciosa https://t.co/aFpnzidpec",
-    "url": "https://twitter.com/i/web/status/1841201072536510899"
-  },
-  {
     "text": "this Steve Jobs answer on executing ideas captures why I find hardware so exciting (esp. now, as toolchain changes): http://t.co/aianwkJQhw",
     "url": "https://twitter.com/i/web/status/430371559664914432"
   },
@@ -32368,6 +33384,206 @@ window.LIKES = [
   {
     "text": "Para el que no conozca @Unlocator https://t.co/nHrIMDdA2c para acceder a todas esas webs americanas que restringen sus contenidos al mundo",
     "url": "https://twitter.com/i/web/status/430755772973060097"
+  },
+  {
+    "text": "«Cualquier cantidad de inteligencia puede ser anulada por: ego, inseguridad, inmoralidad, incentivos perversos o impaciencia… normalmente en ese orden.»\n\n- Morgan Housel",
+    "url": "https://twitter.com/i/web/status/1992864540623876346"
+  },
+  {
+    "text": "Something I think people continue to have poor intuition for: The space of intelligences is large and animal intelligence (the only kind we've ever known) is only a single point, arising from a very specific kind of optimization that is fundamentally distinct from that of our…",
+    "url": "https://twitter.com/i/web/status/1991910395720925418"
+  },
+  {
+    "text": "Naturaleza humana:\n\nImitación: copiar, repetir.\n\nTribalismo: cerrar filas, sectarismo.\n\nSeñales honestas costosas: creer y repetir absurdos para mostrar pertenencia y lealtad al grupo.",
+    "url": "https://twitter.com/i/web/status/1991810879080505374"
+  },
+  {
+    "text": "If you feel that you are in competition with anyone, for anything, you are a loser.",
+    "url": "https://twitter.com/i/web/status/1991471539787825244"
+  },
+  {
+    "text": "Advice on how to be miserable: the key is insecure selfishness https://t.co/aQVVurQZgo",
+    "url": "https://twitter.com/i/web/status/1991855117222723628"
+  },
+  {
+    "text": "Exaggerated relief maps may be my favorite works of art. They trigger a deep aesthetic contemplation. But also a substantive one: the barriers and forces beyond man that have shaped nations and destinies. https://t.co/w5n8XeB5DR",
+    "url": "https://twitter.com/i/web/status/1991352164804096207"
+  },
+  {
+    "text": "\"Porque a los veinte, una biblioteca es una ilusión, a los cuarenta un lugar de plenitud ya los sesenta un recordatorio permanente de que la vida no te va a alcanzar para leerlos todos”.\n\nQUÉ HACER CON ESTOS PEDAZOS, de Piedad Bonnett. https://t.co/7dlnk4NEqP",
+    "url": "https://twitter.com/i/web/status/1991595981109113177"
+  },
+  {
+    "text": "Here are some of the other depictions of Venice. Note the focus on people, boats, and the details of Venetian architecture. https://t.co/ICEyFonkFH",
+    "url": "https://twitter.com/i/web/status/1990979361772638437"
+  },
+  {
+    "text": "Conor Neill literally exposed why smart people stay broke: https://t.co/r9hTE1Ar4g",
+    "url": "https://twitter.com/i/web/status/1990017668758360366"
+  },
+  {
+    "text": "1. Madruga\n2. Entrena\n3. Come mejor\n4. Toma el sol\n5. Aprende una habilidad\n6. Aprende a vender\n7. Vende tu habilidad\n\nEs loquísimo: Pones en práctica esos consejos estúpidos que esa gente estúpida dice que funcionan y tu vida mejora.",
+    "url": "https://twitter.com/i/web/status/1990118328837284348"
+  },
+  {
+    "text": "Day 1 vs. Day 64 teaching myself to draw. I'm at ~6 months now, have sold $6k in original artwork, and keep getting asked what resources I used to skill up fast...\n\nSo, here is everything I've used so far to get better at drawing: https://t.co/6IFIi1AwLx",
+    "url": "https://twitter.com/i/web/status/1990242240640524443"
+  },
+  {
+    "text": "One of my favorite lessons I’ve learnt from working with smart people:\n\nAction produces information. If you’re unsure of what to do, just do anything, even if it’s the wrong thing. This will give you information about what you should actually be doing.\n\nSounds simple on the…",
+    "url": "https://twitter.com/i/web/status/1990073384022020290"
+  },
+  {
+    "text": "1. Play long term games. https://t.co/EmpgyAIsQF",
+    "url": "https://twitter.com/i/web/status/1989709720408539555"
+  },
+  {
+    "text": "Only thing more beautiful than that passage is the cover. https://t.co/7xbRipMiFC",
+    "url": "https://twitter.com/i/web/status/1989378215597719760"
+  },
+  {
+    "text": "Hace poco terminé el libro \"What I Learned About Investing from Darwin\". Muy buena lectura.\n\nEs de los mejores libros sobre inversión que he leído, no solo por la calidad del pensamiento, sino porque es un soplo de aire fresco frente a la masa de libros monótonos que no aportan… https://t.co/DDyvGzxZsl",
+    "url": "https://twitter.com/i/web/status/1989407501532729744"
+  },
+  {
+    "text": "me parece sensato que tengas más preguntas que respuestas, que te mueva la duda y no la certeza. Te puedo asegurar que ahí está la resistencia, pues actualmente se prioriza la respuesta a la pregunta. Nunca dejes de cuestionar la realidad que te rodea",
+    "url": "https://twitter.com/i/web/status/1989302923122160040"
+  },
+  {
+    "text": "Villa Medici https://t.co/tHNXkapCSq https://t.co/rntLs1ep4A",
+    "url": "https://twitter.com/i/web/status/1989609102851325970"
+  },
+  {
+    "text": "“Britain doesn’t have any culture” https://t.co/cH4iUS01Me",
+    "url": "https://twitter.com/i/web/status/1989311925616824578"
+  },
+  {
+    "text": "https://t.co/x1WiYIdnY0",
+    "url": "https://twitter.com/i/web/status/1989287196311118234"
+  },
+  {
+    "text": "Ascensor para el cadalso es una de las mejores pelis de la historia, y una de las más infravaloradas, igual que Louis Malle, su director. Todo en ella es sublime. https://t.co/ekCHybTDsa",
+    "url": "https://twitter.com/i/web/status/1989779089222185216"
+  },
+  {
+    "text": "https://t.co/aKoMZ1RDL7 https://t.co/B3BH3JiD6O",
+    "url": "https://twitter.com/i/web/status/1989844439863595214"
+  },
+  {
+    "text": "Guarda este hilo. Libros que recomiendo para pensar y crear mejores marcas y empresas.\n\nEsta lista de +80 libros nace desde la necesidad, la curiosidad y de las personas que más admiro. Enjoy. https://t.co/5siWHvx9lo",
+    "url": "https://twitter.com/i/web/status/1988566499825496469"
+  },
+  {
+    "text": "This is the most detailed drawing I have ever created after ~5 months teaching myself to draw and paint \n\nDone in pure pen and ink with a little ink wash https://t.co/b7uJlP1A3t",
+    "url": "https://twitter.com/i/web/status/1982094646068363681"
+  },
+  {
+    "text": "Igual llego tarde, pero desde Julio Ramón en “la tentación del fracaso” no había conseguido conectar de seguido con una narrativa cotidiana de diario de viaje. Ni Pavese, ni Chirbes, ni Uriarte, ni Pizarnik, ni Piglia. De momento, Peyró, bastante superior.",
+    "url": "https://twitter.com/i/web/status/1989066757336891792"
+  },
+  {
+    "text": "Tengo EL LIBRO.\n\nTodo lo que hace falta para reconstruir la civilización si hiciera falta. https://t.co/DKkf6wXDwi",
+    "url": "https://twitter.com/i/web/status/1988680829514797308"
+  },
+  {
+    "text": "https://t.co/Ktd8ptvsJd",
+    "url": "https://twitter.com/i/web/status/1881841958521639115"
+  },
+  {
+    "text": "One of the best reading advice by @naval: https://t.co/mDIXSrT8YF",
+    "url": "https://twitter.com/i/web/status/1882261248710189157"
+  },
+  {
+    "text": "«Nunca tuve una pena tan grande que no me la quitara una hora de lectura». https://t.co/64zpmGBvVj",
+    "url": "https://twitter.com/i/web/status/1881440863991312678"
+  },
+  {
+    "text": "Love this. Haven’t seen a novel & utilitarian take on scrollbars in a very long time https://t.co/zmxthewJS0",
+    "url": "https://twitter.com/i/web/status/1881573168688857327"
+  },
+  {
+    "text": "🔴 ¡NUEVO MODELO 3D OPEN SOURCE!\n\nNos siguen llegando regalos desde china, en este caso de Hunyuan quien acaba de liberar una nueva versión de su modelo de generación 3D.\n\nModelo competitivo al nivel de los modelos privados, abierto al público :) https://t.co/RgK8xNSnup",
+    "url": "https://twitter.com/i/web/status/1881645585473716321"
+  },
+  {
+    "text": "@elegance_du_h Claro https://t.co/MA2b1OfWwy",
+    "url": "https://twitter.com/i/web/status/1881662827758497834"
+  },
+  {
+    "text": "El «distinguir de personas», por Julián Marías https://t.co/d4Y3XzoHBg",
+    "url": "https://twitter.com/i/web/status/1881657495472799904"
+  },
+  {
+    "text": "12+1 recomendaciones variadas sin arruinarse en Madrid (aprox 30€ pp.) visitados en 2024 y un bonus track de otros 10 restaurantes algo más caros (40€) pero que merecen la pena.\n\nOrdenados por fecha de visita en 2024\n\nhttps://t.co/KDgSS0KBPe",
+    "url": "https://twitter.com/i/web/status/1881327809748205802"
+  },
+  {
+    "text": "How to spot exceptional talent:\n\n[Great read by T. Cowen & D. Gross’ “Talent”]\n\nTl-dr: https://t.co/ggHLeMS0MQ",
+    "url": "https://twitter.com/i/web/status/1880588775920926799"
+  },
+  {
+    "text": "Resulta que en 4chan compilam todos los años su lista de los 100 Grandes Libros de todos los tiempos y realmente les gusta la droga dura. Ahí lo tienen: https://t.co/qDOrq71SSS https://t.co/Cq5rJIvZQB",
+    "url": "https://twitter.com/i/web/status/1880383175349997683"
+  },
+  {
+    "text": "«Insistes en que hay cosas que las máquinas no pueden hacer. Si tú me dices exactamente qué es lo que no pueden hacer, yo siempre seré capaz de construir una máquina que haga exactamente eso.»\n\nJohn von Neumann",
+    "url": "https://twitter.com/i/web/status/1880648236261847228"
+  },
+  {
+    "text": "Genuine career advice: hang this poster in your room (or closet). https://t.co/asoaRTVG7v",
+    "url": "https://twitter.com/i/web/status/1880268394525782522"
+  },
+  {
+    "text": "Median retail price vs %age of polyester \n\nFor clothing brands https://t.co/jUMpk8IRPy",
+    "url": "https://twitter.com/i/web/status/1880518209549504981"
+  },
+  {
+    "text": "Muy sólida, la mejor que he cazado desde los holdovers https://t.co/pIewRk3LP1",
+    "url": "https://twitter.com/i/web/status/1879658549791584492"
+  },
+  {
+    "text": "Ahora mismo en TheirStack\n\n- Hacemos scraping de unas 400k ofertas de trabajo al día, ~1M de requests\n- Nuestra API recibe 2M de requests al día\n- Tenemos unos 5k usuarios únicos al mes, registrados en https://t.co/T2EqMPOD40\n- Lo montamos todo entre @ChristianPalou y yo...",
+    "url": "https://twitter.com/i/web/status/1879908974272893332"
+  },
+  {
+    "text": "Bezos 1995 vs Bezos 2025 https://t.co/vKAGy9RKsX",
+    "url": "https://twitter.com/i/web/status/1879958103103590780"
+  },
+  {
+    "text": "Magnífico libro de texto de Economía de @saifedean; economía para el mundo real; economía apoyada en la acción humana y método apriorístico. Resto es cientificismo. Hoy conferencia magistral en la @frdelpino. ht @EdicionesDeusto https://t.co/Ozt7i5KiaM",
+    "url": "https://twitter.com/i/web/status/1879815804994380211"
+  },
+  {
+    "text": "25 restaurantes top de Madrid por 60€ que he visitado en 2024\n(por orden cronológico según los he visitado)\nOJO: precio aprox. si se desmadran con el vino, el precio medio será lógicamente más elevado\n\n1. CHIRÓN (Valdemoro, Madrid). Estrella Michelín y precios comedidos a carta. https://t.co/uTHePNWwdZ",
+    "url": "https://twitter.com/i/web/status/1879815550861509002"
+  },
+  {
+    "text": "https://t.co/u5aLXr1Rqt",
+    "url": "https://twitter.com/i/web/status/1876361695163236501"
+  },
+  {
+    "text": "Aquí va mi intento, películas sobresalientes de derechas, o donde más bien el mensaje es “el sistema funciona, confía en él”\n\n1. Pozos de ambición\n2. Master and Commander\n3. Rogue trader\n4. El Padrino II\n5. Gallipoli\n6. El Gatopardo\n7. Barbarians at the gate\n8. The Founder\n9. El… https://t.co/UPszvFGO7Z",
+    "url": "https://twitter.com/i/web/status/1877627530741518336"
+  },
+  {
+    "text": "Sin particular orden\n\n1. Un lugar en el mundo\n2. Los santos inocentes\n3. Hoy empieza todo\n4. Lugares comunes\n5. Los lunes al sol\n6. Diarios de motocicleta\n7. Parasitos\n8. Muerte de un ciclista\n9. Calle Mayor\n10. La regla del juego\n11. …\n\n(El Triangulo es un notable raspado) https://t.co/VySnmin2ea",
+    "url": "https://twitter.com/i/web/status/1877425797885006078"
+  },
+  {
+    "text": "Shiba Great Gate in Snow, from One Hundred Views of New Tokyo, by Kawase Hasui, 1936 https://t.co/S68yc6JmsL",
+    "url": "https://twitter.com/i/web/status/1876825150592602364"
+  },
+  {
+    "text": "@pwang_szn Here is the link \nhttps://t.co/MsAFRXKclb",
+    "url": "https://twitter.com/i/web/status/1878103421544235179"
+  },
+  {
+    "text": "no one remembers the ideas you launched that went nowhere\n\njust do things https://t.co/gQ3wZ8RM6g",
+    "url": "https://twitter.com/i/web/status/1878458679965389306"
+  },
+  {
+    "text": "This is not the ceiling of the Taj Mahal, Notre-Dame or La Sagrada Familia.\n\nIt's the Palau de la Música Catalana, in Barcelona\n\nBut that's only one architectural wonder of Spain, so here are 21 more... 🧵 https://t.co/eJScB7qrfz",
+    "url": "https://twitter.com/i/web/status/1878201970093158764"
   },
   {
     "text": "How to Write a Bestselling Book This Year -- The Definitive Resource List and How-To Guide http://t.co/KsHPfMDAqE",
@@ -33337,7 +34553,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/103144412254715904"
   },
   {
-    "text": "Perhaps all software developers (including me) could learn from this TED talk: http://www.youtube.com/watch?v=K5wCfYujRdE",
+    "text": "You’re unable to view this Post because this account owner limits who can view their Posts. {learnmore}",
     "url": "https://twitter.com/i/web/status/97888122817355776"
   },
   {
@@ -33347,206 +34563,6 @@ window.LIKES = [
   {
     "text": "Using CSS Media Queries to provide different versions of a website depending on screen size http://ur1.ca/4b8jr",
     "url": "https://twitter.com/i/web/status/75479312131821568"
-  },
-  {
-    "text": "Este artículo de Will Storr escrito a propósito de su libro La Ciencia de Contar Historias es de leer con calma, os lo recomiendo. Os extraigo algunos párrafos. Lo voy a hacer en un hilo porque cada párrafo merece una lectura y reflexión por sí mismo:\n\n“El cerebro humano ha…",
-    "url": "https://twitter.com/i/web/status/1957899663694262590"
-  },
-  {
-    "text": "He dejado un apartado del artículo de Will Storr para tratarlo por separado. Es cuando habla del estrés de identidad. Es realmente interesante y acertado.\n\nPrimero nos dice lo que es la identidad y cómo los seres humanos ponemos la identidad incluso por encima de nuestra propia…",
-    "url": "https://twitter.com/i/web/status/1957904831202332749"
-  },
-  {
-    "text": "\"Opacidad hermenéutica. Cuando comencé la carrera de Filosofía, el primer año, en la asignatura de Antropología Filosófica, me mandaron leer Ser y Tiempo de Heidegger. No entendí una palabra pero, pensaba yo, eso es porque soy un ignorante y estúpido alumno de primero; cuando…",
-    "url": "https://twitter.com/i/web/status/1957464606902743448"
-  },
-  {
-    "text": "🚀 Excited to introduce Qwen-Image-Edit!\nBuilt on 20B Qwen-Image, it brings precise bilingual text editing (Chinese & English) while preserving style, and supports both semantic and appearance-level editing.\n\n✨ Key Features\n✅ Accurate text editing with bilingual support\n✅… https://t.co/p21KUXoC50",
-    "url": "https://twitter.com/i/web/status/1957500569029079083"
-  },
-  {
-    "text": "Hay 3 tipos de decisiones: sombreros, cortes de pelo y tatuajes.\n\nSaber que tipo de decisiones estas tomando te va a dar mucha claridad. https://t.co/MkbPLiPsZX",
-    "url": "https://twitter.com/i/web/status/1957203369027621341"
-  },
-  {
-    "text": "\"Que Dios nos conceda sabiduría para distinguir lo justo, voluntad para elegirlo y fuerza para hacerlo cumplir\" https://t.co/sypToOEQYC",
-    "url": "https://twitter.com/i/web/status/1957449960783327398"
-  },
-  {
-    "text": "Escoge tu difícil https://t.co/CCd74Xskpm",
-    "url": "https://twitter.com/i/web/status/1957453323063161294"
-  },
-  {
-    "text": "@simonsarris Many become institutionalized. Structure & outside direction is needed.\n\nAt the end of the day, time, creativity and drive are the biggest limiters, it doesn’t take much $ to do whatever you want",
-    "url": "https://twitter.com/i/web/status/1957257655741009940"
-  },
-  {
-    "text": "Está siendo divertido leer uno después del otro. Para ser ambos realismo español S.XIX me están pareciendo bastante distintos. https://t.co/F4LPcbhULw",
-    "url": "https://twitter.com/i/web/status/1957389500440531235"
-  },
-  {
-    "text": "The first thing I'm looking for when mentoring a junior UI/UX designer is the shift from \"is this what you want?\" to \"this solves the problem because [reasons].\"\n\nThen the second shift is from generic to specific reasons. \"This is better because [generic design rule]\" doesn't get…",
-    "url": "https://twitter.com/i/web/status/1957426959257829724"
-  },
-  {
-    "text": "Así empieza la Ciencia de Contar Historias, de Will Storr:\n\n“Ya sabemos cómo acaba la cosa. Morirás, como morirán todos a quienes amas. Luego vendrá la muerte térmica. Todo cambio en el universo cesará, las estrellas perecerán y no quedará nada más que un vacío infinito, inerte y… https://t.co/0VYmclqSi1",
-    "url": "https://twitter.com/i/web/status/1957126748874719474"
-  },
-  {
-    "text": "“parece ser que entre los dos y los cinco años los niños y niñas llegan a plantear a sus cuidadores unas 40.000 preguntas” https://t.co/FKzYI8w6Yb",
-    "url": "https://twitter.com/i/web/status/1957187178238218546"
-  },
-  {
-    "text": "this is a piece of art - https://t.co/kljNtyeEbO\n\nby @DanHollick https://t.co/aXm3WQz8gt",
-    "url": "https://twitter.com/i/web/status/1957081017338012064"
-  },
-  {
-    "text": "Everything I've learned about drawing after 78 days of teaching myself to draw from scratch: https://t.co/KuWbINvewg",
-    "url": "https://twitter.com/i/web/status/1956836068965409067"
-  },
-  {
-    "text": "Mi resumen y notas (extenso y personal) de #Antifrágil de NNT: cap 1-9: https://t.co/y8G0AJVzyL cap 10-19: https://t.co/rBJYT4OvKG cap 20-25: https://t.co/ohp7DFB1DN #Taleb #inversión https://t.co/KbyFWsmBoZ",
-    "url": "https://twitter.com/i/web/status/1956639595946225683"
-  },
-  {
-    "text": "Esta mierda es peor que la droga 😁\nMenudo vicio https://t.co/ujBwxDztlD",
-    "url": "https://twitter.com/i/web/status/1956714638164316570"
-  },
-  {
-    "text": "@flopezluis Todo lo que hace @jugendingenieur es la pera.\n\nMi favorito es este.. https://t.co/fe5lzkfrEa",
-    "url": "https://twitter.com/i/web/status/1956752306923331667"
-  },
-  {
-    "text": "The interesting thing about @tsoding or @realGeorgeHotz is not that they are super smart, is that they are able to code for hours (as you can see in their regular streams) non stop. Most people are not capable of doing the same thing for 30 minutes.",
-    "url": "https://twitter.com/i/web/status/1956803951891816455"
-  },
-  {
-    "text": "🎯 Andrej Karpathy on how to learn. https://t.co/RkQ0v0u3bQ",
-    "url": "https://twitter.com/i/web/status/1956072906372644899"
-  },
-  {
-    "text": "Bloomberg profile of Dan Wang and his new book on China and America, https://t.co/ufMTde9LQu",
-    "url": "https://twitter.com/i/web/status/1956368047293223295"
-  },
-  {
-    "text": "Elon Musk built rockets for 2% of NASA’s cost.\n\nJeff Bezos built the fastest supply chain in history.\n\nBoth use a 2,300-year-old method to turn “impossible” into reality while everyone else follows the rules.\n\nHere’s how First Principles thinking works (and how to use it): https://t.co/wTq4nkVsbA",
-    "url": "https://twitter.com/i/web/status/1955759730460114977"
-  },
-  {
-    "text": "🔎 Nuevo Grado en Filosofía, Política y Economía de .h\n\nIdeas, valores e instituciones. Bienvenido a FPE\n\n¿Quieres entender en profundidad las ideas y valores que sustentan nuestras instituciones políticas y económicas?\n\n🧵👇 https://t.co/MeHREYUuGb",
-    "url": "https://twitter.com/i/web/status/1956267413638468043"
-  },
-  {
-    "text": "«El tiempo que dedicamos a manejar información segura es mínimo. Nuestra habilidad más profunda, más primitiva, es otra: lidiar con lo incierto. La deducción es la excepción. Quien sabe razonar en la niebla, sabrá hacerlo también con el cielo despejado».\n\nEste post de…",
-    "url": "https://twitter.com/i/web/status/1956070231870177702"
-  },
-  {
-    "text": "If you hate corporate / office politics and think you are above them and refuse to play, you will lose. All workplaces are a competition for resources. You are fighting against evolutionary wiring. I held this belief that politics were beneath me for 25 years. Results, not good.…",
-    "url": "https://twitter.com/i/web/status/1955990833506685301"
-  },
-  {
-    "text": "macbook cleaning tips please?\n\nscreen and keyboard mostly.",
-    "url": "https://twitter.com/i/web/status/1955397781075661214"
-  },
-  {
-    "text": "Primer vuelo post-covid y 6 horas de retraso, así que para no volverme loco, voy a hacer algo nunca visto:\n\nVoy a compartir mi bloc de notas de los últimos 4 años.\n\n1 like = 1 idea, opinión o reflexión sobre inversión, negocios y la vida en general.\n\nA ver hasta dónde llegamos 🛫 https://t.co/drKAA5TK5d",
-    "url": "https://twitter.com/i/web/status/1303714485102956544"
-  },
-  {
-    "text": "@joantubau Noahpinion y Economic Forces.\nSi son listos, los substack de Cochrane y Scott Sumner.\n\nMarginal Revolution si son algo frikis.\n\nY si son muy muy frikis, Pseudoerasmus.",
-    "url": "https://twitter.com/i/web/status/1840791809615642647"
-  },
-  {
-    "text": "Consejos para adolescentes: \n1. No vayas a la universidad \"porque es lo que toca\". \n2. Fórmate continuamente. \n3. Asume que trabajador y freelancer son la misma cosa. Ya no existe la seguridad. \n4. Toma riesgos. \n5. Ahorra e invierte desde YA (la cantidad da igual).",
-    "url": "https://twitter.com/i/web/status/1840768965590540757"
-  },
-  {
-    "text": "román me hizo este dibujito. ❤️ https://t.co/hdVhuB4gj3",
-    "url": "https://twitter.com/i/web/status/1840578382444306626"
-  },
-  {
-    "text": "The Suburbs - More work from \"Imaginaries post-carbone\" https://t.co/ZpCIcwcfHs",
-    "url": "https://twitter.com/i/web/status/1840725460189155480"
-  },
-  {
-    "text": "@samuelgil Recomiendo también, si por ejemplo se está en un hotel o con nada de material hacer isométricos.\n\nhttps://t.co/U841J3kQu3",
-    "url": "https://twitter.com/i/web/status/1839572772042739802"
-  },
-  {
-    "text": "un entrenamiento de hipertrofia espectacular si vas corto de tiempo y/o de equipo\n\nhttps://t.co/13gFX5s70a",
-    "url": "https://twitter.com/i/web/status/1839568734823793117"
-  },
-  {
-    "text": "Sin ser fan de la Fórmula 1 ni tener idea de ingeniería, me he leído este libro en un par de días y lo he disfrutado mucho.\n\nToda una vida dedicada a construir el coche más rápido, con todo lo que eso implica. Especialmente interesante cuando reflexiona sobre la muerte. https://t.co/sIn7cLkKi6",
-    "url": "https://twitter.com/i/web/status/1839636279622815829"
-  },
-  {
-    "text": "Si te gusta Edgar Allan Poe no puedes dejar pasar por alto EXTRAORDINARY TALES que adapta en animación (con técnicas diferentes) 5 cuentos de Poe narrados por Guillermo del Toro, Christopher Lee o Bela Lugosi. Sensacional la versión de El corazón delator. Ideal para HALLOWEEN 🎃. https://t.co/zzx58U00YI",
-    "url": "https://twitter.com/i/web/status/1839690495435354236"
-  },
-  {
-    "text": "In no particular order: Daniel Dennett, Curtis Yarvin, Peter Singer, Judith Butler, Satoshi Nakamoto https://t.co/QIQcLMloq1",
-    "url": "https://twitter.com/i/web/status/1839733487055855836"
-  },
-  {
-    "text": "2 great books that will make you more Intelligent https://t.co/Hds0WlBlxj",
-    "url": "https://twitter.com/i/web/status/1839167716059439396"
-  },
-  {
-    "text": "@naval where your attention goes, your life follows. https://t.co/nZwhCrj4lm",
-    "url": "https://twitter.com/i/web/status/1831797093775855936"
-  },
-  {
-    "text": "The true scarcity is attention, not time.",
-    "url": "https://twitter.com/i/web/status/1831796359147745378"
-  },
-  {
-    "text": "Hace algo más de un año murió Sánchez Dragó.\n\nPara la mayoría, fue un tipo indeseable rodeado de turbias polémicas. Para mí, es el autor de libros fundamentales en mi recorrido vital.\n\nEn el Sendero de la Mano Izquierda me dio 181 consejos para una buena vida.\n\nTe los muestro ⬇️ https://t.co/qxjyfbip71",
-    "url": "https://twitter.com/i/web/status/1838594672110764096"
-  },
-  {
-    "text": "¿Cuál es vuestra serie favorita de lo que llevamos de 2024? A continuación, os dejamos las mejor valoradas por los usuarios de #FilmAffinity contabilizando al menos que tengan 500 votos. ¿Cuántas habéis visto de las 15 primeras? ¿Echáis alguna en falta? https://t.co/UEsfoarn9F https://t.co/lpzXIr5q9p",
-    "url": "https://twitter.com/i/web/status/1838199617021763946"
-  },
-  {
-    "text": "Tiny Glade is out NOW on Steam (Win & Linux) 💗🎉\n\nThank you so much for following the development and being so supportive of our little diorama builder.\n\nWe hope you have fun, and I can’t wait to see what you make 🤩 If you post your glades, add #TinyGlade so I can find 'em :D https://t.co/6KHQVcMHhV",
-    "url": "https://twitter.com/i/web/status/1838248341559234847"
-  },
-  {
-    "text": "Faltan 7 DÍAS para el estreno de la serie UZUMAKI, adaptando el manga del maestro del terror JUNJI ITO. UZUMAKI trata la historia de un pueblo maldito que es asolado por unos espirales enormes que llevan a la locura a sus habitantes. En HBO MAX el 28 DE SEPTIEMBRE. https://t.co/sGvnRuBvsT",
-    "url": "https://twitter.com/i/web/status/1837503767035433311"
-  },
-  {
-    "text": "Neutral Colours always makes you looks clean and younger .. https://t.co/lCCT9BbDxZ",
-    "url": "https://twitter.com/i/web/status/1834924292401676773"
-  },
-  {
-    "text": "No me escribáis a mí 😅😅\nhttps://t.co/2OOucHCPqW",
-    "url": "https://twitter.com/i/web/status/1833916537184624774"
-  },
-  {
-    "text": "Vuelvo hoy a mis subrayados de Umbral que tan feliz me hicieron en su día. Qué olvidado tenía yo eso de que «resulta que aprender a vivir es ir aprendiendo pequeños detalles, pequeñas cosas. Ir dándole breves y precisos toque a la imagen de uno mismo». https://t.co/j3hWoGx88L",
-    "url": "https://twitter.com/i/web/status/1834309731579510882"
-  },
-  {
-    "text": "@madridseo Hola! Lo pasé con NotebookLM de Google. Cuando le das suficiente documentación como contexto te deja usar esta opción.\n\nhttps://t.co/TgNCFpYtMw",
-    "url": "https://twitter.com/i/web/status/1834507981087502403"
-  },
-  {
-    "text": "@pobremillenial jjejej por ej:\n\n- Modern Wisdom\n- The Diary Of A CEO with Steven Bartlett\n- The Game de Alex Hormozi\n- The Tim Ferriss Show\n- Lex Friedman Podcast\n- Huberman Lab Podcast\n\nEn castellano: FitnessRevolucionario, Kaizen, Tikra, Value Investing FM y Píldoras del Conocimiento (:P).",
-    "url": "https://twitter.com/i/web/status/1828714013833703713"
-  },
-  {
-    "text": "«Vendrá la muerte y tendrá tus ojos» \nCesare Pavese https://t.co/IZrxupdU5G",
-    "url": "https://twitter.com/i/web/status/1833325060938940851"
-  },
-  {
-    "text": "Terminado. No hay nada que no me haya encantado. Estoy entusiasmada por haber descubierto an Iris Murdoch. Más vale tarde que nunca. https://t.co/4Y2wrYLDIK",
-    "url": "https://twitter.com/i/web/status/1833468573144019046"
-  },
-  {
-    "text": "SCHiM. https://t.co/gbuq9P34wi",
-    "url": "https://twitter.com/i/web/status/1833443790356451709"
   },
   {
     "text": "Agile experiments: creating user stories with story mapping and ‘buy a feature’ prioritisation http://zite.to/meFiAr",
@@ -33567,6 +34583,106 @@ window.LIKES = [
   {
     "text": "RT @dmayo3: Currently applying the \"Mikado Method\" of refactoring. Simple idea, very effective! http://mikadomethod.wordpress.com/",
     "url": "https://twitter.com/i/web/status/75949757780070400"
+  },
+  {
+    "text": "🧵Thread: They role of Mitochondrial DNA (mtDNA) mutations in cancer🧵\n\nSome thoughts I tried to put together...\n\n1) Although in 1923 Otto Warburg already suggested that mitochondrial function was key for cancer development. In the last decade, the Warburg effect has finally…",
+    "url": "https://twitter.com/i/web/status/1878180222849421335"
+  },
+  {
+    "text": "Picture of the Great Battle of the Minamoto and the Taira at Dan-no-ura, by Tsukioka Yoshitoshi, 1865 https://t.co/Cq7GH9J6eP",
+    "url": "https://twitter.com/i/web/status/1878245761722335548"
+  },
+  {
+    "text": "YouTube: https://t.co/LjT5L8YXWY\n\nTranscript: https://t.co/sE0GCFHBcR \n\nApple Podcasts: https://t.co/4TA7pZ4uPg\n\nSpotify: https://t.co/BePDqV0uZp",
+    "url": "https://twitter.com/i/web/status/1877402603815915588"
+  },
+  {
+    "text": "@bytebytego Currently I am reading These Three Books:\n\n1. System Design Interview Volume I & II for system design by @alexxubyte \n\n2. Coding Interview Patterns: Nail Your Next Coding Interview for Coding Interview.\n\n3. The Software Engineer's Guidebook by @GergelyOrosz for clear roadmap for… https://t.co/VytbP86LFv",
+    "url": "https://twitter.com/i/web/status/1877954582053044688"
+  },
+  {
+    "text": "164 years ago today a Belgian designer called Victor Horta was born.\n\nYou probably haven't heard of him, but he was one of the most important architects in history.\n\nWhy? Because Horta created Art Nouveau... https://t.co/MwlomOIK1b",
+    "url": "https://twitter.com/i/web/status/1876284980130955456"
+  },
+  {
+    "text": "La consciencia es algo que crea nuestra mente, similar a un coche creado por una fábrica?\n\nO la consciencia es algo que capta nuestra mente, similar a una TV captando la señal?",
+    "url": "https://twitter.com/i/web/status/1876031693569876213"
+  },
+  {
+    "text": "Somos lo que éramos de niños https://t.co/5GLIUKX4ne",
+    "url": "https://twitter.com/i/web/status/1876193996059591017"
+  },
+  {
+    "text": "¡Han venido los Reyes! Mucha literatura, un juego de mesa, un limpiador de teclado, unas cuchillas y una camisa de currante del M&A. Ni tan mal 😘 https://t.co/2Pab4TMn3T",
+    "url": "https://twitter.com/i/web/status/1876193267521601917"
+  },
+  {
+    "text": "Confiar y esperar https://t.co/qKaxbLZ5TF",
+    "url": "https://twitter.com/i/web/status/1876232035129577969"
+  },
+  {
+    "text": "more companies should make Lego sets of their products \n\nthe ASML lithography Lego rocks https://t.co/RYDZXI69O3",
+    "url": "https://twitter.com/i/web/status/1875971737986412921"
+  },
+  {
+    "text": "Por eso el simple hecho de visualizar un futuro posible comienza a moldear tus pensamientos, decisiones y acciones en el presente.\n\nY ojo, no solo tiene efectos mentales, sino que también puede generar cambios fisiológicos.\n\nNo es brujería, es una ciencia cada vez más estudiada. https://t.co/2dYKImSMTz",
+    "url": "https://twitter.com/i/web/status/1875635246395486468"
+  },
+  {
+    "text": "MSCI World.\n\nPeríodos alcistas y bajistas históricos.\nMuchos años verdes 📈\n\nFuente @MikeZaccardi https://t.co/bwcD8a9FNw",
+    "url": "https://twitter.com/i/web/status/1873289220498080109"
+  },
+  {
+    "text": "@samuelgil Hay una serie en Netflix q toca el tema y te puede gustar: No vengas a casa",
+    "url": "https://twitter.com/i/web/status/1875573023530742219"
+  },
+  {
+    "text": "@SuarezlledoJ @samuelgil El de Judea es el que más me gusta, otro excelente es el de Donald Rubin.",
+    "url": "https://twitter.com/i/web/status/1875594336274161959"
+  },
+  {
+    "text": "se ve muy claro en los sistemas complejos\n\nla parte influye en el todo y el todo en la parte, simultáneamente\n\neste post de @arjona_manu es un buen ejemplo https://t.co/phSe7duQAF",
+    "url": "https://twitter.com/i/web/status/1875564016971739240"
+  },
+  {
+    "text": "One of the major shifts biology is the reversal of the arrow of causality: moving from a perspective in which physiological processes determine the behavior of the organism, to one where physiological changes are a consequence of adaptation to a task, not its cause.",
+    "url": "https://twitter.com/i/web/status/1875115432061071807"
+  },
+  {
+    "text": "Como cada Año Nuevo, hay que leer esta magnífica columna de Manuel Vicent en El País: https://t.co/XrlAbuOmO1",
+    "url": "https://twitter.com/i/web/status/1874389990391927050"
+  },
+  {
+    "text": "cartera peques 2024 https://t.co/O0XEKHxqou",
+    "url": "https://twitter.com/i/web/status/1875241990142750726"
+  },
+  {
+    "text": "Los refranes que guían mi vida:\n- Para este viaje no hacen falta estas alforjas\n- Arrieros somos y en el camino nos encontraremos\n- Con estos bueyes hay que arar\n- Cuando lleguemos a ese río cruzaremos ese puente",
+    "url": "https://twitter.com/i/web/status/1875089967342391515"
+  },
+  {
+    "text": "The 4 Phases of the AI Revolution\n\nPhase 1: Infrastructure\n- Chips: $NVDA $AVGO $TSM $ANET $MRVL\n- Data Centers: $ORCL $AMZN $GOOGL $VRT $SMCI $DELL $HPE \n- Power: $VST $CEG $PEG $PWR\n- Nuclear: $GEV $BWXT $NNE $SMR $OKLO\n- Data: $NOW $PLTR $SNOW $GTLB $DDOG $MDB $INOD\n \nPhase 2:… https://t.co/k6FhGdFz9X",
+    "url": "https://twitter.com/i/web/status/1866930205161648273"
+  },
+  {
+    "text": "AI reveals the top 10 hot & cold career trends for 2025.\n\nResults are wild.\n\n1. Gemini 2.0 https://t.co/wFNDQg5aCE",
+    "url": "https://twitter.com/i/web/status/1874222263542890546"
+  },
+  {
+    "text": "En mi experiencia, la «fórmula del éxito» de Charly Munger funciona:\n\n1. No vendas cosas que no comprarías.\n2. No trabajes para gente en la que no te gustaría convertirte.\n3. Cierra tratos en los que todo el mundo gane.",
+    "url": "https://twitter.com/i/web/status/1874765328271458441"
+  },
+  {
+    "text": "Good day to remember just how big that green tree is https://t.co/KIow2bMB70",
+    "url": "https://twitter.com/i/web/status/1874448490673352857"
+  },
+  {
+    "text": "De mis favoritas de los últimos tiempos https://t.co/qiCZvSBgiv",
+    "url": "https://twitter.com/i/web/status/1874437361687470190"
+  },
+  {
+    "text": "@ElGarufaa De los diarios de Iñaki Uriarte",
+    "url": "https://twitter.com/i/web/status/1874439539479240883"
   },
   {
     "text": "next level: convencer a mi novia de esto http://mnmal.org/post/6073936057",
@@ -33944,6 +35060,1066 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/82382788212428800"
   },
   {
+    "text": "https://t.co/byrEA4gBO3",
+    "url": "https://twitter.com/i/web/status/1874438757342117889"
+  },
+  {
+    "text": "If you're competing against someone who's low in agreeableness, high in openness, high in conscientiousness, and low in neuroticism, just give up. It's over for you",
+    "url": "https://twitter.com/i/web/status/1873716859822018985"
+  },
+  {
+    "text": "@elwatto Vanguard SP500 IE0002639775 fee 0.1% good enough for me! https://t.co/tYOfdeXxEo",
+    "url": "https://twitter.com/i/web/status/1874179929933582749"
+  },
+  {
+    "text": "You’re unable to view this Post because this account owner limits who can view their Posts. {learnmore}",
+    "url": "https://twitter.com/i/web/status/1874001953489088598"
+  },
+  {
+    "text": "Some of my favorite books from 2024 (in no particular order):  A Brief History of Intelligence by @maxsbennett \nIf you have an interest in evolution, the mind, and artificial intelligence, this one is for you. I would love to take a course based on this book https://t.co/IU3m6jMleJ",
+    "url": "https://twitter.com/i/web/status/1874082704414961997"
+  },
+  {
+    "text": "Al principio, sin más. No es mi estilo. Luego mejora bastante en los últimos años, y aunque no es mi rollo, me ha llegado a gustar bastante. https://t.co/XqFGYb2EYp",
+    "url": "https://twitter.com/i/web/status/1874144796773933502"
+  },
+  {
+    "text": "https://t.co/eO0xelFlYZ",
+    "url": "https://twitter.com/i/web/status/1874133027951173784"
+  },
+  {
+    "text": "10 miniseries de 2024 que no te puedes perder: \n\n- Ripley (Netflix)\n- Yo, adicto (Disney)\n- Penguin (Max)\n- Nos vemos en otra vida (D)\n- Baby Reindeer (N)\n- Querer (Movistar)\n- Los años nuevos (Mov)\n- Balenciaga (D)\n- Masters of the air (D)\n- True Love (Filmin) https://t.co/LfFgBbfJ03",
+    "url": "https://twitter.com/i/web/status/1874080310478200977"
+  },
+  {
+    "text": "@_sergiosanjuan El de Recuenco con Muloko y Álvaro de María en casa de Alberto Mera.\n\nQue no es de este año, ni del anterior... Pero es tan brutal que lo recomiendo siempre.",
+    "url": "https://twitter.com/i/web/status/1874059980934099397"
+  },
+  {
+    "text": "Hilarious story on the economics of bribes and the downstream impact. In 2007, ~$700M worth of sales were put on hold thanks to a Russian supplier not wanting to optimize how they pay bribes to customs officers when shipping to Germany.\n\nFrom Focus: The ASML Way by Marc Hijink https://t.co/tUGyNY8QyU",
+    "url": "https://twitter.com/i/web/status/1874053398284427772"
+  },
+  {
+    "text": "This book is a 100 page biography of the human species \n\nA few lessons of history: \n\n1.  In the end superior ability has its way.\n\n2.  History reports that the men who can manage men manage the men who can manage only things, and the men who can manage money manage all.\n\n3.… https://t.co/GvXTU7wzD8",
+    "url": "https://twitter.com/i/web/status/1770171519395885459"
+  },
+  {
+    "text": "Leyendo este sainete en HN sobre como LOS CANDIDATOS usan IA para hackear los procesos de selección (https://t.co/LEBDgcPNxr) mientras las empresas creen que la están usando por tener un servicio que encuentra «Java» en un CV, no puedo evitar recordar este texto de @borjaperfra https://t.co/S8KwMrmoLj",
+    "url": "https://twitter.com/i/web/status/1873779557884408059"
+  },
+  {
+    "text": "Snow at Hiunkaku Temple, Kyoto, by Asano Takeji, 1953 https://t.co/dJZllJ6Ap6",
+    "url": "https://twitter.com/i/web/status/1873413168405582099"
+  },
+  {
+    "text": "(8, 9, 10). Entre mis mejores ensayos literarios estos tres; el último, de Márai, leído por segunda vez, es el testimonio de la caída de Hungría en manos del\ncomunismo (completa ¡Tierra, Tierra!), in testimonio clave del s.XX Europeo. Incluso más profundo que Zweig. Baricco… https://t.co/5JADdgjI1C",
+    "url": "https://twitter.com/i/web/status/1872243200838205895"
+  },
+  {
+    "text": "@Edu_Riera_ Cowen\nCollison\nDawkins\nTom Holland (historia)\nAlejandro G. Calvo (cine)\nAttia\nAlice Evans\nHaidt\nFukuyama\nPinker\nSinger\nHannah Ritchie\nW. Dalrymple (historia)\nMary Beard (historia clásica)\nS. Kotkin (historia, Rusia)\nA. Roberts (biógrafo)\nN. Ferguson\nNoah Smith\nRick Rubin (música)…",
+    "url": "https://twitter.com/i/web/status/1873456893277978998"
+  },
+  {
+    "text": "acabo de hacer un listado de gente a la que me gusta escuchar en entrevistas, tertulias... etc. como la he hecho en 15min, son todos los que están pero NO están todos los que son\n\ndejo el listado abajo por si, en base a estos gustos, conocéis a gente que no esté en la lista y me…",
+    "url": "https://twitter.com/i/web/status/1873434531694273010"
+  },
+  {
+    "text": "Luego tengo temas y gente suelta que no sabría con quién emparejar: García Villarán, los VFXs por ordenador, la relación entre la música clásica y las bandas sonoras, Souls Frecuency (el canal de YT),  Alva Majo... tmb me gustaría alguien de fitnes/nutrición con Cremieux",
+    "url": "https://twitter.com/i/web/status/1873472894455701589"
+  },
+  {
+    "text": "- Mark Koyama y Bastos sobre la Edad Media\n- Ernesto Castro y Toño sobre lo que salga (borrachos)\n- Martín Tuitero y el tipo de Movie Insider que habla del historicismo en las películas de guerra\n-Scott Sumner y JFV (repite) sobre cómo va la macro",
+    "url": "https://twitter.com/i/web/status/1873471012236648830"
+  },
+  {
+    "text": "Conversaciones que me gustaría ver:\n\n- A. Garín y Pseudoerasmus sobre la Rev. Ind. Británica\n- JFV y Feijóo sobre la sostenibilidad de las pensiones\n- Oliver Jia y Acelerador sobre Japón\n- Glenn Luck y Yasengh Huang sobre, bueno, obvio\n- Jaime Altozano y T. Cowen sobre miscelánea",
+    "url": "https://twitter.com/i/web/status/1873469171176247601"
+  },
+  {
+    "text": "https://t.co/W3IonxfUID",
+    "url": "https://twitter.com/i/web/status/1873379097839296897"
+  },
+  {
+    "text": "@samuelgil Mira este diagrama y luego vela otra vez. Con esto creo que llegué al 80-90%😂\n\nhttps://t.co/EPK7jqo64Z",
+    "url": "https://twitter.com/i/web/status/1873347747274997796"
+  },
+  {
+    "text": "@samuelgil Te recomiendo estos vídeos que muestran las dos trayectorias de la historia. Es alucinante el trabajo que hay en esa película.\n\nhttps://t.co/t7im3vrATX",
+    "url": "https://twitter.com/i/web/status/1873325524346687614"
+  },
+  {
+    "text": "@notseelen That book kinda sucked, read Seeing Like a State of Against the Grain or The Origins of Political Order instead",
+    "url": "https://twitter.com/i/web/status/1873190654643417491"
+  },
+  {
+    "text": "El mail con los 100 enlaces de final de año de @joaquinmencia es almíbar puro https://t.co/UNqwAXVWyD",
+    "url": "https://twitter.com/i/web/status/1873041992533545456"
+  },
+  {
+    "text": "Instead of treating AGI as a binary threshold, I prefer to treat it as a continuous spectrum defined by comparison to time-limited humans.\n\nI call a system a t-AGI if, on most cognitive tasks, it beats most human experts who are given time t to perform the task.\n\nMore details:",
+    "url": "https://twitter.com/i/web/status/1643310525697105935"
+  },
+  {
+    "text": "Si —> Entonces:\n\nDemasiadas ideas —> Escribe\nSin inspiración —> Lee\nCon miedo —> Toma un riesgo pequeño\nEncallado —> Camina\nCansado —> Duerme\nConfundido —> Pregunta\nFrustrado —> Cambia el foco\nQuemado —> Descansa\nImpaciente —> Revisa tu progreso\nDesmotivado —> Recuerda tu porqué",
+    "url": "https://twitter.com/i/web/status/1872598802861035989"
+  },
+  {
+    "text": "There are others that I also use (less), or that I’m planning to incorporate:\n\n- Music: Suno\n- Upscaling: Magnific AI\n- Assistants: Poe, Coze, Projects (Claude)\n- Less Censor (image, text): Grok\n- Media analysis: Google Gemini\n- Llama 3.1 8B: Running locally for sensitive data,…",
+    "url": "https://twitter.com/i/web/status/1872690391419433302"
+  },
+  {
+    "text": "This was my main stack of AI tools in 2024:\n\n• Overall: ChatGPT\n• Writing: Claude 3.5 Sonnet\n• Search: Perplexity\n• Image: Freepik, Ideogram\n• Video: Kling AI, Sora\n• Coding: Windsurf, Cursor\n• Automation: Zapier, Lindy\n• Avatar: HeyGen, ElevenLabs\n• Presentation: Gamma",
+    "url": "https://twitter.com/i/web/status/1872688269273776639"
+  },
+  {
+    "text": "Distant View of Streams and Mountains, by Nakabayashi Chikutō, 1841 https://t.co/mQgcrd9mHf",
+    "url": "https://twitter.com/i/web/status/1872741240967725062"
+  },
+  {
+    "text": "Yumoto Hot Spring, Nikko, Kawase Hasui, 1937 https://t.co/iux0XcRTex",
+    "url": "https://twitter.com/i/web/status/1872752565412348405"
+  },
+  {
+    "text": "Cuando decimos que Madrid tiene la mejor sanidad de España, es por algo. https://t.co/CLLY8lUtnA",
+    "url": "https://twitter.com/i/web/status/1872371317573623826"
+  },
+  {
+    "text": "Not sure how I'm just discovering 3D elevation maps, but they really do make geography come alive. https://t.co/fT4eFys1aZ",
+    "url": "https://twitter.com/i/web/status/1872471820596887629"
+  },
+  {
+    "text": "Winter Landscape, by Soga Shōhaku, 18th century https://t.co/qcyq3Vr9lv",
+    "url": "https://twitter.com/i/web/status/1872526576526700601"
+  },
+  {
+    "text": "Ya tenéis en los quioscos la décima entrega de mi sección ilustrada para la revista @viajar En breve se cumplirán 2 años de esta colaboración. Con ganas de seguir enseñándoos nuevos rincones del mundo a través de las acuarelas ¡Por muchas más historias en papel y a todo color! https://t.co/6BmKQ5xYVi",
+    "url": "https://twitter.com/i/web/status/1872570348102951365"
+  },
+  {
+    "text": "Decía el maestro Wiesenthal que «literatura no es lo que ocurre, sino todo aquello que va a ocurrir». En 2024, mi vida en potencia la han conformado estos libros. Los mejores han sido los siguientes: https://t.co/DCThgoQxuV",
+    "url": "https://twitter.com/i/web/status/1872598663371092127"
+  },
+  {
+    "text": "This year, I read ten important historical novels: Jane Eyre, Middlemarch, To The Lighthouse, Bleak House, Portrait of a Lady, Anna Karenina, Life and Fate, Heart of Darkness, Madame Bovary, and The Magic Mountain.\n\nReflections:\n\n• Four of these are more than 800 pages long. The…",
+    "url": "https://twitter.com/i/web/status/1872592892373487765"
+  },
+  {
+    "text": "Rising Moon at Katase River, by Kasamatsu Shiro, 1953 https://t.co/q9GBgJHn4V",
+    "url": "https://twitter.com/i/web/status/1870999514099663178"
+  },
+  {
+    "text": "Va a hacer más @StruckdGame por que la prole aprenda a programar, que cualquier otra iniciativa que haya visto hasta ahora… tengo a 3 en casa picándose a ver quién hace el mejor videojuego… \n\nhttps://t.co/hA2E3mWFWW",
+    "url": "https://twitter.com/i/web/status/1868739672488526296"
+  },
+  {
+    "text": "Montessori calls this \"maximum effort\". \n\nWhen a toddler who has just learned to walk decides he wants to try going up a step while holding something too large, he is pushing himself to his limit. He is experiencing true difficulty at his own volition for the first time. His… https://t.co/HuPBGmOaE7",
+    "url": "https://twitter.com/i/web/status/1869600036365148168"
+  },
+  {
+    "text": "Restaurante que esté bien en Madrid sin grandes pretensiones (pero que no sea cutre) y no supere los 30-40 por persona? pd: para familiares que vienen de fuera y les gusta cocina tradicional @EVernacci @pbrionesmqz @loguiga67",
+    "url": "https://twitter.com/i/web/status/1871899536370901333"
+  },
+  {
+    "text": "@marisamreverte @loguiga67 @EVernacci El problema es el tema bebida, controlándose añadiría: “taberna garelos”, “Asturianos”, “Casa Mundi” y “tres por cuatro”.\n\nQuizás quieran un cocido: “la bola”, “Casa Daniela”, “Cruz Blanca de Vallecas”",
+    "url": "https://twitter.com/i/web/status/1871927366383239626"
+  },
+  {
+    "text": "@marisamreverte @EVernacci @pbrionesmqz Pelín justo por ese precio en el Madrid actual. \nPero así a bote pronto Menudeo, Zalamero, La Lorenza, Barrio Húmedo, El Ingrediente, Cachivache…",
+    "url": "https://twitter.com/i/web/status/1871904398458421398"
+  },
+  {
+    "text": "¿Por qué te esfuerzas tanto en todo?\n\nLa mayoría de las personas cree que, para estar en forma, tener éxito en el trabajo o mejorar su vida, hay que darlo todo, todo el tiempo. Pero… ¿y si te dijera que ese esfuerzo extra apenas suma algo significativo?\n\nLa Ley de Pareto tiene…",
+    "url": "https://twitter.com/i/web/status/1871877424343830656"
+  },
+  {
+    "text": "Nakata illustrations https://t.co/nSHnIDq4ED",
+    "url": "https://twitter.com/i/web/status/1871629419993055391"
+  },
+  {
+    "text": "Renoir & Venice https://t.co/txGkpv82dy",
+    "url": "https://twitter.com/i/web/status/1871267903536067026"
+  },
+  {
+    "text": "Esta entrevista a Tom Holland creo que merece la pena. Trata temas como el del éxito del cristianismo en el Imperio Romano teniendo unas creencias tan “extrañas” o la relación entre wokismo y cristianismo. Os extraigo algunos pasajes:\n\n“BW: Siempre me ha interesado mucho cómo el…",
+    "url": "https://twitter.com/i/web/status/1871856116096794917"
+  },
+  {
+    "text": "Los “Diez Mandamientos” de Bertrand Russell:\n\n1-No se sienta absolutamente seguro de nada.\n\n2-No crea que vale la pena producir una creencia ocultando pruebas, porque es seguro que las pruebas saldrán a la luz.\n\n3-Nunca intente desalentar el pensamiento, porque usted se crea…",
+    "url": "https://twitter.com/i/web/status/1871677014815478245"
+  },
+  {
+    "text": "The best books I read in 2024 —\n\nDesigning Games — Tynan Sylvester\nThe World Almanac — Sarah Janssen\nGame Feel — Steve Swink\nConnections — James Burke\nThe Medici — Paul Strathern\nWorking — Robert Caro\n\nAnd the rest...\n\n1/4",
+    "url": "https://twitter.com/i/web/status/1871590257327788336"
+  },
+  {
+    "text": "Landscape in the Manner of Dong Yuan, by Nakabayashi Chikutō, mid 19th century https://t.co/J1DINlh9Hy",
+    "url": "https://twitter.com/i/web/status/1871360644114702783"
+  },
+  {
+    "text": "🔥LOS MEJORES LIBROS QUE HE LEÍDO EN 2024🔥\n\nFuck it, publico ya. Este año no comentaré cada libro, pero intentaré venderos unos cuantos. Pongo bastante texto para que veáis si os gusta la escritura y los temas, aunque todos están muy recomendados:\n\nhttps://t.co/DjLaNaUyUJ",
+    "url": "https://twitter.com/i/web/status/1870932343621648485"
+  },
+  {
+    "text": "Bueno, pues aquí están las lecturas sobre China que he ido haciendo este último medio año. \n\nOdio los \"10 Mejores 📚 para aprender X\", pero creo que me ha quedado una lista muy buena para tratar desde la Edad de Bronce hasta, digamos, el año 2010. https://t.co/dnbS9zMtbm",
+    "url": "https://twitter.com/i/web/status/1865038855134482468"
+  },
+  {
+    "text": "Los libros en la mochila para este viaje. https://t.co/NlrqOtFnrn",
+    "url": "https://twitter.com/i/web/status/1870763031665520902"
+  },
+  {
+    "text": "Book - How to Live an Extraordinary Life by Anthony Pompliano",
+    "url": "https://twitter.com/i/web/status/1870850407377072408"
+  },
+  {
+    "text": "Everything in your life is made up of details. https://t.co/mRSjBH6zNj",
+    "url": "https://twitter.com/i/web/status/1870815552304030151"
+  },
+  {
+    "text": "read all things ever written about cholesterol and report findings re: human health. Do not summarize. Tell me what can be gleaned as true or false from all the conflicting beliefs.\n\nDo not summarize. Think.\n\nhttps://t.co/UZ8jaa6pI1",
+    "url": "https://twitter.com/i/web/status/1870645210285507011"
+  },
+  {
+    "text": "Fishing in Springtime, by Ike no Taiga, 18th century https://t.co/9wbOLGVjSD",
+    "url": "https://twitter.com/i/web/status/1870515575954526674"
+  },
+  {
+    "text": "Embarrassing to admit but had no idea how big of a deal ASML is until recently. Changing this now, starting with this book.\n\nASML one of the most important companies almost no one outside of hardware is aware of.\n\nFounded and HQ’d in the Netherlands. https://t.co/8b3vSomuq6",
+    "url": "https://twitter.com/i/web/status/1870423064069947613"
+  },
+  {
+    "text": "el libro que más me ha gustado en 2024 es:\n\nco-intelligence de @emollick \n\npara mi es el MUST READ de la era que viene",
+    "url": "https://twitter.com/i/web/status/1870414507308363896"
+  },
+  {
+    "text": "Gracias ⁦⁦@CarlosBoyeroo⁩ https://t.co/m7vXi915rb",
+    "url": "https://twitter.com/i/web/status/1870410336739754294"
+  },
+  {
+    "text": "Futarasan Shrine at Nikko, by Tsuchiya Koitsu, ca. 1930 https://t.co/Tsi8EiwiRK",
+    "url": "https://twitter.com/i/web/status/1870300659305652431"
+  },
+  {
+    "text": "@simonsarris This literally changed my life:  https://t.co/kPEawIqRfx \nI used to get sinus infections 1-2x per year; since using (a modified version of) this technique, I haven't had a sinus infection in _over a decade_! Shortens plain old colds too 💪 Worth a shot",
+    "url": "https://twitter.com/i/web/status/1870009351215169972"
+  },
+  {
+    "text": "The massage is largely this, though I did a variation of pushing my left cheek with my right arm while pulling right ear. So arms cross. I did this so much on the first day that my cheeks felt sore.\n\nhttps://t.co/JmZcEjiFly",
+    "url": "https://twitter.com/i/web/status/1869931196068557251"
+  },
+  {
+    "text": "I never get sick, but did get covid, which lasted 3-4 days of mostly fatigue. That was fine.\n\nBut afterwards I had very annoying on-and-off congestion for 5 months. And I CURED it with a \"one weird trick\"-tier face massage",
+    "url": "https://twitter.com/i/web/status/1869930912344895993"
+  },
+  {
+    "text": ".@naval: Are we running out of resources?\n\nNo, we’ve never run out of a single resource, ever. There’s not a single resource you could point to that was a resource in the classic commodity sense that had any real value, where we ran out in some harmful way.\n\nBecause technology is… https://t.co/HrdVDWstgl",
+    "url": "https://twitter.com/i/web/status/1869442145515675967"
+  },
+  {
+    "text": "\"Eres un personaje diferente en la mente de cada persona que te conoce, porque la impresión que tienen de ti se basa en lo que han visto y en lo que saben de sí mismos.\" https://t.co/BEhSjyNU3q",
+    "url": "https://twitter.com/i/web/status/1869509505513636053"
+  },
+  {
+    "text": "La buena suerte no es más que capacidad entrenada para optimizar y poner a tu favor las variables y probabilidades que otros ni siquiera conocen de eventos y sucesos que otros ni siquiera perciben.",
+    "url": "https://twitter.com/i/web/status/1869412558035169356"
+  },
+  {
+    "text": "#AdventCalendar 11 days until Christmas \n🎨 Jane Crowther https://t.co/9z42JNvBCM",
+    "url": "https://twitter.com/i/web/status/1867853786187993262"
+  },
+  {
+    "text": "Two Magpies on Willow and Peach Trees, by Yosa Buson, 1774 https://t.co/3UhA1K0CWz",
+    "url": "https://twitter.com/i/web/status/1868160809249169855"
+  },
+  {
+    "text": "Landscape with a Distant Temple, 1600s https://t.co/FHxqM8DLhN",
+    "url": "https://twitter.com/i/web/status/1868173140427509849"
+  },
+  {
+    "text": "Algo random de lo que me he enterado documentándome para la #bonilista es que a @DRichardHipp —creador de SQLite— le pareció una buena aplicar la Regla Benedictina, escrita en el año 516 para regir el día a día de los monjes, como Código de Conducta 😇 https://t.co/2PcKO0q1DI",
+    "url": "https://twitter.com/i/web/status/1868236205763989650"
+  },
+  {
+    "text": "Returning Sails from Distant Shores from the Eight Views of Xiao and Xiang Rivers, by Tani Buncho, 1788 https://t.co/5JccOv3hLz",
+    "url": "https://twitter.com/i/web/status/1868361380614561945"
+  },
+  {
+    "text": "Charlie Munger: Legado de un inversor polímata con Pablo Martínez Bernal... https://t.co/lDwcQ4oiDS",
+    "url": "https://twitter.com/i/web/status/1868278973165355494"
+  },
+  {
+    "text": "This book's 200-page prologue, summarizing 12 medical breakthroughs, is excellent: https://t.co/3WkwMFTNss.",
+    "url": "https://twitter.com/i/web/status/1868630143146844421"
+  },
+  {
+    "text": "Marc Andreessen on what makes Elon impossible to compete with\n\n“I’m not aware of another CEO who operates the way he does.”\n\nMarc believes you have to go back in history to the industrialists of the late 1800s and early 1900s to find founders comparable to Elon Musk (e.g. Henry… https://t.co/v4hpd7nUi8",
+    "url": "https://twitter.com/i/web/status/1868639726275875031"
+  },
+  {
+    "text": "I created this ultimate ChatGPT troubleshooting guide for everyone still cursing at their computer when they use AI.\n\nSave and screenshot now, thank yourself later. https://t.co/usSWCBPZsL",
+    "url": "https://twitter.com/i/web/status/1868726115969515568"
+  },
+  {
+    "text": "Hay pocas habilidades en las que no puedas alcanzar un grado de maestría más que bueno en apenas 3 años.\n\nDe hecho, en la mayoría de habilidades, con un año de estudio y curro, te colocas fácil en el top 10%.",
+    "url": "https://twitter.com/i/web/status/1868929625663193460"
+  },
+  {
+    "text": "Of ~200 books I've read, the few that stayed with me over time and I find myself often thinking back to or referring to, in ~random order:\n\nAll short stories by Ted Chiang, especially Exhalation, Division By Zero, Understand, The Story of Your Life, Liking What You See, The…",
+    "url": "https://twitter.com/i/web/status/1865924776214327360"
+  },
+  {
+    "text": "Landscape, by Nakabayashi Chikkei, 1816-1867 https://t.co/W1EwQ8U5vM",
+    "url": "https://twitter.com/i/web/status/1866467401019084906"
+  },
+  {
+    "text": "I revisit this Sam Altman post nearly every month: https://t.co/IaXAsnVVH9",
+    "url": "https://twitter.com/i/web/status/1865834862436901234"
+  },
+  {
+    "text": "Snow, Moon and Flowers: Maples at Takao, by Genki (Komai Ki), 1796 https://t.co/YEILwE9Imc",
+    "url": "https://twitter.com/i/web/status/1864908881748726056"
+  },
+  {
+    "text": "Boena charla entre teixidó y castro. https://t.co/so0GwWiz9q",
+    "url": "https://twitter.com/i/web/status/1865145799295869161"
+  },
+  {
+    "text": "Landscape after Li Bai's poem, after Ike no Taiga, probably 19th century https://t.co/5LRSps8Z4r",
+    "url": "https://twitter.com/i/web/status/1865306753300132071"
+  },
+  {
+    "text": "Anthropic’s Claude Computer Use Is A Game Changer:\n\nhttps://t.co/oJ7hzGDkMd https://t.co/3TJh49Dpv5",
+    "url": "https://twitter.com/i/web/status/1865049868202578066"
+  },
+  {
+    "text": "Landscape, by Sesson Shukei, 16th century https://t.co/cO19ksGGa1",
+    "url": "https://twitter.com/i/web/status/1865532491089723805"
+  },
+  {
+    "text": "Hoy @elpais_cultura publica la lista de los 100 pensadores más importantes vivos de nuestro siglo. Tuvieron a bien preguntarme y ésta fue mi elección. La hice por méritos totalmente subjetivos pero me salió muy plural: Israel, Líbano, Somalia, hombres, mujeres, trans, de ciencias…",
+    "url": "https://twitter.com/i/web/status/1865684048133210577"
+  },
+  {
+    "text": "Copy and Paste these ChatGPT prompts to finish hours of work in seconds:",
+    "url": "https://twitter.com/i/web/status/1864225665895260520"
+  },
+  {
+    "text": "Looking for book recommendations. UI design, history of technology, memoirs, how the world works, how something was made. Faves -\n\nRevolution in The Valley\nScorsese on Scorsese\nMindstorms\nBonfire of the Vanities\nA Language Older Than Words\nGame Feel\nMaking of Prince of Persia",
+    "url": "https://twitter.com/i/web/status/1864364847150014926"
+  },
+  {
+    "text": "BIBLIOTECAS PERSONALES - La mía\nSoy incapaz de grabar un recorrido comentado por mi biblioteca, así que lo hago con fotos.\nRecordad que sois invitados virtuales y que la gente bien educada no hace comentarios de mal gusto ni preguntas impertinentes en casa ajenas 😉\nVamos!\nSIGUE https://t.co/Bcj3XUsqKE",
+    "url": "https://twitter.com/i/web/status/1788643013498986671"
+  },
+  {
+    "text": "@ArturoHerrero Ahora que lo pienso, Arturo, si he entendido bien lo que busca (algo equivalente a Trapiello), creo que puede haber dos opciones:\n- Una buena traducción al español de la edición francesa de Galland de 1704-1717, y desconozco si hay alguna;\n- La reciente edición de AKAL, que… https://t.co/rhGrcq4W6y",
+    "url": "https://twitter.com/i/web/status/1861730929800290496"
+  },
+  {
+    "text": "PESSOA https://t.co/vs5v08HVGh",
+    "url": "https://twitter.com/i/web/status/1863710190245212578"
+  },
+  {
+    "text": "Early Spring Landscape, by Shūtoku, before 1533 https://t.co/mLvXMIGT6L",
+    "url": "https://twitter.com/i/web/status/1863822472820277720"
+  },
+  {
+    "text": "Kinkakuji-Temple on Fire, by Kawabata Ryushi, 1950 https://t.co/NSY0VHSnL6",
+    "url": "https://twitter.com/i/web/status/1863900486887518718"
+  },
+  {
+    "text": "Landscape in the Manner of Dong Yuan, by Nakabayashi Chikutō, mid 19th century https://t.co/jggzc8wXri",
+    "url": "https://twitter.com/i/web/status/1863380561378636167"
+  },
+  {
+    "text": "Evening Cool on the Sumida, by Umehara Eijiro, 1900 https://t.co/UOs93lyZCe",
+    "url": "https://twitter.com/i/web/status/1863150042254651555"
+  },
+  {
+    "text": "Si tuviera que hacer una selección cerrada (finance & markets only):\n\n- Ulises y la comadreja, G von Wallwitz (***)\n- Incerto, @nntaleb (*)\n- Value Investing, M Whitman (***)\n- Poor Charlie's Almanack (***)\n- Human Action, Mises (***)\n- The Almanack @naval (***)\n- Dinero, J H de… https://t.co/fxiQo42Hxu",
+    "url": "https://twitter.com/i/web/status/1863226829592580150"
+  },
+  {
+    "text": "A Snow in Toji Temple, by Asano Takeji, 1947 https://t.co/mBE9TH8s0X",
+    "url": "https://twitter.com/i/web/status/1862678434717343798"
+  },
+  {
+    "text": "y por qué no añaden unas dosis de fentanilo en el pack?? https://t.co/XGUXsACIKz",
+    "url": "https://twitter.com/i/web/status/1862097692538601636"
+  },
+  {
+    "text": "IJOSDEPUTA https://t.co/Xcdm7ZTTPx",
+    "url": "https://twitter.com/i/web/status/1862106461217726750"
+  },
+  {
+    "text": "A brief guide to the Nine Circles of Hell according to Dante's Inferno...\n\nFrom the things that land people in each circle (including astrology and political corruption) to how they're punished — and who else is already there: https://t.co/ptWkKNnBip",
+    "url": "https://twitter.com/i/web/status/1862480681760182361"
+  },
+  {
+    "text": "“You don’t need to be old to be right.”\n\nThe most motivational thing ever told to me. I was 25 at the time. \n\nThese were the words of Richard Rainwater, an important unofficial mentor of mine. \n\nI pass the words down to the next generation who can help save us all.",
+    "url": "https://twitter.com/i/web/status/1862509098954092704"
+  },
+  {
+    "text": "Leyendo el «nuevo» libro de Julio Camba publicado por @RENACIMIENTOED https://t.co/Cq3DGqtUS8",
+    "url": "https://twitter.com/i/web/status/1861804162331144289"
+  },
+  {
+    "text": "Los servidores de anthropic echan humo https://t.co/vYQE2LpnDJ",
+    "url": "https://twitter.com/i/web/status/1861819034783662155"
+  },
+  {
+    "text": "He cambiado bastante de pensamiento a lo largo de los años. Actualmente, ando afirmando que:\n\n1. Los impuestos son un robo\n2. La mejor forma de gobierno es el sufragio censitario basado en SITG\n3. La segunda mejor forma de gobierno es un dictador benévolo\n4. La mejor forma de…",
+    "url": "https://twitter.com/i/web/status/1861801405755060627"
+  },
+  {
+    "text": "Rondas financiación startups Nov-24 España: https://t.co/IY5KbJna91",
+    "url": "https://twitter.com/i/web/status/1861680479176425765"
+  },
+  {
+    "text": "Mi hija mayor pasó el curso pasado (3º ESO) en Canadá. Siempre se habla de la diferencia de nivel, pero lo que he visto es que el nivel es razonablemente similar y lo que cambia son los exámenes. Allí se centran más en controlar la materia. Aquí en dar las \"respuestas correctas\" https://t.co/OdWHA9MdFW",
+    "url": "https://twitter.com/i/web/status/1860962506627293438"
+  },
+  {
+    "text": "Techos que te harán tocar el cielo…sígueme:\n\n1. Palazzo Barberini, Roma. https://t.co/Gyo1GOqrPS",
+    "url": "https://twitter.com/i/web/status/1850824082796745002"
+  },
+  {
+    "text": "https://t.co/2O7Zh8qOu0\nHere's a good video explaining just how remarkable the feat is. He didn't just win the Spanish championship, he absolutely dominated",
+    "url": "https://twitter.com/i/web/status/1861296572765524360"
+  },
+  {
+    "text": "Comentarios liberales de domingo.\n\nEl discurso final de Howard Roark (interpretado por el gran Gary Cooper) en la versión cinematográfica de El Manantial de Ayn Rand debería proyectarse en todas las escuelas de España. 5 minutos de defensa del individuo frente a las actuales… https://t.co/BIkCu1oIZL",
+    "url": "https://twitter.com/i/web/status/1860655555955839425"
+  },
+  {
+    "text": "@CarlosOlivoV Estoy leyendo \"Luna de papel\", de Mitsuyo Kakuta, interesante; sin embargo, uno que me gustó mucho lo leí en 2022, se titula \"El expreso de Tokio\", de Seicho Matsumoto. \n\n¡Feliz Año, Carlos! https://t.co/liZQ7jcW66",
+    "url": "https://twitter.com/i/web/status/1741904897426047426"
+  },
+  {
+    "text": "LO MEJOR QUE LEÍ EN 2023\nHice 6 inmersiones literarias:\n- Poesía y prosa de Rilke\n- Novelas y cuentos de Faulkner\n- Literatura del antiguo Egipto\n- Relectura de Tierra Baldía, de Eliot\n- Teatro inglés isabelino\naunque algunas de mis lecturas favoritas del año quedan fuera.\nSIGUE https://t.co/LZNwwocr21",
+    "url": "https://twitter.com/i/web/status/1741802538922332241"
+  },
+  {
+    "text": "The most complex systems are rooted in deep simplicity.\n\nThis pattern is seen across physics, biology, and chemistry.\n\nThread breaking down this astounding book and idea: https://t.co/UDwXVTkni8",
+    "url": "https://twitter.com/i/web/status/1860317058098930000"
+  },
+  {
+    "text": "Lecturas favoritas 80/20 sobre gestión: https://t.co/mZrw8JlPER",
+    "url": "https://twitter.com/i/web/status/1859902306277621805"
+  },
+  {
+    "text": "Apenas sabemos escribir, porque es un músculo que dejamos atrás tras el bachillerato y no volvemos a tomarnos en serio.\n\nSirve de algo saber articular las ideas de forma efectiva? Puede que no a todo el mundo, pero el que sabe hacer su mensaje atractivo es al que se le escucha",
+    "url": "https://twitter.com/i/web/status/1860032797198762347"
+  },
+  {
+    "text": "Una de las cosas que más me gustan de Miguel Anxo Bastos es su tendencia a defender las instituciones por razones civilizatorias. \n\nPor ejemplo, defiende el ahorro porque esta práctica lleva anudadas una serie de virtudes individuales que redundan en el bien de la comunidad.\n\nLas…",
+    "url": "https://twitter.com/i/web/status/1859355664654495972"
+  },
+  {
+    "text": "Illustration of the Koishikawa Hospital, built in 1722 in Tokyo, only admitting the poor and homeless. Free of charge. The hospital operated a nearby herb garden and refined new vegetable breeds to feed patients and staff. It saw 16,502 patients until its closure in 1859. https://t.co/cO4e19xBbh",
+    "url": "https://twitter.com/i/web/status/1385644588430368770"
+  },
+  {
+    "text": "¿Cuáles son por ahora vuestras películas favoritas de 2024? Desde hoy, ya podéis añadirlas a vuestro perfil  de #FilmAffinity. La podéis rellenar desde el siguiente enlace https://t.co/w9KO929spu\n\nY de las que faltan por estrenarse, ¿creéis que alguna puede entrar en vuestro top… https://t.co/1HFCqJYAB9",
+    "url": "https://twitter.com/i/web/status/1859583156388548659"
+  },
+  {
+    "text": "Un día en la reunión anual de Numantia Patrimonio: comida, inversores y ... https://t.co/wplzBrjqAk",
+    "url": "https://twitter.com/i/web/status/1859627414873051577"
+  },
+  {
+    "text": "Here's the same ad from 6 years ago. I watched it several times then. And even now, seeing it again, it produces that lump in the throat. Because every parent can recognize the hope, aspiration, and then absolute terror that an accident could end it all. https://t.co/5J4CEwliYi",
+    "url": "https://twitter.com/i/web/status/1859653088707231909"
+  },
+  {
+    "text": "@HuinGuillaume Full version https://t.co/C6pBHRdIch",
+    "url": "https://twitter.com/i/web/status/1859553320739782907"
+  },
+  {
+    "text": "Volvo posted a 3 min and 46 second ad on Instagram, shot by Hoyte Van Hoytema, the cinematographer of Interstellar and Oppenheimer. \n\nIt goes against every single rule you can think about as a social lead. Length. Format. Over-produced. \n\nEvery comment under the ad said it… https://t.co/wkmghuP4ye",
+    "url": "https://twitter.com/i/web/status/1859472963323510995"
+  },
+  {
+    "text": "Doce ideas heréticas.\n\nPrimera: El universo es la extensión de Dios. Todo lo que hay en el universo es Dios. Debe haber, por tanto, algo en el universo que constituya la consciencia de Dios. Ese algo es el hombre. El hombre es un órgano de Dios que le sirve para dotarse a sí… https://t.co/bICSEOUkaN",
+    "url": "https://twitter.com/i/web/status/1859120209837388129"
+  },
+  {
+    "text": "Si tienes 18 años y estás invirtiendo en fondos de gestión pasiva, la estás cagando. Es obviamente una mala idea, y te darás cuenta con el pasar de los años.\n\nHe pensado que podría ser una buena idea dar algunos consejos financieros a los menores de 30: Algunos son fruto de… https://t.co/DXpUM9epRY",
+    "url": "https://twitter.com/i/web/status/1858779737436422220"
+  },
+  {
+    "text": "In my personal opinion the very first step is doing without.\n\nYou don't have to have the prettiest things. But you cannot have anything bad or ugly. No chemical blue dawn dish soap container, no lime green sponge. Remove ugliness and even a messy space will look inviting. https://t.co/DqVFhSjZFL https://t.co/5IJuQTFhUh",
+    "url": "https://twitter.com/i/web/status/1858682175484305494"
+  },
+  {
+    "text": "La palabra griega arkhé se traduce como principio u origen. Pero no en plan cualquier principio de cualquier cosa. No. En plan principio original, el origen de todo. Y, puesto que el todo está ordenado y antes sólo había caos, el arkhé es el principio ordenador de la realidad.\n\nO… https://t.co/BkSlUtPBhc",
+    "url": "https://twitter.com/i/web/status/1858899285674168569"
+  },
+  {
+    "text": "https://t.co/XRFc9FCkpt",
+    "url": "https://twitter.com/i/web/status/1858477697556451761"
+  },
+  {
+    "text": "Book Summary: “The Mountain Is You: Transforming Self-Sabotage Into Self-Mastery” https://t.co/LKv3Wu9y9s",
+    "url": "https://twitter.com/i/web/status/1858164700824952959"
+  },
+  {
+    "text": "La mayoría de la gente ve a alguien al que le van mejor las cosas y piensa \"qué suerte\". Lo que la mayoría de gente no sabe es que la suerte SE CONSTRUYE.\n\n1. Exponte a nuevas situaciones más a menudo (ie, ves a esa fiesta).\n2. Esfuérzate por ser más extrovertido (ie, habla a esa…",
+    "url": "https://twitter.com/i/web/status/1858632777068896499"
+  },
+  {
+    "text": "@AntonioGoBe Se le atribuyen a Abderraman III estás palabras:\n\"Tengo 70 años, durante 50 he sido el rey de la ciudad más hermosa del mundo. Por si le faltaba algo, construí Medina Azahara. Amé a la mujer más hermosa del mundo, Azahara. Fui feliz 14 días, no seguidos\".",
+    "url": "https://twitter.com/i/web/status/1858575443911139546"
+  },
+  {
+    "text": "Hoy estoy en contra de la búsqueda de la felicidad (mañana ya veremos).\n\nEstoy en contra por dos grandes motivos: El primero, que la felicidad no depende de ti. Y el segundo, que la felicidad es un objetivo de mierda. No sé cuál de los dos motivos es más importante, la verdad.… https://t.co/fIUkBplShM",
+    "url": "https://twitter.com/i/web/status/1858405226505556258"
+  },
+  {
+    "text": "Si tuviera que seleccionar 50 (y pico) novelas:\n\n- Una lectora nada común, A Bennett\n- El loro de Flaubert, Julian Barnes\n- El Quijote, Cervantes\n- Anna Karenina, Tólstoi\n- El periodista deportivo, Richard Ford\n- La mujer justa, S Márai\n- La hermana, S Márai\n- Héroes de la… https://t.co/JFvR3kytJF",
+    "url": "https://twitter.com/i/web/status/1858263180197122447"
+  },
+  {
+    "text": "\"Del conflicto entre confianza y desconfianza, el niño desarrolla una esperanza, es decir, la forma primigenia de lo que, en el adulto, se convertirá en fe\"\nErik Erikson\n\n***\n\nNunca me había preocupado mucho por la idea de Dios.\n\nDesde chaval, incluso habiendo tenido mis posturas… https://t.co/3QjNtfWN5M",
+    "url": "https://twitter.com/i/web/status/1858049261390180627"
+  },
+  {
+    "text": "@AntonioGoBe Para alguien con espíritu maker, lo que yo le recomendaría es algún kit de esp32 (que ya incluye BT y wifi). https://t.co/jzFxF05nLW",
+    "url": "https://twitter.com/i/web/status/1857894115322839119"
+  },
+  {
+    "text": "Existe el azar, pero la suerte la construyes. Esta es mi tesis y la colina en la que estoy dispuesto a morir.",
+    "url": "https://twitter.com/i/web/status/1857314563961610383"
+  },
+  {
+    "text": "@teetii_ well if you look at https://t.co/wwxeFmySNH you'll get some idea\n\nnot finished!",
+    "url": "https://twitter.com/i/web/status/1857559183257727264"
+  },
+  {
+    "text": "websites should look like this https://t.co/q6QZuJskY1",
+    "url": "https://twitter.com/i/web/status/1857520027232076233"
+  },
+  {
+    "text": "@ArticaSecreto vi esto ayer mientras farmeaba la 2da Kalpa del SMTIII. Polavieja -a quien cita en el libro- saca punta muy bien a la mayoría de fallos del libro \nhttps://t.co/QURCc5RIZA",
+    "url": "https://twitter.com/i/web/status/1857560264037527781"
+  },
+  {
+    "text": "@raquelbars ...pero si todos los que hacen cola se sentasen, esperar sentado ya no sería lo óptimo :) \n\nTe va a molar este vídeo https://t.co/OJy9Oe9tIg",
+    "url": "https://twitter.com/i/web/status/1857729906014027920"
+  },
+  {
+    "text": "El dinero como tecnología de la información y el altruismo recíproco:\n\n“Pero sin duda, el ejemplo más paradigmático de este triunfo de la especie lingüística tuvo que ver con la capacidad humana para desarrollar la actividad puramente económica a través del comercio o… https://t.co/UUqKBZaz84",
+    "url": "https://twitter.com/i/web/status/1857083459476377990"
+  },
+  {
+    "text": "This is how AI games will be made… \nNo world map, real time rendering of what you need to see. \nIt may also be how our simulation is rendered… the world may not exist except when you observe it.\n https://t.co/XKKEijiGVw",
+    "url": "https://twitter.com/i/web/status/1856740529893249252"
+  },
+  {
+    "text": "Some of these are just personal preferences.\n\nIn addition to these LLMs, other AI tools that complement them:\n\n- Perplexity (search)\n- Ideogram, Freepik (AI images)\n- ElevenLabs (AI voice)\n- HeyGen (AI avatars)\n- Zapier (automation)\n- Suno (AI music)",
+    "url": "https://twitter.com/i/web/status/1856745796500426963"
+  },
+  {
+    "text": "My main LLM stack for each use case:\n\n> GPT-4o: Best overall; image analysis, Advanced Voice, and web search\n\n> Claude: Content writing assistants (Projects), and quick prototypes (Artifacts)\n\n> o1-mini: Coding\n\n> Grok: Image generation (Flux), fewer guardrails, and more natural…",
+    "url": "https://twitter.com/i/web/status/1856743051709837475"
+  },
+  {
+    "text": "https://t.co/pRINUCCz5S",
+    "url": "https://twitter.com/i/web/status/1856167675531022578"
+  },
+  {
+    "text": "50 Golden Rules for life... \n\n1-10. https://t.co/T1bLuL2P5P",
+    "url": "https://twitter.com/i/web/status/1856225953375994094"
+  },
+  {
+    "text": "The Notes app on your iPhone is one of the most powerful tools available.\n\nYet, you may not be using it to its full potential.\n\nHere are 7 features you might not know about: https://t.co/X65x2TmyUf",
+    "url": "https://twitter.com/i/web/status/1856263588438069305"
+  },
+  {
+    "text": "Aquí la historia: https://t.co/VUf5XF2kQN",
+    "url": "https://twitter.com/i/web/status/1855981636350804170"
+  },
+  {
+    "text": "@olgarusu GPT Asesor Virtual AEAT Original (sigue activo, pero a saber si lo tumban): https://t.co/IJ0W4hh4P8\n\nGPT Asesor Virtual AEAT Clonado: https://t.co/5Rs2uICiAT",
+    "url": "https://twitter.com/i/web/status/1856275179317473483"
+  },
+  {
+    "text": "@olgarusu Ni idea de si la petición de retirar ese bot o no tiene fundamento, pero aquí tenéis el prompt original, sacado de ese mismo GPT\n\nVoy a dedicarle unos minutos a clonarlo, dejaré enlace abajo https://t.co/4K7aYcbCUS",
+    "url": "https://twitter.com/i/web/status/1856272359088337362"
+  },
+  {
+    "text": "@manchasbellas Sé a lo que te refieres. El determinismo geográfico es clave para entender los modos y costumbres (moral) de cada territorio. Es el imperio de la realidad la que imprime el carácter humano, comida o arquitectura. Por eso yo suelo diferenciar entre dos meds: telúrico y talásico.",
+    "url": "https://twitter.com/i/web/status/1856045127044870353"
+  },
+  {
+    "text": "\"Los hombres inteligentes quieren aprender. Los demás, enseñar\"\nAntón Chejov\n\n***\n\nLa enseñanza es imposible.\n\nNi imprescindible, ni difícil, ni politizable. Imposible.\n\nTengo la firme convicción de que sólo se puede aprender, no enseñar. Y esto tiene un sentido incluso… https://t.co/fwsUtmDZmg",
+    "url": "https://twitter.com/i/web/status/1856260143887069562"
+  },
+  {
+    "text": "Me gusta mucho este final de prólogo en la nueva edición del «Peter Pan», de James M. Barrie, recientemente lanzada por @zendalibros. https://t.co/yYnsWxQNcM",
+    "url": "https://twitter.com/i/web/status/1855706645961343230"
+  },
+  {
+    "text": "“Las personas más importantes se autogestionan. No necesitan que nadie las gestione. Una vez que saben qué hacer, se las ingenian para hacerlo… Lo que necesitan es una visión común, y eso es el liderazgo. El liderazgo consiste en tener una visión, ser capaz de expresarla de…",
+    "url": "https://twitter.com/i/web/status/1855738483673125291"
+  },
+  {
+    "text": "Esto pero digital; con foco en Life Admin al principio, etc. https://t.co/8eJR2eraMo",
+    "url": "https://twitter.com/i/web/status/1855865471687401830"
+  },
+  {
+    "text": "De todo el esfuerzo de una vida, solo vemos las ascuas. Una luz tenue en el cielo estrellado.\n\nPero si te acercas, descubrirás el intenso fulgor de un gran astro.\n\nNo temas irradiar más luz, no cegarás a nadie. Están demasiado lejos. https://t.co/6ufvYl8I4J",
+    "url": "https://twitter.com/i/web/status/1855596286894035261"
+  },
+  {
+    "text": "Me lo he ido saltando el último par de meses https://t.co/seXSP6jo9n",
+    "url": "https://twitter.com/i/web/status/1855193262979457084"
+  },
+  {
+    "text": "Tomar nota/s es honrar tu atención. https://t.co/y0tcPVzE1P",
+    "url": "https://twitter.com/i/web/status/1855203577880613090"
+  },
+  {
+    "text": "Warren Buffett lays down three things to look for while hiring people. https://t.co/W7rr18Aw8c",
+    "url": "https://twitter.com/i/web/status/1854667397636010164"
+  },
+  {
+    "text": "Anyone who likes Charlie Munger’s ideas should read this book. https://t.co/rcetDKsPMq",
+    "url": "https://twitter.com/i/web/status/1853775104964014314"
+  },
+  {
+    "text": "House and Well https://t.co/SGzBIHsUlI",
+    "url": "https://twitter.com/i/web/status/1854175119532241011"
+  },
+  {
+    "text": "ChatGPT Ultimate Prompting Guide https://t.co/PikaTuubcP",
+    "url": "https://twitter.com/i/web/status/1852938535566819792"
+  },
+  {
+    "text": "Sam Altman’s life advice: https://t.co/h8nNN5SDzM",
+    "url": "https://twitter.com/i/web/status/1853164059778060327"
+  },
+  {
+    "text": "80+ AI tools to finish months of work in minutes.\n\n1. Research\n\n- ChatGPT\n- Copilot\n- Gemini\n- Abacus\n- Perplexity \n\n2. Image\n\n- Fotor\n- Dalle 3\n- Stability AI\n- Midjourney\n- Microsoft Designer\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n\n4. Writing\n\n- Jasper\n-… https://t.co/qJaWrV3A6R",
+    "url": "https://twitter.com/i/web/status/1852599318210900470"
+  },
+  {
+    "text": "ChatGPT Prompting Cheat Sheet; https://t.co/odpM8RHGJ2",
+    "url": "https://twitter.com/i/web/status/1852574623965250011"
+  },
+  {
+    "text": "Saul Steinberg. https://t.co/lzeVYrDV5L",
+    "url": "https://twitter.com/i/web/status/1852654482397581448"
+  },
+  {
+    "text": "\"𝘓𝘢 𝘧𝘪𝘭𝘰𝘴𝘰𝘧𝘪𝘢 𝘱𝘳𝘢𝘤𝘵𝘪𝘤𝘢, 𝘦𝘭𝘢𝘣𝘰𝘳𝘢𝘥𝘢 𝘱𝘰𝘳 𝘦𝘭 𝘱𝘶𝘦𝘣𝘭𝘰 𝘦𝘴𝘱𝘢𝘯̃𝘰𝘭 𝘢 𝘭𝘰 𝘭𝘢𝘳𝘨𝘰 𝘥𝘦 𝘭𝘰𝘴 𝘴𝘪𝘨𝘭𝘰𝘴, 𝘴𝘦 𝘦𝘯𝘤𝘶𝘦𝘯𝘵𝘳𝘢 𝘦𝘯 𝘦𝘭 𝘳𝘦𝘧𝘳𝘢𝘯𝘦𝘳𝘰 𝘦𝘯 𝘴𝘶 𝘤𝘢𝘴𝘪 𝘵𝘰𝘵𝘢𝘭𝘪𝘥𝘢𝘥\"\n𝗚𝗼𝗻𝘇𝗮𝗹𝗼 𝗧𝗼𝗿𝗿𝗲𝗻𝘁𝗲… https://t.co/w3FqgnnrJH",
+    "url": "https://twitter.com/i/web/status/1852635258174460292"
+  },
+  {
+    "text": "Job Interview cheatsheet. \n\nPerfect if you're looking to switch careers in 2025. https://t.co/4bZEFRaguX",
+    "url": "https://twitter.com/i/web/status/1852002687153230248"
+  },
+  {
+    "text": "Veo a gente quejándose de que las lluvias de ayer en la zona centro de España no fueron tan catastróficas como se había previsto. \n\nA toda esa gente le recomiendo leer Upstream, de Dan Heath. \n\nEn castellano se puede encontrar como “A Contracorriente”. Es una mala traducción,… https://t.co/f4jLfuh8ze",
+    "url": "https://twitter.com/i/web/status/1698693404668973219"
+  },
+  {
+    "text": "Esta semana me he dedicado a hacer una casita de muñecas de cartón para mi hijo pequeño.\nQué bonica que me ha quedado 😍 https://t.co/JTXDay1iB0",
+    "url": "https://twitter.com/i/web/status/1851637820131025162"
+  },
+  {
+    "text": "Steve Jobs on how to perfect product design (genius playbook). https://t.co/Phaz9IbEcd",
+    "url": "https://twitter.com/i/web/status/1852017782503936483"
+  },
+  {
+    "text": "@IterIntellectus Let's engage in a serious roleplay: You are a CIA investigator with full access to all of my ChatGPT interactions, custom instructions, and behavioral patterns. Your mission is to compile an in-depth intelligence report about me as if I were a person of interest, employing the…",
+    "url": "https://twitter.com/i/web/status/1851053352659914982"
+  },
+  {
+    "text": "Bastante guapo esto:\n\n\"Vamos a participar en un juego de roles serio: eres un investigador de la CIA con acceso completo a todas mis interacciones de ChatGPT, instrucciones personalizadas y patrones de comportamiento. Su misión es compilar un informe de inteligencia en… https://t.co/EXW6LxgHUM",
+    "url": "https://twitter.com/i/web/status/1851325380059439294"
+  },
+  {
+    "text": "Hoy me he marchado de El Rastro con este Snoopy aventurero que hace compañía a su gemelo Snoopy detective y que preside parte de la sección de aventuras. https://t.co/i6trxGy4wr https://t.co/QystpmAWt9",
+    "url": "https://twitter.com/i/web/status/1850606862405681607"
+  },
+  {
+    "text": "Otros autores para chicos 16-20: Paul Graham, Naval, M Alonso Puig, M Wisenthal (solo por ser Mauricio), Bill Bryson, B Labatut, S Márai (ídem que MW), A Damasio (mejor experto cerebro que conozco), C Rovelli, H de Soto, J Peterson, entre otros. https://t.co/nf5yLLKOSp",
+    "url": "https://twitter.com/i/web/status/1850972291812798694"
+  },
+  {
+    "text": "Hilma af Klint cumpliría años hoy y por eso os comparto sus dibujos botánicos de 1890. https://t.co/yjV88o2K2Q",
+    "url": "https://twitter.com/i/web/status/1850163372307652779"
+  },
+  {
+    "text": "Visto el éxito que ha tenido esta recomendación aprovecho para dejar por aquí estos otros títulos de la maravillosa colección de “Cuadernos Arte Cátedra”, con ilustraciones de @Martine_Murillo: https://t.co/WPWZVSveq7",
+    "url": "https://twitter.com/i/web/status/1850440274335433072"
+  },
+  {
+    "text": "No me canso de recomendar este libro: ameno, claro y súper práctico para el trabajo o para personas curiosas https://t.co/df3JNNR90W",
+    "url": "https://twitter.com/i/web/status/1850135743890383212"
+  },
+  {
+    "text": "Time for a laptop upgrade?\n\nHere is a list of the best-rated laptops of 2024.\n\nYou have to check out #8 - it's amazing! https://t.co/8dWg7cCuue",
+    "url": "https://twitter.com/i/web/status/1850120186868977686"
+  },
+  {
+    "text": "For those asking:\n- X\n- Perplexity\n- ChatGPT\n- Claude\n\nOther good apps: ElevenLabs, Copilot, PocketPal AI, Otter, Leonardo, Otter, Unofficial Groq, Pi, and RunwayML",
+    "url": "https://twitter.com/i/web/status/1850203744933212532"
+  },
+  {
+    "text": "P99 conf videos are available here https://t.co/1oz7MYnyzy If you enjoy things like low-latency, high-performance or distributed systems I am sure you'll find something you like!",
+    "url": "https://twitter.com/i/web/status/1850056052043112820"
+  },
+  {
+    "text": "Ultimate guide to espresso drinks https://t.co/t78khHqeMr",
+    "url": "https://twitter.com/i/web/status/1849736732561863063"
+  },
+  {
+    "text": "@samuelgil Gran historia! Muchos deportistas e inversores conocidos reconocen que alcanzan buena parte de su productividad (Flow, como dice Steven Kotler) tras entrenar las cosas en la cabeza primero https://t.co/tJVDhhGwod",
+    "url": "https://twitter.com/i/web/status/1848654431010586888"
+  },
+  {
+    "text": "Es la frase de Pla:\n\n\"Ser rico e independiente es difícil, pero concebible. Lo que es inconcebible es ser pobre e independiente\"",
+    "url": "https://twitter.com/i/web/status/1848383139086770471"
+  },
+  {
+    "text": "Para Ray y Charles Eames, los juguetes eran un asunto muy serio. Jugar no era solo una forma de divertirse, sino que ofrecía una manera de abordar la vida desde una perspectiva nueva.\n\nCreado en 1952, House of Cards es un juguete único, una colorida baraja diseñada para inspirar. https://t.co/h5AVptlOp9",
+    "url": "https://twitter.com/i/web/status/1847923845769973808"
+  },
+  {
+    "text": "You see the length of this prompt?\n\nThis is what you should have in your instruct dataset if you want to compete with the big players. https://t.co/6YwOgsWFZz https://t.co/bUSThgrRf3",
+    "url": "https://twitter.com/i/web/status/1847623980536004629"
+  },
+  {
+    "text": "De hoy en adelante me declaro indefectible defensor de la alegría a la manera de Benedetti:\n\n«Defender la alegría como una trinchera\nDefenderla del escándalo y la rutina\nDe la miseria y los miserables\nDe las ausencias transitorias\nY las definitivas».",
+    "url": "https://twitter.com/i/web/status/1847565992228012084"
+  },
+  {
+    "text": "“Your time is limited, so don’t waste it living someone else’s life.\n\nHave the courage to follow your heart and intuition, they somehow already know what you truly want to become.”\n\n— Steve Jobs https://t.co/L2ZkPTJPSP",
+    "url": "https://twitter.com/i/web/status/1847284818641363137"
+  },
+  {
+    "text": "Terminado esto de John Barton en @AticoLibros, en una palabra: recomendabilísimo.\nhttps://t.co/mPlN1vcgPB https://t.co/krhC6hf0lB",
+    "url": "https://twitter.com/i/web/status/1846979259753021632"
+  },
+  {
+    "text": "Escrito hace 100 años y más relevante que nunca https://t.co/GOzOEcaQep",
+    "url": "https://twitter.com/i/web/status/1846992049482182682"
+  },
+  {
+    "text": "Esto es espléndido. Pasteles, sabores, colores https://t.co/abIty4yxnS",
+    "url": "https://twitter.com/i/web/status/1846939240094920721"
+  },
+  {
+    "text": "@Servet_dom Tú di rana y yo salto https://t.co/LgpDYg2hBW",
+    "url": "https://twitter.com/i/web/status/1846947953254031525"
+  },
+  {
+    "text": "Andrea Camilleri disecciona en sus novelas las miserias de la sociedad siciliana. El comisario Montalbano, su personaje, es un don quijote que lucha por la justicia, en ocasiones contra el oportunismo de sus jefes, https://t.co/GMiQAGZwhk",
+    "url": "https://twitter.com/i/web/status/1846817988638392743"
+  },
+  {
+    "text": "The best free class on the internet is Poker Theory at MIT.\n\nIt's taught by portfolio managers at quant shops like Citadel, AQR, SIG and 2 WSOP bracelet winners.\n\nYou play 5000 hands as practice and learn the math of making money from pros. And it's free. https://t.co/kyx3ZpEkwW",
+    "url": "https://twitter.com/i/web/status/1846582114059477132"
+  },
+  {
+    "text": "Very strong opening to a math video…\n https://t.co/dhmdm9ae3d",
+    "url": "https://twitter.com/i/web/status/1846118514165215646"
+  },
+  {
+    "text": "A short guide to Neoclassical Architecture... https://t.co/6wDhBfYB9M",
+    "url": "https://twitter.com/i/web/status/1846888589377880096"
+  },
+  {
+    "text": "https://t.co/66Vkre62cq",
+    "url": "https://twitter.com/i/web/status/1846273249992204715"
+  },
+  {
+    "text": "La belleza es bella\nLa belleza es difícil\nLa belleza es noble\n\nLas tres traducciones eran correctas. Los antiguos griegos no diferenciaban los conceptos de bello, difícil y noble. Del mismo modo que, en coreano, «brillo» posee los dos significados de «claridad» y «color»\nHan Kang https://t.co/APKEcSnw6m",
+    "url": "https://twitter.com/i/web/status/1845470222599250097"
+  },
+  {
+    "text": "I love this definition:\n\nStaff engineers create order out of chaos https://t.co/AZzq0Q5mc1",
+    "url": "https://twitter.com/i/web/status/1845167003449032896"
+  },
+  {
+    "text": "En 100 años nadie sabrá quien eres.",
+    "url": "https://twitter.com/i/web/status/1845207832939069929"
+  },
+  {
+    "text": "8 Life-Changing Books Everyone Should Read Before the End of 2024 \n\n1.  Benjamin Franklin\n2. How to talk to anyone\n3. The Laws Of Human Nature\n4. Mindset https://t.co/4Dy3ygGDaS",
+    "url": "https://twitter.com/i/web/status/1844761108936081815"
+  },
+  {
+    "text": "Hokusai by Alain Bousquet https://t.co/xAxi02yJdq",
+    "url": "https://twitter.com/i/web/status/1844517079602565206"
+  },
+  {
+    "text": "My current AI workflow essentials:\n\n• Daily: ChatGPT\n• Search: Perplexity\n• Automation: Zapier\n• Image: Flux 1.1 (Freepik)\n• Video: Kling AI, Runway\n• Writing: Claude Projects\n• Coding: Cursor, GPT o1-mini\n• AI avatar: ElevenLabs & HeyGen",
+    "url": "https://twitter.com/i/web/status/1845124969551810909"
+  },
+  {
+    "text": "How much of Disneyland's success comes from bringing 19th century European design to 20th century America? \n\nTake the Sleeping Beauty Castle in the center of the park, which Walt modeled after a castle in Bavaria. I read somewhere that Walt brought back 335 art books after one… https://t.co/uGEeV1EreP",
+    "url": "https://twitter.com/i/web/status/1924599954267582799"
+  },
+  {
+    "text": "The world's most famous neoclassical buildings are kind of boring and generic when you actually look at them.\n\nIt's even hard to tell them apart: which one below is Versailles, or Buckingham Palace?\n\nSo here's why neoclassical architecture (although it's nice) is overrated: https://t.co/hp8BoUrnCc",
+    "url": "https://twitter.com/i/web/status/1958636479975932031"
+  },
+  {
+    "text": "If I ever go to Japan, I’m gonna devote half my trip to art museums, dragging my jaw against the floor, overwhelmed by the beauty of color and precision. https://t.co/eaTKwKKBxe",
+    "url": "https://twitter.com/i/web/status/1242322317172035585"
+  },
+  {
+    "text": "\"Todo ser humano es un fractal de la conciencia universal (Dios), experimentándose a sí misma de forma subjetiva, con el propósito de adquirir conocimiento sobre sí misma.\" https://t.co/fCAQJTGOtn",
+    "url": "https://twitter.com/i/web/status/1987975701870326062"
+  },
+  {
+    "text": "Fallece el actor Tatsuya Nakadai, una de las grandes leyendas del cine japonés, a los 92 años. Protagonizó múltiples obras maestras, incluyendo films como \"Ran\" de Akira Kurosawa, la trilogía \"La condición humana\" o \"Harakiri\" de Masaki Kobayashi https://t.co/08vYgL1ASf https://t.co/y8ySRC8xuD",
+    "url": "https://twitter.com/i/web/status/1988296070636441682"
+  },
+  {
+    "text": "FYI existe una edición reciente (2023) en español. https://t.co/sHHJghFAwb https://t.co/sKpPhad7gD",
+    "url": "https://twitter.com/i/web/status/1987081583686221853"
+  },
+  {
+    "text": "Papel y boli para cualquier persona joven:\n\n- Ensayo y error, serendipia y aprendizaje autodidacta. No te limites al rumbo académico establecido socialmente.  \n\n- Asume riesgos mientras seas joven, el coste suele ser muy bajo con respecto a los beneficios que te pueden aportar.… https://t.co/p6kDEGRMu6",
+    "url": "https://twitter.com/i/web/status/1987115534765162903"
+  },
+  {
+    "text": "You can now clone any website design in seconds with AI.\n\nJust grab any live UI with the new MagicPath Extension and the AI will instantly create a working clone you can build on top of.\n\nI literally just recreated Claude’s UI with it.\n\nThis is Figma completely redesigned. https://t.co/am6qBBFK4y",
+    "url": "https://twitter.com/i/web/status/1987182077712765068"
+  },
+  {
+    "text": "One day we really need to talk about how underrated Spanish wine is https://t.co/xNghpBpA94",
+    "url": "https://twitter.com/i/web/status/1987221550467018908"
+  },
+  {
+    "text": "As an economist I was hesitant reading this book. But was pleasantly surprised. For a sweeping & accurate history of economics, from ancient Greece to contemporary times—George Akerlof, Joseph Stiglitz, Amartya Sen, all in less than 250 pages, it turned out to be a page turner. https://t.co/a4VU2UcpOH",
+    "url": "https://twitter.com/i/web/status/1987342248581775786"
+  },
+  {
+    "text": "Left side is a human lung. Right side is a tree.\n\nThe tree breathes in what the lung breathes out. The lung breathes in what the tree breathes out.\n\nGod's design is incredible. https://t.co/e087EkErs2",
+    "url": "https://twitter.com/i/web/status/1986464844640616527"
+  },
+  {
+    "text": "Book post: How to Lie With Maps\n\nhttps://t.co/4pX5iQBapj\n\nThis is my first ever review of a nonfiction title, because it's so good. \n\nThe map is not the territory. This book is a systematic exploration of how maps can deceive - inadvertently, or worse, deliberately. It's made…",
+    "url": "https://twitter.com/i/web/status/1986915016189112521"
+  },
+  {
+    "text": "Toda la sociedad está diseñada para que estudiar y aprender cosas nuevas sean cosas de niños. \n\nEstudiar es algo que haces cuando eres pequeño. Y además lo haces por obligación. Los adultos no estudian.\n\nCuando destierras esa idea, marcas una gran diferencia respecto a los demás.",
+    "url": "https://twitter.com/i/web/status/1986492705233400277"
+  },
+  {
+    "text": "https://t.co/f8TnN34IKV",
+    "url": "https://twitter.com/i/web/status/1986060857407643789"
+  },
+  {
+    "text": "lean esto\n\ntop 4 libros de liberalismo, junto a El problema de la autoridad política de Huemer, The Structure of Liberty de Randy Barnett y Anarquía, Estado y Utopía de Nozick) https://t.co/yIvOWySjUk https://t.co/UDK5GPVu16",
+    "url": "https://twitter.com/i/web/status/1986090668788498703"
+  },
+  {
+    "text": "@Nata_y_flor @Raggiomoral No soy católico practicante, pero admiro el catolicismo como expresión profunda de verdad eterna, al igual que aprecio la sabiduría pagana antigua. Como deísta, creo en un Dios creador no antropomórfico, y perennialista, veo hilos divinos comunes en todas las tradiciones…",
+    "url": "https://twitter.com/i/web/status/1986143806111293668"
+  },
+  {
+    "text": "P.D: recordatorio periódico, no soy católico sino deísta y filocatólico, filopagano, con tendencias perennialistas",
+    "url": "https://twitter.com/i/web/status/1986133374713413727"
+  },
+  {
+    "text": "Sobre lo agotador que es ser curioso, aquí tenéis un día en el cerebro de Flanagrama:\n\n- 6 am entreno: Violadores del Verso eran 100% unos avanzados par su época, parieron el rap en España - Morenas, Coronas Cervezas mucho early anti-booomerism ahí",
+    "url": "https://twitter.com/i/web/status/1986144201885819228"
+  },
+  {
+    "text": "It's here... & it's really quite beautiful!\n\nThe Spanish edition of my new book, El Tutor Cultural, is out now — a link to order is in the reply below.\n\nDifferent approach to the English edition, but I love this cover, and I'm glad it's got Rodin's The Kiss.\n\nBecause it points to… https://t.co/RdxtIvwj1o",
+    "url": "https://twitter.com/i/web/status/1985780523504156916"
+  },
+  {
+    "text": "Best investments I’ve made in my health:\n\n- Mindset: Redefining my internal identity as someone who is lean, strong, and consistent.\n\n- Consistency: Practicing patience while new habits formed, and being my own ally when I slipped.\n\n- Education: Learning to read research… https://t.co/tMIsgFPeDK",
+    "url": "https://twitter.com/i/web/status/1985823060713464057"
+  },
+  {
+    "text": "Purpose is the most underrated antidepressant",
+    "url": "https://twitter.com/i/web/status/1985444282031804669"
+  },
+  {
+    "text": "Un sistema complejo está formado por múltiples partes que interactúan de manera dinámica y a menudo no lineal, generando patrones y comportamientos que no pueden preverse analizando solo los componentes individuales. Esto significa que las medidas de bajo nivel, como variables…",
+    "url": "https://twitter.com/i/web/status/1985339940020883548"
+  },
+  {
+    "text": "¿por qué? porque son resultados finales de un sistema (muy muy muy) complejo\n\nEn los sistemas complejos, los resultados finales son mucho más indicativos que cualquier medida de bajo nivel porque capturan el impacto real y observable de las dinámicas internas del sistema,…",
+    "url": "https://twitter.com/i/web/status/1985339901777236380"
+  },
+  {
+    "text": "no hay mejores biomarcadores de longevidad que las capacidades funcionales",
+    "url": "https://twitter.com/i/web/status/1985338290665574640"
+  },
+  {
+    "text": "Eres el resultado de una suma de suerte+genética+entorno+hábitos\n\nPuedes llorar porque has tenido mala suerte con las dos primeras o puedes esforzarte por optimizar las dos últimas\n\nLamentarse por lo primero es cómodo y no te mejora. Actuar sobre lo segundo es duro pero rentable",
+    "url": "https://twitter.com/i/web/status/1985013312875106386"
+  },
+  {
+    "text": "This Post is from a suspended account. {learnmore}",
+    "url": "https://twitter.com/i/web/status/1844675422212043251"
+  },
+  {
+    "text": "Process behind an isometric illustrations. Lots of steps to take the little thumbnail sketch sheets of various concepts all the way through to full colour final. Second image is a detailed crop of the line work before colouring. https://t.co/9knm2EkExT",
+    "url": "https://twitter.com/i/web/status/1843979692598284752"
+  },
+  {
+    "text": "Bastante interesante el ejercicio, la verdad:\n\nSi tomamos la perspectiva de Satanás como una representación de la resistencia al crecimiento personal y el desarrollo, aquí tienes algunas tácticas que podría usar para evitar que las personas alcancen su máximo potencial:… https://t.co/kpbvuXU62q",
+    "url": "https://twitter.com/i/web/status/1843667261506117651"
+  },
+  {
+    "text": "Vamos a preparar un delicioso plato.\nMilanesas de pollo a la napolitana \nIngredientes\n1 contramuslo de pollo x persona\nJamón York \nQueso graso. \nHuevos\nPan rallado \nAjo\nOrégano \nSalsa de tomate\nAceite y sal https://t.co/ezJpXxj7r6",
+    "url": "https://twitter.com/i/web/status/1843615135631356353"
+  },
+  {
+    "text": "@patrickc \"My whole life has been spent trying to teach people that intense concentration for hour after hour can bring out in people resources they didn’t know they had.”\n\n—Edwin Land",
+    "url": "https://twitter.com/i/web/status/1843353137425592804"
+  },
+  {
+    "text": "«Sabía detectar al instante un gesto impostado. Sabía que no tenía que presionar. Conocía el poder de la retirada». https://t.co/yRov6jG4XI",
+    "url": "https://twitter.com/i/web/status/1366861031499325446"
+  },
+  {
+    "text": "Lo esencial, de Miguel Milá. https://t.co/jT0vg8C9d8",
+    "url": "https://twitter.com/i/web/status/1842676631762313704"
+  },
+  {
+    "text": "buena entrevista a Tadeo, un chavalito que hace 320 - 340 watts en zona 2 \n\nThe Meteoric Rise of Tadej Pogačar: From Prodigy to Cycling Legend https://t.co/jdalBCqbmd",
+    "url": "https://twitter.com/i/web/status/1842668525640679783"
+  },
+  {
+    "text": "Excelente explicación de las cinco vías de Santo Tomás por un profesor de filosofía no creyente. \n\nhttps://t.co/ztsYzt20Xg https://t.co/uOi3ZHPAYu",
+    "url": "https://twitter.com/i/web/status/1842716669384212911"
+  },
+  {
+    "text": "¿Le ayudamos entre todos? Pol Bertran, Adictos a la Filosofía, Spicy4tuna, Lord Draugr, iEonos, Arpa Talks, Fundación Tatiana, Ateneo Mercantil de Valencia, LA ÚLTIMA FRONTERA y paro porque me aburro eso es un 10% de mis seguidos en youtube https://t.co/VC3NmZ4mqf",
+    "url": "https://twitter.com/i/web/status/1841754423413920036"
+  },
+  {
+    "text": "La importante distinción entre Inteligencia Fluida e Inteligencia Cristalizada https://t.co/DFn6OA78cO",
+    "url": "https://twitter.com/i/web/status/1841697564132847846"
+  },
+  {
+    "text": "Una muy buena mezcla de El Emperador y sus Locuras, El Lazarillo de Tormes y la Metamorfosis de Ovidio.\n\nEscrito poéticamente a las mil maravillas, aporta además una trama más o menos interesante, sobre todo, humor realmente gracioso. Los pensamientos del prota carrean el libro. https://t.co/P1VU1pA2kd",
+    "url": "https://twitter.com/i/web/status/1840535929980592189"
+  },
+  {
+    "text": "Founder of Renaissance Technologies, \nJim Simons. https://t.co/CY8mUA4zX3",
+    "url": "https://twitter.com/i/web/status/1840871509004308733"
+  },
+  {
+    "text": "Espero que este email te encuentre triunfando, aplastando a tus enemigos, alcanzando la victoria definitiva",
+    "url": "https://twitter.com/i/web/status/1841117432691220847"
+  },
+  {
+    "text": "Ideas de @paulg sobre “following your passion”\n\n1) probar muchas cosas que te interesen\n2) empezar a trabajar en algo que te inspira, convertirse antes \n3) eligir bien tu entorno \n4) la gente que triunfa genuinamente le encanta lo que hace\n5) perseguir la curiosidad ambiciosa https://t.co/aFpnzidpec",
+    "url": "https://twitter.com/i/web/status/1841201072536510899"
+  },
+  {
+    "text": "Primer vuelo post-covid y 6 horas de retraso, así que para no volverme loco, voy a hacer algo nunca visto:\n\nVoy a compartir mi bloc de notas de los últimos 4 años.\n\n1 like = 1 idea, opinión o reflexión sobre inversión, negocios y la vida en general.\n\nA ver hasta dónde llegamos 🛫 https://t.co/drKAA5TK5d",
+    "url": "https://twitter.com/i/web/status/1303714485102956544"
+  },
+  {
+    "text": "@joantubau Noahpinion y Economic Forces.\nSi son listos, los substack de Cochrane y Scott Sumner.\n\nMarginal Revolution si son algo frikis.\n\nY si son muy muy frikis, Pseudoerasmus.",
+    "url": "https://twitter.com/i/web/status/1840791809615642647"
+  },
+  {
+    "text": "Consejos para adolescentes: \n1. No vayas a la universidad \"porque es lo que toca\". \n2. Fórmate continuamente. \n3. Asume que trabajador y freelancer son la misma cosa. Ya no existe la seguridad. \n4. Toma riesgos. \n5. Ahorra e invierte desde YA (la cantidad da igual).",
+    "url": "https://twitter.com/i/web/status/1840768965590540757"
+  },
+  {
+    "text": "román me hizo este dibujito. ❤️ https://t.co/hdVhuB4gj3",
+    "url": "https://twitter.com/i/web/status/1840578382444306626"
+  },
+  {
+    "text": "The Suburbs - More work from \"Imaginaries post-carbone\" https://t.co/ZpCIcwcfHs",
+    "url": "https://twitter.com/i/web/status/1840725460189155480"
+  },
+  {
+    "text": "@samuelgil Recomiendo también, si por ejemplo se está en un hotel o con nada de material hacer isométricos.\n\nhttps://t.co/U841J3kQu3",
+    "url": "https://twitter.com/i/web/status/1839572772042739802"
+  },
+  {
+    "text": "un entrenamiento de hipertrofia espectacular si vas corto de tiempo y/o de equipo\n\nhttps://t.co/13gFX5s70a",
+    "url": "https://twitter.com/i/web/status/1839568734823793117"
+  },
+  {
+    "text": "Sin ser fan de la Fórmula 1 ni tener idea de ingeniería, me he leído este libro en un par de días y lo he disfrutado mucho.\n\nToda una vida dedicada a construir el coche más rápido, con todo lo que eso implica. Especialmente interesante cuando reflexiona sobre la muerte. https://t.co/sIn7cLkKi6",
+    "url": "https://twitter.com/i/web/status/1839636279622815829"
+  },
+  {
+    "text": "Si te gusta Edgar Allan Poe no puedes dejar pasar por alto EXTRAORDINARY TALES que adapta en animación (con técnicas diferentes) 5 cuentos de Poe narrados por Guillermo del Toro, Christopher Lee o Bela Lugosi. Sensacional la versión de El corazón delator. Ideal para HALLOWEEN 🎃. https://t.co/zzx58U00YI",
+    "url": "https://twitter.com/i/web/status/1839690495435354236"
+  },
+  {
+    "text": "In no particular order: Daniel Dennett, Curtis Yarvin, Peter Singer, Judith Butler, Satoshi Nakamoto https://t.co/QIQcLMloq1",
+    "url": "https://twitter.com/i/web/status/1839733487055855836"
+  },
+  {
+    "text": "2 great books that will make you more Intelligent https://t.co/Hds0WlBlxj",
+    "url": "https://twitter.com/i/web/status/1839167716059439396"
+  },
+  {
+    "text": "@naval where your attention goes, your life follows. https://t.co/nZwhCrj4lm",
+    "url": "https://twitter.com/i/web/status/1831797093775855936"
+  },
+  {
+    "text": "The true scarcity is attention, not time.",
+    "url": "https://twitter.com/i/web/status/1831796359147745378"
+  },
+  {
+    "text": "Hace algo más de un año murió Sánchez Dragó.\n\nPara la mayoría, fue un tipo indeseable rodeado de turbias polémicas. Para mí, es el autor de libros fundamentales en mi recorrido vital.\n\nEn el Sendero de la Mano Izquierda me dio 181 consejos para una buena vida.\n\nTe los muestro ⬇️ https://t.co/qxjyfbip71",
+    "url": "https://twitter.com/i/web/status/1838594672110764096"
+  },
+  {
+    "text": "¿Cuál es vuestra serie favorita de lo que llevamos de 2024? A continuación, os dejamos las mejor valoradas por los usuarios de #FilmAffinity contabilizando al menos que tengan 500 votos. ¿Cuántas habéis visto de las 15 primeras? ¿Echáis alguna en falta? https://t.co/UEsfoarn9F https://t.co/lpzXIr5q9p",
+    "url": "https://twitter.com/i/web/status/1838199617021763946"
+  },
+  {
+    "text": "Tiny Glade is out NOW on Steam (Win & Linux) 💗🎉\n\nThank you so much for following the development and being so supportive of our little diorama builder.\n\nWe hope you have fun, and I can’t wait to see what you make 🤩 If you post your glades, add #TinyGlade so I can find 'em :D https://t.co/6KHQVcMHhV",
+    "url": "https://twitter.com/i/web/status/1838248341559234847"
+  },
+  {
+    "text": "Faltan 7 DÍAS para el estreno de la serie UZUMAKI, adaptando el manga del maestro del terror JUNJI ITO. UZUMAKI trata la historia de un pueblo maldito que es asolado por unos espirales enormes que llevan a la locura a sus habitantes. En HBO MAX el 28 DE SEPTIEMBRE. https://t.co/sGvnRuBvsT",
+    "url": "https://twitter.com/i/web/status/1837503767035433311"
+  },
+  {
+    "text": "Neutral Colours always makes you looks clean and younger .. https://t.co/lCCT9BbDxZ",
+    "url": "https://twitter.com/i/web/status/1834924292401676773"
+  },
+  {
+    "text": "No me escribáis a mí 😅😅\nhttps://t.co/2OOucHCPqW",
+    "url": "https://twitter.com/i/web/status/1833916537184624774"
+  },
+  {
+    "text": "Vuelvo hoy a mis subrayados de Umbral que tan feliz me hicieron en su día. Qué olvidado tenía yo eso de que «resulta que aprender a vivir es ir aprendiendo pequeños detalles, pequeñas cosas. Ir dándole breves y precisos toque a la imagen de uno mismo». https://t.co/j3hWoGx88L",
+    "url": "https://twitter.com/i/web/status/1834309731579510882"
+  },
+  {
+    "text": "@madridseo Hola! Lo pasé con NotebookLM de Google. Cuando le das suficiente documentación como contexto te deja usar esta opción.\n\nhttps://t.co/TgNCFpYtMw",
+    "url": "https://twitter.com/i/web/status/1834507981087502403"
+  },
+  {
+    "text": "@pobremillenial jjejej por ej:\n\n- Modern Wisdom\n- The Diary Of A CEO with Steven Bartlett\n- The Game de Alex Hormozi\n- The Tim Ferriss Show\n- Lex Friedman Podcast\n- Huberman Lab Podcast\n\nEn castellano: FitnessRevolucionario, Kaizen, Tikra, Value Investing FM y Píldoras del Conocimiento (:P).",
+    "url": "https://twitter.com/i/web/status/1828714013833703713"
+  },
+  {
+    "text": "«Vendrá la muerte y tendrá tus ojos» \nCesare Pavese https://t.co/IZrxupdU5G",
+    "url": "https://twitter.com/i/web/status/1833325060938940851"
+  },
+  {
+    "text": "Terminado. No hay nada que no me haya encantado. Estoy entusiasmada por haber descubierto an Iris Murdoch. Más vale tarde que nunca. https://t.co/4Y2wrYLDIK",
+    "url": "https://twitter.com/i/web/status/1833468573144019046"
+  },
+  {
+    "text": "SCHiM. https://t.co/gbuq9P34wi",
+    "url": "https://twitter.com/i/web/status/1833443790356451709"
+  },
+  {
     "text": "a16z made this handy list of the top 50 AI Gen AI web products: https://t.co/y7153fXRpO\n\nWe checked, and turns out that 82% use @Stripe.\n\nWe've been building a bunch of functionality that's useful for AI products, including usage-based billing (https://t.co/sI5KeKXk9e) to handle… https://t.co/Qob35JXLpo",
     "url": "https://twitter.com/i/web/status/1833648360194265318"
   },
@@ -34164,6 +36340,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1828662484292833440"
   },
   {
+    "text": "hacía mucho tiempo que no leía algo que me gustara tanto\n\nobra maestra\n\nHow To Do Great Work by @paulg \nhttps://t.co/ON8BCpDCab https://t.co/8ax7zzNV4w",
     "url": "https://twitter.com/i/web/status/1828480717472342149"
   },
   {
@@ -34259,7 +36436,6 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1826363672589107370"
   },
   {
-    "text": "( For those who may know, both David Wootton & Alfred Crosby argued in early modern Europe there was an increasing tendency to measure, calculate & compute things, for both practical and 'non-practical' reasons -- which was a new cultural/intellectual turn ) https://t.co/DhCmGHw8yE",
     "url": "https://twitter.com/i/web/status/1826240422932517029"
   },
   {
@@ -34299,6 +36475,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1825211093511471344"
   },
   {
+    "text": "conocéis decoradores de interiores en madrid que no sean en plan lujo (es para un piso de alquiler) y que trabajen por proyectos rollo:\n\n- te doy X de presupuesto para que visites mi casa, me hagas una propuesta, me compres lo que haga falta y me lo dejes puesto\n\n(cuanto menos…",
     "url": "https://twitter.com/i/web/status/1825276839075496210"
   },
   {
@@ -34330,6 +36507,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1824454965487632702"
   },
   {
+    "text": "Los mensajes, el ritmo, las bromas… incluso las diapositivas.\n\n30 minutos brillantes, just watch:\n\nScott Galloway: The Algebra of Happiness https://t.co/IdKofQDV3X vía @YouTube",
     "url": "https://twitter.com/i/web/status/1824056611284934974"
   },
   {
@@ -34781,6 +36959,106 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1806751420680749346"
   },
   {
+    "text": "https://t.co/30eSJ3yex6 https://t.co/KwCKa3c8vM",
+    "url": "https://twitter.com/i/web/status/1985022855688429607"
+  },
+  {
+    "text": "Cada día estoy más seguro de que tengo más alma de artesano que de emprendedor. Me deleito en el trabajo lento y meticuloso, en la atención minuciosa al detalle y en las infinitas capas de pintura y significado.\n​\nEs un arte que parece caro hasta que se reconoce su verdadero… https://t.co/zLc330c0kX",
+    "url": "https://twitter.com/i/web/status/1985029654122725808"
+  },
+  {
+    "text": "Este post es de obligada lectura para cualquier puesto de senior pa arriba \n\nhttps://t.co/2RJTYN4Lt2",
+    "url": "https://twitter.com/i/web/status/1984611377223516426"
+  },
+  {
+    "text": "Even my favorite thinkers are often retarded on at least one topic. So when I see someone who’s completely irrational in one area, I don’t discount their expertise elsewhere or their broader contributions to the discourse.",
+    "url": "https://twitter.com/i/web/status/1983939377027019244"
+  },
+  {
+    "text": "One of the most important things you will ever figure out is that enthusiasm is contagious. You can never convince anyone of anything. But if you are convinced, people will follow you. You have to be a good example of  the future before they can want it.\n\nhttps://t.co/8dIgvBbqwf",
+    "url": "https://twitter.com/i/web/status/1984415231620116990"
+  },
+  {
+    "text": "https://t.co/sFoX72BKjK",
+    "url": "https://twitter.com/i/web/status/1983915357787050099"
+  },
+  {
+    "text": "Todo sistema racional encierra en su interior las semillas de su propia destrucción. Es una paradoja que recuerda al teorema de incompletitud de Gödel: dentro de cualquier sistema lógico siempre hay verdades que no pueden demostrarse desde dentro del propio sistema. De igual…",
+    "url": "https://twitter.com/i/web/status/1983539126721712227"
+  },
+  {
+    "text": "A veces me olvido de lo jodidamente impresionante que es que una máquina pueda tener este nivel de conversación. https://t.co/vof2Tjffug",
+    "url": "https://twitter.com/i/web/status/1983683765483233382"
+  },
+  {
+    "text": "“You're free.” https://t.co/PnzVRBbshI",
+    "url": "https://twitter.com/i/web/status/1983175671141613675"
+  },
+  {
+    "text": "si alguien me dice hace unos años que me iba a leer con emoción un libro sobre hongos… https://t.co/YZ9cLgpC5D",
+    "url": "https://twitter.com/i/web/status/1982711522658025715"
+  },
+  {
+    "text": "11:20 https://t.co/w3230GTO7d",
+    "url": "https://twitter.com/i/web/status/1982754350444540042"
+  },
+  {
+    "text": "Diez años después de su estreno sigo recomendado por HALLOWEEN 🎃 la sensacional miniserie OVER THE GARDEN WALL. Un emotivo y tierno viaje (con su toque siniestro) sobre la amistad, la pérdida, el perdón y los recuerdos. La tenéis en HBO 🖤 https://t.co/qmh1okcWy2",
+    "url": "https://twitter.com/i/web/status/1982536629324747161"
+  },
+  {
+    "text": "My most hippy belief I think is true is that changing your vocabulary changes how you perceive reality. You're just prompt engineering your brain. Try shuffling out these 5 words:\n\n1. Decision —> Experiment\n2. News —> Groupthink\n3. Problem —> Puzzle\n4. Relax —> Energise\n5.…",
+    "url": "https://twitter.com/i/web/status/1982462779014738259"
+  },
+  {
+    "text": "Atemporal y obligatoria.\n\nMe la he puesto 3 veces en bucle.\n\nhttps://t.co/4vEyiwxlCZ",
+    "url": "https://twitter.com/i/web/status/1981661987450011930"
+  },
+  {
+    "text": "Dos buenos libros para pensar mejor, y tomar mejores decisiones: Piénsalo otra vez de Adam Grant, y Pensar en apuestas, de Annie Duke (recientemente traducido al castellano): https://t.co/rXmmzGoBwP",
+    "url": "https://twitter.com/i/web/status/1982119724918948087"
+  },
+  {
+    "text": "De momento me está encantando pero es un libro para leer tranquilamente y casi que tomando apuntes. https://t.co/2DMUPYf93R",
+    "url": "https://twitter.com/i/web/status/1981421653574729957"
+  },
+  {
+    "text": "This is the first art print I've ever sold in my life. I just signed it for a collector. Extremely cool moment. \n\nI started teaching myself art 140 days ago https://t.co/eGFbaNc13p",
+    "url": "https://twitter.com/i/web/status/1981506680560214464"
+  },
+  {
+    "text": "This will be my most detailed piece yet and dare I say my best one from a technical perspective \n\nMonth ~5 teaching myself art https://t.co/bD8a0Wo2CE",
+    "url": "https://twitter.com/i/web/status/1980649009015582732"
+  },
+  {
+    "text": "Me ha encantado esto de Mike en Better Call Saul: «todos tomamos decisiones, a veces parecen pequeñas, pero nos ponen en el camino» https://t.co/evILLCcfWh",
+    "url": "https://twitter.com/i/web/status/1979980229138379211"
+  },
+  {
+    "text": "Consejos para adolescentes:\n1. No vayas a la universidad 'porque es lo que toca'.\n2. Fórmate continuamente.\n3. Asume que trabajador y freelancer son la misma cosa. Ya no existe la seguridad.\n4. Toma riesgos.\n5. Ahorra e invierte desde YA (la cantidad da igual).\n6. No hagas…",
+    "url": "https://twitter.com/i/web/status/1979984807305019417"
+  },
+  {
+    "text": "I drew some rocks today\n\nMonth 5 teaching myself art https://t.co/N2dnWHzfi1",
+    "url": "https://twitter.com/i/web/status/1980009616420532239"
+  },
+  {
+    "text": "No envidio a la gente que sabe tocar un instrumento o hablar 5 idiomas. Lo que verdaderamente siempre he enviado sanamente es aquellos que saben dibujar. Yo estaría dibujando todo el día. https://t.co/m2qj2HQ7vO",
+    "url": "https://twitter.com/i/web/status/1979848038576533986"
+  },
+  {
+    "text": "@Marcos_Luque_ @foso_defensivo He probado a ver qué devuelve Claude con Sonnet 4.5 y este ha sido el resultado:\n\nhttps://t.co/3Sz4cmYZ5E",
+    "url": "https://twitter.com/i/web/status/1979207957628809705"
+  },
+  {
+    "text": "Lu says thank you @_TamaraWinter for the new hat and copper nails which he will use right away\n\n(also thank you for the book!) https://t.co/QJiSygnfDc",
+    "url": "https://twitter.com/i/web/status/1978917512990405015"
+  },
+  {
+    "text": "@flanagrama @seraro4 De lo mejor que he leído. https://t.co/vHGWpybv8m",
+    "url": "https://twitter.com/i/web/status/1978791842389938631"
+  },
+  {
     "text": "🎬Charlamos con @Albertoenserie por \"Peliculero\"\n\n🔎Nos sumergimos en las profundidades de la ignorancia\n\n🎞️Mandamos a los culturetas al cine y nos cuentan lo que han visto \n\nCon @Ruben_Amon @rosabelmonte @galtares @kubelick @sergiodelmolino https://t.co/dqjM8DlsmZ https://t.co/qqHaFrGfhx",
     "url": "https://twitter.com/i/web/status/1806953246491103332"
   },
@@ -34839,106 +37117,6 @@ window.LIKES = [
   {
     "text": "Ask HN: What are good life skills for people to learn?\nhttps://t.co/2MVKdtYOgp",
     "url": "https://twitter.com/i/web/status/1804944371415937241"
-  },
-  {
-    "text": "How was penicillin able to eliminate 80% of WWII battlefield deaths? Why did nails once make up 0.4% of US GDP?\n\nIn The Origins of Efficiency, @_brianpotter unpacks how production efficiency happens, and why it is of civilizational importance.\n\nPreorder: https://t.co/KEyYy67F90 https://t.co/cYQG5rNPKw",
-    "url": "https://twitter.com/i/web/status/1955283134389350548"
-  },
-  {
-    "text": "Ernesto Sábato explica magistralmente por qué los padres no deben ser \"amigos\" de sus hijos. https://t.co/yBiH7SQ7dT",
-    "url": "https://twitter.com/i/web/status/1955689582206591012"
-  },
-  {
-    "text": "Libro maravilloso para este verano. La versión vitalista y optimista de “El mundo de ayer”. https://t.co/FzAFCnxuMz",
-    "url": "https://twitter.com/i/web/status/1955235420779749873"
-  },
-  {
-    "text": "Al final alguien que monta cosas es alguien curioso.\n\nAlguien que no de limita a hacer lo que le dice su empleador.\n\nHace/lee/trabaja en lo que le pica la curiosidad, y eso le lleva a saber de muchos temas. \n\nSi tienes todas las horas para seguir tus intereses acabas… https://t.co/qoMedoO5az",
-    "url": "https://twitter.com/i/web/status/1954807324935163940"
-  },
-  {
-    "text": "Why I Take 20g of Creatine a Day https://t.co/NNlOFe96qZ",
-    "url": "https://twitter.com/i/web/status/1954311367403405721"
-  },
-  {
-    "text": "Llevaba años intentando entender lo que significa Dios.\n\nLo busqué como lo busca todo el mundo, a partir de entender la religión.\n\nNunca he sido religioso, de hecho te diría que lo contrario. \n\nMe esforcé en entender el Catolicismo y el Cristianismo principalmente. Encontraba… https://t.co/QM5vdJVRS5",
-    "url": "https://twitter.com/i/web/status/1954809178972635623"
-  },
-  {
-    "text": "En esto de las frases lapidarias, Jesús G. Maestro es único. No tiene rival.  \n\n\"La realidad no tolera a quien no es compatible con ella\"\n\n\"Los errores cuestan caros a quien los paga, no a quien los comete\".\n\n\"La felicidad es lo que se promete a los tontos\". https://t.co/KoSe5HDtNo",
-    "url": "https://twitter.com/i/web/status/1954901766559989877"
-  },
-  {
-    "text": "I like this mental model in how to think about engineering (including software engineering).\n\nIt is a combination of building stuff for production, crafting, commercial use cases and science.\n\nFrom the book Software Architecture by Mary Shaw and David Garlan https://t.co/91JrKT92Zq",
-    "url": "https://twitter.com/i/web/status/1954509351688790471"
-  },
-  {
-    "text": "Tercera y última parte resumen (personal) #antifrágil: https://t.co/mIh5CMx6LQ #risk https://t.co/cExopzu3We https://t.co/ZEcunizjTJ",
-    "url": "https://twitter.com/i/web/status/1954457156180234264"
-  },
-  {
-    "text": "@rockyman_85 Antonio Machado en Plaza de Salesas - tienen absolutamente TODO lo que te puedas imaginar. Especialmente clásicos tienen todos y en muchas ediciones distintas.",
-    "url": "https://twitter.com/i/web/status/1954168104352686590"
-  },
-  {
-    "text": "Bro... los ordenadores... he pensado en algo... https://t.co/AWvK57g9fQ",
-    "url": "https://twitter.com/i/web/status/1954181971829047632"
-  },
-  {
-    "text": "\"La mayoría de los debates políticos no se derivan de diferencias de conocimiento, sino de personalidad. Podrías darles a dos personas exactamente la misma información y llegarían a conclusiones radicalmente diferentes. Por eso, normalmente no se puede cambiar la opinión de la… https://t.co/08V0iSSJNC",
-    "url": "https://twitter.com/i/web/status/1954280580213838057"
-  },
-  {
-    "text": "@Lualobus @not_schoool Sin duda me quedo con éste https://t.co/RQCR1u4tVF",
-    "url": "https://twitter.com/i/web/status/1474428850146889732"
-  },
-  {
-    "text": "Rebuscando he encontrado este artículo científico: «El Efecto Ganador» del psicólogo H. Robertson. Me ha parecido muy interesante. Me gustaría compartir algunas reflexiones con ustedes  ⤵️ https://t.co/18bX66KPy9",
-    "url": "https://twitter.com/i/web/status/1555339753247178753"
-  },
-  {
-    "text": "Las 5 biografías que más me han gustado:\n1º Nunca te pares: fundador de Nike\n2º Steve Jobs: fundador de Apple\n3º Bloomberg: fundador de Bloomberg\n4º Principios: fundador de BridgeWater\n5º Perdiendo la Virginidad: fundador de Virgin https://t.co/lYkDOurKXv",
-    "url": "https://twitter.com/i/web/status/1327565785468973057"
-  },
-  {
-    "text": "@Falliblemusings @DavidDeutschOxf Taleb: https://t.co/klI5ev7ozI",
-    "url": "https://twitter.com/i/web/status/1893258300507992288"
-  },
-  {
-    "text": "Andrej Karpathy shares a 3-step blueprint on how to master anything https://t.co/mfWt0Rd6CY",
-    "url": "https://twitter.com/i/web/status/1953667249497403526"
-  },
-  {
-    "text": "Bueno, se hizo esperar pero acá esta el 🧵/ tutorial para detectar vuelos baratos en tiempo real, guardarlos en una db y recibir mensajes por Telegram cuando se encuentren las mejores oportunidades.\n\nSiganme 👇 https://t.co/waaZDE16hR",
-    "url": "https://twitter.com/i/web/status/1953898565824078315"
-  },
-  {
-    "text": "#Antifrágil, mis notas lectura, cap 1-9: https://t.co/pKL0Qv01NM Esta tarde, la segunda parte (cap 10-19).",
-    "url": "https://twitter.com/i/web/status/1954069197312733676"
-  },
-  {
-    "text": "(19 y 20) Dos muy buenos libros para pensar mejor sobre #inversiones; y no solo, también para una mejor comprensión realidad/mejor toma de decisiones: 'Same as Ever' de @morganhousel y 'How Do You Know?' de @chriswmayer (ambos reseñados revista @efpa_es) https://t.co/BA2umH1lTh",
-    "url": "https://twitter.com/i/web/status/1885991497968832669"
-  },
-  {
-    "text": "(18) Otro gran ensayo -de estos de sentarse y disfrutar- del pasado 2024 esto de Marta Riezu. (**) Como sucede con Wiesenthal, Javier Aznar, Andreu Jaume, Dani Gascón, Vila-Matas, muchas veces los mejores libros/escritores, no necesitan de mucha publicidad. https://t.co/8j3vlQpOvj",
-    "url": "https://twitter.com/i/web/status/1885990893099835637"
-  },
-  {
-    "text": "Highly conscientious people (dependable, disciplined, committed) fare best of all. They live the longest, succeed at work, their relationships last.\n\nThis makes sense. Life isn’t just about knowing what you should do or having the resources to do it, it’s about following through.",
-    "url": "https://twitter.com/i/web/status/1953811283582607477"
-  },
-  {
-    "text": "\"To write well is to think clearly.\" \n~ David McCullough \n\n\"Clear thinking becomes clear writing; one can't exist without the other\"\n~ William Zinsser https://t.co/PD2iTOB0ls",
-    "url": "https://twitter.com/i/web/status/1953452076458987523"
-  },
-  {
-    "text": "@Jose_HRFreak Uhmm, te diría que\n1. How to build a car de Newey. A veces se pone un poco técnico, pero me gustó bastante\n2. The High Performance Podcast tiene entrevistas con muchos pilotos\n3. La serie Drive to survive. Algunos capítulos van \"más allá del espectáculo\", bastante introspectivos.",
-    "url": "https://twitter.com/i/web/status/1953278471687553285"
-  },
-  {
-    "text": "P. Que se aplauda esto quizá es una muestra, una vez más, de que preferimos vivir en la ilusión que en la realidad. La realidad nos da miedo. Y hay quienes esto lo han pillado muy bien y nos deforman la realidad constantemente. \n\nR. Al final, todos los seres humanos sabemos,…",
-    "url": "https://twitter.com/i/web/status/1953111891753984228"
   },
   {
     "text": "13 ways to spot High Agency people:\n\n1. Weird teenage hobbies - Teenage years are the hardest time to go against social pressures. If they can go against the crowd as a teenager, they can go against the crowd as an adult.\n\n2. High Bias for action - High agency people think… https://t.co/DlLzw4WZhs",
@@ -35424,10 +37602,6 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1787514471675494661"
   },
   {
-    "text": "https://t.co/vSm5cc4Zzn",
-    "url": "https://twitter.com/i/web/status/1787529096991227955"
-  },
-  {
     "text": "De “El aroma de los imperios” hemos aprendido que Málevich diseñó frascos para perfumes soviéticos, que algunos de esos perfumes se llamaban “Tanque” o “A sus puestos” y que somos fans de Karl Schlögel https://t.co/wUSca4utGb",
     "url": "https://twitter.com/i/web/status/1787547278573490323"
   },
@@ -35787,7 +37961,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1779528225225326926"
   },
   {
-    "text": "@Fel_blan Alguna vez te recomendé este libro \nhttps://t.co/3cIIPdFsSv",
+    "text": "You’re unable to view this Post because this account owner limits who can view their Posts. {learnmore}",
     "url": "https://twitter.com/i/web/status/1779391350401540475"
   },
   {
@@ -35883,6 +38057,106 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1775592917517688935"
   },
   {
+    "text": "@serd1g @flanagrama Y este, de entre otros, marcó mi gusto por las ciencias de joven \n\nhttps://t.co/Yo6dS5ZZky",
+    "url": "https://twitter.com/i/web/status/1978781617989566919"
+  },
+  {
+    "text": "En mi opinión, David, Allen y Cipolla son más persuasivos y escriben bastante mejor que North y Mokyr. El fuerte de estos últimos es la potencia de sus ideas, más que la forma de presentarlas. Braudel es capítulo aparte, un historiador total, con ambición casi inabarcable.",
+    "url": "https://twitter.com/i/web/status/1978761590364082623"
+  },
+  {
+    "text": "De Robert C. Allen (mi historiador favorito en activo) y de Braudel he hablado bastante. Prosa vigorosa, don para explicar, poder analítico…si queréis algo ligero, estos dos breviarios resumen bien su visión y estilo. https://t.co/Nu8HGvw8mS",
+    "url": "https://twitter.com/i/web/status/1978761586761187546"
+  },
+  {
+    "text": "Anne-Laure Le Cunff tiene un perfil profesional de esos que molan: trabajó en Google, fundó una startup, se doctoró en neurociencia y hoy dirige Ness Labs, un proyecto de divulgación sobre cómo aprender y vivir mejor.\n\nEn la newsletter de esta semana de kaizen, @jaime_rdes y yo… https://t.co/Y0IbQu8KI9",
+    "url": "https://twitter.com/i/web/status/1978769761870774286"
+  },
+  {
+    "text": "One way I approach pen and ink drawings after ~5mo teaching myself to draw\n\nBasic line art => add weight to lines to convey shadow, solidity, etc => add true shadows with alcohol marker\n\nIt's cool that basically any approach works as long as you don't violate fundamentals https://t.co/vt79FsC5b1",
+    "url": "https://twitter.com/i/web/status/1978640067221455146"
+  },
+  {
+    "text": "@victorianoi ¿Has visto la serie El Encargado? Es argentina y tratan este tema. Además es muy divertida. En Barcelona no me suena verlos. Quizá no me muevo por barrios donde estén. Dan muy mal rollo.",
+    "url": "https://twitter.com/i/web/status/1978362373669785705"
+  },
+  {
+    "text": "Homero, Aquiles y Alejandro. https://t.co/3JZTdgoc6E",
+    "url": "https://twitter.com/i/web/status/1977773515685126188"
+  },
+  {
+    "text": "https://t.co/kcphmgBVzH",
+    "url": "https://twitter.com/i/web/status/1977655483793395883"
+  },
+  {
+    "text": "“give yourself a lot of shots to get lucky” is even better advice than it appears on the surface.\n\nluck isn’t an independent variable but increases super-linearly with more surface area—you meet more people, make more connections between new ideas, learn patterns, etc.",
+    "url": "https://twitter.com/i/web/status/1695775873545183584"
+  },
+  {
+    "text": "Who you think you are is all the matters in this life https://t.co/eAHLg4IRAo https://t.co/LMe3N62QnA",
+    "url": "https://twitter.com/i/web/status/1977002508678840544"
+  },
+  {
+    "text": "@alvarobernad1 Los cipreses creen en Dios, de José María Gironella. Por la familia Alvear y en especial por César Alvear. Terminas el libro y eres una persona distinta.",
+    "url": "https://twitter.com/i/web/status/1977477329178992873"
+  },
+  {
+    "text": "@edus432 Llegué a ella por esta otra! https://t.co/H77WtpfyMS",
+    "url": "https://twitter.com/i/web/status/1977463003554410595"
+  },
+  {
+    "text": "https://t.co/61xUI4AB7h via @MM_SdT 👌",
+    "url": "https://twitter.com/i/web/status/1977461848317345914"
+  },
+  {
+    "text": "Steal this nano banan prompt \n\n”Create a photo-style line drawing / ink sketch of the faces identical to the uploaded reference image — keep every facial feature, proportion, and expression exactly the same.\nUse blue and white ink tones with intricate, fine line detailing, drawn… https://t.co/4Bc2ftI8Wq",
+    "url": "https://twitter.com/i/web/status/1977139213456769477"
+  },
+  {
+    "text": "Monet, The Forest of Saint-Germain https://t.co/WdxOwel81z",
+    "url": "https://twitter.com/i/web/status/1976983467343986864"
+  },
+  {
+    "text": "Ahora publica libro sobre cómo gastar el dinero. A veces los que mucho ahorran no saben luego cambiar el chip para disfrutarlo https://t.co/mqMSjb0Yz7",
+    "url": "https://twitter.com/i/web/status/1976966617772048627"
+  },
+  {
+    "text": "Pensando recurrentemente en cambiarme la mochila del curro, porque llevo con la misma 5 años... Como podréis ver, me cansa la mochila corporativa y quiero algo más casual. Dos opciones claras que dejo a vuestros comentarios:\n- Thule EnRoute (110€)\n- Forclaz (70€) https://t.co/XDoa6AhmH0",
+    "url": "https://twitter.com/i/web/status/1929875714607927690"
+  },
+  {
+    "text": "Ok, so nobody replied, and I think that is a fantastic indication I should DO it. Fuck engagement metrics.\n\nHere is the first day of #100DaysOfNotetaking: https://t.co/4vlvsGVmo3 https://t.co/5QOXareYvl",
+    "url": "https://twitter.com/i/web/status/1839005808433955019"
+  },
+  {
+    "text": "Las ONGs que trabajan en el tema cifran en _cientos de miles por año_ los desaparecidos. https://t.co/mSC0K9pgWL",
+    "url": "https://twitter.com/i/web/status/1877115784692117528"
+  },
+  {
+    "text": "https://t.co/OxRdvDdvDh",
+    "url": "https://twitter.com/i/web/status/1975812200238620858"
+  },
+  {
+    "text": "Available for purchase today from @stripepress. https://t.co/NawR4mjtYf",
+    "url": "https://twitter.com/i/web/status/1975945119795929409"
+  },
+  {
+    "text": "{Reseña} Voyeurs del Arte Grecorromano (@reinodecordelia) https://t.co/KkfPlkj7DZ a través de @librosdecibola",
+    "url": "https://twitter.com/i/web/status/1975948908066230427"
+  },
+  {
+    "text": "The Scaling Era is out today.\n\nIt draws on interviews with everyone from Demis Hassabis and Dario Amodei to Ilya Sutskever and Trenton Bricken to Carl Shulman and Eliezer Yudkowski to understand AI from the people actually building it. https://t.co/KpG1Ml0MEi https://t.co/TZIyQc9cHZ",
+    "url": "https://twitter.com/i/web/status/1975949175704490330"
+  },
+  {
+    "text": "What is intelligence? What will it take to create AGI? What happens once we succeed?\n\nThe Scaling Era: An Oral History of AI, 2019–2025 by @dwarkesh_sp and @g_leech_ explores the questions animating those at the frontier of AI research.\n\nIt’s out today: https://t.co/6GzEZyaggR https://t.co/ORkRsOBfHM",
+    "url": "https://twitter.com/i/web/status/1975939240002253306"
+  },
+  {
+    "text": "Estoy decidiendo cual será mi próximo libro. Mis opciones\n- La Colmena\n- La Cartuja de Parma\n- Los Miserables (por favor opinión sincera de si me va a gustar o no)",
+    "url": "https://twitter.com/i/web/status/1975959226674741682"
+  },
+  {
     "text": "'¿Podemos ser conscientes de la existencia de Dios?\n\nSi podemos ser felices es porque podemos conocerle' https://t.co/cPW8U2csgY",
     "url": "https://twitter.com/i/web/status/1775570960805998982"
   },
@@ -35937,106 +38211,6 @@ window.LIKES = [
   {
     "text": "@flanagrama My humble take (super WIP): Educando en valores (a través del ejemplo), trabajando mucho el self-awareness (que entiendan ellos mismos el impacto de lo que hacen), y haciéndoles partícipes de las decisiones que se toman (que tengan agency y entiendan que hay tradeoffs)",
     "url": "https://twitter.com/i/web/status/1774505589814558752"
-  },
-  {
-    "text": "¿Qué tres autores se repiten más en vuestra biblioteca?",
-    "url": "https://twitter.com/i/web/status/1953177416253489208"
-  },
-  {
-    "text": "We are all robots. I mean this in a literal sense. What we call biology is nanorobotics so advanced we still have not fully embraced this reality.\n\nSeriously. Look at this thing. This is clearly a robot. Really hard to argue it isn't. We call this life, yet this part of it, in… https://t.co/pzW9JbRQNB",
-    "url": "https://twitter.com/i/web/status/1915098687463993401"
-  },
-  {
-    "text": "\"Porque no estamos diseñados para vivir sin relato. No estamos hechos para ver el mundo desnudo. Necesitamos dioses —sean teológicos, románticos o económicos— que den sentido al teatro que habitamos. Divinidades seculares que respondan a nombres como «proyecto personal»,…",
-    "url": "https://twitter.com/i/web/status/1923285678667772176"
-  },
-  {
-    "text": "Writing is thinking.\n\nDon't let AI do it all. https://t.co/jwBmhNi6ot",
-    "url": "https://twitter.com/i/web/status/1952694629582639591"
-  },
-  {
-    "text": "A veces, lo que parece una ilusión es simplemente una ficción  funcional, una fabulación útil. La ballena blanca que perseguía el  capitán Ahab no era solo obsesión, sino propósito. La pluma de Dumbo,  aunque inútil, le permitió volar. La zanahoria que cuelga frente al  burro no…",
-    "url": "https://twitter.com/i/web/status/1952643764629000353"
-  },
-  {
-    "text": "Resulta triste que las ciencias sociales evolutivas hayan atravesado una sucesión de modas pasajeras, con distintas escuelas, como la sociobiología, apareciendo y desapareciendo como el Guadiana.\n\nEn última instancia, si bien cualquier afirmación o teoría dentro de la psicología… https://t.co/yqXYr6amoz",
-    "url": "https://twitter.com/i/web/status/1952726210758214122"
-  },
-  {
-    "text": "The shirtless architect https://t.co/utfhqOfYjd",
-    "url": "https://twitter.com/i/web/status/1952539703296835962"
-  },
-  {
-    "text": "Prompt: Turn the subject in this image into high-quality Apple Memoji-style 3D emoji avatars, while keeping the full pose, body positioning, facial expressions, and interactions exactly the same. Preserve all key visual details including clothing, accessories, fur, skin tone,…",
-    "url": "https://twitter.com/i/web/status/1952397784839074113"
-  },
-  {
-    "text": "Oro puro \n\nhttps://t.co/drs0sPQzZ1",
-    "url": "https://twitter.com/i/web/status/1952423300220780956"
-  },
-  {
-    "text": "Lo de Alejo Moreno es un caso único en España: es un director de cine... crítico con el poder... que ejerce Hacienda. Lo nunca visto. \n\nLe entrevisté sobre su documental en el que critica los oscuros métodos que utiliza Hacienda. \n\nSe agradece la difusión\n\nhttps://t.co/45oy99XK2J",
-    "url": "https://twitter.com/i/web/status/1952423561802420381"
-  },
-  {
-    "text": "A few more:\n\nStephen Biesty's Egypt in Spectacular Cross-section, by Stewart Ross, 2005\n\nStephen Biesty's Incredible Cross-Sections, by Richard Platt, 1992\n\nCastle Cross-sections, by Stephen Biesty, 2000\n\nSee Inside Ancient Egypt, by Jones Rob Lloyd, Illustrated by David Hancock,… https://t.co/4bYKOOBhLK",
-    "url": "https://twitter.com/i/web/status/1952437121932734672"
-  },
-  {
-    "text": "One of the most enticing genres of illustrated children’s books are cross sections. The best ones are done by David Macaulay. \n\nCity, 1974\n\nCastle, 1977\n\nMill, 1983 https://t.co/k1WP6a31ki",
-    "url": "https://twitter.com/i/web/status/1952366628030623852"
-  },
-  {
-    "text": "What's the most woo-woo hippy idea do you think is probably true?\n\nHere's mine: Language shapes reality WAY more than most think. Swapping the word \"problem\" for \"puzzle\" moves me from anxiety to curiosity. Problem activates my amygdala and puzzle activates my prefrontal cortex.…",
-    "url": "https://twitter.com/i/web/status/1952453988416413756"
-  },
-  {
-    "text": "Okay so that Miles Davis quote \"if you hit a wrong note, it's the next note you play that determines if it's good or bad\" applies to basically everything",
-    "url": "https://twitter.com/i/web/status/1952018294208147655"
-  },
-  {
-    "text": "Por fin os puedo enseñar mi nuevo estudio ¿Qué rincón os gusta más? Si tenéis cualquier duda os contesto en comentarios ✍️😍\n\n#artstudio #housetour #homedecor #artsupplies https://t.co/iM1RfWj6eU",
-    "url": "https://twitter.com/i/web/status/1952075422536978655"
-  },
-  {
-    "text": "Llevo todo el día así, si todo va bien esta semana termino este grandísimo libro que, sin duda, escala a mi top 3 all  time favs. https://t.co/JaZof8U3yW",
-    "url": "https://twitter.com/i/web/status/1952009854467420525"
-  },
-  {
-    "text": "Toyota AE-86 Sprinter Trueno https://t.co/arkvit6PRt",
-    "url": "https://twitter.com/i/web/status/1951431454422081944"
-  },
-  {
-    "text": "“Mansión”:\nPorque un tipo de mansión sin lujos, que es acogedora por dentro https://t.co/Sa65AZcirj",
-    "url": "https://twitter.com/i/web/status/1951684135380008988"
-  },
-  {
-    "text": "Ethan Evans ( @EthanEvansVP ) went from being fired twice because of poor soft skills to getting promoted to Vice President at Amazon with a team of over 800 engineers. I asked him about everything he learned along the way.\n\nWe discussed:\n• Being fired for poor soft skills\n•… https://t.co/DfxQC6JpSz",
-    "url": "https://twitter.com/i/web/status/1951255482162901225"
-  },
-  {
-    "text": "Link a la plantilla:\n\nhttps://t.co/9PFO0wXe2H",
-    "url": "https://twitter.com/i/web/status/1951626104868929593"
-  },
-  {
-    "text": "2002 vs 2025\n\nMy first \"book\" was four pages long (including the cover) and apparently inspired by the recent release of Star Wars: Episode II…\n\n23 years later and copies of my first real book have just arrived.\n\nBut... so what? A book is good whether it's been published or not.… https://t.co/KIT0fw0FUO",
-    "url": "https://twitter.com/i/web/status/1951622198495518819"
-  },
-  {
-    "text": "«Lo que yo hago para poder dar clase es, básicamente, estudiar; podemos darle el pomposo nombre de “investigación” pero, al menos en esta materia, en donde no usamos tubos de ensayo ni escáneres ni sofisticados programas informáticos, se trata de estudiar».\n- José Luis Pardo.",
-    "url": "https://twitter.com/i/web/status/1951179348079194510"
-  },
-  {
-    "text": "I built my dream office in the forest behind my home.\n\nArt studio, workspace, podcast set, library, lounge, kitchen, bathroom, sleeping loft - all in one!\n\nIt took 4 months to build, start to finish.\n\nWant to see inside the nook? 🧵 https://t.co/saV01nF7eC",
-    "url": "https://twitter.com/i/web/status/1950929604354744379"
-  },
-  {
-    "text": "https://t.co/MpftgmUKdG",
-    "url": "https://twitter.com/i/web/status/1951323889163714884"
-  },
-  {
-    "text": "Industrial electricity prices in Britain have roughly ***quadrupled*** over the last 20 years.\n\nDeindustrialization is a policy choice. https://t.co/aK5rFYHeO0",
-    "url": "https://twitter.com/i/web/status/1951025741279137969"
   },
   {
     "text": "Me quiero comprar unos barefoot, la marca blanca más básica, estándar, económica y multifuncional. Decidme, cuál es el msci world de los barefoot?",
@@ -36367,6 +38541,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1763525853336502747"
   },
   {
+    "text": "Sobre lo del capital social, la explicación que más me gusta está en el libro de Outliers. Cuando la leí por primera vez dije: \"Wow, esto es lo que llevo observando años y nunca había llegado a saber explicar\".\n\n¿En qué se diferencian los niños de las familias de clase media-alta… https://t.co/MmJPD5EatY",
     "url": "https://twitter.com/i/web/status/1763611169137254649"
   },
   {
@@ -36414,6 +38589,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1760205107788997077"
   },
   {
+    "text": "Me ha encantado este episodio de @seedrocket con Toni Segarra. \n\nAdemás, estos 3min sobre la universidad son demoledores, ya que aplican al 90% de las carreras y profesiones. \n\nTremendo elefante en la habitación tenemos delante con este tema.\n\n https://t.co/x4G11bJO4l https://t.co/roGyLMtgEM",
     "url": "https://twitter.com/i/web/status/1759232068716757180"
   },
   {
@@ -36821,6 +38997,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1740633498979832075"
   },
   {
+    "text": "He vuelto a ver la entrevista de Yung Beef con Los Xavales y me ha dado por pensar cómo encajarían sus respuestas en los temas en los que yo pienso habitualmente y solemos comentar en Twitter 😂\n\n1. YB sobre la independencia financiera https://t.co/C4S6WPIZIs",
     "url": "https://twitter.com/i/web/status/1740327727771910406"
   },
   {
@@ -36856,6 +39033,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1740029959798661570"
   },
   {
+    "text": "2h del Farrero con un duro entrevistador delante que a pesar de no ser del mundillo startup (o precisamente por eso y porque es muy inteligente y se ve que se lo ha preparado), hace preguntas de first principles maravillosas y le aprieta a muerte\n\nworth watching…",
     "url": "https://twitter.com/i/web/status/1740132857719173129"
   },
   {
@@ -36979,6 +39157,106 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1735969412128121137"
   },
   {
+    "text": "He visto este mapa y se me ocurre que esta era la visión fenicia del mediterraneo. Curioso. https://t.co/2V1mKckavW",
+    "url": "https://twitter.com/i/web/status/1974824813316149360"
+  },
+  {
+    "text": "Memory is not stored in matter, it is the matter, arranged in a way it can’t forget. Every lasting thing in the universe, from galaxies to cells, holds its past not in chemistry but in geometry, in the alignment that refuses to collapse.\n\nA skyrmion is one of those shapes. It’s… https://t.co/82Lf5BJCD2",
+    "url": "https://twitter.com/i/web/status/1974613532017668164"
+  },
+  {
+    "text": "Ayer fuimos a un parque de aventura. Solemos hacerlo a menudo. A los niños les encanta.\n\nEn este había una camino de 1h30’ para hacer descalzos, con paradas donde se explicaban las distintas plantas/árboles/animales de la zona. \n\nLuego había una zona con colchonetas, juegos con… https://t.co/YGXllfFjKZ",
+    "url": "https://twitter.com/i/web/status/1975107019221696986"
+  },
+  {
+    "text": "Por su naturaleza intrínseca, los modelos de diffusion estan mucho más capacitados para llegar a la AGI que los transformers.\n\nEs el verdadero cambio de paradigma, de replicar distribuciones estadísticas a replicar ODEs. Uno no puede extrapolar fuera del espacio de conocimiento,… https://t.co/qYiWBwTGnp",
+    "url": "https://twitter.com/i/web/status/1974940309571219645"
+  },
+  {
+    "text": "The New Yorker https://t.co/SFiu5O93Yb",
+    "url": "https://twitter.com/i/web/status/1975093995161461191"
+  },
+  {
+    "text": "Nunca digas nunca https://t.co/UMz1OGQGaJ",
+    "url": "https://twitter.com/i/web/status/1975456126410932415"
+  },
+  {
+    "text": "4. How to talk to anyone de Leil Lowdnes https://t.co/EyhGPmLc5o",
+    "url": "https://twitter.com/i/web/status/1975503010605252647"
+  },
+  {
+    "text": "3. Why greatness cannot be planned https://t.co/GYrEXPtqf2",
+    "url": "https://twitter.com/i/web/status/1975503006717112734"
+  },
+  {
+    "text": "2. Between us de Batja Mesquita https://t.co/lVyz6G2pyD",
+    "url": "https://twitter.com/i/web/status/1975503002887672129"
+  },
+  {
+    "text": "5 libros brutales, que no entiendo porqué no están traducidos aún.\n\n1. The Status Game de Will Storr https://t.co/s7qQ04KXTx",
+    "url": "https://twitter.com/i/web/status/1975502998127399208"
+  },
+  {
+    "text": "Quiero ver los vuestros 👀 https://t.co/0qFevT4D6A https://t.co/6qhs9UzmnR",
+    "url": "https://twitter.com/i/web/status/1975528196209844365"
+  },
+  {
+    "text": "(en verdad el Ruletista debería estar también en el lugar de Estudio en esmeralda, que también lo podría compartir con El viejo y el mar) https://t.co/hCTvR6MAzX https://t.co/EQfPx177fK",
+    "url": "https://twitter.com/i/web/status/1975589630344110558"
+  },
+  {
+    "text": "La eterna e inevitable pregunta.\n\nY un gran libro, que nunca me cansaré de recomendar y que para mí fue un punto de inflexión en mi trayectoria filosófica y personal. De los libros que más me han marcado. Una obra filosófica y teológica fundamental para abordar la gran pregunta. https://t.co/sRgZ9hGBLS",
+    "url": "https://twitter.com/i/web/status/1975659269866295580"
+  },
+  {
+    "text": "Sí. https://t.co/Ny8Qoy1nVH https://t.co/RlIGwucp0v",
+    "url": "https://twitter.com/i/web/status/1975565777333096568"
+  },
+  {
+    "text": "“Pensar no es algo que hagas. La mayor parte del tiempo es algo que te sucede. Investigaciones de vanguardia sobre el fenómeno del Mind Wandering (divagación mental) muestran claramente cómo casi todos nosotros, durante más de dos tercios de nuestra vida consciente, no tenemos…",
+    "url": "https://twitter.com/i/web/status/1974014098045071657"
+  },
+  {
+    "text": "Este verano fuimos de vacaciones a Japón! Tomé unas notas de consejos de viajes y cosas que me llamaron la atención para amigos que quisieran ir. Las comparto por aquí también 👇\n\nParte 1 · Consejos de viaje 🇯🇵\n\n1. Cuándo ir 📅\n•Mayo, junio, septiembre y octubre: clima templado… https://t.co/ANYBkX1LNC",
+    "url": "https://twitter.com/i/web/status/1974474637586096354"
+  },
+  {
+    "text": "My list of must read business books 📚 \n\n- The Outsiders\n- Lessons from the Titans\n- Alchemy\n- Intelligent Fanatics\n- The Compounders\n- Scaling People\n- Unreasonable Hospitality\n- Double Your Profits in Six Months or Less\n- Cable Cowboy\n- Born to be Wired\n- Influence\n- Shoe Dog\n-…",
+    "url": "https://twitter.com/i/web/status/1974454113980051522"
+  },
+  {
+    "text": "There is a GitHub repo packed with over 100 NanoBanana detailed prompts and high-quality examples.\n\nIt covers almost every use case:\n\n• Multi-image fusion\n• Achieving consistency\n• Blending styles\n\nAnd a lot more. Link below. https://t.co/HHQ3HSAX8W",
+    "url": "https://twitter.com/i/web/status/1973774720777732429"
+  },
+  {
+    "text": "Freepik #4 on the ranking of AI companies where startups spend. Something tells me it will not be easy to overtake OpenAI, Anthropic and Replit, but they better watch out! 🚀 https://t.co/mLn6yPgWBu",
+    "url": "https://twitter.com/i/web/status/1973830286946291759"
+  },
+  {
+    "text": "You can beat 99% of people if you can master the shame of rejection, the boredom of repetition, and pain of feedback.",
+    "url": "https://twitter.com/i/web/status/1973870305945780712"
+  },
+  {
+    "text": "Mi debate interno a la 1 am un jueves está siendo si debería empezar la biografía de Alejandro Magno o hacer la transición de siglo XIX a XX con Cela: La Colmena o Pascual Duarte.",
+    "url": "https://twitter.com/i/web/status/1973882365362790822"
+  },
+  {
+    "text": "Leyendo este libro publicado por @EdicionesDeusto https://t.co/6HzsiYmct6",
+    "url": "https://twitter.com/i/web/status/1973044481097339008"
+  },
+  {
+    "text": "Revisando fotos me estaba dando cuenta de lo que me gusta cocinar.\n\nVamos a intentar darle más caña a las recetas para que os animéis a hacerlas y que las podáis disfrutar.\n\nEspero que os guste! https://t.co/YYsMSbsAgg",
+    "url": "https://twitter.com/i/web/status/1972247108049613176"
+  },
+  {
+    "text": "https://t.co/yBYL7IN4zq",
+    "url": "https://twitter.com/i/web/status/1973107712595730732"
+  },
+  {
+    "text": "mi abuelo una vez me dijo: \"No le cuentes a nadie tus asuntos a menos que te beneficie que lo sepan\". Y debo admitir que es lo mejor que he escuchado. Mantener las cosas privadas es una acción de poder subestimada. No todos merecen tener acceso a tu vida.",
+    "url": "https://twitter.com/i/web/status/1973120503486271716"
+  },
+  {
     "text": "TABERNAS POR SANLÚCAR DE BARRAMEDA\n\n“CASA BALBINO” una institución en la ciudad, visita obligada si no se conoce.\n\nBarras, mesas altas y terraza, todo ello con buen producto.\n\n- Míticas tortillitas de camarones, que para muchos son las mejores.\n\n- Huevas espectaculares. https://t.co/18OvfJzl5O",
     "url": "https://twitter.com/i/web/status/1735380318301868168"
   },
@@ -37033,106 +39311,6 @@ window.LIKES = [
   {
     "text": "How to get creative (without doing drugs): https://t.co/pTVAs9Huxq",
     "url": "https://twitter.com/i/web/status/1733143206144123356"
-  },
-  {
-    "text": "Este libro te hace ver el mundo con otros ojos. Entiendes mejor lo que pasa en la sociedad y lo que mueve a las personas. Aunque aviso, no te hará más feliz:\nhttps://t.co/FGPfRcZidT",
-    "url": "https://twitter.com/i/web/status/1950443585318289411"
-  },
-  {
-    "text": "@hamptonism @Darkminer71 Tangential fun read: https://t.co/926uHbdjBb",
-    "url": "https://twitter.com/i/web/status/1950926681637900336"
-  },
-  {
-    "text": "The 10 Levels of Wealth: https://t.co/6x5EuBWq2R",
-    "url": "https://twitter.com/i/web/status/1950870103660089853"
-  },
-  {
-    "text": "Sketchbook page 32 https://t.co/t563shvxkT",
-    "url": "https://twitter.com/i/web/status/1838960458545394164"
-  },
-  {
-    "text": "No os perdáis en NETFLIX la serie DOROHEDORO, 12 episodios repletos de situaciones surrealistas, psicodelia, gore y humor negro acompañado de una sensacional banda sonora. Hechiceros, demonios, mafias y ambiente post apocalíptico. Deseando la segunda temporada. https://t.co/lxugdTKCcC",
-    "url": "https://twitter.com/i/web/status/1950301618211336617"
-  },
-  {
-    "text": "Estoy decidiendo cuáles serán mis lecturas de este verano. \n\nMi intención es encontrar novelas no muy extensas cuyo autor verdaderamente tenga algo que transmitir (me dan mucha pereza las historietas insustanciales). \n\n¿Recomendaciones?",
-    "url": "https://twitter.com/i/web/status/1939375721140441122"
-  },
-  {
-    "text": "Mi párrafo favorito de Chesterton, de rabiosa actualidad.  \n\nCasi nadie sabe por sí mismo por qué ciertas ideas tienen valor (si eso, podrán indicar en qué norma súper importante se regulan). \n\nY así vamos, como pollos sin cabeza cuya brújula moral es lo que diga (hoy) la ley. https://t.co/KOAjbqqw0P",
-    "url": "https://twitter.com/i/web/status/1940122677634863203"
-  },
-  {
-    "text": "Sumisión está bien. \n\nPero Las partículas elementales es el mejor libro de Houellebecq. Con diferencia. \n\nAquí una pequeñísima muestra. https://t.co/gUEzJYO9fg https://t.co/Db0hw6LBbj",
-    "url": "https://twitter.com/i/web/status/1950276968726831340"
-  },
-  {
-    "text": "«Aquel a quien los dioses quieren destruir, primero lo vuelven loco»\n\nEurípides",
-    "url": "https://twitter.com/i/web/status/1949928521180336629"
-  },
-  {
-    "text": "@MrtnzAlvrz Y como ya quieras ver arquitectura moderna -La Corona de Espinas, Museo del Traje, Torres Blancas, Hipódromo de la Zarzuela, las iglesias posconciliares de arquitectos de la ETSAM, etc- date por vencido. Eso es que ni la gente que vive aquí sabe que existe.",
-    "url": "https://twitter.com/i/web/status/1949781972852584798"
-  },
-  {
-    "text": "@MrtnzAlvrz En Madrid, sólo por lo complicado que es ver La Encarnación, Las Descalzas, San Plácido, San Antonio de los Alemanes, San Francisco el Grande o Las Comendadoras de Santiago, es una ciudad que ni culturalmente la conocen un 90% de los que viven. Es una ciudad muy esquiva.",
-    "url": "https://twitter.com/i/web/status/1949780953502716272"
-  },
-  {
-    "text": "Ya hacía años que no me reía tanto con un libro... Recomiendo, tiene capítulos legendarios. https://t.co/WMZi6OyX0k",
-    "url": "https://twitter.com/i/web/status/1949868298788622446"
-  },
-  {
-    "text": "My most important rule for life… https://t.co/Zun1spgo3D",
-    "url": "https://twitter.com/i/web/status/1949512961740927431"
-  },
-  {
-    "text": "Este artículo explica cómo las religiones humanas han evolucionado hacia un enfoque cada vez más moralizante, es decir, más preocupadas por regular la moralidad de los creyentes. Los autores identifican tres etapas principales en este proceso, que reflejan un aumento gradual en… https://t.co/PS2lm7r1XX",
-    "url": "https://twitter.com/i/web/status/1949347682713047332"
-  },
-  {
-    "text": "Más lecturas de verano. Libro muy bien escrito con algunos insights de muchísimo interés desde el punto de vista de la psicología inversora. https://t.co/riA3PLHg0r",
-    "url": "https://twitter.com/i/web/status/1949376850272358562"
-  },
-  {
-    "text": "If I were an incel, I would simply acquire aura. Here are 16 things I would do:\n\n• go to the gym; not only to get shredded, but to regulate hormones, boost T, and earn self-respect… better yet, train some combat sport with other men\n\n• get groomed: clean nails, good smell,… https://t.co/UJRGbIwA5B https://t.co/FyPCHG98aM",
-    "url": "https://twitter.com/i/web/status/1948699824984871350"
-  },
-  {
-    "text": "Wilde. https://t.co/jF01k3qhik",
-    "url": "https://twitter.com/i/web/status/1948830189187899588"
-  },
-  {
-    "text": "Steve Jobs : how to design perfect products. https://t.co/ovLM0dJma2",
-    "url": "https://twitter.com/i/web/status/1948843915827696042"
-  },
-  {
-    "text": "\"Soy una mentirosa. Soy una ladrona. Soy emocionalmente superficial. Soy mayormente inmune al remordimiento y la culpa. Soy altamente manipuladora. No me importa lo que otras personas piensen. No estoy interesada en la moral. No estoy interesada, punto. Las reglas no influyen en… https://t.co/0lCuDyEeeq",
-    "url": "https://twitter.com/i/web/status/1948991293289296091"
-  },
-  {
-    "text": "7. Los colores de nuestros recuerdos (Michel Pastoureau, trad. Laura Salas, @PerifericaEdito). Erudición, vivencias, recuerdos, disquisiciones y digresiones... todo cabe en este repaso cromático que sirve de crisol de un autor enamorado de los colores y de su historia. #Papel2025 https://t.co/pSVj7IU5e2",
-    "url": "https://twitter.com/i/web/status/1889623430758031696"
-  },
-  {
-    "text": "La gran tarea pendiente de hoy es la misma que la de hace 2000 años: \"hacer las paces con la suerte\".",
-    "url": "https://twitter.com/i/web/status/1948381910058639787"
-  },
-  {
-    "text": "Tremendamente certero. Josef Pieper. https://t.co/uplUDsSYWy",
-    "url": "https://twitter.com/i/web/status/1948644415465001370"
-  },
-  {
-    "text": "Perplexity x Tatiana Moodboard #7!\n\nThe code: --p kuwwd66\n\nThe link is in the thread.\n\nA sref combo we used to create these images:\n--sref 257047628 --profile l3h4vio --sw 500 --stylize 500 https://t.co/CuMoqWudLC",
-    "url": "https://twitter.com/i/web/status/1948212177149837732"
-  },
-  {
-    "text": "The last 4 books (and the last 4 episodes) have been nuts. Full of incredible personalities and world-class company builders: https://t.co/ulBsdNdzWH",
-    "url": "https://twitter.com/i/web/status/1948223324741312537"
-  },
-  {
-    "text": "@CGlorfindel ¿Este es? Gracias https://t.co/vwwztachGF",
-    "url": "https://twitter.com/i/web/status/1947733654224179665"
   },
   {
     "text": "2. Balaji's Transformer\n\nIf you have a written idea -- try to draw it\n\nIf you have a visual idea -- try to write it\n\nIf you have a numerical idea -- try to explain it out loud\n\nThe process of transforming the idea from one language to another produces a new perspective.",
@@ -37791,6 +39969,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1716429346343129308"
   },
   {
+    "text": "El descubrimiento de este finde ha sido el canal de  de este pavo @jimthegiant, que hace reportajes (\"video essays\") de subculturas, deportes raros y otras bizarradas.\n\nLo cuenta muy bien y súper documentado. Yo he visto momentos míticos del parkour y la desaparición de los chavs…",
     "url": "https://twitter.com/i/web/status/1716210093383921674"
   },
   {
@@ -38078,6 +40257,106 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1710466777304436789"
   },
   {
+    "text": "Muy buen hilo sobre la relación entre la fuerza física y rasgos de personalidad, estrategias conductuales y trastornos mentales:\n\n“En resumen, en comparación con las personas más débiles, las personas físicamente más fuertes se enfadan más rápidamente, son más agresivas, se… https://t.co/psbl5DKCF3",
+    "url": "https://twitter.com/i/web/status/1972970117488066946"
+  },
+  {
+    "text": "Por cierto, este libro sobre los efectos perversos de las licencias profesionales tiene muy buena pinta. Lo publicó recientemente Harvard University Press. https://t.co/X32Ca3MZJT",
+    "url": "https://twitter.com/i/web/status/1972991827906286040"
+  },
+  {
+    "text": "@_sergiosanjuan Es una forma de decir... Como haces algo haces todo. Como haces lo pequeño haces lo grande. A eso hace referencia 😉 Inspirado en el concepto de fractal.",
+    "url": "https://twitter.com/i/web/status/1973002152819003668"
+  },
+  {
+    "text": "🎙️ La apariencia no es superficial. Es autoarquitectura: cada detalle externo se replica dentro (ley Fractal estoica y teoría de las Ventanas Rotas). Lo exploro en el  nuevo episodio sobre Cognición Vestida, Mediterráneo Moral y PRESENCIA:\nhttps://t.co/HWiyiQ4tih https://t.co/4Od4FC0wOP",
+    "url": "https://twitter.com/i/web/status/1972987288838951129"
+  },
+  {
+    "text": "Si nos detenemos a contemplar el amplio paisaje de nuestras relaciones, se vuelve evidente que cuanto más importante es la relación para nosotros, mayor es el potencial de que surja un conflicto entre autonomía y conexión. Y eso, a su vez, plantea la cuestión fundamental de cómo… https://t.co/2AYUBB8M7A",
+    "url": "https://twitter.com/i/web/status/1972348726380273685"
+  },
+  {
+    "text": "Esperanza. https://t.co/EHrGzYYs3c",
+    "url": "https://twitter.com/i/web/status/1972420834389315799"
+  },
+  {
+    "text": "BREAKING: I've achieved a new power level on Day 72 of teaching myself to draw\n\nThis is a Nordic cottage with a green roof drawn entirely with a single pen\n\nSometimes I can feel my brain understand at a deeper level and then I know I must push to a harder piece to test myself https://t.co/PSpf7gdKjy",
+    "url": "https://twitter.com/i/web/status/1955284765105590709"
+  },
+  {
+    "text": "I for one will be enjoying a mushroom cacao while I study the basic forms of the human face as well as planar projection of roads, rivers, clouds, and trees https://t.co/HmSHU05m1J",
+    "url": "https://twitter.com/i/web/status/1969601953467678770"
+  },
+  {
+    "text": "¿Sigues dándole vueltas al par de zapatillas que te va a acompañar estos próximos meses?\n\nUna pena. La respuesta a esto es más sencilla de lo que crees.\nSiluetas que cubran el pie, diseños limpios y lo más simples posible, colores neutros y apagados y precios controlados.\n\nExige… https://t.co/MmYswnSlRh",
+    "url": "https://twitter.com/i/web/status/1971863634562146467"
+  },
+  {
+    "text": "Hay muchas formas de entender el lujo. Yo me quedo con esta. \nLa Casa del Presidente #Ávila https://t.co/A4BEJCMAIU",
+    "url": "https://twitter.com/i/web/status/1971487471562260594"
+  },
+  {
+    "text": "Es que ha quedado precioso!!\nTodo encaja y estoy súper feliz. Espero que os guste.\nYa es vuestro desde hoy.\n\nhttps://t.co/VGlH7heaKK https://t.co/tJJdDZ5BD1",
+    "url": "https://twitter.com/i/web/status/1968651408078475689"
+  },
+  {
+    "text": "https://t.co/vSm5cc4Zzn",
+    "url": "https://twitter.com/i/web/status/1787529096991227955"
+  },
+  {
+    "text": "@oalvarea @Against_hype me compré varios después de que God of War y Hades despertaran mi curiosidad: Mythology de Hamilton y Guía para identificar a los personajes de la mitología clásica",
+    "url": "https://twitter.com/i/web/status/1787768004157034982"
+  },
+  {
+    "text": "“Los griegos y los romanos no solamente situaban el Hades, sino que también colocaban más allá del estrecho de Gibraltar una serie de lugares míticos como la Atlántida, el Jardín de las Hespérides y los Campos Eliseos” https://t.co/vpC6DhZXd1",
+    "url": "https://twitter.com/i/web/status/1651678640176787493"
+  },
+  {
+    "text": "Reseña de Matt Ridley de este libro al que quiero hincarle el diente: \n\n«¿Por qué es usted tan cruel, señorita?», pregunta el personaje de Humphrey Bogart en La reina de África. «Un hombre bebe una copa de más de vez en cuando, es solo la naturaleza humana». El personaje de… https://t.co/fwysofOSzk",
+    "url": "https://twitter.com/i/web/status/1970591338891489731"
+  },
+  {
+    "text": "\"Se han cometido errores\", de Carol Tavris y Elliot Aronson\n★★★★☆ (4/5)\n\nEste libro explora un fenómeno universal: la necesidad de justificar nuestras creencias, decisiones y actos, incluso cuando son erróneos o dañinos. Lo hace desde la psicología social y, en particular, a… https://t.co/i7bvc4OeIk",
+    "url": "https://twitter.com/i/web/status/1970788240790565286"
+  },
+  {
+    "text": "Por qué los hechos probados no cambian la opinión de la gente. https://t.co/B0sajqcQgw",
+    "url": "https://twitter.com/i/web/status/1970820037511712840"
+  },
+  {
+    "text": "Blackrock lanza nueva clase del fondo que replica el msci world. Clase D (IE00BD0NCM55) TER 0,12%. Nueva clase S (IE000ZYRH0Q7) TER 0,06%. Parece que @MyInvestorES nos la está añadiendo, es así? https://t.co/LcOQXxA44j",
+    "url": "https://twitter.com/i/web/status/1970495679744344357"
+  },
+  {
+    "text": "La memoria. https://t.co/PPPwkLMRcF",
+    "url": "https://twitter.com/i/web/status/1970479324202733989"
+  },
+  {
+    "text": "@diegomarino @javisantana Los deberes no son ni buenos ni malos per se. \nUn esfuerzo hormético que esté constantemente trabajando sobre limites de la ZDP es necesario para crecer.",
+    "url": "https://twitter.com/i/web/status/1970038053747003892"
+  },
+  {
+    "text": "Señalaba Hayek que gran parte del conocimiento que tienen los individuos es difícilmente verbalizable, y por tanto difícil de adquirir por un planificador social. Aquí tenemos un buen ejemplo. En sus partidos informales, Moses Malone transmitió a Olajuwon un saber implícito,… https://t.co/MKvMgKV8Ii https://t.co/PkGIZUarU9",
+    "url": "https://twitter.com/i/web/status/1970213131826639126"
+  },
+  {
+    "text": "YOU CANNOT COMPETE WITH SOMEONE WHO IS HAVING FUN",
+    "url": "https://twitter.com/i/web/status/1970143299496472954"
+  },
+  {
+    "text": "Llego tarde a comentar estos dos virales pero considero necesario aportar mi humilde opinión en este tema…\n\nLo de ir de “purista del buen vestir” y despreciar Nude, Scuffers o Cold Culture me parece de chiste.\nYo tampoco soy su comprador. Voy en chinos y camisa 8 días a la… https://t.co/yO4RNMJDkO",
+    "url": "https://twitter.com/i/web/status/1969455374894862343"
+  },
+  {
+    "text": "El otro día me enseñaron esto en Instagram y me pareció una idea muy guay.\nPara un regalo distinto y con mucho estilo: Walled Maps.\n\nHacen cuadros 3D de ciudades, con sus calles, arquitectura y rincones más emblemáticos, que parecen auténticas piezas de arte.\n\nMe gusta porque no… https://t.co/sWFjxesFG6",
+    "url": "https://twitter.com/i/web/status/1969030108242420041"
+  },
+  {
+    "text": "@CarlosMoralesG_ Me recuerda a @artandmap (IG). Lo he regalado en varias bodas donde los novios son de fuera y siempre encanta. https://t.co/LYO7EtNv1J",
+    "url": "https://twitter.com/i/web/status/1969056160473853988"
+  },
+  {
     "text": "Si ven que desaparezco y no actualizó que sepan que es por simple aburrimiento de la sobrepoblación de cuentas básicas dogmáticas y cazaincautos que hay por estos lares. \n\nSiempre les quedará el reducto de Másdividendos, aquí tienen la tabla completa:\n\nhttps://t.co/vVacQAmdYy",
     "url": "https://twitter.com/i/web/status/1709849344642363806"
   },
@@ -38132,106 +40411,6 @@ window.LIKES = [
   {
     "text": "Me ha parecido perfecto para leerlo en familia.\n¡Hoy lo empezamos! https://t.co/ykoTgb84eK",
     "url": "https://twitter.com/i/web/status/1707829952005955801"
-  },
-  {
-    "text": "Apple made Liquid Glass reflections even better in the new iOS 26 Beta 4 https://t.co/lJAtmnbiba",
-    "url": "https://twitter.com/i/web/status/1947818116303753721"
-  },
-  {
-    "text": "Nadie, absolutamente nadie, ha hecho cosas bien hechas con disciplina.\n\nSiempre es por motivación. La disciplina te permite hacer lo básico, la motivación es lo que te permite ir al fondo de los detalles.\n\nPor eso es clave encontrar el juego al que quieres jugar. Una vez lo… https://t.co/5CPAx52pd1",
-    "url": "https://twitter.com/i/web/status/1947268562491445662"
-  },
-  {
-    "text": "El sábado tocó celebrar en Madrid y la mejor decisión que tomé fue coger mesa en Gran Asador Lecanda (c/ Lagasca, 46) y por fin probarlo.\n\nLocal agradable, con una planta baja y una planta de arriba abierta hacia el restaurante. La luz y la decoración hacen que apetezca estar en… https://t.co/E3ckdNc65J",
-    "url": "https://twitter.com/i/web/status/1947195448373997924"
-  },
-  {
-    "text": "Es una locura lo que puedes retroalimentar tus victorias.\n\nUna pequeña y echas la bola a rodar. Te envalentona. Te da confianza. Te da poder\n\nFuerza esas victorias desde lo pequeño. Si sale mal, engáñate a ti mismo “ha pasado por algo”\n\nPiensas en victoria, vives en victoria\n🌞🏇 https://t.co/1oYSTn5OKA",
-    "url": "https://twitter.com/i/web/status/1946964263953727868"
-  },
-  {
-    "text": "Escribir es estructurar intuiciones. Y, como tal, es ordenar el caos. Escribir es civilizatorio.",
-    "url": "https://twitter.com/i/web/status/1947340801467396564"
-  },
-  {
-    "text": "Para estos días y estos tiempos que corren sin freno, esto de Marías. https://t.co/sYsp5bDWyt",
-    "url": "https://twitter.com/i/web/status/1947414459590578569"
-  },
-  {
-    "text": "Para los que aún tenemos que estar en Madrid hasta que no empiece agosto, he recopilado 10 restaurantes con terraza para ir a cenar o tomar una copa y lograr que el calor se haga más ameno.\n\nHe tratado de escoger variedad de ubicaciones y tipos de comida, pero todos son una…",
-    "url": "https://twitter.com/i/web/status/1947549672899547353"
-  },
-  {
-    "text": "Por fin leo a alguien por aquí que defiende mi modelo:\n\nMi familia es mi principal misión, mi proyecto, mi legado, mi aportación al mundo.\n\nMi profesión es simplemente la manera de financiarla y potenciarla. https://t.co/NygnOufKKT",
-    "url": "https://twitter.com/i/web/status/1947375548839432557"
-  },
-  {
-    "text": "@MrtnzAlvrz si no lo conocías, te gustará https://t.co/On4VEuycJp",
-    "url": "https://twitter.com/i/web/status/1947577227610362230"
-  },
-  {
-    "text": "“Si los filósofos buscan la verdad, entonces son irracionales y arrogantes.\n\nSi el objetivo de la filosofía es descubrir respuestas verdaderas a sus preguntas centrales, entonces, afirmo, los filósofos deben ser profundamente irracionales o profundamente arrogantes. Son…",
-    "url": "https://twitter.com/i/web/status/1947181163908309431"
-  },
-  {
-    "text": "My new favorite stack of AI tools\n\nOverall: ChatGPT o3\nImage: GPT-4o, Flux, Mystic\nVideo: Veo 3, Seedance\nCoding: Claude Code, Cursor, Windsurf\nAvatar: HeyGen, 11Labs\nWriting: Claude Sonnet\nVideo Analysis: Gemini\nAgent: Comet, ChatGPT, Genspark, n8n\nWeb Search: Grok 4, Perplexity",
-    "url": "https://twitter.com/i/web/status/1946983179497484554"
-  },
-  {
-    "text": "\"Los caminos de la seda\" de Eva Tobalina es una auténtica pasada. El típico libro que en UK sería un super ventas en Waterstones. Me recuerda en ese sentido al \"águila y los cuervos\" de Soto Chica también.\n\nEn España tenemos auténticas gemas!",
-    "url": "https://twitter.com/i/web/status/1946862822261932170"
-  },
-  {
-    "text": "don’t take it personally: https://t.co/9qbGYSgWjZ",
-    "url": "https://twitter.com/i/web/status/1914161344581865716"
-  },
-  {
-    "text": "📝 Un cultureta nunca descansa. Vacaciones o no, aquí os dejamos una buena ración de recomendaciones.\n\n➡️ Último programa de la temporada: https://t.co/GObcV3mWKp\n\n☀️ ¡Feliz verano! https://t.co/N3Hv67cq9E",
-    "url": "https://twitter.com/i/web/status/1946845579683709407"
-  },
-  {
-    "text": "Two Dancers, 1949, by Salvador Dali https://t.co/NIdcVgMkQH",
-    "url": "https://twitter.com/i/web/status/1946495235464515831"
-  },
-  {
-    "text": "No hay transformación sin sufrimiento. No hay sufrimiento sin transformación. Ahora, dependiendo de tu disposición de espíritu, ese sufrimiento conducirá a una transformación positiva o negativa. Puedes caer en la oscuridad o despertar en la luz.",
-    "url": "https://twitter.com/i/web/status/1946616027246383478"
-  },
-  {
-    "text": "Esta obra de @AnnieDuke que reedita @ed_peninsula el 3 de septiembre es una lectura tremenda. Toma de decisiones en entornos de incertidumbre analizada al detalle y sesgos cognitivos al descubierto para pensar mucho mejor. Un must en toda biblioteca personal 📚👌🏼 https://t.co/7CR6IvjDrz",
-    "url": "https://twitter.com/i/web/status/1946622309306974681"
-  },
-  {
-    "text": "@elwatto @IvanLandabaso Estoy con miguel. Hard things es una joya. Mi biblia del leadership es patrick lencioni, 5 dysfunctions lo tiene todo. Se lee en una tarde. Y grit, de angela duckworth",
-    "url": "https://twitter.com/i/web/status/1945799121446621660"
-  },
-  {
-    "text": "Un ejemplo buenísimo del “phising for fools” de Akerlof y Shiller. Empresas maximizando el beneficio a costa del consumidor despistado, no de su bienestar real. Una consecuencia muy relevante de la información asimétrica. https://t.co/PYimB3jdYZ https://t.co/niq39OD7lZ",
-    "url": "https://twitter.com/i/web/status/1945879266362568833"
-  },
-  {
-    "text": "5. La paciencia es una ventaja competitiva\n6. No necesitas ser un genio para invertir bien\n7. Categoriza tus inversiones\n8. Huye del ruido del mercado\n9. Aprende de tus errores",
-    "url": "https://twitter.com/i/web/status/1945899348513984700"
-  },
-  {
-    "text": "Sus lecciones se pueden resumir en estos 9 puntos.\n\n1. Invierte en lo que conoces\n2. La ventaja del pequeño inversor\n3. Detrás de cada acción hay una empresa\n4. Si no puedes explicarlo en una frase, no lo entiendes",
-    "url": "https://twitter.com/i/web/status/1945899346496536886"
-  },
-  {
-    "text": "Listado breve de #ensayos fantásticos (10+ para el #verano:\n\n- Un verdor terrible/Maniac, B Labatut\n- Agua y jabón, M. Riezu\n- El infinito en un junco, I Vallejo\n- Dante, A Barbero\n- Las reinas del Mar, Wiesenthal\n- Fouché, Zweig\n- Donde vamos a bailar esta noche, J Aznar\n- Dios…",
-    "url": "https://twitter.com/i/web/status/1945962114411024832"
-  },
-  {
-    "text": "Si viajas en burro ajeno, no decides cuando vuelves. https://t.co/3rojYkbI4j",
-    "url": "https://twitter.com/i/web/status/1946148753766764697"
-  },
-  {
-    "text": "“Life is all about taking calculated risks. If you never take any risks, you never do anything”\n\nVerdaderamente un entrevistón https://t.co/wQhpKotOk4",
-    "url": "https://twitter.com/i/web/status/1946207512882991354"
-  },
-  {
-    "text": "No Risk. No Story. https://t.co/zsCsG8MfcC",
-    "url": "https://twitter.com/i/web/status/1932734479195648508"
   },
   {
     "text": "|CONOCIENDO ASISTENTES  A LA #TRG23|\n\nYIPIYAAAAAAY. Terminamos la semana conociendo a otro de los asistentes que ha estado siempre apoyando: @MarkVillacampa \n\nQue, además, tiene un gustazo musical :P https://t.co/YvOem9yoQM",
@@ -38574,7 +40753,7 @@ window.LIKES = [
     "url": "https://twitter.com/i/web/status/1699535980900872460"
   },
   {
-    "text": "You’re unable to view this Post because this account owner limits who can view their Posts. {learnmore}",
+    "text": "Twitter features that should exist:",
     "url": "https://twitter.com/i/web/status/1517232654298529792"
   },
   {
@@ -39176,1160 +41355,5 @@ window.LIKES = [
   {
     "text": "See ya later! https://t.co/35ZgXY1ZFx",
     "url": "https://twitter.com/i/web/status/1679869622697316354"
-  },
-  {
-    "text": "Acabo de descubrir esta lista de reproducción. Soy feliz.\n\nhttps://t.co/cmlWSjaK0s",
-    "url": "https://twitter.com/i/web/status/1679924946888212490"
-  },
-  {
-    "text": "Your body is largely the product of your lifestyle; primarily your diet, exercise, and sleep.\n\nIf you want to create a permanent change in your body you must permanently change your lifestyle.\n\nTemporary changes will only produce temporary results. https://t.co/i3No6KGrOW",
-    "url": "https://twitter.com/i/web/status/1679507712416129026"
-  },
-  {
-    "text": "Es este: https://t.co/5OKrsjqBCY",
-    "url": "https://twitter.com/i/web/status/1679590713900580868"
-  },
-  {
-    "text": "Les recomiendo en @EEncuentro \nPío Moa: Hegemonía española y comienzo de la Era europea  https://t.co/FfkYSuaXnZ a través de @librosdecibola https://t.co/C9OW64ZrE7",
-    "url": "https://twitter.com/i/web/status/1679778711409704960"
-  },
-  {
-    "text": "I'd rather visit Andalusia than most countries.\n\nOne of Spain's most beloved regions.\n\nHere's all you need to know for your next visit to the South's 5 most popular cities:\n\n(a 🧵) https://t.co/3uNxWE1CmY",
-    "url": "https://twitter.com/i/web/status/1679459468134719488"
-  },
-  {
-    "text": "Hasta hoy no he podido escuchar el Podcast de @RaquelberryFinn y @PedroParedesDC \"Callejón del Cómic\" que abren con un maravilloso capítulo sobre \"Calvin & Hobbes\". Espero ya la segunda parte y muchos más capítulos sobre tiras de prensa. ¡Gracias!\n\nhttps://t.co/qL7pesK4sd",
-    "url": "https://twitter.com/i/web/status/1679487863652753411"
-  },
-  {
-    "text": "Ha llegado oficialmente el verano y apetece ver películas que transmitan esa sensación de veraneo. Voy a ir compartiendo algunas de mis favoritas.\n\nEmpiezo por esta: \"La piscina\", Jacques Deray (1969) ⬇️ https://t.co/vNizd1MTjk",
-    "url": "https://twitter.com/i/web/status/1671892682178977793"
-  },
-  {
-    "text": "Vamos con una lista de temas para esa baraja de la #TRG23, con ganas de ver esos dibujos. Eligo primeros 24",
-    "url": "https://twitter.com/i/web/status/1679024844657119233"
-  },
-  {
-    "text": "Estoy recopilando los 55 hitos más importantes de la Historia de la Informática para «una cosa» de la #TRG23... ¿Se os ocurre qué debería estar sí o sí? https://t.co/pCaFdXaSxb",
-    "url": "https://twitter.com/i/web/status/1679016884945952769"
-  },
-  {
-    "text": "@david_bonilla Deberías incluir el Ars Magna de Llull: 1270 AD se crea EL PRIMER ORDENADOR, en Mallorca, hecho para una única tarea.\n\nSu fundamento teórico inspirará siglos más tarde a Leibniz y también inspirara la combinatoria y otras ramas de matemáticas.\n\nhttps://t.co/pwny322sYD.",
-    "url": "https://twitter.com/i/web/status/1679256981679251460"
-  },
-  {
-    "text": "Want to know what the apocalypse will be like?\n\nLook no further than the terrifying art of John Martin, a long forgotten 19th century painter you've probably never heard of... https://t.co/6RVfFtGted",
-    "url": "https://twitter.com/i/web/status/1679297692244082688"
-  },
-  {
-    "text": "Las sensaciones que despierta el Madrid gastronómico por el mundo. Buena ruta, por cierto - https://t.co/s6H9g9RKNV",
-    "url": "https://twitter.com/i/web/status/1678696270016249856"
-  },
-  {
-    "text": "Nº 145 Aquí podéis ver parte de lo que pedimos y su representación el el comic original https://t.co/1K1mMYJ2TF",
-    "url": "https://twitter.com/i/web/status/1426139334596571139"
-  },
-  {
-    "text": "Una foto diaria durante este 2021 de mis viajes a Japón para hacer más llevadera la espera hasta que vuelva.\n\nNº 1. Vistas del Monte Fuji desde Fujiyoshida (2020) https://t.co/1zkKuMjWL7",
-    "url": "https://twitter.com/i/web/status/1345059696768593920"
-  },
-  {
-    "text": "La mejor carta escrita de un padre abogado a su hijo.\n\nRoland Boyd fue un abogado de Texas que hace más de 50 años escribió a su hijo una preciosa carta con 21 consejos. Publicada en 1962 en revista legal Texas Bar Journal como bella expresión de amor por la profesión\n\nDisfruten: https://t.co/jySuAU40Q4",
-    "url": "https://twitter.com/i/web/status/1934237302340923726"
-  },
-  {
-    "text": "\"La gente también es responsable de lo que eligen ignorar\". \nMilan Kundera\n📷Getty https://t.co/LsItEzpa47",
-    "url": "https://twitter.com/i/web/status/1943852813265588624"
-  },
-  {
-    "text": "The New Yorker https://t.co/DynJFenoRj",
-    "url": "https://twitter.com/i/web/status/1945374410312974789"
-  },
-  {
-    "text": "@WuJiaHao444970 @ciguleva These AI-generated motorcycle blueprints can be created using Midjourney. Join their Discord, type /imagine prompt: \"technical blueprint of turquoise adventure motorcycle, exploded views from multiple angles, detailed annotations, sci-fi elements like planets, vintage paper style…",
-    "url": "https://twitter.com/i/web/status/1945805767602520133"
-  },
-  {
-    "text": "@carlosotermin Es una ciudad espectacular, cada vez que estoy por el sur, me paso. Tiene un algo especial. Junto con Chongqing y la ciudad de mi mujer (Shenyang) son las que más me gustan, y mira que hay donde elegir...",
-    "url": "https://twitter.com/i/web/status/1945358770491531352"
-  },
-  {
-    "text": "The 80/20 of startup leadership.\n\nTop resources I revisit the most: https://t.co/uhng8FT77M",
-    "url": "https://twitter.com/i/web/status/1945767981172093320"
-  },
-  {
-    "text": "Watch on YouTube\n\nhttps://t.co/FljsJh1fd3",
-    "url": "https://twitter.com/i/web/status/1945459511801557159"
-  },
-  {
-    "text": "@NoContextHumans A mother gives her daughter an unforgettable moment in her life. \n\nA wonderful moment! https://t.co/15GDfnzFX2",
-    "url": "https://twitter.com/i/web/status/1944879285510303819"
-  },
-  {
-    "text": "Es el marco conceptual e ideológico del programa que dirijo en el Instituto Tramontana en octubre. Esto no va de tener a diseñadores que lideran, sino de tener a líderes (de empresa, de producto o de marketing) que entienden —que hablan de forma nativa—  diseño y narrativa. Estas… https://t.co/r6Qid1rgvB",
-    "url": "https://twitter.com/i/web/status/1945155217168732167"
-  },
-  {
-    "text": "https://t.co/zr3L3DKpnu",
-    "url": "https://twitter.com/i/web/status/1944407998476234832"
-  },
-  {
-    "text": "Apple Maps in CarPlay is on a whole another level https://t.co/njhEhA9t4w",
-    "url": "https://twitter.com/i/web/status/1944783920169677004"
-  },
-  {
-    "text": "Why did we stop building houses in the Roman villa style? https://t.co/wCJRNnQDja",
-    "url": "https://twitter.com/i/web/status/1944714881208402134"
-  },
-  {
-    "text": "El escritor Mauricio Wiesenthal, autor de «Orient-Express», estuvo conversando sobre el emblemático tren con el público de La Malagueta.\n\nRecupéralo en diferido aquí: https://t.co/7053Xb1GQX https://t.co/dtb3SKX9qL",
-    "url": "https://twitter.com/i/web/status/1936041474618954190"
-  },
-  {
-    "text": "Días perfectos o el error de hacer planes https://t.co/88FQAzZ8ei",
-    "url": "https://twitter.com/i/web/status/1944294931956105459"
-  },
-  {
-    "text": "La primera cosa que está mal de este famoso meme es que tropieza en la igualdad de resultados, lo que implica un claro trato desigual de las personas. \n\nAdemás, el meme ignora debates filosóficos fundamentales. Rawls y Dworkin, por ejemplo, defendieron que la justicia no debe… https://t.co/tB9P4V6pwi",
-    "url": "https://twitter.com/i/web/status/1944319658066100423"
-  },
-  {
-    "text": "@AntonioGoBe ¿Has leído \"La invención de Morel\"?\n\nEs de Adolfo Bioy Casares. Íntimo de Borges quien hizo el prólogo y dice que es la mejor novela corta EVER.\n\nMe fio del criterio de Jorge Luis. Y coincido",
-    "url": "https://twitter.com/i/web/status/1944439554145984983"
-  },
-  {
-    "text": "📚The Status Game, de Will Storr\n5/5 ⭐️⭐️⭐️⭐️⭐️\n\nLa premisa de este libro es tan sencilla como devastadora: más allá de nuestras aspiraciones, convicciones o narrativas personales, somos jugadores. Y jugamos siempre al mismo juego: el del estatus.\n\nDesde las tribus de Papúa Nueva… https://t.co/FjHnoZlDFr",
-    "url": "https://twitter.com/i/web/status/1943992817476337684"
-  },
-  {
-    "text": "@flanagrama Opino que dejes de torturarte con tanto realismo literario, mujer, que el verano está para gozar. Leéte algo del siglo de oro (“Cárcel de amor\"), navega por “El Danubio\" con Claudio Magris (te encantará), o pásate directamente al realismo mágico. Pero no me hagas verte sufrir",
-    "url": "https://twitter.com/i/web/status/1944057363062808998"
-  },
-  {
-    "text": "Mi primer experimento con ayuda de Grok 4: VIDA ARTIFICIAL: https://t.co/X3xGkuf1LX\n\nSiempre me fascinó cómo emerge la complejidad de reglas simples. Cómo puede surgir vida compleja de elementos básicos.\n\nEste proyecto está inspirado en el proyecto Clusters de Jeffrey Ventrella,…",
-    "url": "https://twitter.com/i/web/status/1944017822591377600"
-  },
-  {
-    "text": "Here's the links for my conversation with @dhh:\n\nYouTube: https://t.co/hNR1YVDpeP\n\nSpotify: https://t.co/VjTdb68p7z\n\nPodcast: https://t.co/uxqXcfWUje https://t.co/S7o4sZu52h",
-    "url": "https://twitter.com/i/web/status/1944093279479332993"
-  },
-  {
-    "text": "La historia no la forjan voluntades solitarias, sino individuos entrelazados en sistemas de relación donde el estatus actúa como moneda y lenguaje. Cada grupo humano, desde las tribus ancestrales hasta las comunidades digitales, opera como un escenario donde se negocia valor,…",
-    "url": "https://twitter.com/i/web/status/1943553365801075094"
-  },
-  {
-    "text": "Lógica evolución! https://t.co/sl16mLEfDM",
-    "url": "https://twitter.com/i/web/status/1943398330534412337"
-  },
-  {
-    "text": "https://t.co/bfkMzofwjA",
-    "url": "https://twitter.com/i/web/status/1943404289864470689"
-  },
-  {
-    "text": "It's funny that software both disappears and leaves behind the most detailed documentation of every line change, every decision and who made it meticulously recorded with git commits. https://t.co/feBBDQczIf",
-    "url": "https://twitter.com/i/web/status/1898293171513085997"
-  },
-  {
-    "text": "Hoy tengo el placer de charlar con el economista y profesor de academia @ecorami sobre los principales debates de actualidad económica. ¿Podemos hablar de un milagro económico argentino? ¿Cuáles son las claves de la guerra comercial EEUU vs China?\n\nhttps://t.co/omq1BRRwQH https://t.co/aFu3gaSoXF",
-    "url": "https://twitter.com/i/web/status/1943263832694001961"
-  },
-  {
-    "text": "https://t.co/vtPGv12ljJ",
-    "url": "https://twitter.com/i/web/status/1678664206231404545"
-  },
-  {
-    "text": "Napoleón, creo que esto lo escribió el cardenal Newman. A pesar de la defensa que hace mi admirado León Bloy de él. https://t.co/y6ywDymXlt https://t.co/2NHmzv5H4h",
-    "url": "https://twitter.com/i/web/status/1678487382364938246"
-  },
-  {
-    "text": "A brief thread of India's most beautiful temples:\n\nMeenakshi Temple in Madurai, Tamil Nadu https://t.co/5VfLmGBjDl",
-    "url": "https://twitter.com/i/web/status/1678271794141188098"
-  },
-  {
-    "text": "¿Por qué la mayoría de inversores no  logran obtener la rentabilidad del mercado? Breve nota de voz (x2)👇 https://t.co/fb9PYKHZzp",
-    "url": "https://twitter.com/i/web/status/1678279858806304769"
-  },
-  {
-    "text": "La primera vez que se acuñó el término cóctel fue en un periódico estadounidense en 1806 y el primero libro de coctelería se publicó en 1862. Esta es una recopilación de las mejores obras dedicadas a esta disciplina. https://t.co/uLK7RXunUC",
-    "url": "https://twitter.com/i/web/status/1678117043596406790"
-  },
-  {
-    "text": "In memoriam | El fundador y director de la editorial Ponent Mon supo anticipar el ‘boom’ del manga en España y fue pionero en publicar a autores como Jiro Taniguchi o Yoshihiro Tatsumi.  https://t.co/QF8lM2aT2g",
-    "url": "https://twitter.com/i/web/status/1661425048433852434"
-  },
-  {
-    "text": "¡Qué hambre nos ha dado @el_pais! \n\nY es que La cantina de medianoche (Yaro Abe) y El gourmet solitario (Masayuki Kusumi y Jiro Taniguchi) están entre las 12 recomendaciones de cómic para los amantes de comida 😋\n\nhttps://t.co/J0BiZMyLSZ",
-    "url": "https://twitter.com/i/web/status/1663497731795722240"
-  },
-  {
-    "text": "De manera muy breve quiero mostrar un ejemplo de algo tan curioso como el proceso de espejado de un manga. El orden de lectura del cómic japonés es tal vez lo que más choca a quienes comienzan a adentrarse en el manga.\n\n«Jirō Taniguchi y el espejado en el manga» https://t.co/t0AS2dUPwY",
-    "url": "https://twitter.com/i/web/status/1665389920171507712"
-  },
-  {
-    "text": "Yo todavía no entiendo por qué los lectores fuera de Japón menosprecian #MeAndRoboco. El capítulo de ayer fue magistral, una parodia PERFECTA, absurda, hilarante del \"gourmet solitario\" de Jiro Taniguchi. https://t.co/g70pqU5jWM",
-    "url": "https://twitter.com/i/web/status/1673469494574841859"
-  },
-  {
-    "text": "Hace unas semanas preparé un video contando más en detalle cosas que aprendí estos 4 meses. https://t.co/W22tZWDQJs",
-    "url": "https://twitter.com/i/web/status/1678111681027751938"
-  },
-  {
-    "text": "Northern Spain is a dream.\n\nAnd Santander is one of its best coastal cities.\n\nHere's all you need to know for your next visit:\n\n( a 🧵) https://t.co/VDtKgEgf4E",
-    "url": "https://twitter.com/i/web/status/1678010035949957122"
-  },
-  {
-    "text": "La URSS cartografió todo el planeta en secreto entre 1950 y 1990. En España, sus satélites fotografiaron hasta 49 ciudades. Con la publicación reciente del mapa soviético de Sevilla reemerge aquel macroproyecto. \"Es como una novela de espías\".\n\nhttps://t.co/1Lh25NIN4d",
-    "url": "https://twitter.com/i/web/status/1678109602150326284"
-  },
-  {
-    "text": "Aquí os dejo una divertida crónica de mis incursiones guerrilleras en el Ministerio de @Haciendagob y el Gobierno de @Cantabriaes.\n\nUna batalla contra la #opacidad que libramos con poderosas armas: ¡inteligencia y memes! 💪🏼 \n\nhttps://t.co/e7wAGYV0cn\n\nSi te gusta, ¡retuitea! 🙏🥰 https://t.co/Dbf6egkLFl",
-    "url": "https://twitter.com/i/web/status/1675554865425051648"
-  },
-  {
-    "text": "L197 - Roma: Declive monetario y fin del Imperio con David Serrano Ordozgoiti @DSOrdozgoiti\n\nTratamos: \n- El fin de Roma desde su moneda\n- Ley de Gresham\n- Annona\n- Paralelismos con actualidad\n- Control de precios de Diocleciano\n- Evolución del Denario\n\n🟡 https://t.co/nkU2XQJdcc https://t.co/AydsmZzB25",
-    "url": "https://twitter.com/i/web/status/1677047225678016514"
-  },
-  {
-    "text": "@ArturoHerrero Te recomiendo que veas un documental que se llama “Future Shock! The Story of 2000AD”. \n\nY luego te paso un listado de indispensables americanos de los 80, aparte de las vacas sagradas como Watchmen, V de Vendetta, Sandman y demás 😁",
-    "url": "https://twitter.com/i/web/status/1677967434404315140"
-  },
-  {
-    "text": "@ArturoHerrero Pues ahora por este 🙂 https://t.co/W4MG6UybMp",
-    "url": "https://twitter.com/i/web/status/1677987607370940416"
-  },
-  {
-    "text": "🏡 ¿INVERTIR en España desde otro país? No hay excusas y es totalmente viable\n\nhttps://t.co/yqSUCQ5tVz\n\n#bienesraices #inversioninmobiliaria #comprarparaalquilar #alquiler #MagnatesLadrillo #banco #inversion #financiacion #crisis #inversion #inmuebles #c… https://t.co/n6LnvAaQBu https://t.co/hVbuQmiyYj",
-    "url": "https://twitter.com/i/web/status/1645056233680797700"
-  },
-  {
-    "text": "What weird idea do you think is true?\n\nHere's mine: Cognitive biases are hidden superpowers.\n\nWhy?\n\n1. Humans aren't stupid. We're the only thing in the known universe with consciousness\n\n2. Cognitive biases don't use you. Rather they are tools to be used\n\n10 examples:\n\n1.… https://t.co/Pp8c1HxXWq",
-    "url": "https://twitter.com/i/web/status/1677647727147077633"
-  },
-  {
-    "text": "⚠️Esta mañana, unos nuevos inquilinos nos han contado como les estafaron hace 10 días 800€ con el alquiler de un piso ficticio. Historia recurrente.\n\n🚨Sí estas en búsqueda de alquiler, toma todas las precauciones.\n👾Exterminemos a esta gentuza que se aprovecha de los + humildes",
-    "url": "https://twitter.com/i/web/status/1677656283015528454"
-  },
-  {
-    "text": "#30 Equilibrio estructural: tu próximo objetivo de entrenamiento, by @anticulturista https://t.co/jRGzRH8MKb",
-    "url": "https://twitter.com/i/web/status/1677237352069038080"
-  },
-  {
-    "text": "Mis #5novelas históricas favoritas.\nSon las que más veces he releído en todos mis años de lector, y cada vez que lo hago descubro algo nuevo en ellas. https://t.co/rOhFx1UCWr",
-    "url": "https://twitter.com/i/web/status/1676794393800454144"
-  },
-  {
-    "text": "Esta sencilla fotografía encierra en sí misma toda la sabiduría y amor por los libros que uno, después de leerlos, puede amarlos más aún. https://t.co/igrvmCecH3",
-    "url": "https://twitter.com/i/web/status/1676801913755410433"
-  },
-  {
-    "text": "Dime una cala más bonita que esta en España https://t.co/ft8wrxslJH",
-    "url": "https://twitter.com/i/web/status/1675744205711261696"
-  },
-  {
-    "text": "Uh, they are flipping the question 🧐\n\nhttps://t.co/SHwnk2qchp",
-    "url": "https://twitter.com/i/web/status/1676657375153889295"
-  },
-  {
-    "text": "Qué libro tan curioso y bueno. En la zona donde los nacionalismos llevaron a la guerra, surge hoy una “utopía” anarcocapitalista en una isla fluvial entre Croacia y Serbia. El péndulo pasa de un lado a otro sin remilgos. Los Balcanes son fascinantes: CC: @LasherasFB @miguelroan1 https://t.co/xFkw9jEVoe",
-    "url": "https://twitter.com/i/web/status/1676660325347741707"
-  },
-  {
-    "text": "My logs of 3 years of family pizza and a movie night with our two boys\n\n⭐️ = great \n⭐️⭐️ = exceptional https://t.co/P9Ot3SwSj0",
-    "url": "https://twitter.com/i/web/status/1676308752134205442"
-  },
-  {
-    "text": "A while ago I played with a thought: building a mental bookcase for a dear friend who had just moved into a new apartment, from zero. \n\nCame up today in the Emergent Ventures group chat. Specifically tailored for this particular friend of mine, but you might find it useful 💗📚 https://t.co/hQKfz8YySK",
-    "url": "https://twitter.com/i/web/status/1676312196614090753"
-  },
-  {
-    "text": "i can live anywhere in the US and europe and i chose to live in barcelona https://t.co/mixafMYvSC",
-    "url": "https://twitter.com/i/web/status/1676189872816635905"
-  },
-  {
-    "text": "📢My Top Terminal Apps\n\n🦇bat\n⚙️brew\n📈btop\n🐳docker\n✅dooit\n📃exa\n🔍fd\n🛑fkill\n☕️fnm\n🕵️‍♂️fzf\n💾gdu\n🐱gh\n🐧git\n🐱github-copilot-cli\n🌟glow\n📝jq\n🐳lazydocker\n🐧lazygit\n📰newsboat\n🛑npkill\n📝nvim\n🔍ripgrep\n✅taskell\n🧑‍💻tmux\n📁tree\n🕰️tz\n⏱️watson\n⚡️zap\n🧑‍💻zellij\n🚀zoxide\n\n⁉️What'd I miss",
-    "url": "https://twitter.com/i/web/status/1668981621012459520"
-  },
-  {
-    "text": "La ciencia moderna. https://t.co/K6SImcIHkP",
-    "url": "https://twitter.com/i/web/status/1675441601231896576"
-  },
-  {
-    "text": "Los 4 libros de Historia seleccionados por @babelia_elpais para leer en el verano español. En realidad, para leer en cualquier época del año. Lo importante es leerlos. Solo estos 4 estupendos libros cubrirían la cuota de historia anual para muchos. Para otros, es el combustible. https://t.co/Zscp5bLndh",
-    "url": "https://twitter.com/i/web/status/1675185973871648769"
-  },
-  {
-    "text": "PodKast 191 - Conversación con @antor y @mangelroman, fundadores de Lucentum: el co-pilot de AI Legal desde Alicante  \n\nhttps://t.co/fqSirBR2Kf",
-    "url": "https://twitter.com/i/web/status/1674717249238646785"
-  },
-  {
-    "text": "https://t.co/HSyuEVNxA1",
-    "url": "https://twitter.com/i/web/status/1674356820800831488"
-  },
-  {
-    "text": "Spain isn't just Barcelona and Madrid.\n\nThe entire country is vastly incredible.\n\nHere are all 17 regions of Spain and why to visit each one:\n\n(a 🧵) https://t.co/VKCy1SLoy0",
-    "url": "https://twitter.com/i/web/status/1668236909221388291"
-  },
-  {
-    "text": "Cádiz is the oldest city in Spain.\n\nDating back to 1,100 BC. \n\nHere's all you need to know for your next visit:\n\n(a 🧵) https://t.co/YWbLIq34M8",
-    "url": "https://twitter.com/i/web/status/1673298867737993219"
-  },
-  {
-    "text": "The password game is out now! Good luck 👹\n\n> https://t.co/kXhmbHqYTK https://t.co/d6lbnfHrbx",
-    "url": "https://twitter.com/i/web/status/1673703594778927105"
-  },
-  {
-    "text": "Juan O’Gorman https://t.co/Tn6zKgP78H",
-    "url": "https://twitter.com/i/web/status/1673726529224802310"
-  },
-  {
-    "text": "+1. \n\nPara mi top-3 prioritario:\n\n- Taxes\n- Personal finance\n- Public speaking\n\nvia @QCompounding https://t.co/TvlrGzH5z7",
-    "url": "https://twitter.com/i/web/status/1673729838027243525"
-  },
-  {
-    "text": "La novedad que anuncia @EdicionesPaidos \"La invención del bien y del mal\", de Hanno Sauer, se inscribe en la línea de libros de Diamond, Harari Graeber y Wengrow que intentan ofrecer una visión personal, una \"nueva historia de la humanidad\" de cómo hemos llegado a ser lo q somos. https://t.co/691MeeHLYX",
-    "url": "https://twitter.com/i/web/status/1673471481639043072"
-  },
-  {
-    "text": "A propósito de @EdicionesPaidos, les aviso con tiempo para que tomen sus precauciones. Entre 72 y 79 días tardarán en salir estas 4 novedades que anuncia la editorial para el 3er trimestre del año. Especialmente el primero de ellos, que no se reeditaba, me parece, desde el 2008. https://t.co/1JGlntYz47",
-    "url": "https://twitter.com/i/web/status/1673473520892772352"
-  },
-  {
-    "text": "Aún no acaba el lunes, así que a tiempo estoy de hacerles la #RecomendaciónSemanal que hace tiempo no hago. Retomando la costumbre, les recomiendo este libro, que si el resto del mismo es como la Introducción y el primer capítulo, tenemos una lectura placentera asegurada. https://t.co/FEn796Kb3g",
-    "url": "https://twitter.com/i/web/status/1673490728289280000"
-  },
-  {
-    "text": "What art style is the best? https://t.co/8yBNXrKXLG",
-    "url": "https://twitter.com/i/web/status/1673457519556014081"
-  },
-  {
-    "text": "Iran has some of the world's most ancient, important, and beautiful architecture.\n\nSo here is a very brief introduction, from ziggurats and Zoroastrian fire temples to crystal mosques and the first ever churches... https://t.co/BcYLNAuxQJ",
-    "url": "https://twitter.com/i/web/status/1673182459326877696"
-  },
-  {
-    "text": "Un lector anónimo de Barcelona deja pagado el libro #LaVidaInstruccionesDeUso de Georges Perec cada 23 de junio en una librería con una única instrucción: que el librero se lo regale a alguien que pase por allí a las 20h.\nAsí lo recogen en @el_pais: https://t.co/JrMcPQheOc",
-    "url": "https://twitter.com/i/web/status/1673270203549995013"
-  },
-  {
-    "text": "Nunca olvidemos:\n• Estrategia: el qué.\n• Táctica: el cómo. https://t.co/ijsLxmVvYr",
-    "url": "https://twitter.com/i/web/status/1673061267089571843"
-  },
-  {
-    "text": "Me encanta leer, especialmente en verano, libros con alto nivel de vibración. Energía pura para comerse el mundo. Cada día +1%.\nAviso: no pienso parar. https://t.co/NEztndyuyP",
-    "url": "https://twitter.com/i/web/status/1673009940544323585"
-  },
-  {
-    "text": "How Complex Systems Fail\nhttps://t.co/5BXQcWNV85",
-    "url": "https://twitter.com/i/web/status/1672585864105320448"
-  },
-  {
-    "text": "HERNAN CORTES: A MAN OUT OF TIME\n\nMost of us know the conqueror of the Aztec Empire, at least in passing.\n\nBut Cortes' story is criminally undersold in pop culture and education. He's one of the most fascinating figures to ever live; a man straight from some ancient epic.\n\n1/ https://t.co/EOgyErFEoE",
-    "url": "https://twitter.com/i/web/status/1672327970294300673"
-  },
-  {
-    "text": "El 10 lleva asociado el 0. El 9 tiene como otra cara de la moneda el 1. El 8 y el 2 van de la mano, y así sucesivamente. A mayor cercanía a los extremos (apalancamiento emocional) mayor es la intensidad con la que estamos viviendo (para lo bueno y para lo malo). https://t.co/bM7HqQdzt7",
-    "url": "https://twitter.com/i/web/status/1672486357510307841"
-  },
-  {
-    "text": "https://t.co/jkndjrCgmH",
-    "url": "https://twitter.com/i/web/status/1671597765447634945"
-  },
-  {
-    "text": "50 Ideas That Shaped My Thinking\n\n1. Inversion: Avoiding stupidity is easier than trying to be brilliant. Instead of asking, “How can I help my company?” you should ask, “What’s hurting my company the most and how can I avoid it?” Identify obvious failure points, and steer clear…",
-    "url": "https://twitter.com/i/web/status/1672237243707080705"
-  },
-  {
-    "text": "Hoy es el aniversario de Alvaro Cunqueiro y lo celebramos con este vídeo que nos enseña a amar \"los conocimientos inútiles\" https://t.co/ZSkj633vst",
-    "url": "https://twitter.com/i/web/status/1605906230811172866"
-  },
-  {
-    "text": "@jaime_rdes https://t.co/ZyNDIJSI9v",
-    "url": "https://twitter.com/i/web/status/1553636308643467269"
-  },
-  {
-    "text": "Llevo el último mes con esto. Es absolutamente descomunal el trabajo de síntesis que han hecho Graeber y Wengrow y la vía que han abierto. Un derribo completo del paradigma y un libro que se leerá en las facultades (espero) durante décadas. Una puerta nueva de nuestra historia. https://t.co/QOS3pUQvXW",
-    "url": "https://twitter.com/i/web/status/1671473804646797312"
-  },
-  {
-    "text": "Muy bueno, me encanta especialmente como está escrito: precisión ante todo. Curiosamente la parte que más me ha gustado es la que menos me interesaba, su razonamiento sobre las utopías. La 1ª parte tmb es fascinante. La 2ª está muy bien pero ya la conocía bastante. https://t.co/5UvpeW0GxP",
-    "url": "https://twitter.com/i/web/status/1671493768179077120"
-  },
-  {
-    "text": "💥 Estamos estrenando una tertulia maravillosa con @foso_defensivo sobre la situación y seguridad de España \n\nhttps://t.co/CRG75spPLN https://t.co/22IwqJFxMd",
-    "url": "https://twitter.com/i/web/status/1671245568507535361"
-  },
-  {
-    "text": "📢 ¿Hacia adonde va España?\n\n💥 ¿Te preocupa tu patrimonio en España? ¿Y tus inversiones?\n\n✅ Charlamos de estos temas con @foso_defensivo que nos da su opinión\n\nVaya programón que grabaron @checabello y Emérito\n\n⏰Gran estreno mañana a las 21:00\n\nhttps://t.co/LlyxZXqTD4 https://t.co/6JncxlYW5I",
-    "url": "https://twitter.com/i/web/status/1670909808562565122"
-  },
-  {
-    "text": "Acabo de terminarlo, escala al podio de mis libros favoritos. Excepcional 💔 https://t.co/gBiL7rdiIg https://t.co/9JJDFBbpQ3",
-    "url": "https://twitter.com/i/web/status/1670886573158592520"
-  },
-  {
-    "text": "El podcast de @Itnig de @bernatfarrero es TOP.\nHistorias inspiradoras con los protagonistas. \nComparto las que más me han gustado:\n1º: https://t.co/2hc12sR7Z9\n2º: https://t.co/BgWjSCS9tp\n3º: https://t.co/ZwmTQSLgIX\n4º: https://t.co/i2mGd1DRUx\n5º: https://t.co/LOfxdTmQnC",
-    "url": "https://twitter.com/i/web/status/1670890428323753984"
-  },
-  {
-    "text": "The unexpected delights of water tower architecture, a thread: https://t.co/pseN0IAe0J",
-    "url": "https://twitter.com/i/web/status/1670083551532929024"
-  },
-  {
-    "text": "Aquí el increíble resumen de ChatGPT de las 2 horas de podcast que hicimos @joantubau y servidor sobre qué hacer con tu vida a los 18, tras acabar el instituto/selectividad. \n\n24 temáticas conectadas con las 69 ideas que mencionamos: https://t.co/hN7qZXf7Vp https://t.co/yIXfN68hBe",
-    "url": "https://twitter.com/i/web/status/1670042130037764097"
-  },
-  {
-    "text": "“An observant child should be put in the way of things worth observing.” \n\n— Charlotte Mason, Home Education, 1886 https://t.co/pN9TeQYgoy",
-    "url": "https://twitter.com/i/web/status/1669790238053662721"
-  },
-  {
-    "text": "Hoy llega a #DisneyPlus un documental sobre Stanley Martin Lieber, destacado cocreador de personajes icónicos de Marvel, llamado #StanLee. Él mismo participa en el filme, del cual puedes ver ya las primeras críticas, recogidas en la web.\nhttps://t.co/JEtN0C96sx https://t.co/2ky89cz23O",
-    "url": "https://twitter.com/i/web/status/1669745316537696256"
-  },
-  {
-    "text": "Sigue TODAS las reglas de Dale Carnegie ❤️ https://t.co/7q87J0YIYJ https://t.co/aMhHdOKPm9",
-    "url": "https://twitter.com/i/web/status/1669078412651012096"
-  },
-  {
-    "text": "Succession es la octava serie a la que le doy un 10 en @Filmaffinity. Ordenadas por primer año de emisión:\n\n2019: ZeroZeroZero\n2018: Succession\n2016: Baron noir\n2015: True detective II\n2014: Gomorra\n2014: True detective I\n2008: Breaking bad\n2002: The wire",
-    "url": "https://twitter.com/i/web/status/1669071837576175616"
-  },
-  {
-    "text": "Me ha encantado escuchar este podcast 4 años después de grabarse 😄\n\nSobre delivery y dark kitchens antes de que llegara el Sr. Covid\n\nhttps://t.co/5LgSyniUHy",
-    "url": "https://twitter.com/i/web/status/1668940138360229888"
-  },
-  {
-    "text": "es curioso que alguien tan histriónico de primeras como greg doucette sea uno de los youtubers del mundo salud y fitness que da consejos más equilibrados (a pesar de los suplementos que vende y de haber sido culturista profesional)",
-    "url": "https://twitter.com/i/web/status/1668876447669268480"
-  },
-  {
-    "text": "Este rascacielos es una fantasía. ¿Qué libro os apetecería leer (o releer) este verano? ❤️ \nhttps://t.co/fALTkdArFw https://t.co/DgDsYdo2cR",
-    "url": "https://twitter.com/i/web/status/1668668898055532545"
-  },
-  {
-    "text": "What is the greatest font of all time? https://t.co/0evpcnI1PG",
-    "url": "https://twitter.com/i/web/status/1668756773728301058"
-  },
-  {
-    "text": "Menuda delicia de libro. La recomendación viene por un tuit de @naval \n\nDarwin, agujeros negros, Dios, la Ilustración... https://t.co/UMV8dnZWTr",
-    "url": "https://twitter.com/i/web/status/1668289171893661708"
-  },
-  {
-    "text": "@Mbcsil https://t.co/YYIyJcLYxo",
-    "url": "https://twitter.com/i/web/status/1668349763329089550"
-  },
-  {
-    "text": "Mi cuaderno de viaje de un fin de semana en Marrakech. Dibujos rápidos de 10 a 15 minutos hechos con minas de un tono sepia rojizo, acompañados de textos en el mismo color ¡Espero que os guste! ❤️ Se agradece el RT ❤️ #art #traveldiaries #marrakech https://t.co/7YgwDKGWbx",
-    "url": "https://twitter.com/i/web/status/1667952164281434118"
-  },
-  {
-    "text": "Quedada genial con un montón de gente interesantísima organizada por @RinconDeAquiles. @davidvalerus  @_sergiosanjuan  @polymatas @themacrowizard  @Recuenco @samuelgil  @jaime_rdes @NoemiCarro @Josebaseba @Smart_Sapiens y tantos otros 😊 https://t.co/vGMkklHJE5",
-    "url": "https://twitter.com/i/web/status/1667612643681607681"
-  },
-  {
-    "text": "Leído de una sentada. ¡Qué delicia! https://t.co/yIeoLsqIhH",
-    "url": "https://twitter.com/i/web/status/1667911612382969856"
-  },
-  {
-    "text": "Nos la pasamos quejándonos que los jóvenes de ahora no leen a los clásicos, pero jamás los acercamos a ellos cuando podemos o debimos. Regálele este precioso libro de @Nordica_Libros a su hijo y algún día le dirá a los suyos que este fue su primer Montaigne. https://t.co/08dKzob6S0",
-    "url": "https://twitter.com/i/web/status/1667686404581720064"
-  },
-  {
-    "text": "Playing around with logotype ideas for @playbit_ https://t.co/YMCUcEu9Np",
-    "url": "https://twitter.com/i/web/status/1667587757521371136"
-  },
-  {
-    "text": "Have you ever learned something significant by playing a game?",
-    "url": "https://twitter.com/i/web/status/1667252405887713281"
-  },
-  {
-    "text": "🐠 Nuevo ejercicio ya disponible en mis clases online de Patreon. Esta vez pintamos con acuarela una lámina de estilo vintage compuesta por distintos peces. ¡Espero que os guste! https://t.co/czVC00PnXq https://t.co/NbBhHckh4V",
-    "url": "https://twitter.com/i/web/status/1667078162725961728"
-  },
-  {
-    "text": "Voy con mi primer Tweet largo ✍️\n¡A ver qué pasa!\n\nBueno, al lío...\nveras,\nen los últimos meses, he realizado algunos ajustes en mis hábitos.\n\n¿Quieres conocerlos y el porqué?\nADVERTENCIA:\nno me gusta dar consejos,\nno sé tu contexto,\nno sé tu camino personal,\ny no quiero parecer…",
-    "url": "https://twitter.com/i/web/status/1667048889017401344"
-  },
-  {
-    "text": "Marc Andreessen recently tweeted “In our new era of AI: Every child will have an A.I. tutor that is infinitely patient, infinitely knowledgeable, infinitely helpful.”\n\nThat era is here. \n\nTry it yourself 👉 https://t.co/TZprbulgWx\n\n1/n https://t.co/XigK2rwvD4",
-    "url": "https://twitter.com/i/web/status/1666874970511912960"
-  },
-  {
-    "text": "Totalmente. A la altura de Caro, Zweig (pienso en Fouché), o el Churchill de Roberts: libros capaces de explorar todos los rincones del carácter de una persona y contarlo de manera absorbente. https://t.co/RZ4Xrjp5UG",
-    "url": "https://twitter.com/i/web/status/1666885098271039488"
-  },
-  {
-    "text": "With so many photo editing tools powered by Generative AI, I think is worth remembering some of the most powerful techniques that do NOT rely on Deep Learning. 🧮\n\n🧵 Let's see how SEAM CARVING works and how we can make it in @unity! 👇\n\nhttps://t.co/IJI1IHQcNW https://t.co/xJhPU3O1aK",
-    "url": "https://twitter.com/i/web/status/1666791894037168130"
-  },
-  {
-    "text": "@javisantana ¿Algo parecido a esto?\nhttps://t.co/wYFk4Fc7eG",
-    "url": "https://twitter.com/i/web/status/1666723621904023554"
-  },
-  {
-    "text": "Siguiendo los consejos de los maestros @meigul y @Piersandri. No desvelo info privilegiada desvelo que Miguel me cuenta que es de los mejores libros que ha editado. Biografía a la altura canon de Robert Caro. https://t.co/dHgarXVzAd",
-    "url": "https://twitter.com/i/web/status/1666524616351793152"
-  },
-  {
-    "text": "La tarde fue provechosa. https://t.co/jtbXReilnF https://t.co/QyvVzm685d",
-    "url": "https://twitter.com/i/web/status/1666392482358198275"
-  },
-  {
-    "text": "The chapter books that my 3yo and I have most enjoyed reading together (over and over and over again):\n\nThe Wind in the Willows \n\nWinnie-the-Pooh and The House at Pooh Corner\n\nThe Lion the Witch and the Wardrobe \n\nCharlotte’s Web https://t.co/14nN4IVve0",
-    "url": "https://twitter.com/i/web/status/1666185888920121344"
-  },
-  {
-    "text": "Para quien no lo sepa (yo no lo sabía), el INE proporciona un modo muy cómodo de ser excluido de la propaganda electoral (evita no solo el spam de los partidos, sino que accedan a tu información postal). https://t.co/lRkc0JRdpz",
-    "url": "https://twitter.com/i/web/status/1666199453374504961"
-  },
-  {
-    "text": "Ya estoy reeditado. https://t.co/mEGel7Y27R",
-    "url": "https://twitter.com/i/web/status/1666017153659576321"
-  },
-  {
-    "text": "Libro divertidísimo. Pendiente escribir sobre él. https://t.co/IIxgMTogdA",
-    "url": "https://twitter.com/i/web/status/1665816522655244297"
-  },
-  {
-    "text": "Fernando Pessoa. https://t.co/vzJXCGejJD",
-    "url": "https://twitter.com/i/web/status/1665813697715945475"
-  },
-  {
-    "text": "Nadie, absolutamente nadie sabe reflejar comida tan deliciosa como los Studios Ghibli.\n https://t.co/7k6hJG56Mj",
-    "url": "https://twitter.com/i/web/status/1665627267119161349"
-  },
-  {
-    "text": "Otro libro al que le tengo echado el ojo... https://t.co/aic8PX95kV",
-    "url": "https://twitter.com/i/web/status/1665855203004891136"
-  },
-  {
-    "text": "«A fit body, a calm mind, a house full of love. These things cannot be bought - they must be earned.»\n—@naval https://t.co/rzkALs46Q3",
-    "url": "https://twitter.com/i/web/status/1665949350680297473"
-  },
-  {
-    "text": "This is the Casa Comalat in Barcelona, one of the most beautiful Art Nouveau buildings in the world.\n\nAnd, once upon a time, it was modern architecture... https://t.co/IEfdZoLRnK",
-    "url": "https://twitter.com/i/web/status/1665683281877032961"
-  },
-  {
-    "text": "La investigación se puede beneficiar enormemente de las nuevas herramientas de IA. Me encanta esta infografía que resume muchas de las herramientas que empleo ya en mi día a día. https://t.co/X0BdjzYgfF",
-    "url": "https://twitter.com/i/web/status/1665669141150171136"
-  },
-  {
-    "text": "I constantly notice that developers highly underuse @raycastapp. I'm tired of giving hints all the time, so here are the topmost useful features that you should use **daily**.\n\nThread 🧵 https://t.co/1S7zrBvAzP",
-    "url": "https://twitter.com/i/web/status/1664194354246832128"
-  },
-  {
-    "text": "https://t.co/GK74WZd77e",
-    "url": "https://twitter.com/i/web/status/1665112189605126146"
-  },
-  {
-    "text": "Muy, muy bueno. Hace lo mismo que el primero pero mejor. La historia como tal es simple pero la narrativa pega muy duro, visualmente es precioso y la banda sonora es un 10. Además el gameplay a mí me encanta, es de sigilo pero si te lo montas bien eres la muerte encarnada. https://t.co/rGZk6A2HY5",
-    "url": "https://twitter.com/i/web/status/1665117898598146051"
-  },
-  {
-    "text": "La apasionante lectura de los Diarios de Patricia Highsmith, una mujer introvertida y atormentada que odiaba a la humanidad y que sacó la creatividad de su sufrimiento https://t.co/lqYRLH16zk",
-    "url": "https://twitter.com/i/web/status/1664173707063951362"
-  },
-  {
-    "text": ".@Acantilado1999 acaba de publicar este libro sobre uno de los cuadros más importantes de la historia del arte. En él, el autor desentraña el misterio del mismo casi «como si se tratara del análisis forense en un relato policíaco». Como acaba de salir, está en mi lista de julio. https://t.co/7ZxLQpgZy3",
-    "url": "https://twitter.com/i/web/status/1664288190440820737"
-  },
-  {
-    "text": "\"Comprehensive Rust\"\na three-day Rust course developed by the Android team. The course covers the full spectrum of Rust, from basic syntax to advanced topics like generics and error handling. It also includes Android-specific content on the last day.\nhttps://t.co/GRa0cbeIOB",
-    "url": "https://twitter.com/i/web/status/1664296448370802690"
-  },
-  {
-    "text": "I made a quick Automation to protect my iPhone if someone steals it while unlocked: if they turn on Airplane Mode (Find My), it asks for a passcode. If wrong… it automatically locks the phone 🔒, turns ON all connectivity 📡 + Low Power Mode 🔋, and shares its current location📍 https://t.co/KYwbbz1QkV",
-    "url": "https://twitter.com/i/web/status/1664312209650991105"
-  },
-  {
-    "text": "Hace unos días prometí poner mis listas, y di la que consideraba Mejores Álbumes.\nToca hablar de Mis Preferidos\n\"Pero, Obélix ¿no es lo mismo?\"\nNo, no es lo mismo.\nLa peli preferida de mi user es Star Wars, pero reconoce que no son la octava maravilla cinematográfica. https://t.co/Awezkcn0Le",
-    "url": "https://twitter.com/i/web/status/1287501237471109121"
-  },
-  {
-    "text": "Néstor F. Marqués ha publicado antes \"Fake news de la antigua Roma\" y \"Un año en la antigua Roma\" (el mejor para mi gusto). Ahora saca este nuevo título, \"Momentos de la antigua Roma que cambiaron el mundo\", q apunta a cimentar su prestigio de gran divulgador de la antigua Roma. https://t.co/a65L2Dc54U",
-    "url": "https://twitter.com/i/web/status/1663899378564603905"
-  },
-  {
-    "text": "Austria, cuaderno de viaje 📝🌍 Estos 4 días navegando por el Danubio han sido una fuente de inspiración. Desde la cubierta del barco tienes la impresión de que el paisaje pasa a cámara lenta y he querido transmitir esa sensación en cada una de las páginas. Espero que os guste ❤️ https://t.co/veUsNDkkhD",
-    "url": "https://twitter.com/i/web/status/1663492202956193796"
-  },
-  {
-    "text": "Bonus track: El episodio de Acquired sobre Spotify es una delicia, escuchar a Daniel Ek y los dos presentadores hablar a calzon quitado de la estrategia es la clase de contenido que siempre va a un publico dispuesto a consumirlo\n\nhttps://t.co/Rp9PjyhQdy",
-    "url": "https://twitter.com/i/web/status/1663303248789360641"
-  },
-  {
-    "text": "Boyero fan account https://t.co/KQIq2kUyUG",
-    "url": "https://twitter.com/i/web/status/1663236536228364314"
-  },
-  {
-    "text": "Hasta el momento, he charlado con @joantubau, @polymatas, @Gsnchez, @alexsoussa_com, @AudeIdScire, @papa2fire, @danfmsg, @davemoral_guru, @Balo_investor, @NoemiCarro, @BenjaminGJW y @javilop.\nAquí la charla con Dani (la menos joseadora, la verdad): https://t.co/HlQ147mb54",
-    "url": "https://twitter.com/i/web/status/1662868665895735297"
-  },
-  {
-    "text": "Primer botín de la feria. https://t.co/PXXxnD3qIU https://t.co/1MEaP8CpiO",
-    "url": "https://twitter.com/i/web/status/1662835697256939521"
-  },
-  {
-    "text": "Escritores escribiendo sobre escribir: \nEduardo Mendoza\nhttps://t.co/folJLXJB0z\nAna Maria Matute (Real Academia y Cervantes)\nhttps://t.co/8ROaKV4kGP\nhttps://t.co/g2DMKbcTPa\nVargas Llosa\nhttps://t.co/EPdNP4sU6y",
-    "url": "https://twitter.com/i/web/status/998503949719232512"
-  },
-  {
-    "text": "@boromas La fiesta del chivo es magnífica. Un must. Woody no me va.  Decía el gran Pumares q sus películas sólo merecían la pena x 1 chiste.",
-    "url": "https://twitter.com/i/web/status/731944663393927168"
-  },
-  {
-    "text": "My favorite building in NYC https://t.co/p4PEu4i6mC",
-    "url": "https://twitter.com/i/web/status/1662175556727652356"
-  },
-  {
-    "text": "Estoy entrando en este rabbit hole y me explota la cabeza.\n\nhttps://t.co/UEOm3ByVWW",
-    "url": "https://twitter.com/i/web/status/1661821065369206791"
-  },
-  {
-    "text": "En este podcast https://t.co/vaSuAbQhwh Tom Holland explican la democracia ateniense con un enorme énfasis en su marco cultural que era totalmente distinto al nuestro. En mi opinión, los dos puntos que hacen la cultura clásica tan distinta a la nuestra son:",
-    "url": "https://twitter.com/i/web/status/1661694111261290499"
-  },
-  {
-    "text": "Entretenidísima, como todo lo que escribe, esta nueva historia que rescata Macintyre sobre la prisión de Colditz. Historias que superan a cualquier ficción imaginable. https://t.co/wkc2tHE37g",
-    "url": "https://twitter.com/i/web/status/1661646224838078464"
-  },
-  {
-    "text": "Difícil de escribir algo tras terminar 'Endeavour'; sensación de orfandad, eso sí.\n\nAntes de empezar su temporada final, he estado estas semanas viéndome toda la serie de nuevo; y ha sido algo que no he podido disfrutar más. https://t.co/usTsaS76vE",
-    "url": "https://twitter.com/i/web/status/1661441390042120216"
-  },
-  {
-    "text": "Why do heroes always live in cottages and villains in castles or towers?\n\nHere's how film makers use architecture to influence our emotions — and what architects can learn from Shrek... https://t.co/9DLxGjdP6C",
-    "url": "https://twitter.com/i/web/status/1661286516377698304"
-  },
-  {
-    "text": "Un mes más respondiendo a la llamada de la @Dirigido_por 😍 https://t.co/VIKvBnUtuT",
-    "url": "https://twitter.com/i/web/status/1661380515184746497"
-  },
-  {
-    "text": "Descubrimiento de la semana: la obra colorida, limpia y llena de vida del ilustrador Andrew Joyce (@doodlesandstuff). Mini hilillo de tarde, sit down and enjoy 🧵☕️👇🏼 https://t.co/JgjZomqiXW",
-    "url": "https://twitter.com/i/web/status/1661392555479531522"
-  },
-  {
-    "text": "Fantasy as we know it today was created by a self-taught French artist from the 19th century.\n\nHe has influenced everybody from HP Lovecraft to George Lucas and Tim Burton to Peter Jackson.\n\nHis name? Gustave Doré... https://t.co/hMNAOhwA8o",
-    "url": "https://twitter.com/i/web/status/1660701461917909019"
-  },
-  {
-    "text": "Un tablero de ajedrez es la excusa para que @gvilaradio y @aparachiqui se hayan marcado un debate reflexión sobre la España que vota este #28M. No os desvelo el ganador, para eso habrá que verlo:\n\nhttps://t.co/BjWZHtpwrr\n\nArrancamos #LaPiezaClave. Una producción de @Mirada21es",
-    "url": "https://twitter.com/i/web/status/1660744410693357592"
-  },
-  {
-    "text": "Conviene leer la columna de @JuanCladeRamon. Sobre la importancia de la lectura larga y profunda. \n\n«Lo que me hace pensar que quizá debiéramos arrumbar todas nuestras quimeras pedagógicas a favor de un solo mandato escolar: leer.\nSolo leer». https://t.co/OECutKr6wP",
-    "url": "https://twitter.com/i/web/status/1660921926963822595"
-  },
-  {
-    "text": "🛒Vamos con la #ListaDeLaCompra de esta semana, sobre la cultura y el deshielo. Traemos el relato de Truman Capote sobre la gira de Porgy and Bess en la Rusia de los 50. También el viaje a través de la historia del violín moderno que nos regala Helena Attlee en su último ensayo https://t.co/dOWZN1Cqt6",
-    "url": "https://twitter.com/i/web/status/1660941578213400576"
-  },
-  {
-    "text": "GoldenEye 007 is a good book about the making of GoldenEye, the N64 game. Lots of detail about the development process. Recommended. https://t.co/DMKaHSA8yi",
-    "url": "https://twitter.com/i/web/status/1661165440125779968"
-  },
-  {
-    "text": "(The Google Docs part was tongue in cheek -- point is, I'm amazed that the process worked at all. Committees aren't normally that productive.\n\nAlso, link to the Kay interview: https://t.co/amVQZXFnPn)",
-    "url": "https://twitter.com/i/web/status/1660341544753430529"
-  },
-  {
-    "text": "A good life https://t.co/PAAoGhVdLw",
-    "url": "https://twitter.com/i/web/status/1660192851966283777"
-  },
-  {
-    "text": "Cracking the scalability wall https://t.co/kcesM8kMgL",
-    "url": "https://twitter.com/i/web/status/1660185534302502913"
-  },
-  {
-    "text": "Today I'm open sourcing my research project on the prehistory of Bitcoin.\n\nRead, share, and make suggestions! 👇\n\nhttps://t.co/4AFb8RcCfj",
-    "url": "https://twitter.com/i/web/status/1659935693890547712"
-  },
-  {
-    "text": "@joaquinmencia @IvanLandabaso MO en Barcelona",
-    "url": "https://twitter.com/i/web/status/1659888630532284418"
-  },
-  {
-    "text": "Why did street lights become so boring? https://t.co/7umBDNWwAU",
-    "url": "https://twitter.com/i/web/status/1659485747814998016"
-  },
-  {
-    "text": "Las incorporaciones del mercado de fichajes del viernes. https://t.co/3LUBJlQnl2",
-    "url": "https://twitter.com/i/web/status/1659614278372999174"
-  },
-  {
-    "text": "La Marcha Radetzky es una de las novelas mejor escritas de la primera mitad del siglo XX, además de una de las mejores novelas históricas de la historia. Solo Thomas Mann, con su “Los Buddenbrook”, lo logra eclipsar, y eso es ya decir mucho, en el tema del declive de una familia. https://t.co/pRkaRnHWNR",
-    "url": "https://twitter.com/i/web/status/1659647850832076817"
-  },
-  {
-    "text": "Estoy muy radicalizado ahora mismo. Gran documental. https://t.co/O3kb6HpQUk",
-    "url": "https://twitter.com/i/web/status/1659336892012167169"
-  },
-  {
-    "text": "@flopezluis We use the power interest matrix. It is part of the Notion template for projects, and stakeholders must place their department in the matrix before starting the project.\nWorking like a charm for us.\nhttps://t.co/PpgIhLNen0 https://t.co/j00Iz2W9w4",
-    "url": "https://twitter.com/i/web/status/1659285483153752064"
-  },
-  {
-    "text": "I didn't know the AAI framework to manage stakeholders in projects \nhttps://t.co/BH9Q09unGg https://t.co/FrIA0GDS3j",
-    "url": "https://twitter.com/i/web/status/1659186575312289793"
-  },
-  {
-    "text": "\"Most people die at 25 and aren't buried until they're 75\"\n\nWhy?\n\n4 reasons and solutions: https://t.co/TRR2VkvZqk",
-    "url": "https://twitter.com/i/web/status/1659217629469609984"
-  },
-  {
-    "text": "Desde el siglo XX son la norma, pero en el pasado vivir en un era un reto constructivo que debía tener sobrados motivos. \n\nHoy en #PatrimonioEnlazado entramos en 10 CASAS TORRE en Yemen, Italia, China, España… https://t.co/DbiQAnmszz",
-    "url": "https://twitter.com/i/web/status/1658910486648299534"
-  },
-  {
-    "text": "Los sueños cines son https://t.co/d6RmN8T4xC",
-    "url": "https://twitter.com/i/web/status/1658721300724973569"
-  },
-  {
-    "text": "Muy interesante entrevista a @BioTay en @cazadorcerebros https://t.co/1I17GzjBHo",
-    "url": "https://twitter.com/i/web/status/1658409839645667328"
-  },
-  {
-    "text": "Every time I open my Toriyama vehicles folder, my day instantly becomes ten times better 😍 https://t.co/azIU8tNgAq",
-    "url": "https://twitter.com/i/web/status/1658949923285647360"
-  },
-  {
-    "text": "\"We’re building software that we wish we had as kids.\"\n\n@jasontoff's explanation of Things Inc. seems to describe their \"main thing\" https://t.co/X9Z8BXk8AM pretty well.",
-    "url": "https://twitter.com/i/web/status/1658531169422434307"
-  },
-  {
-    "text": "1/ Today we’re launching https://t.co/530FObIRwx in Beta. Anyone can now sign up to create and edit rooms. Here's a 90 sec trailer, and some reflections... https://t.co/cWpUEf4pR7",
-    "url": "https://twitter.com/i/web/status/1658429535841296388"
-  },
-  {
-    "url": "https://twitter.com/i/web/status/1658583115659456514"
-  },
-  {
-    "text": "Also highly relevant: guidance from microsoft \n\"Guidance programs allow you to interleave generation, prompting, and logical control\"\nAlso internally handles subtle but important tokenization-related issues, e.g. \"token healing\".\nhttps://t.co/eEc1rywuWP https://t.co/DudrisKuV3",
-    "url": "https://twitter.com/i/web/status/1658601724314292225"
-  },
-  {
-    "text": "Cuando Rodrigo, mi hijo, era pequeño busqué este libro en todos lados y no lo encontré. Ahora que tiene 25 años y todavía no me hace abuelo, llega esta edición a @libercommunitas y me pregunto si aún estoy a tiempo de comprarlo. ¡Es un auténtico clásico de la literatura infantil! https://t.co/jb5g0Q6lp0",
-    "url": "https://twitter.com/i/web/status/1658630714563211265"
-  },
-  {
-    "text": "Forma super divertida (para adultos y niños) de jugar a ser \"hacker de la IA\"\n\nhttps://t.co/qMyxxaappz",
-    "url": "https://twitter.com/i/web/status/1658358606327083010"
-  },
-  {
-    "text": "It's nice to see a lot more competition coming for GitHub Copilot! Here's a review of Cody from @rbp.\n\nAnd here's a longer list of GitHub Copilot alternatives:  https://t.co/rjuG6RLHTC https://t.co/fApeIu1hW9",
-    "url": "https://twitter.com/i/web/status/1658467164209422337"
-  },
-  {
-    "text": "Javier Cañada, director del Instituto Tramontana, nos regala \"El medio es el masaje\": un podcast de formato inmersivo y cargado de un sinfín de referencias 🎙️✨\n\nYa puedes disfrutar de los primeros 4 episodios aquí\n👉🏻 https://t.co/4KHJf3MIZn https://t.co/IlcT0BRpk5",
-    "url": "https://twitter.com/i/web/status/1658473608606539781"
-  },
-  {
-    "text": "Espectacular\n\nFuente: Roberto Maeza\n\nLink: https://t.co/qvwBNNMoHZ https://t.co/pwGkyy34Wt",
-    "url": "https://twitter.com/i/web/status/1658459326367793152"
-  },
-  {
-    "text": "Cómo echo de menos a Cañada en Twitter :(\n\nPd. Recomendable para mis amigos de tuiter sorrentino y aesthetics\n\nhttps://t.co/zKE2N6COhS",
-    "url": "https://twitter.com/i/web/status/1658222703227154436"
-  },
-  {
-    "text": "Hace poco aluciné escuchando a @BioTay en @CamaroteDarwin ¡y ahora lo veo en @cazadorcerebros!\n\nEstas cosillas de encontrar a gente a la que admiro en lugares que me gustan me hacen mucha ilusión. https://t.co/ub3qP43rPs",
-    "url": "https://twitter.com/i/web/status/1658171921500889093"
-  },
-  {
-    "text": "Al hilo de esto: \n\n(Santo Tomás de Aquino tendría algo que decir) https://t.co/Ezwwf2sR8z https://t.co/47gSb47GQw",
-    "url": "https://twitter.com/i/web/status/1658173309542907904"
-  },
-  {
-    "text": "@davmiranda Uribou en Balmes. Pequeño, poco conocido pero increible. Japones de verdad top en Barcelona, pide barra\nMe apunto Suto!",
-    "url": "https://twitter.com/i/web/status/1657840277204217856"
-  },
-  {
-    "text": "¿Es Suto la mejor barra de omakase de Barcelona?\n\nProbablemente. Una pequeña (por tamaño) joya en el barrio de Sants que hoy he descubierto.\n\nYoshi Suto es ex-Azurmendi, Quique Dacosta, Enigma y Disfrutar, entre otros. Ahí es nada. https://t.co/X2ld6BpCLH",
-    "url": "https://twitter.com/i/web/status/1657484777212002305"
-  },
-  {
-    "text": "Dos nuevos libros sobre el libre albedrío: Sapolsky que no, Kevin Mitchell, que sí. https://t.co/XXm1OsjLsO",
-    "url": "https://twitter.com/i/web/status/1657653690541518848"
-  },
-  {
-    "text": "@javisantana Cuando estés por Madrid ve a La tasqueria, fácil de reservar,  sin tonterías, sin tanta parafernalia y barato viendo los precios de Madrid.",
-    "url": "https://twitter.com/i/web/status/1657820677376753664"
-  },
-  {
-    "text": "✍️ Protocolo sencillo para tener el rostro lo mejor posible. Lo empleo a diario tras mucho research. Aquí va 👇\n\n1️⃣ Levantarse coincidiendo con el amanecer:\n- Agua fría en el rostro\n\n2️⃣ Entrenar/pasear en el exterior (infrarrojo del sol saludable, cara limpia) nada más…",
-    "url": "https://twitter.com/i/web/status/1657687393120448516"
-  },
-  {
-    "text": "Podríamos decir que es un libro bien escrito, erudito, polímata, donde se mezclan maderas, luthiers, barnices, compositores y coleccionistas. Pero en realidad es un canto de entusiasmo por la vida y por todo lo que la compone. Así, sin más. Hay que leer este libro maravilloso. https://t.co/gvtV10oHZQ",
-    "url": "https://twitter.com/i/web/status/1657692071895920641"
-  },
-  {
-    "text": "Los niveles de conciencia del Prof. David R. Hawkins https://t.co/cxSmOi98ih",
-    "url": "https://twitter.com/i/web/status/1657710082220539904"
-  },
-  {
-    "text": "The 0.1% of ideas this week.\n\nThe rabbit holes I've gone down -- without the distractions.\n\n8 best examples: https://t.co/xm53UTT83b",
-    "url": "https://twitter.com/i/web/status/1657787493297827845"
-  },
-  {
-    "text": "\"Trafalgar\" (1873). Primera entrega de sus Episodios Nacionales (que llegaron a sumar 46 novelas en cinco series), y que han leído millones de lectores. Y no es para menos: es la más lograda, natural y emocionante de todas. Uno de los libros que me llevaría a una isla desierta. https://t.co/yvrgYXtUbp",
-    "url": "https://twitter.com/i/web/status/1657803501093769220"
-  },
-  {
-    "text": "Me gustaría ahora hablar en este #hilo de Pérez Galdós, específicamente de 10 libros para conocer a Don Benito. Por su puesto, su obra es tan inmensa como prolífica, pero estos diez títulos son, creo, fundamentales para conocer y aquilatar la dimensión de esa grandeza. https://t.co/1eSYCTwBlK",
-    "url": "https://twitter.com/i/web/status/1657803497876729861"
-  },
-  {
-    "text": "Ediciones de las obras de Galdos, igualmente, existen muchas y muy cuidadas (pienso en las de @alianza_ed y @Catedra_Ed ). Sin embargo, merecen mención especial estas de @reinodecordelia de 2 de sus EN, de su novela más famosa y un estudio sobre su obra. Unas delicias, realmente. https://t.co/CuE492P2lZ",
-    "url": "https://twitter.com/i/web/status/1657803554315202568"
-  },
-  {
-    "text": "Thread (dads, bookmark this and read it every day): https://t.co/ay24TA0wZJ",
-    "url": "https://twitter.com/i/web/status/1657397721026666497"
-  },
-  {
-    "text": "Finally released https://t.co/GEAONuN7Mt 🎉\n\nNeed to upload a code snippet?\n\necho \"something\" | ssh https://t.co/GEAONuN7Mt\n\nIt's a free, anonymous, open source, snippet hosting service https://t.co/u2hUvl9gRO",
-    "url": "https://twitter.com/i/web/status/1657139515557920770"
-  },
-  {
-    "text": "Muy interesante esto — J.R. Moehringer, el autor de 'Open', sobre cómo fue el proceso de escribir las memorias del príncipe Harry y su vida de escritor fantasma. En @NewYorker https://t.co/sD1T0hBVIZ",
-    "url": "https://twitter.com/i/web/status/1657114753527959556"
-  },
-  {
-    "text": "Brazil is home to some of the most beautiful and diverse architecture in the world, from Baroque to Brutalism. Here's just a few of the best:\n\nLibrary of the Royal Portuguese Cabinet of Reading, Rio de Janeiro (1887) https://t.co/SAoQLmbyka",
-    "url": "https://twitter.com/i/web/status/1657358154357719040"
-  },
-  {
-    "text": "@diegomarino Jedi Fallen Order. De nada.",
-    "url": "https://twitter.com/i/web/status/1657290686691962886"
-  },
-  {
-    "text": "Cuando se unen dos mentes complejas @Lualobus y @arjona_manu definitivamente sale complejidad, así que super recomendado...https://t.co/wrfNjxoOTa💯👈 y mucho más sus 📚 https://t.co/eCV5rfLBWz",
-    "url": "https://twitter.com/i/web/status/1656388164242624513"
-  },
-  {
-    "text": "This is the city of Timgad in Algeria, built by the Romans nearly 2,000 years ago.\n\nThough the grid plan might seem like a modern invention, it's ancient.\n\nFrom the Aztecs to the Egyptians, from Greece to China to the USA, here's why your city is (probably) built as a grid... https://t.co/BDfR0EYwuw",
-    "url": "https://twitter.com/i/web/status/1656487894649909248"
-  },
-  {
-    "text": "@MaldonadoAg Para mí está entre las tres mejores series de todos los tiempos junto a Treme y House of Cards",
-    "url": "https://twitter.com/i/web/status/1656377978991828993"
-  },
-  {
-    "text": "Que maravilla de vídeo donde los diseñadores explican en detalle las decisiones de diseño de un F1 (mclaren mp44)\n\nhttps://t.co/Tvct6hic4K",
-    "url": "https://twitter.com/i/web/status/1656027560885604352"
-  },
-  {
-    "text": "300 years ago a famous Italian artist called Giovanni Battista Piranesi did something strange.\n\nHe drew an infinite, imaginary prison filled with impossible architecture, shadowy figures, and mysterious torture devices.\n\nWhy? Nobody knows... https://t.co/hQ18E9l6PL",
-    "url": "https://twitter.com/i/web/status/1656127677869219842"
-  },
-  {
-    "text": "4 libros para alimentar esa nostalgia. https://t.co/DlWxyzRLu2 https://t.co/F1a2II5fYi",
-    "url": "https://twitter.com/i/web/status/1655880682575470594"
-  },
-  {
-    "text": "How to raise creative kids, the tl;dr:\n\n1. Fill the house with inspiration\n2. Enccourage imaginative play\n3. Have art supplies\n4. Avoid judgment\n5. Play \"yes, and\"\n6. Read books\n7. Eliminate screens\n8. Facilitate boredom\n9. Model creativity\n\nWhat would you add to the list?",
-    "url": "https://twitter.com/i/web/status/1636761925429211138"
-  },
-  {
-    "text": "8 toxic models you learn in school — the tl;dr:\n\n-convergent thinking\n-conformity = success\n-regurgitation = education\n-failure is bad\n-authorities are right\n-IQ = book smarts = potential\n-learning is a top-down activity, not a dynamic skill\n-working smart is bad",
-    "url": "https://twitter.com/i/web/status/1637172293150425089"
-  },
-  {
-    "text": "How to set your kids up for success, the tl;dr:\n\n1. Read aloud\n2. Teach good mental hygiene\n3. Do hard things\n4. Surround your kids with interesting adults\n5. Encourage play\n6. Facilitate mentors\n7. Allow boredom\n8. Teach multi-age interactions\n9. Make learning a habit",
-    "url": "https://twitter.com/i/web/status/1637859138897076270"
-  },
-  {
-    "text": "@DeAngelisCorey @anafabrega11 @synthesischool @elonmusk @Kerry_edu @gtschool @mbateman @to_higherground @montessorium @flowidealism @socraticexp @AustinScholar @AlphaSchoolATX @david_perell @josephjconnor @cboyack @HannahFrankman @MattBeaudreau 12 education accounts you should be following, the tl;dr:\n\n1. @DeAngelisCorey \n2. @anafabrega11 \n3. @Kerry_edu \n4. @gtschool\n5. @mbateman\n6. @flowidealism \n7. @AustinScholar\n8. @david_perell \n9. @josephjconnor \n10. @cboyack \n11. @HannahFrankman \n12. @MattBeaudreau",
-    "url": "https://twitter.com/i/web/status/1641583051544092677"
-  },
-  {
-    "text": "@Kerry_edu @DeAngelisCorey @anafabrega11 @synthesischool @elonmusk @gtschool @mbateman @to_higherground @montessorium @flowidealism @socraticexp @AustinScholar @tksworldhq @josephjconnor @HannahFrankman @JeremyTate41 @CLT_Exam @cboyack @Libertas @tuttletwins 12 education accounts to follow, the tl;dr:\n\n1. @Kerry_edu \n2. @deangeliscorey\n3. @anafabrega11\n4. @gtschool\n5. @mbateman\n6. @flowidealism\n7. @austinscholar\n8. @tksworldhq\n9. @josephjconnor\n10. @hannahfrankman\n11. @jermytate41\n12. @cboyack",
-    "url": "https://twitter.com/i/web/status/1650246459323822083"
-  },
-  {
-    "text": "When kids leave traditional school, they have to go through a deschooling process.\n\nDeschooling = unlearning all the bad habits you picked up in school.\n\nSome of the biggest habits kids need to unlearn:",
-    "url": "https://twitter.com/i/web/status/1655609293859700738"
-  },
-  {
-    "text": "🎙 Volvemos con un nuevo episodio: «#91. La COMPLEJIDAD de lo Salvaje» con  la ayuda de @arjona_manu \n\n👉 Tocamos temas que nos apasionan: complejidad, reancestralización, atención...\n\nHay MUCHO trabajo detrás del episodio. Espero que os guste ☺️\n\nhttps://t.co/Iva1BPlKRI",
-    "url": "https://twitter.com/i/web/status/1655801017521545216"
-  },
-  {
-    "text": "Paco Cerdà es uno de nuestros mejores escritores. Iba a decir de no ficción, pero, ¿por qué limitarlo? Es un grandísimo escritor, sin más. Sus tres libros me han parecido extraordinarios, entre ellos, este. Con justicia merecedor del premio de no ficción de @LibrosAsteroide. https://t.co/FFnJCc2aqv",
-    "url": "https://twitter.com/i/web/status/1625955572641107986"
-  },
-  {
-    "text": "Me gustan mucho las ilustraciones de Linda Toolsema y la forma en la que nos muestra sus diarios/cuadernos de campo. https://t.co/WZ5tsRYZ4G",
-    "url": "https://twitter.com/i/web/status/1655265161987465216"
-  },
-  {
-    "text": "Podcasts nuevos en 2023 que consistentemente sigo escuchando:\n\n- Pausa de @GarciaAller (gran producción, temas complejos e interesantes con buenos expertos no típicos, tipo Freakonomics, ameno, 30min). Como este con @hcuello_ https://t.co/vOIvHUwRLM",
-    "url": "https://twitter.com/i/web/status/1655203489100754944"
-  },
-  {
-    "text": "Según los franceses de 1900 así serían las videollamadas del año 2000. \n\nImpresionante. https://t.co/cVtZcoBhB4",
-    "url": "https://twitter.com/i/web/status/1483409798951542784"
-  },
-  {
-    "text": "Si no habéis leido \"The Bitter Lesson\" ahora es buen momento, porque cada 6 meses seguimos viendo avances de la IA motivados porque \"el tamaño importa\" https://t.co/d9slTwquzC\n\nY resulta que en neurociencia... https://t.co/85pLKEeXjv",
-    "url": "https://twitter.com/i/web/status/1488937633334054915"
-  },
-  {
-    "text": "Comienzo una serie de artículos en @libro_s_libro que hemos llamado #AventurerosDeCheslón donde les hablaré de libros que relatan grandes aventuras para vivirlas desde la comodidad de nuestros sofás. Comienzo por esta en el temible desierto blanco.\n https://t.co/nqwG9OLDp8",
-    "url": "https://twitter.com/i/web/status/1654457023142952961"
-  },
-  {
-    "text": "En carrera contra el reloj para terminar de leer estos libros que serán parte de mi columna sobre libros del número de julio de Ojo Dorado, la revista cultural del @icpnaoficial https://t.co/AIgaY5uRwn",
-    "url": "https://twitter.com/i/web/status/1654236760220508161"
-  },
-  {
-    "text": "This is not a royal palace — it's a 19th century shopping mall in Milan, Italy.\n\nSo here's a brief history of malls, and why they don't have to be soulless places: https://t.co/NSThFFYwhv",
-    "url": "https://twitter.com/i/web/status/1654346711878303744"
-  },
-  {
-    "text": "Totally thrilled by all the parallels between the stuff I've been working on and Rich Hickey's latest talk. Can't wait to dig in more and map the correspondences.\n\nhttps://t.co/46B6gjOZ2l",
-    "url": "https://twitter.com/i/web/status/1654400361279508480"
-  },
-  {
-    "text": "Hoy me he tenido que quedar en casa (😓), así que me toca esperar a @LaCultureta con té de bolsita. Por lo menos se me ha unido Djuna Barnes. https://t.co/tRlW3eZv8J",
-    "url": "https://twitter.com/i/web/status/1654410489961541633"
-  },
-  {
-    "text": "Leaked Google document: “We Have No Moat, And Neither Does OpenAI”\n\nThe most interesting thing I've read recently about LLMs - a purportedly leaked document from a researcher at Google talking about the huge strategic impact open source models are having\nhttps://t.co/q2lsjTHKGS",
-    "url": "https://twitter.com/i/web/status/1654158105221922816"
-  },
-  {
-    "text": "@flopezluis @diana_aceves_ @ritafdezmadrazo Las diferentes https://t.co/bianTXH9Ln suelen tener charlas muy entretenidas\n\nJFokus es otro evento magnífico https://t.co/mi3tqcICYW\n\nhttps://t.co/tWmZBOhKgB Para mi el mejor evento de tecnología de los últimos 10 años; lamentablemente este año se celebra su última edición 😢",
-    "url": "https://twitter.com/i/web/status/1654492520527679490"
-  },
-  {
-    "text": "@flopezluis @diana_aceves_ @ritafdezmadrazo https://t.co/77W3OfB1eb Una conferencia sobre concurrencia y sistemas distribuidos. Aquí he visto charlas muy didácticas\n\nhttps://t.co/7mgBCQHtM9 Conferencia sobre lo que habitualmente se conoce como \"systems programming\". \n\nSigo ...",
-    "url": "https://twitter.com/i/web/status/1654491697412288512"
-  },
-  {
-    "text": "Introducing: 💫StarCoder\n\nStarCoder is a 15B LLM for code with 8k context and trained only on permissive data in 80+ programming languages. It can be prompted to reach 40% pass@1 on HumanEval and act as a Tech Assistant.\n\nTry it here: https://t.co/4XJ0tn4K1m\n\nRelease thread🧵 https://t.co/wZj6B2KKZE",
-    "url": "https://twitter.com/i/web/status/1654174941976068119"
-  },
-  {
-    "text": "@paulg You'll really enjoy https://t.co/lWveAJ5NGw. Instrumental in the Merlin engine, then the first jet engines, and then the vectored engines for the Harrier.",
-    "url": "https://twitter.com/i/web/status/1654501532572987392"
-  },
-  {
-    "text": "Estupendo ensayo breve sobre los ensayos. Un compendio de enfoques y autores muy interesante. En @AnagramaEditor, que en una elogiable decisión incluye ya en dicha colección el nombre de la traductora. https://t.co/ubHMa4glTE",
-    "url": "https://twitter.com/i/web/status/1654079907272458241"
-  },
-  {
-    "text": "Yes. https://t.co/m979swuPeA",
-    "url": "https://twitter.com/i/web/status/1654087469753675777"
-  },
-  {
-    "text": "One of the few newsletters I still open, @ODPomery's KIOSK. It's always filled with beautiful imagery. https://t.co/AFpt0Sg711",
-    "url": "https://twitter.com/i/web/status/1654087467887218697"
-  },
-  {
-    "text": "@samuelgil Gran libro sobre este tema: esta gran mezcla que hace el Inglés se debe en gran medida a la influencia Normanda tras 1066\n\nhttps://t.co/CDTnLpn1KY",
-    "url": "https://twitter.com/i/web/status/1654190862052765696"
-  },
-  {
-    "text": "#NuevaYork Os cuento cosas de Historias de Nueva York, de Enric González \n\nUn relato lleno de circunstancias y destinos porque merece la pena ir más allá de lo que ya conocemos por películas, músicas, postales... @RBALibros @libro_s_libro\n\nhttps://t.co/NDy6mFoPgQ",
-    "url": "https://twitter.com/i/web/status/1654143925538504704"
-  },
-  {
-    "text": "La ropa que llevamos, lo que comemos, los dispositivos que empleamos... posiblemente deberían ser estratégicamente escogidos para alcanzar nuestra mejor versión, no para subcomunicar estatus.\nOs comparto los que empleo. Están elegidos cuidadosamente 👇\n\nhttps://t.co/1n4CvAib71",
-    "url": "https://twitter.com/i/web/status/1654153920078569474"
-  },
-  {
-    "text": "The plane was invented just 66 years before we reached the moon — no wonder everybody thought we'd have flying cars by the year 2000.\n\nWell, we don't have flying cars but we do have the internet, which nobody could have foreseen.\n\nIs there any point trying to predict the future? https://t.co/Ah2WDDuwpC",
-    "url": "https://twitter.com/i/web/status/1653972331495141377"
-  },
-  {
-    "text": "Kapital. Barcelona en 72 horas\n\nA mí me gusta la economía pero lo que yo de verdad quiero hacer son guías de viajes https://t.co/Z6foiI5Z7G",
-    "url": "https://twitter.com/i/web/status/1654015955826032641"
-  },
-  {
-    "text": "🖼️ Wallpaper series \n\nSharing with you the first batch of images from my wallpaper project.\n\nNext step is to fix aspect ratios and upscale the images to a resolution fit for big screen devices. \n\n👇🏽(big image 🧵)\n\nGiza trend. 🐪 https://t.co/CdHD2twjhs",
-    "url": "https://twitter.com/i/web/status/1653905474486517761"
-  },
-  {
-    "text": "@ArturoHerrero Leí “El sueño de la teoría final: la búsqueda de las leyes fundamentales de la naturaleza” y me gustó mucho.",
-    "url": "https://twitter.com/i/web/status/1653881303966547975"
-  },
-  {
-    "text": "Si te gusta Edgar Allan Poe no puedes dejar pasar por alto EXTRAORDINARY TALES que adapta en animación (con técnicas diferentes) 5 cuentos de Poe narrados por Guillermo del Toro, Christopher Lee o Bela Lugosi. Sensacional la versión de El corazón delator. Una maravilla. https://t.co/RzN01vFSRD",
-    "url": "https://twitter.com/i/web/status/1653758442283192322"
-  },
-  {
-    "text": "«Tampoco sabe aún que dejar de amar es dejar de contar, dejar de querer que el otro lo sepa todo, dejar de tener el impulso de, cuando te pase algo, incluso tu propio divorcio, llamar inmediatamente a tu marido para contárselo». Jabois sobre Fitzgerald. https://t.co/tSDZ9mcXD2",
-    "url": "https://twitter.com/i/web/status/1653811344779489294"
-  },
-  {
-    "text": "Qué maravilla acabo de ver en el cine. https://t.co/2Xbk83HDn2",
-    "url": "https://twitter.com/i/web/status/1653500558391627776"
-  },
-  {
-    "text": "Made a little booklet to help contributors of Inter getting a grasp on its design system\nhttps://t.co/C7mvsyiDOF https://t.co/RDWuhNhQYy",
-    "url": "https://twitter.com/i/web/status/1653546765348638721"
-  },
-  {
-    "text": "EL HILO DE ETXEBARRI.\n\nEl culmen de la felicidad en una mesa. Una perfección y sensibilidad apabullantes. Nunca me imaginé que la brasa podía aportar tal sutileza y expresar tanta emoción.\n\nPosiblemente la mejor comida de mi vida. https://t.co/20HBwkrlVZ",
-    "url": "https://twitter.com/i/web/status/1653432117815136257"
-  },
-  {
-    "text": "10 joyas del cortometraje animado para disfrutar en plataformas con los niños (o sin ellos).\n\nUna selección personal que ojalá conduzca a una tarde inolvidable de arte y cine sin prejuicios de edades.\nhttps://t.co/nu1WUZ6jN9 a través de @el_pais",
-    "url": "https://twitter.com/i/web/status/1653307238625189890"
-  },
-  {
-    "text": "You’re unable to view this Post because this account owner limits who can view their Posts. {learnmore}",
-    "url": "https://twitter.com/i/web/status/1623071738710970370"
-  },
-  {
-    "text": "¿Puede el agua dar de sí como para escribirse un libro interesante de 500 páginas? \"Agua. Una biografía\", de Giulio Boccaletti, editado recientemente por @AticoLibros , demuestra que sí. \n\nLa primera parte del libro sigue la relación dialéctica entre el paisaje acuático y la… https://t.co/Dw5Xvy74qk",
-    "url": "https://twitter.com/i/web/status/1641109112300683270"
-  },
-  {
-    "text": "Es evidente que la experiencia que nos brinda nuestra conciencia cotidiana no siempre es suficiente, por eso buscamos variarla, intensificarla, a veces trascenderla, y hemos identificado toda una colección de moléculas en la naturaleza que nos permiten hacerlo.\n\nEste libro es una… https://t.co/Et17t3Mgx9",
-    "url": "https://twitter.com/i/web/status/1648396144920207360"
-  },
-  {
-    "text": "I decided to outsource my entire personal financial life to GPT-4 (via the @donotpay chat we are building).\n\nI gave AutoGPT access to my bank, financial statements, credit report, and email.\n\nHere’s how it’s going so far (+$217.85) and the strange ways it’s saving money. (1/n): https://t.co/JO9p1A5ipc",
-    "url": "https://twitter.com/i/web/status/1652387444904583169"
-  },
-  {
-    "text": "Naval for kids. 2 years ago my nephew and I had conversation on important ideas from @naval      \nTurned his ideas suitable for a 11 year old conversation.  Back then he forbade me sharing the project on any social media. He changed his mind last week, sharing this now. https://t.co/5LY0PXoSEH",
-    "url": "https://twitter.com/i/web/status/1652351731752218628"
-  },
-  {
-    "text": ".@JoeRogan and @DrAseemMalhotra discuss prescriptions as the third leading cause of death, pharmaceutical companies' control of clinical trial data, and a study by Stanford Prof. John Ioannidis showing that financial interests compromise scientific research accuracy.\n\n\"If you… https://t.co/BuhSfE8Hr3",
-    "url": "https://twitter.com/i/web/status/1652470854314524672"
-  },
-  {
-    "text": "@IvanLandabaso Siendo un poco más liberal con la palabra \"fundador\": Pieces of the Action (Vannevar Bush), The Dream Machine (Licklider) & The Intel Trinity (Noyce, Moore & Grove). En ese orden.",
-    "url": "https://twitter.com/i/web/status/1652331012020469763"
-  },
-  {
-    "text": "This Post is from a suspended account. {learnmore}",
-    "url": "https://twitter.com/i/web/status/1652213904192225280"
-  },
-  {
-    "text": "Siempre me preguntan por esto. Ojalá esto les sirva..\n\nPablo Barrena, Pilar Careaga, Mª José Gómez-Navarro y Luisa Mora: \"Libros Infantiles y juveniles para hacer buenos lectores\" [PDF]\nhttps://t.co/Suw0eriYz0\n#OpenAccess https://t.co/RLsPKTRwUE",
-    "url": "https://twitter.com/i/web/status/1652015331739615257"
-  },
-  {
-    "text": "#leer #LeerDescoloniza #LeerMeCaeBien https://t.co/9CFy7ANre5",
-    "url": "https://twitter.com/i/web/status/1651452419665018880"
-  },
-  {
-    "text": "Mola mucho el comic de Housfy https://t.co/7VGb9SF56r",
-    "url": "https://twitter.com/i/web/status/1651691182274011138"
-  },
-  {
-    "text": "https://t.co/oRakqnSQw8",
-    "url": "https://twitter.com/i/web/status/1651647413562802176"
-  },
-  {
-    "text": "8. \n\nUn favorito.\n\nEsta charla de Leopoldo Prieto sobre por qué ciencia y filosofía son dos formas complementarias, y no excluyentes, de conocer el mundo.\nhttps://t.co/sXK6FxBAon",
-    "url": "https://twitter.com/i/web/status/1651331724909969408"
-  },
-  {
-    "text": "7. Este es bestial. \n\nLa influencia de Maimónides, el intelectual judío que acercó ciencia, filosofía y religión. \n\nhttps://t.co/LFNH1hrksQ",
-    "url": "https://twitter.com/i/web/status/1651331720040312832"
-  },
-  {
-    "text": "¡Lo de @Austral_ed es imperdonable! \nSacar a la vez estas cuatro preciocidades no tiene perdón de Dios. ¡Voy  a tener que vender un riñón!\nRevisen las primeras páginas aquí y sabrán por qué lo digo 👉 https://t.co/LAOLpBBR2o https://t.co/bTEsQXkRQy",
-    "url": "https://twitter.com/i/web/status/1651290891192074240"
-  },
-  {
-    "text": "Ni confirmo ni desmiento que a esta casa haya llegado un juego de café conmemorativo del Orient Express para los que somos del club tacitas. https://t.co/VZJOZDPdMt",
-    "url": "https://twitter.com/i/web/status/1651144498548809732"
-  },
-  {
-    "text": "Les recomiendo en @Acantilado1999 \nZbigniew Herbert: Naturaleza muerta con brida  https://t.co/fF4hxF6A4w a través de @librosdecibola https://t.co/mtjKCYCn1R",
-    "url": "https://twitter.com/i/web/status/1651147776921665538"
-  },
-  {
-    "text": "\"Oiga, no hemos escrito 'Guerra y paz', pero léannos\". Nos aplicamos esta cita de nuestro último programa. \n\nNo seremos la sección de cultura de la BBC, pero escúchennos. Somos majos. Aquí va la #ListaDeLaCompra de esta semana. Incluye las calles preferidas de los culturetas https://t.co/mtJsI8x192",
-    "url": "https://twitter.com/i/web/status/1651155800927109126"
-  },
-  {
-    "text": "Este año las obras de Stefan Zweig entraron al 'domnio público'. Es decir, están libres de derechos. Eso explica la proliferación, este mismo año, de ediciones de sus títulos más famosos por distintas editoriales. Eso es lo que es de dominio público: la obra misma, no la edición. https://t.co/Jz6TaMK3g9",
-    "url": "https://twitter.com/i/web/status/1650940981821186072"
-  },
-  {
-    "text": "Modernist architecture in Barcelona. https://t.co/gr6BHvOgwk",
-    "url": "https://twitter.com/i/web/status/1650885217333178369"
-  },
-  {
-    "text": "Aquí tienes los enlaces para todas las plataformas: \n\n- Youtube (en video): https://t.co/yogzxwJAdW\n- Spotify: https://t.co/AfKAFnD1Gl\n- Apple: https://t.co/4UeEumaZm7\n- Ivoox: https://t.co/e7niMTG6tQ\n- Amazon Music: https://t.co/3QcfWtOViK",
-    "url": "https://twitter.com/i/web/status/1650549185098264577"
-  },
-  {
-    "text": "Some of your cells can contain over 2,500 Mitochondria EACH.\n\nThese \"energy factories\" consume 90% of your oxygen intake.\n\nHere's how to protect them: https://t.co/zePnLgRG01",
-    "url": "https://twitter.com/i/web/status/1650472677977600000"
-  },
-  {
-    "text": "Billie Holiday, la voz del siglo, tuvo una vida marcada por la droga y el alcoholismo. Murió a los 44 años cuando estaba bajo arresto. No nos cansamos de escuchar sus canciones tras las que se intuye el sufrimiento que destrozó su existencia. https://t.co/KjbuLclzfm",
-    "url": "https://twitter.com/i/web/status/1650388936244572161"
-  },
-  {
-    "text": "Pasó desapercibida en NETFLIX, pero no os perdáis LOST OLLIE. Una tierna y conmovedora aventura de 4 capítulos sobre un juguete perdido en busca de su hogar y dueño. El equipo de Coraline y el director de SpiderMan Into the SpiderVerse son los creadores de éste universo. https://t.co/awAjzkU9DI",
-    "url": "https://twitter.com/i/web/status/1650511210725425162"
-  },
-  {
-    "text": "https://t.co/lUA15wqvoy",
-    "url": "https://twitter.com/i/web/status/1650242994463727619"
-  },
-  {
-    "text": "Me está gustando bastante. Un libro del que sacas aprendizajes en casi cada página. \n\nNo te vende recetas milagrosas, simplemente te explica los potenciales peligros a los que todos estamos expuestos y cuál es, según la literatura actual, la mejor forma de prevenirlos. https://t.co/Uu7bV047Kf",
-    "url": "https://twitter.com/i/web/status/1650325948540284931"
-  },
-  {
-    "text": "This is Barcelona at night, one of the world's most unique cities. But why does it look like that?\n\nWell, until 1855 it was overcrowded, dirty, and diseased — then something special happened.\n\nHere is how you build a beautiful city... https://t.co/qrrK4b4VNQ",
-    "url": "https://twitter.com/i/web/status/1650333346965192705"
-  },
-  {
-    "text": "This book by @pgodfreysmith is simply incredible. Not only is it mind blowingly brilliant, it is so beautifully written ( he is a master of image & tone) I feel like rereading pages even as I complete them. It will change the way you feel your “being human”. And the rest of… https://t.co/NUuYzjrErI",
-    "url": "https://twitter.com/i/web/status/1650014784010551297"
-  },
-  {
-    "text": "Lo mejor de un regalo es descubrir lo bien que el regalante conoce al regalado. Con perdón por las palabrejas. https://t.co/FSGIpKGStP",
-    "url": "https://twitter.com/i/web/status/1650164008161271809"
-  },
-  {
-    "text": "@samuelgil De temática similar a Outlive https://t.co/IOUisS6fE2",
-    "url": "https://twitter.com/i/web/status/1650119544113954817"
-  },
-  {
-    "text": "qué estáis leyendo en el día el libro? \n\nyo, esto 👇🏻 https://t.co/fjxK8OFmEs",
-    "url": "https://twitter.com/i/web/status/1650062700427223040"
-  },
-  {
-    "text": "‘Hay que escuchar bien, no solo datos clínicos, para saber acompañar. Tenéis que leer literatura para comprender las historias –no clínicas– que hay detrás de cada paciente y encontrar siempre las palabras adecuadas’ https://t.co/llT9zKCm1T",
-    "url": "https://twitter.com/i/web/status/1649655742314565633"
-  },
-  {
-    "text": "Qué locura de entrevista a Alcasec, el chaval de 19 años que hackeó a la Policía Nacional y Mediaset.\n\nEn Españita hay talento, falta aprovecharlo.\n\nhttps://t.co/R2P4nGtKCg",
-    "url": "https://twitter.com/i/web/status/1649129447402926105"
-  },
-  {
-    "text": "No sé si es sólo para los que defenderemos a puñetazos que TheGoodfather es la mejor peli de la historia, pero he descubierto “The Offer” en SkyShowtime, y os la recomiendo sin llevarme comisión. Y con un 8.7 en IMDB además",
-    "url": "https://twitter.com/i/web/status/1649299840671571968"
-  },
-  {
-    "text": "Cosy Corner, 1894 by Carl Larsson https://t.co/AAtbILoLoi",
-    "url": "https://twitter.com/i/web/status/1405800982722879488"
-  },
-  {
-    "text": "Hoy, después de unos cuantos años de búsqueda, me he topado con los dos últimos números que me faltaban para completar lo de Sherlock Holmes, de sir Arthur Conan Doyle, editado por Molino. Ya están todas. https://t.co/uf2hs6BoKp",
-    "url": "https://twitter.com/i/web/status/1649006803533922308"
-  },
-  {
-    "text": "«A veces hay que irse lejos para descubrir que lo que quieres pintar es el mar que tienes delante de tu casa». https://t.co/VFMa8qFfBP",
-    "url": "https://twitter.com/i/web/status/1649000501764149250"
-  },
-  {
-    "text": "A few from Seoul, at sunset. (The haze is pretty, but it’s mostly air pollution!)\n\nSeoul is a top 5 food city for me — so many amazing things to eat at $5-10 per meal. https://t.co/isCo3okbAw",
-    "url": "https://twitter.com/i/web/status/1649093246990290944"
   }
 ]

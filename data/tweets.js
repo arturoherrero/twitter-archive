@@ -1,1051 +1,1526 @@
 window.TWEETS = [
   {
-    "id": "1963338243833041170",
-    "created_at": "Wed Sep 03 20:28:09 +0000 2025",
-    "text": "“La cultura es el cultivo (trabajo) y el culto (celebración coral) del espíritu […] la única respuesta que los seres humanos hemos encontrado a la pérdida del paraíso: el trabajo inteligente y paciente para recuperar el espíritu”.\n—Mauricio Wiesenthal.\n\nhttps://www.aceprensa.com/cultura/mauricio-wiesenthal-la-mejor-cultura-europea-se-fundamento-en-el-espiritu/",
+    "id": "2003445241555353745",
+    "created_at": "Tue Dec 23 12:39:02 +0000 2025",
+    "text": "I built a tool to review my Twitter/𝕏 archive. https://arturoherrero.github.io/twitter-archive/",
     "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1963338243833041170",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "quoted_tweet": {
-      "url": "https://x.com/vertigoconverso/status/1901410304317125114",
-      "username": "vertigoconverso",
-      "status_id": "1901410304317125114"
-    }
-  },
-  {
-    "id": "1962491471702945952",
-    "created_at": "Mon Sep 01 12:23:22 +0000 2025",
-    "text": "William F. Buckley entrevista a Jorge Luis Borges.\n\n“I find English a far finer language than Spanish”. https://www.youtube.com/watch?v=nAxtH1geob8",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1962491471702945952",
-    "in_reply_to_status_id": "1650209668294221827",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "1954838198548566331",
-    "created_at": "Mon Aug 11 09:32:00 +0000 2025",
-    "text": "The value of your product.\n\nPositive: Features. Architecture.\nNegative: Defects. Technical Debt.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1954838198548566331",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GxqKtTgXIAAZKHU.jpg",
-        "local_file": "1954838198548566331-GxqKtTgXIAAZKHU.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1954647463790284820",
-    "created_at": "Sun Aug 10 20:54:05 +0000 2025",
-    "text": "Tienes que ponerles en la posición en la que tú estás, para que vean lo que tú ves. Conocemos por intuición, y lo que vemos es 'real', así que sólo si ves lo que yo veo, lograrás comprender lo que yo entiendo.\n\nPara eso hay que persuadir.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1954647463790284820",
-    "in_reply_to_status_id": "1954647462234247552",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 3,
-    "retweet_count": 0
-  },
-  {
-    "id": "1954647462234247552",
-    "created_at": "Sun Aug 10 20:54:05 +0000 2025",
-    "text": "A las personas no se las puede convencer con argumentos “facts don't change our minds”, sino que solamente se las puede persuadir.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1954647462234247552",
-    "favorite_count": 2,
-    "retweet_count": 0,
-    "quoted_tweet": {
-      "url": "https://x.com/ArturoHerrero/status/946344814651600897",
-      "username": "ArturoHerrero",
-      "status_id": "946344814651600897"
-    }
-  },
-  {
-    "id": "1954547533390520798",
-    "created_at": "Sun Aug 10 14:17:00 +0000 2025",
-    "text": "Olympia, Pierers Universal-Lexikon. Heinrich A. Pierer. 1891.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1954547533390520798",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GxmC248WsAEjvy7.jpg",
-        "local_file": "1954547533390520798-GxmC248WsAEjvy7.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1954183477458317516",
-    "created_at": "Sat Aug 09 14:10:22 +0000 2025",
-    "text": "RT @ArturoHerrero: Continúo con otra película de Miyazaki. Hoy, la bonita y entrañable 'Mi vecino Totoro' (1988, Hayao Miyazaki).\n\nFantásti…",
-    "type": "retweet",
-    "url": "https://x.com/ArturoHerrero/status/1954183477458317516",
+    "url": "https://x.com/ArturoHerrero/status/2003445241555353745",
     "favorite_count": 0,
     "retweet_count": 0,
-    "mentions": [
-      "ArturoHerrero"
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G82p95OXoAAq6Y8.jpg",
+        "local_file": "2003445241555353745-G82p95OXoAAq6Y8.jpg",
+        "exists": true
+      }
     ]
   },
   {
-    "id": "1953767141590581510",
-    "created_at": "Fri Aug 08 10:36:00 +0000 2025",
-    "text": "Canaletto.\n\n- The Bacino di San Marco on Ascension Day. 1734.\n- View of the entrance to the Arsenal. 1732.\n- Piazza San Marco with the Basilica. 1730.\n- Entrance to the Grand Canal, Venice. 1730.",
+    "id": "2002781093272097042",
+    "created_at": "Sun Dec 21 16:39:57 +0000 2025",
+    "text": "Simple Path puzzle.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/2002781093272097042",
+    "in_reply_to_status_id": "2002502864468652386",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8tOuzrX0AAWeJc.jpg",
+        "local_file": "2002781093272097042-G8tOuzrX0AAWeJc.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "2002502864468652386",
+    "created_at": "Sat Dec 20 22:14:22 +0000 2025",
+    "text": "Nonogram / Picross puzzle.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/2002502864468652386",
+    "in_reply_to_status_id": "2002502594678444237",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8pRvKXXcAAwXJ4.jpg",
+        "local_file": "2002502864468652386-G8pRvKXXcAAwXJ4.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "2002502594678444237",
+    "created_at": "Sat Dec 20 22:13:17 +0000 2025",
+    "text": "Windows puzzle.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/2002502594678444237",
+    "in_reply_to_status_id": "2002502302335193393",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8pRfaoWEAA9X7x.jpg",
+        "local_file": "2002502594678444237-G8pRfaoWEAA9X7x.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "2002502302335193393",
+    "created_at": "Sat Dec 20 22:12:08 +0000 2025",
+    "text": "Easy as ABC puzzle.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/2002502302335193393",
+    "in_reply_to_status_id": "2002501901485813851",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8pROfkWkAAqZNE.jpg",
+        "local_file": "2002502302335193393-G8pROfkWkAAqZNE.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "2002501901485813851",
+    "created_at": "Sat Dec 20 22:10:32 +0000 2025",
+    "text": "Slitherlink Path puzzle.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/2002501901485813851",
+    "in_reply_to_status_id": "2002501651396235506",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8pQ3M4WIAA8_Oo.jpg",
+        "local_file": "2002501901485813851-G8pQ3M4WIAA8_Oo.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "2002501651396235506",
+    "created_at": "Sat Dec 20 22:09:33 +0000 2025",
+    "text": "Nurikabe puzzle.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/2002501651396235506",
+    "in_reply_to_status_id": "2002501242631966803",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8pQottW0AAtsxO.jpg",
+        "local_file": "2002501651396235506-G8pQottW0AAtsxO.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "2002501242631966803",
+    "created_at": "Sat Dec 20 22:07:55 +0000 2025",
+    "text": "1-star Star Battle puzzle.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/2002501242631966803",
+    "in_reply_to_status_id": "2002501027761995776",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8pQQ5LW4AAkvyl.jpg",
+        "local_file": "2002501242631966803-G8pQQ5LW4AAkvyl.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "2002501027761995776",
+    "created_at": "Sat Dec 20 22:07:04 +0000 2025",
+    "text": "Simple Path / Hamiltonian Path puzzle.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/2002501027761995776",
+    "in_reply_to_status_id": "2002500742977106039",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8pQECmWwAA_r1-.jpg",
+        "local_file": "2002501027761995776-G8pQECmWwAA_r1-.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "2002500742977106039",
+    "created_at": "Sat Dec 20 22:05:56 +0000 2025",
+    "text": "Image puzzle.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/2002500742977106039",
+    "in_reply_to_status_id": "2002049355973542136",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8pPzyYWwAAfVwp.jpg",
+        "local_file": "2002500742977106039-G8pPzyYWwAAfVwp.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "2002049355973542136",
+    "created_at": "Fri Dec 19 16:12:17 +0000 2025",
+    "text": "Irregular Sudoku puzzle.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/2002049355973542136",
+    "in_reply_to_status_id": "2002022949746823390",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8i1O2lWIAQVmmO.jpg",
+        "local_file": "2002049355973542136-G8i1O2lWIAQVmmO.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "2002022949746823390",
+    "created_at": "Fri Dec 19 14:27:21 +0000 2025",
+    "text": "Nurikabe puzzle.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/2002022949746823390",
+    "in_reply_to_status_id": "2002022703952523269",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8idQLbXAAABHyW.jpg",
+        "local_file": "2002022949746823390-G8idQLbXAAABHyW.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "2002022703952523269",
+    "created_at": "Fri Dec 19 14:26:23 +0000 2025",
+    "text": "1-star Star Battle puzzle.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/2002022703952523269",
+    "in_reply_to_status_id": "2002022423386898583",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8idApMW4AAUexR.jpg",
+        "local_file": "2002022703952523269-G8idApMW4AAUexR.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "2002022423386898583",
+    "created_at": "Fri Dec 19 14:25:16 +0000 2025",
+    "text": "Sheep and Wolves (Slitherlink) puzzle.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/2002022423386898583",
+    "in_reply_to_status_id": "2001792959088562615",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8icxOjXwAAgaLb.jpg",
+        "local_file": "2002022423386898583-G8icxOjXwAAgaLb.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "2001792959088562615",
+    "created_at": "Thu Dec 18 23:13:27 +0000 2025",
+    "text": "Simple Path / Hamiltonian Path puzzle.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/2001792959088562615",
+    "in_reply_to_status_id": "2001792603566801069",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8fMDvLXEAAi6Ow.jpg",
+        "local_file": "2001792959088562615-G8fMDvLXEAAi6Ow.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "2001792603566801069",
+    "created_at": "Thu Dec 18 23:12:02 +0000 2025",
+    "text": "Dominion puzzle.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/2001792603566801069",
+    "in_reply_to_status_id": "2001792284321358051",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8fLwHhX0AAappA.jpg",
+        "local_file": "2001792603566801069-G8fLwHhX0AAappA.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "2001792284321358051",
+    "created_at": "Thu Dec 18 23:10:46 +0000 2025",
+    "text": "Nonogram/Picross puzzle.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/2001792284321358051",
+    "in_reply_to_status_id": "2001246897374421177",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8fLcd1XIAAAemv.jpg",
+        "local_file": "2001792284321358051-G8fLcd1XIAAAemv.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "2001246897374421177",
+    "created_at": "Wed Dec 17 11:03:36 +0000 2025",
+    "text": "Hamiltonian Plumbers puzzle.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/2001246897374421177",
+    "in_reply_to_status_id": "2001246893234655523",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8XbFADXoAYNZyh.jpg",
+        "local_file": "2001246897374421177-G8XbFADXoAYNZyh.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "2001246893234655523",
+    "created_at": "Wed Dec 17 11:03:35 +0000 2025",
+    "text": "Irregular Sudoku puzzle.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/2001246893234655523",
+    "in_reply_to_status_id": "2001246889577210001",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8XaHQwWEAIAqlS.jpg",
+        "local_file": "2001246893234655523-G8XaHQwWEAIAqlS.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "2001246889577210001",
+    "created_at": "Wed Dec 17 11:03:34 +0000 2025",
+    "text": "Star Battle puzzle.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/2001246889577210001",
+    "in_reply_to_status_id": "2001246885445873848",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8XacH1XoAI4xAW.jpg",
+        "local_file": "2001246889577210001-G8XacH1XoAI4xAW.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "2001246885445873848",
+    "created_at": "Wed Dec 17 11:03:33 +0000 2025",
+    "text": "Image puzzle.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/2001246885445873848",
+    "in_reply_to_status_id": "2001246881930993717",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8XatS9WAAAPfCk.jpg",
+        "local_file": "2001246885445873848-G8XatS9WAAAPfCk.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "2001246881930993717",
+    "created_at": "Wed Dec 17 11:03:32 +0000 2025",
+    "text": "Numberlink puzzle.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/2001246881930993717",
+    "in_reply_to_status_id": "2001246878453912011",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8XbUBbXsAIf_L8.jpg",
+        "local_file": "2001246881930993717-G8XbUBbXsAIf_L8.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "2001246878453912011",
+    "created_at": "Wed Dec 17 11:03:31 +0000 2025",
+    "text": "Hamiltonian Path puzzle.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/2001246878453912011",
+    "in_reply_to_status_id": "2000858963890540688",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8XYnjKXoAQBXl7.jpg",
+        "local_file": "2001246878453912011-G8XYnjKXoAQBXl7.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "2000858963890540688",
+    "created_at": "Tue Dec 16 09:22:05 +0000 2025",
+    "text": "Advent of puzzles https://thinkygames.com/dailies/",
     "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1953767141590581510",
+    "url": "https://x.com/ArturoHerrero/status/2000858963890540688",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1999085139113234795",
+    "created_at": "Thu Dec 11 11:53:33 +0000 2025",
+    "text": "What turns access into learning is time and strategic patience. https://www.harvardmagazine.com/2013/10/the-power-of-patience\n\nhttps://www.youtube.com/watch?v=AnQVT_p6pxg",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1999085139113234795",
+    "in_reply_to_status_id": "1999085137351565619",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1999085137351565619",
+    "created_at": "Thu Dec 11 11:53:32 +0000 2025",
+    "text": "Just because you have looked at something doesn’t mean that you have seen it.\n\nJust because something is available instantly to vision doesn't mean that it is available instantly to consciousness.\n\nJust because you have access to something doesn't mean you have learned.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1999085137351565619",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1998463895355138313",
+    "created_at": "Tue Dec 09 18:44:56 +0000 2025",
+    "text": "‘Hacer cómics’ de Scott McCloud no es una guía para dibujar cómics; es un libro sobre la comunicación visual. La continuación de ‘Entender el cómic’. Imprescindibles.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1998463895355138313",
+    "in_reply_to_status_id": "1985073152024625369",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7v1dQYWQAAtr35.jpg",
+        "local_file": "1998463895355138313-G7v1dQYWQAAtr35.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1998386835085537661",
+    "created_at": "Tue Dec 09 13:38:44 +0000 2025",
+    "text": "“Simplicity is the key to brilliance.”",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1998386835085537661",
+    "in_reply_to_status_id": "1480599307178893312",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1997977704562311416",
+    "created_at": "Mon Dec 08 10:33:00 +0000 2025",
+    "text": "Molino de agua junto al riachuelo.\n\nComencé este dibujo a lápiz, pero terminé con tinta 0.4mm.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1997977704562311416",
+    "in_reply_to_status_id": "1995171226873217284",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7o-IWzWEAAyR4M.jpg",
+        "local_file": "1997977704562311416-G7o-IWzWEAAyR4M.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7o-IWwWIAAbNhO.jpg",
+        "local_file": "1997977704562311416-G7o-IWwWIAAbNhO.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1995171226873217284",
+    "created_at": "Sun Nov 30 16:41:03 +0000 2025",
+    "text": "Perspectiva con un punto de fuga.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1995171226873217284",
+    "in_reply_to_status_id": "1994362110566969466",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7BFo15W0AAg__E.jpg",
+        "local_file": "1995171226873217284-G7BFo15W0AAg__E.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7BFo13WgAAT71c.jpg",
+        "local_file": "1995171226873217284-G7BFo13WgAAT71c.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1994745910258192416",
+    "created_at": "Sat Nov 29 12:31:00 +0000 2025",
+    "text": "Las cosas cambian de nombre en función de la distancia. El suelo que ahora piso se llama paisaje cuando está lejos. Y cuando ya no está, se llama Geografía.\n—Eduardo Mendoza.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1994745910258192416",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1994362110566969466",
+    "created_at": "Fri Nov 28 11:05:55 +0000 2025",
+    "text": "Sigo dibujando.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1994362110566969466",
+    "in_reply_to_status_id": "1989663848790691969",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61lw-VXYAAGQjG.jpg",
+        "local_file": "1994362110566969466-G61lw-VXYAAGQjG.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61lw-TXEAAOz-A.jpg",
+        "local_file": "1994362110566969466-G61lw-TXEAAOz-A.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61lw-YWkAA31an.jpg",
+        "local_file": "1994362110566969466-G61lw-YWkAA31an.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1994140420369215768",
+    "created_at": "Thu Nov 27 20:25:00 +0000 2025",
+    "text": "Band of Brothers.\n\nVuelvo a seguir la historia de la Easy Company 15 años después. Extraordinaria y desgarradora.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1994140420369215768",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6v_BLdWIAEblJ8.jpg",
+        "local_file": "1994140420369215768-G6v_BLdWIAEblJ8.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1990085408181391757",
+    "created_at": "Sun Nov 16 15:51:49 +0000 2025",
+    "text": "Por consiguiente, este es nuestro deber: no profetizar el mal, sino luchar por un mundo mejor.\n\n—Karl Popper, El mito del marco común (1994)",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1990085408181391757",
+    "in_reply_to_status_id": "1990085404935033076",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1990085404935033076",
+    "created_at": "Sun Nov 16 15:51:49 +0000 2025",
+    "text": "Las posibilidades que hay en el futuro son infinitas. […] 'nuestro deber es ser optimistas', esto incluye no solo estar abiertos al futuro sino también que todos nosotros contribuyamos a ello en todo lo que hagamos: todos somos responsables de lo que nos depara el futuro.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1990085404935033076",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1989672231094641115",
+    "created_at": "Sat Nov 15 12:30:00 +0000 2025",
+    "text": "How did the world get so ugly? https://www.youtube.com/watch?v=tWYxrowovts\n\nEl mundo no tiene por qué ser feo o aburrido. Tenemos que seguir creando belleza.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1989672231094641115",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "quoted_tweet": {
+      "url": "https://x.com/culturaltutor/status/1642953586609889281",
+      "username": "culturaltutor",
+      "status_id": "1642953586609889281"
+    }
+  },
+  {
+    "id": "1989663848790691969",
+    "created_at": "Sat Nov 15 11:56:42 +0000 2025",
+    "text": "… y tengo unos lápices.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1989663848790691969",
+    "in_reply_to_status_id": "1989293633917579472",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5y0uLhWwAARNxo.jpg",
+        "local_file": "1989663848790691969-G5y0uLhWwAARNxo.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5y0uLeWMAAXG1G.jpg",
+        "local_file": "1989663848790691969-G5y0uLeWMAAXG1G.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5y0uLeXcAA9H_U.jpg",
+        "local_file": "1989663848790691969-G5y0uLeXcAA9H_U.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1989293633917579472",
+    "created_at": "Fri Nov 14 11:25:36 +0000 2025",
+    "text": "Le he robado un cuaderno.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1989293633917579472",
+    "in_reply_to_status_id": "1989293611100578187",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5tkAWSXEAAGqnz.jpg",
+        "local_file": "1989293633917579472-G5tkAWSXEAAGqnz.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5tkAWQXQAA3hLx.jpg",
+        "local_file": "1989293633917579472-G5tkAWQXQAA3hLx.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5tkAWSXoAAGvtU.jpg",
+        "local_file": "1989293633917579472-G5tkAWSXoAAGvtU.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1989293611100578187",
+    "created_at": "Fri Nov 14 11:25:30 +0000 2025",
+    "text": "¿En qué momento un niño deja de dibujar?\n\nMi padre ha dibujado y pintado durante toda su vida, así que, qué mejor momento para volver a dibujar que ahora que veo a mi hija hacerlo a diario.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1989293611100578187",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "quoted_tweet": {
+      "url": "https://x.com/KevinEspiritu/status/1956836068965409067",
+      "username": "KevinEspiritu",
+      "status_id": "1956836068965409067"
+    }
+  },
+  {
+    "id": "1988930006073151619",
+    "created_at": "Thu Nov 13 11:20:40 +0000 2025",
+    "text": "Estudiar el concepto de BELLEZA.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1988930006073151619",
+    "in_reply_to_status_id": "1947970260675473858",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1809656392866738666",
+    "created_at": "Sat Jul 06 18:31:20 +0000 2024",
+    "text": "@flopezluis A billion? Boring code? ;) https://arturoherrero.com/ishows-server/",
+    "type": "reply",
+    "url": "https://x.com/ArturoHerrero/status/1809656392866738666",
+    "in_reply_to_status_id": "1809530829690769919",
+    "in_reply_to_screen_name": "flopezluis",
     "favorite_count": 4,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GxqLwKCWUAAL8eo.jpg",
-        "local_file": "1953767141590581510-GxqLwKCWUAAL8eo.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GxqLyyAWkAAV6KS.jpg",
-        "local_file": "1953767141590581510-GxqLyyAWkAAV6KS.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GxqL1skXoAAFvfl.jpg",
-        "local_file": "1953767141590581510-GxqL1skXoAAFvfl.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GxqL4G2XAAA67Qs.jpg",
-        "local_file": "1953767141590581510-GxqL4G2XAAA67Qs.jpg",
-        "exists": true
-      }
+    "retweet_count": 1,
+    "mentions": [
+      "flopezluis"
     ]
   },
   {
-    "id": "1953021898993848741",
-    "created_at": "Wed Aug 06 09:14:40 +0000 2025",
-    "text": "Mis lecturas para estas vacaciones:\n- El perro de los Baskerville\n- El asesinato de Roger Ackroyd\n- El espía que surgió del frío\n- El comisario Montalbano",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1953021898993848741",
-    "favorite_count": 2,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GxqEoWBWgAA0Awp.jpg",
-        "local_file": "1953021898993848741-GxqEoWBWgAA0Awp.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GxqE5nVXMAABGwX.jpg",
-        "local_file": "1953021898993848741-GxqE5nVXMAABGwX.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GxqFPbJWYAESuU0.jpg",
-        "local_file": "1953021898993848741-GxqFPbJWYAESuU0.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GxqFdoOWgAEmjqv.jpg",
-        "local_file": "1953021898993848741-GxqFdoOWgAEmjqv.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1952734428586791415",
-    "created_at": "Tue Aug 05 14:12:22 +0000 2025",
-    "text": "wtfw it's like smho tbfh, imdb.\n\nhttps://xkcd.com/1460/",
+    "id": "1806751613198946778",
+    "created_at": "Fri Jun 28 18:08:47 +0000 2024",
+    "text": "Todas las portadas de «Les Aventures de Tintin».",
     "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1952734428586791415",
-    "in_reply_to_status_id": "1952734426208571480",
+    "url": "https://x.com/ArturoHerrero/status/1806751613198946778",
+    "in_reply_to_status_id": "1803528439980302763",
     "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1952734426208571480",
-    "created_at": "Tue Aug 05 14:12:21 +0000 2025",
-    "text": "Acronyms Seriously Suck.\n\nFrom “Elon Musk” by Ashlee Vance.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1952734426208571480",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Gxl-5sXXkAEZeWd.jpg",
-        "local_file": "1952734426208571480-Gxl-5sXXkAEZeWd.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1952332876793393632",
-    "created_at": "Mon Aug 04 11:36:45 +0000 2025",
-    "text": "No espere a que le den otra oportunidad. La que tiene entre manos es la buena.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1952332876793393632",
-    "in_reply_to_status_id": "1952332873295356303",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GxgQxb9XwAAYlyD.jpg",
-        "local_file": "1952332876793393632-GxgQxb9XwAAYlyD.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GxgQ4CtXgAAQsS1.jpg",
-        "local_file": "1952332876793393632-GxgQ4CtXgAAQsS1.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GxgRSDaWYAAGOlA.jpg",
-        "local_file": "1952332876793393632-GxgRSDaWYAAGOlA.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GxgRj-kX0AAQw7D.jpg",
-        "local_file": "1952332876793393632-GxgRj-kX0AAQw7D.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1952332873295356303",
-    "created_at": "Mon Aug 04 11:36:44 +0000 2025",
-    "text": "Sin tener una meta, es difícil ganar.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1952332873295356303",
-    "in_reply_to_status_id": "1952332870053183555",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GxgPKpvXwAABMxi.jpg",
-        "local_file": "1952332873295356303-GxgPKpvXwAABMxi.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GxgPxl-X0AA1GQ9.jpg",
-        "local_file": "1952332873295356303-GxgPxl-X0AA1GQ9.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GxgQIAvWoAAOJvF.jpg",
-        "local_file": "1952332873295356303-GxgQIAvWoAAOJvF.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GxgQkknXQAA4Ipi.jpg",
-        "local_file": "1952332873295356303-GxgQkknXQAA4Ipi.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1952332870053183555",
-    "created_at": "Mon Aug 04 11:36:43 +0000 2025",
-    "text": "“Usted puede ser lo bueno que quiera ser” — Paul Arden — ★★★★☆\n\nhttps://issuu.com/beatrizgarciaprieto/docs/134455989-arden-paul-usted-puede-se",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1952332870053183555",
     "favorite_count": 1,
     "retweet_count": 0,
     "media": [
       {
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/GxgO26pWsAAdsXT.jpg",
-        "local_file": "1952332870053183555-GxgO26pWsAAdsXT.jpg",
+        "url": "https://pbs.twimg.com/media/GRLW0_JXIAASzRR.jpg",
+        "local_file": "1806751613198946778-GRLW0_JXIAASzRR.jpg",
         "exists": true
       }
     ]
   },
   {
-    "id": "1951255107015733521",
-    "created_at": "Fri Aug 01 12:14:04 +0000 2025",
-    "text": "«Pocos entienden que la procrastinación es una defensa natural consistente en dejar que las cosas sigan su curso y ejerzan su antifragilidad».\n\nEl momento preciso. https://cardinal.substack.com/p/el-momento-preciso",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1951255107015733521",
+    "id": "1806066882337820910",
+    "created_at": "Wed Jun 26 20:47:54 +0000 2024",
+    "text": "Laws of UX is a collection of best practices that designers can consider when building user interfaces. https://lawsofux.com/",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1806066882337820910",
+    "in_reply_to_status_id": "1806066880077054408",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1806066880077054408",
+    "created_at": "Wed Jun 26 20:47:53 +0000 2024",
+    "text": "Un libro curioso.\n\n“Open Here: The Art of Instructional Design” by Paul Mijksenaar and Piet Westendorp.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1806066880077054408",
+    "in_reply_to_status_id": "1806066877740843301",
+    "in_reply_to_screen_name": "ArturoHerrero",
     "favorite_count": 0,
     "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRBBsJIXUAADE7S.jpg",
+        "local_file": "1806066880077054408-GRBBsJIXUAADE7S.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRBqyy9WYAAuHLL.jpg",
+        "local_file": "1806066880077054408-GRBqyy9WYAAuHLL.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRBq0o_W8AEeB-2.jpg",
+        "local_file": "1806066880077054408-GRBq0o_W8AEeB-2.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRBq2YjWAAEuhga.jpg",
+        "local_file": "1806066880077054408-GRBq2YjWAAEuhga.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1806066877740843301",
+    "created_at": "Wed Jun 26 20:47:53 +0000 2024",
+    "text": "10 Usability Heuristics for User Interface Design. https://www.nngroup.com/articles/ten-usability-heuristics/",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1806066877740843301",
+    "in_reply_to_status_id": "1801643053322522949",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1803528439980302763",
+    "created_at": "Wed Jun 19 20:41:02 +0000 2024",
+    "text": "La mejor forma de visitar una exposición es con el amigo cultureta que controla del tema.\n\nExposición Hergé Madrid. ¡Qué auténtica maravilla! https://www.youtube.com/playlist?list=PL3eKNt82pS17Dcmh_iP2OIqbcdIYPTakr",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1803528439980302763",
+    "in_reply_to_status_id": "1803522068018831772",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1803522068018831772",
+    "created_at": "Wed Jun 19 20:15:43 +0000 2024",
+    "text": "Encontré un libro en la biblioteca: “Tintín, Hergé y los coches”, y me he dado cuenta de que quizás me interesan más los libros sobre comics, que los comics en sí.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1803522068018831772",
+    "in_reply_to_status_id": "1692598703834403183",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQdltGnWsAAFoNX.jpg",
+        "local_file": "1803522068018831772-GQdltGnWsAAFoNX.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1801889528329728031",
+    "created_at": "Sat Jun 15 08:08:35 +0000 2024",
+    "text": "RT @ArturoHerrero: @islomar Llevo un tercio, me está gustando.\n\nEs un libro sobre sus reflexiones y lecciones de vida. Se podría comprimir…",
+    "type": "retweet",
+    "url": "https://x.com/ArturoHerrero/status/1801889528329728031",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "mentions": [
+      "ArturoHerrero",
+      "islomar"
+    ]
+  },
+  {
+    "id": "1801889222304960829",
+    "created_at": "Sat Jun 15 08:07:22 +0000 2024",
+    "text": "@islomar Llevo un tercio, me está gustando.\n\nEs un libro sobre sus reflexiones y lecciones de vida. Se podría comprimir mucho más la información como estamos acostumbrados en X, pero es un libro para leer con tranquilidad. Lo recomiendo.\n\nPara los que tengan prisa: https://www.vogue.es/living/articulos/lo-esencial-libro-miguel-mila-lecciones-de-vida-diseno-reflexiones",
+    "type": "reply",
+    "url": "https://x.com/ArturoHerrero/status/1801889222304960829",
+    "in_reply_to_status_id": "1801653892809375873",
+    "in_reply_to_screen_name": "islomar",
+    "favorite_count": 1,
+    "retweet_count": 1,
+    "mentions": [
+      "islomar"
+    ]
+  },
+  {
+    "id": "1801643053322522949",
+    "created_at": "Fri Jun 14 15:49:11 +0000 2024",
+    "text": "Leyendo “La psicología de los objetos cotidianos”, de Donald Norman.\n\nEl libro—de 1988—describe muchos principios fundamentales de diseño a golpe de anécdota. Una gran introducción al diseño centrado en el usuario.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1801643053322522949",
+    "in_reply_to_status_id": "1796162193102164190",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQCoiN3X0AAIpw5.jpg",
+        "local_file": "1801643053322522949-GQCoiN3X0AAIpw5.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1799381306146713730",
+    "created_at": "Sat Jun 08 10:01:48 +0000 2024",
+    "text": "Lean a Wiesenthal. No hay nadie igual.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1799381306146713730",
+    "favorite_count": 10,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPivwkZW8AAGEvv.jpg",
+        "local_file": "1799381306146713730-GPivwkZW8AAGEvv.jpg",
+        "exists": true
+      }
+    ],
     "quoted_tweet": {
-      "url": "https://x.com/ArturoHerrero/status/1929558614554845530",
-      "username": "ArturoHerrero",
-      "status_id": "1929558614554845530"
+      "url": "https://x.com/guardian_el_/status/1798665448877343195",
+      "username": "guardian_el_",
+      "status_id": "1798665448877343195"
     }
   },
   {
-    "id": "1949469404724404249",
-    "created_at": "Sun Jul 27 13:58:20 +0000 2025",
-    "text": "@gabrielalendo Kurt Vonnegut, Shapes of Stories. https://www.youtube.com/watch?v=GOGru_4z1Vc\n\n“If this isn't nice, I don't know what is”.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1949469404724404249",
-    "in_reply_to_status_id": "1949468652174274794",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "mentions": [
-      "gabrielalendo"
-    ]
-  },
-  {
-    "id": "1949468652174274794",
-    "created_at": "Sun Jul 27 13:55:20 +0000 2025",
-    "text": "10 consejos para diseñar una historia que conecta, por @gabrielalendo.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1949468652174274794",
-    "in_reply_to_status_id": "1949460684854431912",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Gw3ja6PWoAAJ9wO.jpg",
-        "local_file": "1949468652174274794-Gw3ja6PWoAAJ9wO.jpg",
-        "exists": true
-      }
-    ],
-    "mentions": [
-      "gabrielalendo"
-    ]
-  },
-  {
-    "id": "1949460684854431912",
-    "created_at": "Sun Jul 27 13:23:41 +0000 2025",
-    "text": "¿Cómo se convirtió Toyota en uno de los fabricantes más exitosos del mundo?",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1949460684854431912",
-    "in_reply_to_status_id": "1949456457017037283",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Gw3fpUjXgAAWHST.jpg",
-        "local_file": "1949460684854431912-Gw3fpUjXgAAWHST.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1949459999396094148",
-    "created_at": "Sun Jul 27 13:20:57 +0000 2025",
-    "text": "@kikemarchan Pues la mejor evaluación es que veas un par ejemplos de lo que te vas a encontrar. Yo creo que merece mucho la pena, sobretodo si se tienen pocas nociones de diseño.\n- https://www.youtube.com/watch?v=hg_OAVnRxKk\n- https://www.youtube.com/watch?v=jp2jnNlPD1s",
-    "type": "reply",
-    "url": "https://x.com/ArturoHerrero/status/1949459999396094148",
-    "in_reply_to_status_id": "1949456656078872945",
-    "in_reply_to_screen_name": "kikemarchan",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "mentions": [
-      "kikemarchan"
-    ]
-  },
-  {
-    "id": "1949456457017037283",
-    "created_at": "Sun Jul 27 13:06:53 +0000 2025",
-    "text": "The secret structure of great talks. https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1949456457017037283",
-    "in_reply_to_status_id": "1949456200711479505",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1949456200711479505",
-    "created_at": "Sun Jul 27 13:05:52 +0000 2025",
-    "text": "Para Ellen Lupton el diseño efectivo no solo comunica visualmente, sino que también cuenta historias.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1949456200711479505",
-    "in_reply_to_status_id": "1906377718586855875",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Gw3Z-9kXQAAQfN6.jpg",
-        "local_file": "1949456200711479505-Gw3Z-9kXQAAQfN6.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1947970260675473858",
-    "created_at": "Wed Jul 23 10:41:16 +0000 2025",
-    "text": "Explorar distintos puzzles.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1947970260675473858",
-    "in_reply_to_status_id": "1940746302436110341",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GwiTAylWsAABmWB.jpg",
-        "local_file": "1947970260675473858-GwiTAylWsAABmWB.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1947318706188501490",
-    "created_at": "Mon Jul 21 15:32:13 +0000 2025",
-    "text": "The hardest working font in Manhattan.\n\nA story about the Gorton typeface behind NYC’s engraved signs, control panels, and vintage machinery. https://aresluna.org/the-hardest-working-font-in-manhattan/",
+    "id": "1796465488169730395",
+    "created_at": "Fri May 31 08:55:23 +0000 2024",
+    "text": "El viernes nos regala más de 5 horas de @rodrigocortes. Espléndido. https://www.youtube.com/watch?v=zEr9LiYGF4w",
     "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1947318706188501490",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1946938058315575758",
-    "created_at": "Sun Jul 20 14:19:40 +0000 2025",
-    "text": "Computers are useless. They can only give you answers.\n\n―Pablo Picasso.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1946938058315575758",
-    "favorite_count": 2,
-    "retweet_count": 1
-  },
-  {
-    "id": "1945392763358314603",
-    "created_at": "Wed Jul 16 07:59:13 +0000 2025",
-    "text": "@samuelgil Andre Agassi's “Open” vibes.",
-    "type": "reply",
-    "url": "https://x.com/ArturoHerrero/status/1945392763358314603",
-    "in_reply_to_status_id": "1945368789966561311",
-    "in_reply_to_screen_name": "samuelgil",
-    "favorite_count": 2,
-    "retweet_count": 0,
-    "quoted_tweet": {
-      "url": "https://x.com/ArturoHerrero/status/1587206821487562753",
-      "username": "ArturoHerrero",
-      "status_id": "1587206821487562753"
-    },
-    "mentions": [
-      "samuelgil"
-    ]
-  },
-  {
-    "id": "1945207270960214429",
-    "created_at": "Tue Jul 15 19:42:08 +0000 2025",
-    "text": "Como todos los grandes viajeros, he visto más de lo que recuerdo, y recuerdo más de lo que he visto.\n\n—Benjamin Disraeli.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1945207270960214429",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "1945074081553903855",
-    "created_at": "Tue Jul 15 10:52:53 +0000 2025",
-    "text": "“Things that have never happened before happen all the time.”",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1945074081553903855",
-    "in_reply_to_status_id": "1308869087053975555",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1940746302436110341",
-    "created_at": "Thu Jul 03 12:15:50 +0000 2025",
-    "text": "On Kawara sent postcards to friends or colleagues every day for nearly 12 years.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1940746302436110341",
-    "in_reply_to_status_id": "1929223551996879159",
-    "in_reply_to_screen_name": "ArturoHerrero",
+    "url": "https://x.com/ArturoHerrero/status/1796465488169730395",
     "favorite_count": 0,
     "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Gu7UG0QW8AAnz5T.jpg",
-        "local_file": "1940746302436110341-Gu7UG0QW8AAnz5T.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1939694383982432659",
-    "created_at": "Mon Jun 30 14:35:53 +0000 2025",
-    "text": "- The Talented Mr. Ripley (1999, Anthony Minghella)\n- Saltburn (2023, Emerald Fennell)",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1939694383982432659",
-    "in_reply_to_status_id": "1898256115688960049",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GussoNIWUAA8JBT.jpg",
-        "local_file": "1939694383982432659-GussoNIWUAA8JBT.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GusspmlXEAAmG6q.jpg",
-        "local_file": "1939694383982432659-GusspmlXEAAmG6q.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1939296720195653824",
-    "created_at": "Sun Jun 29 12:15:43 +0000 2025",
-    "text": "Como en una botella que se agita, y al dejarla en el suelo lo pesado se separa de lo ligero, así en una naturaleza compleja el silencio y la reflexión cristalizan con más claridad el carácter.\n\n—María Antonieta, Stefan Zweig.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1939296720195653824",
-    "in_reply_to_status_id": "1939296717226025249",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 2,
-    "retweet_count": 0
-  },
-  {
-    "id": "1939296717226025249",
-    "created_at": "Sun Jun 29 12:15:42 +0000 2025",
-    "text": "La tranquilidad es un elemento creativo. Recopila, depura, ordena las fuerzas interiores, reúne lo que el movimiento ha dispersado.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1939296717226025249",
-    "favorite_count": 3,
-    "retweet_count": 0
-  },
-  {
-    "id": "1931259844272549950",
-    "created_at": "Sat Jun 07 08:00:02 +0000 2025",
-    "text": "The Psychology of Human Misjudgment, by Charlie Munger. https://fs.blog/great-talks/psychology-human-misjudgment/",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1931259844272549950",
-    "in_reply_to_status_id": "1871178337697112210",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "1929558614554845530",
-    "created_at": "Mon Jun 02 15:19:57 +0000 2025",
-    "text": "Todo el que aguarda sabe que la victoria es suya;\nporque la vida es larga y el arte es un juguete.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1929558614554845530",
-    "in_reply_to_status_id": "1929476332960014414",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 1,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GscrBYcWUAAKL2R.png",
-        "local_file": "1929558614554845530-GscrBYcWUAAKL2R.png",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1929476332960014414",
-    "created_at": "Mon Jun 02 09:53:00 +0000 2025",
-    "text": "Tras el vivir y el soñar,\n está lo que más importa:\n despertar.\n\n—Antonio Machado.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1929476332960014414",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1929223551996879159",
-    "created_at": "Sun Jun 01 17:08:32 +0000 2025",
-    "text": "Koch snowflakes with p5.js. https://en.wikipedia.org/wiki/Koch_snowflake",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1929223551996879159",
-    "in_reply_to_status_id": "1925870312610029719",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1928740810444492925",
-    "created_at": "Sat May 31 09:10:18 +0000 2025",
-    "text": "Ideas That Changed My Life by Morgan Housel. https://collabfund.com/blog/ideas-that-changed-my-life/\n\n- Tribes > Logic\n- History repeats\n- Learn cross-disciplinary\n- Self-interest justifies anything\n- Room for error = survival\n- Win: learn faster, wait longer\n- Your experience ≠ reality",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1928740810444492925",
-    "in_reply_to_status_id": "1560884615212335104",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1926919932152775089",
-    "created_at": "Mon May 26 08:34:46 +0000 2025",
-    "text": "Hic sunt dracones—Aquí hay dragones.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1926919932152775089",
-    "in_reply_to_status_id": "1417194253038587906",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Gr3LGEiWkAAz3Td.jpg",
-        "local_file": "1926919932152775089-Gr3LGEiWkAAz3Td.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1925870312610029719",
-    "created_at": "Fri May 23 11:03:58 +0000 2025",
-    "text": "Crear un tema musical. Anjunadeep vibes. https://www.youtube.com/watch?v=35KLcdBry4w",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1925870312610029719",
-    "in_reply_to_status_id": "1916590482450420054",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1922926837899874334",
-    "created_at": "Thu May 15 08:07:39 +0000 2025",
-    "text": "El oficio de vivir–Pavese. Ideas & Inventos: 900-1900. Historia de la navegación.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1922926837899874334",
-    "in_reply_to_status_id": "1912454728371347725",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Gq-bw8aXsAAEKjL.jpg",
-        "local_file": "1922926837899874334-Gq-bw8aXsAAEKjL.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1921920994781921319",
-    "created_at": "Mon May 12 13:30:47 +0000 2025",
-    "text": "The Way Things Work.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1921920994781921319",
-    "in_reply_to_status_id": "1921920986464600318",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 3,
-    "retweet_count": 1,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GqwIIPLW8AAWPDH.jpg",
-        "local_file": "1921920994781921319-GqwIIPLW8AAWPDH.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GqwInvtWIAALrXh.jpg",
-        "local_file": "1921920994781921319-GqwInvtWIAALrXh.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GqwIwywW0AAqd7e.jpg",
-        "local_file": "1921920994781921319-GqwIwywW0AAqd7e.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GqwI3zeW8AAQwEj.jpg",
-        "local_file": "1921920994781921319-GqwI3zeW8AAQwEj.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1683052027511726081",
-    "created_at": "Sun Jul 23 09:50:47 +0000 2023",
-    "text": "En un capítulo de La Cultureta de hace mil años, @rodrigocortes recomendaba dos cómics de Will Eisner. ¡Magníficos!",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1683052027511726081",
-    "in_reply_to_status_id": "1681032662054580226",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 2,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/F1tmuBTXwAEkJi_.jpg",
-        "local_file": "1683052027511726081-F1tmuBTXwAEkJi_.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/F1tmyDWXoAA4pMD.jpg",
-        "local_file": "1683052027511726081-F1tmyDWXoAA4pMD.jpg",
-        "exists": true
-      }
-    ],
     "mentions": [
       "rodrigocortes"
     ]
   },
   {
-    "id": "1681380754016616451",
-    "created_at": "Tue Jul 18 19:09:44 +0000 2023",
-    "text": "Fueron 35 años de informes y estrellas para la guía roja. Décadas de miles de kilómetros, anecdotario, fatiga, placer y centenares de menús degustación. https://sobremesa.es/art/5828/yo-fui-inspector-de-la-guia-michelin-ya-no-me-escondo",
+    "id": "1796162193102164190",
+    "created_at": "Thu May 30 12:50:12 +0000 2024",
+    "text": "Usuario, contexto, dispositivo e interfaz.",
     "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1681380754016616451",
-    "in_reply_to_status_id": "1447130821983412224",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "1681032662054580226",
-    "created_at": "Mon Jul 17 20:06:33 +0000 2023",
-    "text": "Desde Hergé como principal referente de la línea clara me voy a Vittorio Giardino con 'Vacaciones de ensueño'.\n\n13 historias cortas llenas de intriga, crimen, sensualidad y lugares exóticos. Muy veraniego.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1681032662054580226",
-    "in_reply_to_status_id": "1679836232585469954",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 2,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/F1Q5MEfXwAE1Ynh.jpg",
-        "local_file": "1681032662054580226-F1Q5MEfXwAE1Ynh.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1679836232585469954",
-    "created_at": "Fri Jul 14 12:52:22 +0000 2023",
-    "text": "Vuelvo a Tintín con 'La isla negra'. Una portada muy sugestiva.\n\nObra incluída en Time's List of the 10 Best Graphic Novels. https://en.wikipedia.org/wiki/Time%27s_List_of_the_10_Best_Graphic_Novels",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1679836232585469954",
-    "in_reply_to_status_id": "1679472445118377984",
+    "url": "https://x.com/ArturoHerrero/status/1796162193102164190",
+    "in_reply_to_status_id": "1793772344802242972",
     "in_reply_to_screen_name": "ArturoHerrero",
     "favorite_count": 0,
     "retweet_count": 0,
     "media": [
       {
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/F0_3ZWjXgAEfcru.jpg",
-        "local_file": "1679836232585469954-F0_3ZWjXgAEfcru.jpg",
+        "url": "https://pbs.twimg.com/media/GO0_8IcWQAEQ_CE.jpg",
+        "local_file": "1796162193102164190-GO0_8IcWQAEQ_CE.jpg",
         "exists": true
       }
     ]
   },
   {
-    "id": "1679491770172997633",
-    "created_at": "Thu Jul 13 14:03:36 +0000 2023",
-    "text": "RT @ArturoHerrero: @joantubau Yo también estoy leyendo las obras de Jirō Taniguchi. Ayer, buscando más información sobre los cómics, encont…",
-    "type": "retweet",
-    "url": "https://x.com/ArturoHerrero/status/1679491770172997633",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "mentions": [
-      "ArturoHerrero",
-      "joantubau"
-    ]
-  },
-  {
-    "id": "1679491706176311296",
-    "created_at": "Thu Jul 13 14:03:20 +0000 2023",
-    "text": "@joantubau Yo también estoy leyendo las obras de Jirō Taniguchi. Ayer, buscando más información sobre los cómics, encontré que algunos han seguido los pasos del protagonista.",
-    "type": "reply",
-    "url": "https://x.com/ArturoHerrero/status/1679491706176311296",
-    "in_reply_to_status_id": "1679432510885748736",
-    "in_reply_to_screen_name": "joantubau",
-    "favorite_count": 3,
-    "retweet_count": 1,
-    "quoted_tweet": {
-      "url": "https://x.com/HolaJaviRoman/status/1426139313847291905",
-      "username": "HolaJaviRoman",
-      "status_id": "1426139313847291905"
-    },
-    "mentions": [
-      "joantubau"
-    ]
-  },
-  {
-    "id": "1679472445118377984",
-    "created_at": "Thu Jul 13 12:46:48 +0000 2023",
-    "text": "Regreso a Jirō Taniguchi con 'Barrio lejano'. Una gran historia. Recomendación de @nadaimporta.\n\nTaniguchi cautiva desde su sencillez narrativa y gráfica.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1679472445118377984",
-    "in_reply_to_status_id": "1678870529569071105",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/F06lEIJWcAIFr9R.jpg",
-        "local_file": "1679472445118377984-F06lEIJWcAIFr9R.jpg",
-        "exists": true
-      }
-    ],
-    "mentions": [
-      "nadaimporta"
-    ]
-  },
-  {
-    "id": "1678870529569071105",
-    "created_at": "Tue Jul 11 20:55:00 +0000 2023",
-    "text": "'Watchmen' aparece tanto en la lista de las 100 Mejores Novelas como en las 10 Mejores Novelas Gráficas según la revista Time.\n\nDecepción absoluta.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1678870529569071105",
-    "in_reply_to_status_id": "1678360282928652289",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/F0yJo48XoAEinxs.jpg",
-        "local_file": "1678870529569071105-F0yJo48XoAEinxs.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1678360282928652289",
-    "created_at": "Mon Jul 10 11:07:28 +0000 2023",
-    "text": "Un cómic sobre cómics, la meta-obra definitiva. 'Entender el cómic' es un gran trabajo explicando el diseño (y algo de historia) de los cómics.\n\nRecomendación de @adrianmg. https://adrianmato.com/blog/design/books/favorite-design-books/",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1678360282928652289",
-    "in_reply_to_status_id": "1677962920922165249",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/F0q7x69XoAAF5C1.jpg",
-        "local_file": "1678360282928652289-F0q7x69XoAAF5C1.jpg",
-        "exists": true
-      }
-    ],
-    "mentions": [
-      "adrianmg"
-    ]
-  },
-  {
-    "id": "1677962920922165249",
-    "created_at": "Sun Jul 09 08:48:30 +0000 2023",
-    "text": "Me llamó la atención 'Torpedo 1936' en la biblioteca. Todos los elementos del cine negro se conjugan aquí: gánsters, mujeres, asesinatos, etc.\n\nLos dibujos son excepcionales, pero el guión deja bastante que desear, cayendo en todos los clichés habidos y por haber.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1677962920922165249",
-    "in_reply_to_status_id": "1677676903090597890",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/F0lSYcaWcAM0inT.jpg",
-        "local_file": "1677962920922165249-F0lSYcaWcAM0inT.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1677676903090597890",
-    "created_at": "Sat Jul 08 13:51:58 +0000 2023",
-    "text": "Como no sé por dónde me muevo, utilizo de referencia '1001 cómics que hay que leer antes de morir'.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1677676903090597890",
-    "in_reply_to_status_id": "1677257345225695233",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/F0hOP9IXgAIzmU7.jpg",
-        "local_file": "1677676903090597890-F0hOP9IXgAIzmU7.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1677257345225695233",
-    "created_at": "Fri Jul 07 10:04:47 +0000 2023",
-    "text": "Una delicia 'El caminante' de Jiro Taniguchi. Recomendación de @joantubau.\n\nCada relato es una paseo del protagonista. Una lectura que nos reconcilia con el entorno, la cotidianidad, la vida contemplativa, la tranquilidad y la soledad.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1677257345225695233",
-    "in_reply_to_status_id": "1676270431719034880",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/F0bQp-NXgAExuzs.jpg",
-        "local_file": "1677257345225695233-F0bQp-NXgAExuzs.jpg",
-        "exists": true
-      }
-    ],
-    "mentions": [
-      "joantubau"
-    ]
-  },
-  {
-    "id": "1676270431719034880",
-    "created_at": "Tue Jul 04 16:43:09 +0000 2023",
-    "text": "En un documental¹ sobre Joker alababan 'Batman: La broma asesina' como una de las mejores historias de comics.\n\nEs un cómic muy potente, influenciando a diversos directores (Burton, Nolan, Phillips) en sus adaptaciones cinematográficas.\n\n— \n¹ https://youtu.be/sESTA34wvPA?t=687",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1676270431719034880",
-    "in_reply_to_status_id": "1676154061073031169",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/F0NHA0ZXgAIKh4i.jpg",
-        "local_file": "1676270431719034880-F0NHA0ZXgAIKh4i.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1676160682063003649",
-    "created_at": "Tue Jul 04 09:27:02 +0000 2023",
-    "text": "@fillito @Panels_ink Sí, me ha parecido una aplicación top. ¡Muy buen trabajo!\n\nSoy nuevo en el mundo de los cómics pero os daré feedback si veo cualquier mejora.",
-    "type": "reply",
-    "url": "https://x.com/ArturoHerrero/status/1676160682063003649",
-    "in_reply_to_status_id": "1676155393007927296",
-    "in_reply_to_screen_name": "fillito",
-    "favorite_count": 2,
-    "retweet_count": 0,
-    "mentions": [
-      "fillito",
-      "Panels_ink"
-    ]
-  },
-  {
-    "id": "1676154061073031169",
-    "created_at": "Tue Jul 04 09:00:44 +0000 2023",
-    "text": "Los amigos de @Panels_ink tienen la desfachatez de proclamar que son el mejor lector de cómics para iOS.\n\nQuizás sea cierto. Después de un par de días de uso, no me apetece probar ninguna otra app para cómics. https://apps.apple.com/us/app/panels-comic-reader/id1236567663",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1676154061073031169",
-    "in_reply_to_status_id": "1675792849575587841",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 2,
-    "retweet_count": 0,
-    "mentions": [
-      "Panels_ink"
-    ]
-  },
-  {
-    "id": "1675792849575587841",
-    "created_at": "Mon Jul 03 09:05:24 +0000 2023",
-    "text": "'Logicomix' estaba en la biblioteca de N. N. Taleb.\n\nBertrand Russell es el hilo conductor de la historia de la lógica. Gran novela gráfica.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1675792849575587841",
-    "in_reply_to_status_id": "1675792847155474432",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 3,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/F0GbFr1WcAERLQj.jpg",
-        "local_file": "1675792849575587841-F0GbFr1WcAERLQj.jpg",
-        "exists": true
-      }
-    ],
-    "quoted_tweet": {
-      "url": "https://x.com/nntaleb/status/946473050760994817",
-      "username": "nntaleb",
-      "status_id": "946473050760994817"
-    }
-  },
-  {
-    "id": "1675792847155474432",
-    "created_at": "Mon Jul 03 09:05:24 +0000 2023",
-    "text": "Siguiente parada: 'Tintín en el Tíbet'.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1675792847155474432",
-    "in_reply_to_status_id": "1675792844781416448",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/F0EMModWYAAo3Mz.jpg",
-        "local_file": "1675792847155474432-F0EMModWYAAo3Mz.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1675792844781416448",
-    "created_at": "Mon Jul 03 09:05:23 +0000 2023",
-    "text": "No tenía ni idea sobre cómics, pero este año comenzó mi andadura con Astérix.",
+    "id": "1795189275404746764",
+    "created_at": "Mon May 27 20:24:10 +0000 2024",
+    "text": "Si tuve certezas, siempre recuerdo que todos los locos las tuvieron mayores.\n\n—La educación del estoico, Fernando Pessoa.",
     "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1675792844781416448",
+    "url": "https://x.com/ArturoHerrero/status/1795189275404746764",
     "favorite_count": 6,
-    "retweet_count": 1,
-    "quoted_tweet": {
-      "url": "https://x.com/ArturoHerrero/status/1611792902144786433",
-      "username": "ArturoHerrero",
-      "status_id": "1611792902144786433"
-    }
+    "retweet_count": 1
   },
   {
-    "id": "1668288717771898881",
-    "created_at": "Mon Jun 12 16:06:40 +0000 2023",
-    "text": "School Is Not Enough. https://www.palladiummag.com/2023/06/06/school-is-not-enough/",
+    "id": "1795049451100189138",
+    "created_at": "Mon May 27 11:08:34 +0000 2024",
+    "text": "How Complex Systems Fail\nhttps://how.complexsystems.fail/",
     "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1668288717771898881",
-    "favorite_count": 3,
+    "url": "https://x.com/ArturoHerrero/status/1795049451100189138",
+    "favorite_count": 1,
     "retweet_count": 0
   },
   {
-    "id": "1667980791614152707",
-    "created_at": "Sun Jun 11 19:43:04 +0000 2023",
-    "text": "Detalle de la biblioteca, el lugar que mejor representa a D'Annunzio, en cuya entrada está la inscripción: «Hallarás algo más vasto en la selva que en los libros».",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1667980791614152707",
+    "id": "1793772344802242972",
+    "created_at": "Thu May 23 22:33:48 +0000 2024",
+    "text": "Leyendo el libro de Miguel Milá, Lo esencial: Una guía de diseño para la vida.\n\nParece un libro de diseño, pero es un libro de memorias y lecciones de vida porque «diseñar es mirar la vida con lupa».",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1793772344802242972",
+    "in_reply_to_status_id": "1793057484183154690",
+    "in_reply_to_screen_name": "ArturoHerrero",
     "favorite_count": 1,
     "retweet_count": 0,
     "media": [
       {
         "type": "photo",
-        "url": "https://pbs.twimg.com/media/FyXbpZ9XwAE1LWt.jpg",
-        "local_file": "1667980791614152707-FyXbpZ9XwAE1LWt.jpg",
+        "url": "https://pbs.twimg.com/media/GOTB9mwWkAE2aZL.jpg",
+        "local_file": "1793772344802242972-GOTB9mwWkAE2aZL.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOTCPfsWQAAK-eV.jpg",
+        "local_file": "1793772344802242972-GOTCPfsWQAAK-eV.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOTCX3bWYAA95ad.jpg",
+        "local_file": "1793772344802242972-GOTCX3bWYAA95ad.jpg",
         "exists": true
       }
     ]
+  },
+  {
+    "id": "1793057484183154690",
+    "created_at": "Tue May 21 23:13:12 +0000 2024",
+    "text": "¿Y para ti, qué es el diseño?\n\nFunción con belleza.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1793057484183154690",
+    "in_reply_to_status_id": "1790849578993901649",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1790849578993901649",
+    "created_at": "Wed May 15 20:59:46 +0000 2024",
+    "text": "Helvetica (2007, Gary Hustwit). https://www.area-documental.com/video/Helvetica/",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1790849578993901649",
+    "in_reply_to_status_id": "1790495740449493147",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "541574276923809792",
+    "created_at": "Sun Dec 07 12:45:44 +0000 2014",
+    "text": "Self-education is, I firmly believe, the only kind of education there is.\n~Isaac Asimov",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/541574276923809792",
+    "favorite_count": 2,
+    "retweet_count": 6
+  },
+  {
+    "id": "541288553230000128",
+    "created_at": "Sat Dec 06 17:50:22 +0000 2014",
+    "text": "Are You Living In a Computer Simulation? http://www.simulation-argument.com/",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/541288553230000128",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "540844955607248897",
+    "created_at": "Fri Dec 05 12:27:40 +0000 2014",
+    "text": "NASA is developing the capabilities needed to send humans to Mars in the 2030s.\nOK, How Far is it to Mars? http://www.distancetomars.com/",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/540844955607248897",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "540297028031758336",
+    "created_at": "Thu Dec 04 00:10:24 +0000 2014",
+    "text": "Your score was 17 correct answers out of 18 possible. From this we deduce that your chance of getting into Mensa are very high.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/540297028031758336",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "540163674967908352",
+    "created_at": "Wed Dec 03 15:20:30 +0000 2014",
+    "text": "The Obligation of the Programmer. We write the rules. We hold the strings. Now we have to decide what to do with them http://blog.cleancoder.com/uncle-bob/2014/11/15/WeRuleTheWorld.html",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/540163674967908352",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "539779852245925888",
+    "created_at": "Tue Dec 02 13:55:20 +0000 2014",
+    "text": "Form Better Habits (and Make Them Stick) with a Weekly Habit Sprint http://lifehacker.com/get-better-at-habits-every-week-with-the-habit-sprint-1660719414",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/539779852245925888",
+    "favorite_count": 0,
+    "retweet_count": 1
+  },
+  {
+    "id": "539404875562770433",
+    "created_at": "Mon Dec 01 13:05:18 +0000 2014",
+    "text": "Social trading is interesting. eToro, connect with other traders & investors and copy their trades http://www.etoro.com/",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/539404875562770433",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "539056607808995328",
+    "created_at": "Sun Nov 30 14:01:25 +0000 2014",
+    "text": "Warren Buffett’s 5-Step Process for Prioritizing True Success (and Why Most People Never Do It) http://liveyourlegend.net/warren-buffetts-5-step-process-for-prioritizing-true-success-and-why-most-people-never-do-it/",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/539056607808995328",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "538729954633322496",
+    "created_at": "Sat Nov 29 16:23:24 +0000 2014",
+    "text": "Meanwhile in London...",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/538729954633322496",
+    "favorite_count": 4,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/B3n0BqDIMAEVmlv.jpg",
+        "local_file": "538729954633322496-B3n0BqDIMAEVmlv.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "538301679092133890",
+    "created_at": "Fri Nov 28 12:01:36 +0000 2014",
+    "text": "Some interaction designers (@hugocornejo) are using my picture in their mockups https://dribbble.com/shots/1824885-Car/attachments/303174",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/538301679092133890",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "mentions": [
+      "hugocornejo"
+    ]
+  },
+  {
+    "id": "537628252034981890",
+    "created_at": "Wed Nov 26 15:25:38 +0000 2014",
+    "text": "Just registered for @hack_summit, a virtual conference of top developers. Check it out! http://bitly.com/11a0F7o",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/537628252034981890",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "mentions": [
+      "hack_summit"
+    ]
+  },
+  {
+    "id": "537585335992348672",
+    "created_at": "Wed Nov 26 12:35:06 +0000 2014",
+    "text": "These days I'm reading Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation http://amzn.com/0321601912",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/537585335992348672",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "536858156690075648",
+    "created_at": "Mon Nov 24 12:25:33 +0000 2014",
+    "text": "Everything at Google, from Search to Gmail, is packaged and run in a Linux container http://googlecloudplatform.blogspot.co.uk/2014/06/an-update-on-container-support-on-google-cloud-platform.html",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/536858156690075648",
+    "favorite_count": 0,
+    "retweet_count": 1
+  },
+  {
+    "id": "536569903252508672",
+    "created_at": "Sun Nov 23 17:20:08 +0000 2014",
+    "text": "London",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/536569903252508672",
+    "favorite_count": 6,
+    "retweet_count": 4,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/B3JHe8LIYAA4xvC.jpg",
+        "local_file": "536569903252508672-B3JHe8LIYAA4xvC.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "535408506124656641",
+    "created_at": "Thu Nov 20 12:25:09 +0000 2014",
+    "text": "Toward a better programming http://www.chris-granger.com/2014/03/27/toward-a-better-programming/",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/535408506124656641",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "535009146975043584",
+    "created_at": "Wed Nov 19 09:58:15 +0000 2014",
+    "text": "It's interesting to confront the ideas of Ariely and Kahneman about irrational behaviour and cognitive biases with rational economics.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/535009146975043584",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "535007977858936833",
+    "created_at": "Wed Nov 19 09:53:36 +0000 2014",
+    "text": "These days I'm reading The Logic of Life: The Rational Economics of an Irrational World http://amzn.com/0812977874",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/535007977858936833",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "534664825272799232",
+    "created_at": "Tue Nov 18 11:10:02 +0000 2014",
+    "text": "Hello Android 5.0 Lollipop!",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/534664825272799232",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/B2uCxkpCIAAmDPL.jpg",
+        "local_file": "534664825272799232-B2uCxkpCIAAmDPL.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "534297889250738176",
+    "created_at": "Mon Nov 17 10:51:58 +0000 2014",
+    "text": "@javier_dev Programming is a beta version of what it should be http://www.chris-granger.com/2014/03/27/toward-a-better-programming/",
+    "type": "reply",
+    "url": "https://x.com/ArturoHerrero/status/534297889250738176",
+    "in_reply_to_status_id": "533673900002254848",
+    "in_reply_to_screen_name": "javier_dev",
+    "favorite_count": 1,
+    "retweet_count": 1,
+    "mentions": [
+      "javier_dev"
+    ]
+  },
+  {
+    "id": "534284448062509056",
+    "created_at": "Mon Nov 17 09:58:33 +0000 2014",
+    "text": "Print bar graphs in your shell:\nhttps://github.com/arturoherrero/bart\nbart: ██████████ 100",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/534284448062509056",
+    "favorite_count": 0,
+    "retweet_count": 1
+  },
+  {
+    "id": "533990032663912449",
+    "created_at": "Sun Nov 16 14:28:39 +0000 2014",
+    "text": "Music for Sunday: Cubicolor https://soundcloud.com/cubicolor",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/533990032663912449",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "532897041354346496",
+    "created_at": "Thu Nov 13 14:05:30 +0000 2014",
+    "text": "Bored of Real Life?\nTry the Internet.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/532897041354346496",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "532563954300891137",
+    "created_at": "Wed Nov 12 16:01:55 +0000 2014",
+    "text": "NoSQL Databases: An Overview http://www.thoughtworks.com/insights/blog/nosql-databases-overview",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/532563954300891137",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "532225630021386241",
+    "created_at": "Tue Nov 11 17:37:33 +0000 2014",
+    "text": "Leader corruption depends on power and testosterone http://youtu.be/JoLLPNZLBAo",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/532225630021386241",
+    "favorite_count": 0,
+    "retweet_count": 1
+  },
+  {
+    "id": "532193083946205184",
+    "created_at": "Tue Nov 11 15:28:13 +0000 2014",
+    "text": "Hi Yosemite!",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/532193083946205184",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/B2K6yhuCYAEUCpS.jpg",
+        "local_file": "532193083946205184-B2K6yhuCYAEUCpS.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "531770884370235392",
+    "created_at": "Mon Nov 10 11:30:33 +0000 2014",
+    "text": "These days I'm reading Flash Boys by Michael Lewis http://amzn.com/0393244660",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/531770884370235392",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "531405409320697856",
+    "created_at": "Sun Nov 09 11:18:17 +0000 2014",
+    "text": "The Art of Not Working at Work http://www.theatlantic.com/business/archive/2014/11/the-art-of-not-working-at-work/382121/?single_page=true",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/531405409320697856",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "530330047673274368",
+    "created_at": "Thu Nov 06 12:05:11 +0000 2014",
+    "text": "Illusion of Competence.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/530330047673274368",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "530322944757874688",
+    "created_at": "Thu Nov 06 11:36:57 +0000 2014",
+    "text": "If you want to follow your dreams, you have to say no to all the alternatives http://oliveremberton.com/2014/if-you-want-to-follow-your-dreams-you-have-to-say-no-to-all-the-alternatives/",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/530322944757874688",
+    "favorite_count": 0,
+    "retweet_count": 1
+  },
+  {
+    "id": "529997055906054144",
+    "created_at": "Wed Nov 05 14:01:59 +0000 2014",
+    "text": "1. 93% of classes are under 100 lines.\n2. 67% of methods are under 5 lines.\n3. 99% of method calls accepted are less than 4 parameters.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/529997055906054144",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "529996911882022912",
+    "created_at": "Wed Nov 05 14:01:25 +0000 2014",
+    "text": "Static analysis tool for checking your Ruby code for Sandi Metz' four rules https://github.com/makaroni4/sandi_meter\nLet's try in our main project!",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/529996911882022912",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "529966521758777344",
+    "created_at": "Wed Nov 05 12:00:39 +0000 2014",
+    "text": "Creative destruction.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/529966521758777344",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "529694944165126145",
+    "created_at": "Tue Nov 04 18:01:30 +0000 2014",
+    "text": "Different people have different standards for the speed of unit tests.\nBut if you have the temptation of check Twitter is a slow test suite.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/529694944165126145",
+    "favorite_count": 0,
+    "retweet_count": 1
+  },
+  {
+    "id": "529237333795946497",
+    "created_at": "Mon Nov 03 11:43:07 +0000 2014",
+    "text": "New personal project: Twitterise, new and diverse timeline, increasing the number of followers https://github.com/arturoherrero/twitterise",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/529237333795946497",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "529015005128425472",
+    "created_at": "Sun Nov 02 20:59:40 +0000 2014",
+    "text": "These days I'm reading The Craftsman http://amzn.com/0300151195",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/529015005128425472",
+    "favorite_count": 2,
+    "retweet_count": 0
+  },
+  {
+    "id": "529014670758539266",
+    "created_at": "Sun Nov 02 20:58:20 +0000 2014",
+    "text": "I read tons of books in different subjects. I guess I should tweet more about it.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/529014670758539266",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "528233081409667072",
+    "created_at": "Fri Oct 31 17:12:35 +0000 2014",
+    "text": "Bullshit, you should read Stefan Zweig “@soyjavi: \"Code is literature\"”",
+    "type": "reply",
+    "url": "https://x.com/ArturoHerrero/status/528233081409667072",
+    "in_reply_to_status_id": "528076181242142722",
+    "in_reply_to_screen_name": "soyjavi",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "mentions": [
+      "soyjavi"
+    ]
+  },
+  {
+    "id": "527780000783953921",
+    "created_at": "Thu Oct 30 11:12:12 +0000 2014",
+    "text": "RT @pickcrew: How to make time for the things that really matter in life. http://crew.cm/1rSFHjw",
+    "type": "retweet",
+    "url": "https://x.com/pickcrew/status/527592998386028545",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/B1JjCVPIMAEETC6.jpg",
+        "local_file": "527780000783953921-B1JjCVPIMAEETC6.jpg",
+        "exists": true
+      }
+    ],
+    "mentions": [
+      "pickcrew"
+    ]
+  },
+  {
+    "id": "527442275283243008",
+    "created_at": "Wed Oct 29 12:50:12 +0000 2014",
+    "text": "Life in Numbers http://lifeinnumbers.co.uk/",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/527442275283243008",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "527088716133965824",
+    "created_at": "Tue Oct 28 13:25:17 +0000 2014",
+    "text": "I'll continue to climb, trying to reach the top, but no one knows where the top is.\n~Jiro Ono",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/527088716133965824",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "526728996055437312",
+    "created_at": "Mon Oct 27 13:35:53 +0000 2014",
+    "text": "Data Science at the Command Line http://datascienceatthecommandline.com/",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/526728996055437312",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "526357744459468800",
+    "created_at": "Sun Oct 26 13:00:40 +0000 2014",
+    "text": "MIT Challenge: learn the entire 4-year MIT curriculum under 12 months without taking any classes http://www.scotthyoung.com/blog/mit-challenge/",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/526357744459468800",
+    "favorite_count": 2,
+    "retweet_count": 0
+  },
+  {
+    "id": "524519412058296320",
+    "created_at": "Tue Oct 21 11:15:47 +0000 2014",
+    "text": "The Imminent Decentralized Computing Revolution http://blogs.wsj.com/accelerators/2014/10/10/weekend-read-the-imminent-decentralized-computing-revolution/",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/524519412058296320",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "524252755230474240",
+    "created_at": "Mon Oct 20 17:36:11 +0000 2014",
+    "text": "Maybe Better If You Don’t Read This Story on Public WiFi https://medium.com/matter/heres-why-public-wifi-is-a-public-health-hazard-dd5b8dcb55e6",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/524252755230474240",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "523838417457917952",
+    "created_at": "Sun Oct 19 14:09:45 +0000 2014",
+    "text": "Playing with the Twitter API, I just unfollow a lot of interesting people :(\nAnyway, my code works. Let's do something fun!",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/523838417457917952",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "523085588808077312",
+    "created_at": "Fri Oct 17 12:18:17 +0000 2014",
+    "text": "Sex Is Sex. But Money Is Money https://medium.com/matter/sex-is-sex-but-money-is-money-e7c10091713f",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/523085588808077312",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "522388988695678976",
+    "created_at": "Wed Oct 15 14:10:15 +0000 2014",
+    "text": "Refactoring Ruby with Monads http://codon.com/refactoring-ruby-with-monads",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/522388988695678976",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "521958129375117312",
+    "created_at": "Tue Oct 14 09:38:10 +0000 2014",
+    "text": "One ex-college is working in a augmented reality game. Run An Empire - The Real-World Territory Control Game http://kck.st/1h8QL7p",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/521958129375117312",
+    "favorite_count": 2,
+    "retweet_count": 0
+  },
+  {
+    "id": "521612626502381569",
+    "created_at": "Mon Oct 13 10:45:15 +0000 2014",
+    "text": "Bitcoin’s Killer Apps http://blog.chain.com/post/99177371581/bitcoins-killer-apps",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/521612626502381569",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "520885059159855105",
+    "created_at": "Sat Oct 11 10:34:10 +0000 2014",
+    "text": "What I’ve learned taking photos every day at 8:36 p.m. http://www.geekwire.com/2012/day-rest-life/",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/520885059159855105",
+    "favorite_count": 1,
+    "retweet_count": 0
   },
   {
     "id": "520563960467456001",
@@ -2587,6 +3062,319 @@ window.TWEETS = [
     "retweet_count": 0
   },
   {
+    "id": "1790495740449493147",
+    "created_at": "Tue May 14 21:33:44 +0000 2024",
+    "text": "“No hay una idea brillante que surja de repente, sino una solución a un problema, que se obtiene a través del análisis sistemático y la investigación que prepara para el proceso creativo. La creatividad no significa improvisación”.\n\n—¿Cómo nacen los objetos? Bruno Munari.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1790495740449493147",
+    "in_reply_to_status_id": "1789601471555653745",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1789752112408084756",
+    "created_at": "Sun May 12 20:18:50 +0000 2024",
+    "text": "Abre bien los ojos, mira.\n\nJULIO VERNE,\nMiguel Strogoff",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1789752112408084756",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1789601471555653745",
+    "created_at": "Sun May 12 10:20:14 +0000 2024",
+    "text": "Curiositas y studiositas, dos términos enfrentados que acuña Tomás de Aquino en su Suma teológica.\n\nEl picoteo de aquí y de allá que se desvanece y es un mero entretenimiento frente al estudio estructurado que presupone esfuerzo y planificación.\n\nhttps://www.terremoto.net/blog/mas-studiositas-y-menos-curiositas",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1789601471555653745",
+    "in_reply_to_status_id": "1787769156181381473",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1787769156181381473",
+    "created_at": "Tue May 07 08:59:16 +0000 2024",
+    "text": "¿Y si esto fuera simplemente una excusa para leer los libros que tengo en la estantería?",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1787769156181381473",
+    "in_reply_to_status_id": "1787619003914960933",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GM9ukgDXIAAop9R.jpg",
+        "local_file": "1787769156181381473-GM9ukgDXIAAop9R.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1787619003914960933",
+    "created_at": "Mon May 06 23:02:37 +0000 2024",
+    "text": "¿Cuánto podemos aprender de la arquitectura en diseño digital?\n\nLa modernidad cerebral de Gropius, Corbusier y Mies van der Rohe frente al funcionalismo sin deshumanizar a la persona de Alvar Aalto.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1787619003914960933",
+    "in_reply_to_status_id": "1785998325503639925",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GM7jO4rXQAA5WOc.jpg",
+        "local_file": "1787619003914960933-GM7jO4rXQAA5WOc.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GM7jXFrXgAAe1ui.jpg",
+        "local_file": "1787619003914960933-GM7jXFrXgAAe1ui.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GM7jiNEXsAAbxrN.jpg",
+        "local_file": "1787619003914960933-GM7jiNEXsAAbxrN.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GM7jubeW0AEf97f.jpg",
+        "local_file": "1787619003914960933-GM7jubeW0AEf97f.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1785998325503639925",
+    "created_at": "Thu May 02 11:42:37 +0000 2024",
+    "text": "Me he apuntado a la siguiente promoción de @DesignGraduate. Con embajadores así, quién necesita más argumentos.\n\nhttps://www.designgraduate.com/",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1785998325503639925",
+    "favorite_count": 17,
+    "retweet_count": 4,
+    "quoted_tweet": {
+      "url": "https://x.com/chepauet/status/1778733748764151984",
+      "username": "chepauet",
+      "status_id": "1778733748764151984"
+    },
+    "mentions": [
+      "DesignGraduate"
+    ]
+  },
+  {
+    "id": "1785366957644030257",
+    "created_at": "Tue Apr 30 17:53:47 +0000 2024",
+    "text": "Un día dejas de escribir, y luego pasa otro día, y otro... y antes de darte cuenta, el tiempo ha tejido una red de días silenciosos que envuelven tus pensamientos en un manto de olvido.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1785366957644030257",
+    "favorite_count": 5,
+    "retweet_count": 0
+  },
+  {
+    "id": "1769408321214149010",
+    "created_at": "Sun Mar 17 16:59:52 +0000 2024",
+    "text": "Hoover Dam, Nevada/Arizona.\n\nMarch 2024",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1769408321214149010",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GI4zdwhXEAAE6AN.jpg",
+        "local_file": "1769408321214149010-GI4zdwhXEAAE6AN.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1741510024701288625",
+    "created_at": "Sun Dec 31 17:22:00 +0000 2023",
+    "text": "2023 (un año un poco flojo cinéfilamente):\n- Indiana Jones and the Last Crusade. 1989\n- Lumière! L’aventure commence. 2016\n- Anatomía de un Dandy. 2020\n- Ennio: El maestro. 2021\n- Arquitectura emocional 1959. 2022\n- Spider-Man: Across the Spider-Verse. 2023",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1741510024701288625",
+    "in_reply_to_status_id": "1610336322245337089",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GCn1fIEW8AE6kJs.jpg",
+        "local_file": "1741510024701288625-GCn1fIEW8AE6kJs.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GCn1lP7WsAAeNT-.jpg",
+        "local_file": "1741510024701288625-GCn1lP7WsAAeNT-.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GCn1pMKWgAAZXbA.jpg",
+        "local_file": "1741510024701288625-GCn1pMKWgAAZXbA.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GCn11G_XoAA7fBi.jpg",
+        "local_file": "1741510024701288625-GCn11G_XoAA7fBi.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1741190564303843337",
+    "created_at": "Sat Dec 30 20:12:34 +0000 2023",
+    "text": "2023:\n- Gengis Kan y la creación del mundo moderno. Weatherford\n- El huerto de Emerson. Landero\n- Travesuras de la niña mala. Vargas Llosa\n- El caminante. Taniguchi\n- Lecciones de la Historia. Durant & Durant\n- Agua y jabón. D. Riezu\n- El gran cambiazo. Dahl",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1741190564303843337",
+    "in_reply_to_status_id": "1610328554234863616",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 2,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GCnzIXnXgAAS6Nd.jpg",
+        "local_file": "1741190564303843337-GCnzIXnXgAAS6Nd.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GCnzQaoXsAAZZa9.jpg",
+        "local_file": "1741190564303843337-GCnzQaoXsAAZZa9.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GCnzamjWoAAWPir.jpg",
+        "local_file": "1741190564303843337-GCnzamjWoAAWPir.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GCnzhK9XIAANc4Z.jpg",
+        "local_file": "1741190564303843337-GCnzhK9XIAANc4Z.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1740812321247887493",
+    "created_at": "Fri Dec 29 19:09:34 +0000 2023",
+    "text": "Mejor—y único—videojuego disfrutado en 2023. No sé cuántas horas llevo y no sé cuánto me queda pero es formidable.\n\nThe Legend of Zelda: Tears of the Kingdom.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1740812321247887493",
+    "in_reply_to_status_id": "1610336351353987073",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GCiXSqvWwAA0XpR.jpg",
+        "local_file": "1740812321247887493-GCiXSqvWwAA0XpR.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1723283702086590640",
+    "created_at": "Sat Nov 11 10:17:06 +0000 2023",
+    "text": "London ✈ Madrid",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1723283702086590640",
+    "in_reply_to_status_id": "316208163932221442",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 5,
+    "retweet_count": 0
+  },
+  {
+    "id": "1706001556699496530",
+    "created_at": "Sun Sep 24 17:44:01 +0000 2023",
+    "text": "Nike Principles from AIR (2023, Ben Affleck).",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1706001556699496530",
+    "favorite_count": 3,
+    "retweet_count": 1,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F6ztAkPWkAAASPN.jpg",
+        "local_file": "1706001556699496530-F6ztAkPWkAAASPN.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1702026606229737707",
+    "created_at": "Wed Sep 13 18:28:59 +0000 2023",
+    "text": "Christopher Nolan, Ben Affleck, James Gray, Paul Thomas Anderson, Pete Docter, Tom Ford, Todd Phillips, Bennett Miller, Wes Anderson, Alfonso Cuarón, Denis Villeneuve, Paolo Sorrentino, Rodrigo Sorogoyen, Alberto Rodríguez, Damien Chazelle, Asghar Farhadi, Greta Gerwig",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1702026606229737707",
+    "in_reply_to_status_id": "1702026604635984021",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1702026604635984021",
+    "created_at": "Wed Sep 13 18:28:59 +0000 2023",
+    "text": "Clint Eastwood, Quentin Tarantino, Woody Allen, Frank Darabont, David Fincher, Coen Brothers, Guy Ritchie, Javier Fesser, Sam Mendes, Spike Jonze, Lee Unkrich, Ridley Scott, Steven Soderbergh, Peter Jackson, Ron Howard, Bong Joon-ho, Brad Bird, David Cronenberg, Jason Reitman",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1702026604635984021",
+    "in_reply_to_status_id": "1702026603184726242",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1702026603184726242",
+    "created_at": "Wed Sep 13 18:28:58 +0000 2023",
+    "text": "Don Siegel, Stanley Kubrick, Sidney Lumet, Jacques Tati, Akira Kurosawa, Gene Saks, Francis Ford Coppola, Miloš Forman, Roman Polanski, Steven Spielberg, Brian De Palma, Martin Scorsese, George Roy Hill, Robert Zemeckis, Giuseppe Tornatore, Hayao Miyazaki, James Cameron",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1702026603184726242",
+    "in_reply_to_status_id": "1702026601699967236",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1702026601699967236",
+    "created_at": "Wed Sep 13 18:28:58 +0000 2023",
+    "text": "Charles Chaplin, Buster Keaton, F.W. Murnau, Ernst Lubitsch, Frank Capra, George Cukor, Howard Hawks, Orson Welles, Fritz Lang, Otto Preminger, Billy Wilder, William Wyler, John Huston, Max Ophüls, Stanley Donen, Vincente Minnelli, Luis García Berlanga, Alfred Hitchcock",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1702026601699967236",
+    "favorite_count": 2,
+    "retweet_count": 0
+  },
+  {
+    "id": "1701888448397975897",
+    "created_at": "Wed Sep 13 09:20:00 +0000 2023",
+    "text": "Success is neither magical nor mysterious. Success is the natural consequence of consistently applying the basic fundamentals.\n—Jim Rohn.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1701888448397975897",
+    "in_reply_to_status_id": "1621559137875247106",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1701660335743070573",
+    "created_at": "Tue Sep 12 18:13:34 +0000 2023",
+    "text": "He looked for 3 things in hiring people: integrity, intelligence, and energy. If the person didn't have the first two, the latter would kill him because if they don't have integrity, you want them dumb and lazy, you don't want them smart and energetic. https://www.youtube.com/watch?v=2MHIcabnjrA&t=302s",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1701660335743070573",
+    "favorite_count": 2,
+    "retweet_count": 0
+  },
+  {
     "id": "436591657434501120",
     "created_at": "Thu Feb 20 20:02:17 +0000 2014",
     "text": "Do you remember Above & Beyond Acoustic? https://x.com/ArturoHerrero/statuses/347043935899766785\nEvery second of this was pure magic: http://www.youtube.com/watch?v=CNUTlKqSO-I",
@@ -3115,324 +3903,6 @@ window.TWEETS = [
     "url": "https://x.com/ArturoHerrero/status/407126336189513728",
     "favorite_count": 0,
     "retweet_count": 0
-  },
-  {
-    "id": "1663179123827658754",
-    "created_at": "Mon May 29 13:42:58 +0000 2023",
-    "text": "RT @ArturoHerrero: Falleció Jesús Quintero y he aprovechado estas semanas para ver algunas de las entrevistas que realizaba en sus programa…",
-    "type": "retweet",
-    "url": "https://x.com/ArturoHerrero/status/1663179123827658754",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "mentions": [
-      "ArturoHerrero"
-    ]
-  },
-  {
-    "id": "1662904203755282435",
-    "created_at": "Sun May 28 19:30:32 +0000 2023",
-    "text": "En cuanto a las adaptaciones de Haruki Murakami en el cine, aquí lo tengo más claro:\n- Burning (2018, Lee Chang-Dong) 👍\n- Drive My Car (2021, Ryûsuke Hamaguchi) 👎",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1662904203755282435",
-    "in_reply_to_status_id": "1662904202274787328",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1662904202274787328",
-    "created_at": "Sun May 28 19:30:31 +0000 2023",
-    "text": "Haruki Murakami gana el Premio Princesa de Asturias de las Letras 2023.\n\nHe leído 4 novelas suyas y la única que me gustó fue 'Tokio blues', pero de esto hace más de 10 años.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1662904202274787328",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "1662435327871418369",
-    "created_at": "Sat May 27 12:27:23 +0000 2023",
-    "text": "La selección de libros en español de las bibliotecas de Londres es de lo más dispar, pero he encontrado 'Travesuras de la niña mala' de Vargas Llosa.\n\nLlevo 100 páginas y me está entusiasmando.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1662435327871418369",
-    "favorite_count": 4,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FxIoHdNWcAU5e9R.jpg",
-        "local_file": "1662435327871418369-FxIoHdNWcAU5e9R.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1660696447900106764",
-    "created_at": "Mon May 22 17:17:42 +0000 2023",
-    "text": "@omixam Honos 195. Parece inútil. https://honosbyomixam.substack.com/p/honos-195-parece-inutil",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1660696447900106764",
-    "in_reply_to_status_id": "1581742679120977920",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "mentions": [
-      "omixam"
-    ]
-  },
-  {
-    "id": "1659558989288407042",
-    "created_at": "Fri May 19 13:57:50 +0000 2023",
-    "text": "Charlie Munger uses the term \"Lollapalooza effect\" for multiple biases, tendencies, or mental models working together.\n\nFor example, risk perception: Illusion of control + Gambler's fallacy + Overconfidence bias.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1659558989288407042",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "1654085260513013761",
-    "created_at": "Thu May 04 11:27:12 +0000 2023",
-    "text": "Pick a country on the map of the world, pick a decade from the 1900s to today and just let yourself get carried away by the most beautiful musical collection on the planet, selected with love, by humans for humans. https://radiooooo.com/",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1654085260513013761",
-    "favorite_count": 2,
-    "retweet_count": 0
-  },
-  {
-    "id": "1653846633509974016",
-    "created_at": "Wed May 03 19:38:59 +0000 2023",
-    "text": "Un repaso desde la antigüedad hasta el concepto de ciencia moderna. Se centra en la astronomía, aunque para ello tiene que articular conceptos de filosofía, física, matemáticas, óptica... Tales de Mileto, Aristóteles, Platón, Ptolomeo, Copérnico, Kepler, Galileo, Newton, etc.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1653846633509974016",
-    "favorite_count": 3,
-    "retweet_count": 0,
-    "quoted_tweet": {
-      "url": "https://x.com/tauruseditorial/status/1653656058840096768",
-      "username": "tauruseditorial",
-      "status_id": "1653656058840096768"
-    }
-  },
-  {
-    "id": "1652975426501836803",
-    "created_at": "Mon May 01 09:57:07 +0000 2023",
-    "text": "«Necesitaría descansar para revitalizar la mente, pero para descansar es necesario viajar, y para viajar hay que tener dinero, y el dinero no se consigue si no se trabaja. [...] Estoy atrapado en un circulo vicioso [...] del que es imposible escapar».\n\n—Honoré de Balzac",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1652975426501836803",
-    "favorite_count": 4,
-    "retweet_count": 2
-  },
-  {
-    "id": "1652652802571739138",
-    "created_at": "Sun Apr 30 12:35:07 +0000 2023",
-    "text": "Parecía que en el resto de Europa era lunes y que aquí era domingo.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1652652802571739138",
-    "in_reply_to_status_id": "1652652799929245696",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fu9mtNVXgAEYKp_.jpg",
-        "local_file": "1652652802571739138-Fu9mtNVXgAEYKp_.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1652652799929245696",
-    "created_at": "Sun Apr 30 12:35:06 +0000 2023",
-    "text": "Siempre quise escribir algo sobre esos momentos únicos, decisivos, que de pronto corrigen ligeramente la trayectoria de tu vida, y a veces la tuercen hacia un rumbo imprevisto, y que remozan para siempre la visión del mundo que tenías hasta entonces.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1652652799929245696",
-    "in_reply_to_status_id": "1652652797395972098",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fu6kVD1WwAA5pis.jpg",
-        "local_file": "1652652799929245696-Fu6kVD1WwAA5pis.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1652652797395972098",
-    "created_at": "Sun Apr 30 12:35:06 +0000 2023",
-    "text": "Las cosas que nos rodean están por descubrir. Y es que vamos por la vida demasiado aprisa, sin fijar la mirada en las cosas, sin pararnos a descubrirlas y a pensarlas.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1652652797395972098",
-    "in_reply_to_status_id": "1652652794623545346",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fu6XzCjXoAMsUSH.jpg",
-        "local_file": "1652652797395972098-Fu6XzCjXoAMsUSH.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1652652794623545346",
-    "created_at": "Sun Apr 30 12:35:05 +0000 2023",
-    "text": "Algo esencial para cualquiera que aspire a vivir la vida de primera mano: la intuición y el asombro, la incansable capacidad de asombro. Del asombro nace el conocimiento, como nos enseña Platón.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1652652794623545346",
-    "in_reply_to_status_id": "1652652791846821889",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fu6PMqcX0AAAyfu.jpg",
-        "local_file": "1652652794623545346-Fu6PMqcX0AAAyfu.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1652652791846821889",
-    "created_at": "Sun Apr 30 12:35:05 +0000 2023",
-    "text": "Salvo algunas generalidades, apenas ha sobrevivido nada de lo que llegué a saber, pero entiendo que el empeño no fue en vano.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1652652791846821889",
-    "in_reply_to_status_id": "1652652789128912897",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fu6ONuKWwAIu4Ka.jpg",
-        "local_file": "1652652791846821889-Fu6ONuKWwAIu4Ka.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1652652789128912897",
-    "created_at": "Sun Apr 30 12:35:04 +0000 2023",
-    "text": "Heródoto [...] cuenta que los antiguos persas discutían los asuntos más importantes en estado de embriaguez, y al día siguiente volvían a discutirlos en estado de sobriedad, o al revés. Si en ambos casos estaban de acuerdo, cerraban el trato, y si no, renunciaban a él.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1652652789128912897",
-    "in_reply_to_status_id": "1652652786490769409",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fu6LHrQXwAQfiCF.jpg",
-        "local_file": "1652652789128912897-Fu6LHrQXwAQfiCF.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1652652786490769409",
-    "created_at": "Sun Apr 30 12:35:03 +0000 2023",
-    "text": "No escribas lo que sientes, escribe lo que recuerdas y dirás la verdad, como decía no recuerdo quién.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1652652786490769409",
-    "in_reply_to_status_id": "1652652781612695552",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 2,
-    "retweet_count": 2,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fu6JWA7XoAE5wyQ.jpg",
-        "local_file": "1652652786490769409-Fu6JWA7XoAE5wyQ.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1652652781612695552",
-    "created_at": "Sun Apr 30 12:35:02 +0000 2023",
-    "text": "'El huerto de Emerson', de Luis Landero. Secundo la recomendación.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1652652781612695552",
-    "favorite_count": 4,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fu6InAyWAAIhqKN.jpg",
-        "local_file": "1652652781612695552-Fu6InAyWAAIhqKN.jpg",
-        "exists": true
-      }
-    ],
-    "quoted_tweet": {
-      "url": "https://x.com/boromas/status/1365404660522233867",
-      "username": "boromas",
-      "status_id": "1365404660522233867"
-    }
-  },
-  {
-    "id": "1651138259404177409",
-    "created_at": "Wed Apr 26 08:16:52 +0000 2023",
-    "text": "'Ítaca', de Constantino Cavafis alcanza la categoría de sublime cuando lo lee Josep Maria Pou. https://www.youtube.com/watch?v=JCe0CEpSc6Y",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1651138259404177409",
-    "favorite_count": 4,
-    "retweet_count": 1,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FuoCarNXwAAZmQn.png",
-        "local_file": "1651138259404177409-FuoCarNXwAAZmQn.png",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1650209668294221827",
-    "created_at": "Sun Apr 23 18:46:58 +0000 2023",
-    "text": "Esas personas, que se ignoran, están salvando el mundo.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1650209668294221827",
-    "in_reply_to_status_id": "1612196838806884352",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fua4rFnWYAIEOgY.png",
-        "local_file": "1650209668294221827-Fua4rFnWYAIEOgY.png",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1650140539411464196",
-    "created_at": "Sun Apr 23 14:12:17 +0000 2023",
-    "text": "@samuelgil 'El huerto de Emerson', de Luis Landero. Recomendación entusiasta de @boromas.",
-    "type": "reply",
-    "url": "https://x.com/ArturoHerrero/status/1650140539411464196",
-    "in_reply_to_status_id": "1650062700427223040",
-    "in_reply_to_screen_name": "samuelgil",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FuZ6EwBXoAA_EDE.jpg",
-        "local_file": "1650140539411464196-FuZ6EwBXoAA_EDE.jpg",
-        "exists": true
-      }
-    ],
-    "mentions": [
-      "samuelgil",
-      "boromas"
-    ]
   },
   {
     "id": "406344349648437248",
@@ -4164,19 +4634,6 @@ window.TWEETS = [
     "retweet_count": 0,
     "mentions": [
       "porras"
-    ]
-  },
-  {
-    "id": "369455506236399616",
-    "created_at": "Mon Aug 19 13:47:11 +0000 2013",
-    "text": "RT @tim_yates: @ArturoHerrero Or 80% of them are wrong ;-)",
-    "type": "retweet",
-    "url": "https://x.com/ArturoHerrero/status/369455506236399616",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "mentions": [
-      "tim_yates",
-      "ArturoHerrero"
     ]
   },
   {
@@ -4951,6 +5408,336 @@ window.TWEETS = [
     "retweet_count": 0
   },
   {
+    "id": "1699477535908659703",
+    "created_at": "Wed Sep 06 17:39:53 +0000 2023",
+    "text": "RT @ArturoHerrero: @flopezluis En GitLab existe un proceso para crear blueprints con propuestas técnicas complejas.\n\nArchitecture Design Wo…",
+    "type": "retweet",
+    "url": "https://x.com/ArturoHerrero/status/1699477535908659703",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "mentions": [
+      "ArturoHerrero",
+      "flopezluis"
+    ]
+  },
+  {
+    "id": "1699426508790546554",
+    "created_at": "Wed Sep 06 14:17:08 +0000 2023",
+    "text": "@flopezluis En GitLab existe un proceso para crear blueprints con propuestas técnicas complejas.\n\nArchitecture Design Workflow. https://about.gitlab.com/handbook/engineering/architecture/workflow/\nEjemplos. https://docs.gitlab.com/ee/architecture/",
+    "type": "reply",
+    "url": "https://x.com/ArturoHerrero/status/1699426508790546554",
+    "in_reply_to_status_id": "1699347492377096671",
+    "in_reply_to_screen_name": "flopezluis",
+    "favorite_count": 21,
+    "retweet_count": 2,
+    "mentions": [
+      "flopezluis"
+    ]
+  },
+  {
+    "id": "1698416912294682711",
+    "created_at": "Sun Sep 03 19:25:21 +0000 2023",
+    "text": "RT @ArturoHerrero: @boromas Nadie ha rodado besos mejor que Alfred Hitchcock. https://youtu.be/UEsTlIQ2eSw?si=NTFK6zQpEZJfBhP-",
+    "type": "retweet",
+    "url": "https://x.com/ArturoHerrero/status/1698416912294682711",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "mentions": [
+      "ArturoHerrero",
+      "boromas"
+    ]
+  },
+  {
+    "id": "1698416585474465833",
+    "created_at": "Sun Sep 03 19:24:03 +0000 2023",
+    "text": "@boromas Nadie ha rodado besos mejor que Alfred Hitchcock. https://youtu.be/UEsTlIQ2eSw?si=NTFK6zQpEZJfBhP-",
+    "type": "reply",
+    "url": "https://x.com/ArturoHerrero/status/1698416585474465833",
+    "in_reply_to_status_id": "1698410838804107641",
+    "in_reply_to_screen_name": "boromas",
+    "favorite_count": 1,
+    "retweet_count": 1,
+    "mentions": [
+      "boromas"
+    ]
+  },
+  {
+    "id": "1695562611444650428",
+    "created_at": "Sat Aug 26 22:23:23 +0000 2023",
+    "text": "Cuando un hombre, por la razón que sea, tiene la oportunidad de llevar  una vida excepcional, no tiene derecho a guardársela para sí mismo.\n \n—Jacques-Yves Cousteau",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1695562611444650428",
+    "favorite_count": 2,
+    "retweet_count": 0
+  },
+  {
+    "id": "1694411895279583339",
+    "created_at": "Wed Aug 23 18:10:51 +0000 2023",
+    "text": "@Irde90641403 @Lualobus Yo sólo he leído 'Extreme Ownership', pero tienes un libro de Jocko Willink sobre este tema: 'Discipline Equals Freedom'.",
+    "type": "reply",
+    "url": "https://x.com/ArturoHerrero/status/1694411895279583339",
+    "in_reply_to_status_id": "1694304848068452529",
+    "in_reply_to_screen_name": "Irde90641403",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "quoted_tweet": {
+      "url": "https://x.com/ArturoHerrero/status/1376172882049568773",
+      "username": "ArturoHerrero",
+      "status_id": "1376172882049568773"
+    },
+    "mentions": [
+      "Irde90641403",
+      "Lualobus"
+    ]
+  },
+  {
+    "id": "1692598703834403183",
+    "created_at": "Fri Aug 18 18:05:52 +0000 2023",
+    "text": "¿Un cómic sobre el holocausto y con ratones como  protagonistas? Llegué suspicaz pero las críticas lo avalaban/alababan. No defrauda en absoluto.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1692598703834403183",
+    "in_reply_to_status_id": "1685636698384760832",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F31P4zVXsAEnK8i.jpg",
+        "local_file": "1692598703834403183-F31P4zVXsAEnK8i.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1688549252371255296",
+    "created_at": "Mon Aug 07 13:54:48 +0000 2023",
+    "text": "Al terminar sus estudios, el historiador se enfrenta a un reto: ¿de qué han servido tus estudios? ¿Lo único que has encontrado en tu trabajo es el divertimento de narrar el auge y la caída de naciones e ideas y de volver a contar «historias tristes acerca de la muerte de reyes»?",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1688549252371255296",
+    "in_reply_to_status_id": "1688545528181665793",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F27tcxLWIAApLWo.jpg",
+        "local_file": "1688549252371255296-F27tcxLWIAApLWo.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1688545528181665793",
+    "created_at": "Mon Aug 07 13:40:00 +0000 2023",
+    "text": "'Lecciones de la Historia' es un libro espléndido. 160 páginas, no le sobra ni le falta ninguna.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1688545528181665793",
+    "favorite_count": 6,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F23i2y9WQAAnROT.jpg",
+        "local_file": "1688545528181665793-F23i2y9WQAAnROT.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1688165346446876673",
+    "created_at": "Sun Aug 06 12:29:17 +0000 2023",
+    "text": "Algo fascinante viendo crecer a mi hija es que cada 2-3 meses es una persona totalmente diferente. Reviso las fotos antiguas y pienso: ¿dónde está aquella enana?",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1688165346446876673",
+    "favorite_count": 6,
+    "retweet_count": 0
+  },
+  {
+    "id": "1685636698384760832",
+    "created_at": "Sun Jul 30 13:01:21 +0000 2023",
+    "text": "Un tema fascinante es la intersección entre los cómics y la arquitectura.\n\nLa charla de Luis Miguel Lus Arana 'Cómic, caricatura, arquitectura - Guía de lectura' es la mejor introducción al tema. https://www.youtube.com/watch?v=Fud6ewAaq7Q",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1685636698384760832",
+    "in_reply_to_status_id": "1685635000438292481",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1685635000438292481",
+    "created_at": "Sun Jul 30 12:54:36 +0000 2023",
+    "text": "Ha fallecido Francisco Ibáñez, su mítica serie '13, Rue del Percebe' tiene un antecedente con Will Eisner.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1685635000438292481",
+    "in_reply_to_status_id": "1683052027511726081",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 2,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F2ST2dbXcAATdtK.png",
+        "local_file": "1685635000438292481-F2ST2dbXcAATdtK.png",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F2ST9FjXwAA-wXD.jpg",
+        "local_file": "1685635000438292481-F2ST9FjXwAA-wXD.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1683814855860428801",
+    "created_at": "Tue Jul 25 12:22:00 +0000 2023",
+    "text": "@Catesomi ¿Recomiendas algún servicio para negociar hipotecas? Ejemplos:\n- @colibid - https://colibid.com/\n- @HipooDigital - https://www.hipoo.com/\n- @idealista - https://www.idealista.com/hipotecas/",
+    "type": "reply",
+    "url": "https://x.com/ArturoHerrero/status/1683814855860428801",
+    "in_reply_to_screen_name": "Catesomi",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "mentions": [
+      "Catesomi",
+      "colibid",
+      "HipooDigital",
+      "idealista"
+    ]
+  },
+  {
+    "id": "1683052027511726081",
+    "created_at": "Sun Jul 23 09:50:47 +0000 2023",
+    "text": "En un capítulo de La Cultureta de hace mil años, @rodrigocortes recomendaba dos cómics de Will Eisner. ¡Magníficos!",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1683052027511726081",
+    "in_reply_to_status_id": "1681032662054580226",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 2,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F1tmuBTXwAEkJi_.jpg",
+        "local_file": "1683052027511726081-F1tmuBTXwAEkJi_.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F1tmyDWXoAA4pMD.jpg",
+        "local_file": "1683052027511726081-F1tmyDWXoAA4pMD.jpg",
+        "exists": true
+      }
+    ],
+    "mentions": [
+      "rodrigocortes"
+    ]
+  },
+  {
+    "id": "1681380754016616451",
+    "created_at": "Tue Jul 18 19:09:44 +0000 2023",
+    "text": "Fueron 35 años de informes y estrellas para la guía roja. Décadas de miles de kilómetros, anecdotario, fatiga, placer y centenares de menús degustación. https://sobremesa.es/art/5828/yo-fui-inspector-de-la-guia-michelin-ya-no-me-escondo",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1681380754016616451",
+    "in_reply_to_status_id": "1447130821983412224",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1681032662054580226",
+    "created_at": "Mon Jul 17 20:06:33 +0000 2023",
+    "text": "Desde Hergé como principal referente de la línea clara me voy a Vittorio Giardino con 'Vacaciones de ensueño'.\n\n13 historias cortas llenas de intriga, crimen, sensualidad y lugares exóticos. Muy veraniego.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1681032662054580226",
+    "in_reply_to_status_id": "1679836232585469954",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 2,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F1Q5MEfXwAE1Ynh.jpg",
+        "local_file": "1681032662054580226-F1Q5MEfXwAE1Ynh.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1679836232585469954",
+    "created_at": "Fri Jul 14 12:52:22 +0000 2023",
+    "text": "Vuelvo a Tintín con 'La isla negra'. Una portada muy sugestiva.\n\nObra incluída en Time's List of the 10 Best Graphic Novels. https://en.wikipedia.org/wiki/Time%27s_List_of_the_10_Best_Graphic_Novels",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1679836232585469954",
+    "in_reply_to_status_id": "1679472445118377984",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F0_3ZWjXgAEfcru.jpg",
+        "local_file": "1679836232585469954-F0_3ZWjXgAEfcru.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1679491770172997633",
+    "created_at": "Thu Jul 13 14:03:36 +0000 2023",
+    "text": "RT @ArturoHerrero: @joantubau Yo también estoy leyendo las obras de Jirō Taniguchi. Ayer, buscando más información sobre los cómics, encont…",
+    "type": "retweet",
+    "url": "https://x.com/ArturoHerrero/status/1679491770172997633",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "mentions": [
+      "ArturoHerrero",
+      "joantubau"
+    ]
+  },
+  {
+    "id": "1679491706176311296",
+    "created_at": "Thu Jul 13 14:03:20 +0000 2023",
+    "text": "@joantubau Yo también estoy leyendo las obras de Jirō Taniguchi. Ayer, buscando más información sobre los cómics, encontré que algunos han seguido los pasos del protagonista.",
+    "type": "reply",
+    "url": "https://x.com/ArturoHerrero/status/1679491706176311296",
+    "in_reply_to_status_id": "1679432510885748736",
+    "in_reply_to_screen_name": "joantubau",
+    "favorite_count": 3,
+    "retweet_count": 1,
+    "quoted_tweet": {
+      "url": "https://x.com/HolaJaviRoman/status/1426139313847291905",
+      "username": "HolaJaviRoman",
+      "status_id": "1426139313847291905"
+    },
+    "mentions": [
+      "joantubau"
+    ]
+  },
+  {
+    "id": "1679472445118377984",
+    "created_at": "Thu Jul 13 12:46:48 +0000 2023",
+    "text": "Regreso a Jirō Taniguchi con 'Barrio lejano'. Una gran historia. Recomendación de @nadaimporta.\n\nTaniguchi cautiva desde su sencillez narrativa y gráfica.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1679472445118377984",
+    "in_reply_to_status_id": "1678870529569071105",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F06lEIJWcAIFr9R.jpg",
+        "local_file": "1679472445118377984-F06lEIJWcAIFr9R.jpg",
+        "exists": true
+      }
+    ],
+    "mentions": [
+      "nadaimporta"
+    ]
+  },
+  {
     "id": "336761594958729217",
     "created_at": "Tue May 21 08:33:15 +0000 2013",
     "text": "I'm going to spend this week at @howareyou, working with the Ruby  development team. Yay!",
@@ -5447,347 +6234,6 @@ window.TWEETS = [
     "url": "https://x.com/ArturoHerrero/status/319736697183162368",
     "favorite_count": 1,
     "retweet_count": 1
-  },
-  {
-    "id": "1645715580421300226",
-    "created_at": "Tue Apr 11 09:09:04 +0000 2023",
-    "text": "Ayer escéptico por lo que podría encontrar, puse 'Lumière! L’aventure commence'.\n\nEl documental es un tesoro. 108 películas restauradas de 50 segundos analizadas con voz en off. El cinematógrafo no tenía visor y la composición es siempre perfecta. https://youtu.be/FHzbw4LU_f8",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1645715580421300226",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1645187699379249152",
-    "created_at": "Sun Apr 09 22:11:28 +0000 2023",
-    "text": "El documental 'Oliver Sacks: His Own Life' desprende la misma humanidad que la que él mismo observaba en sus pacientes. Un gran tributo.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1645187699379249152",
-    "in_reply_to_status_id": "1279866152638963712",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 2,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FtTfptpXoAAOGwV.png",
-        "local_file": "1645187699379249152-FtTfptpXoAAOGwV.png",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1642469031209828353",
-    "created_at": "Sun Apr 02 10:08:27 +0000 2023",
-    "text": "Muy interesante la entrevista a Juana Roig, CEO de Mercadona Tech: modelo spin-off, cultura corporativa, logística, escalabilidad geográfica, cifras de negocio, etc. https://youtu.be/bIHILg-pT_I",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1642469031209828353",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "1641215404667289602",
-    "created_at": "Wed Mar 29 23:06:59 +0000 2023",
-    "text": "Qué maravilla 'Arquitectura emocional 1959', premio Goya a mejor cortometraje de ficción en 2022.\n\nPodría ser una clase de @somostramontana.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1641215404667289602",
-    "favorite_count": 4,
-    "retweet_count": 1,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FsbCDk5WcAU2pbb.jpg",
-        "local_file": "1641215404667289602-FsbCDk5WcAU2pbb.jpg",
-        "exists": true
-      }
-    ],
-    "mentions": [
-      "somostramontana"
-    ]
-  },
-  {
-    "id": "1640068182982512644",
-    "created_at": "Sun Mar 26 19:08:20 +0000 2023",
-    "text": "Reconocer el rastro que deja lo que ya no está, y oír cómo nos dice: «Acuérdate de los que ya no están aquí».",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1640068182982512644",
-    "in_reply_to_status_id": "1640065990691094530",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FsKxTPTXoAMJ-VV.jpg",
-        "local_file": "1640068182982512644-FsKxTPTXoAMJ-VV.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1640065990691094530",
-    "created_at": "Sun Mar 26 18:59:37 +0000 2023",
-    "text": "«Cada visita al cementerio nos remite a la génesis de esta historia. Plantea esas mismas preguntas a quien abre los ojos o aguza el oído: ¿qué huellas han dejado en nuestras vidas las personas que se han ido?»",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1640065990691094530",
-    "in_reply_to_status_id": "1640065988681924616",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FsKuOryXwAEyVta.jpg",
-        "local_file": "1640065990691094530-FsKuOryXwAEyVta.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1640065988681924616",
-    "created_at": "Sun Mar 26 18:59:37 +0000 2023",
-    "text": "«El porvenir no está frente a nosotros sino detrás, en las huellas de nuestros pasos en la tierra de una montaña que acabamos de ascender, huellas en las que quienes nos siguen y nos sobreviven leerán lo que a nosotros todavía no se nos permite ver.»",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1640065988681924616",
-    "in_reply_to_status_id": "1640065986643591168",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FsKuAH8XgAMOVIU.jpg",
-        "local_file": "1640065988681924616-FsKuAH8XgAMOVIU.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1640065986643591168",
-    "created_at": "Sun Mar 26 18:59:36 +0000 2023",
-    "text": "«Nuestra identidad está hecha de capas superpuestas, estratos de las tierras que hemos hollado, elementos de las culturas con que nos hemos cruzado y las creencias que han influido sobre nuestros ritos y lenguajes.»",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1640065986643591168",
-    "in_reply_to_status_id": "1640065984437338112",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FsKttROWYAQLtBa.jpg",
-        "local_file": "1640065986643591168-FsKttROWYAQLtBa.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1640065984437338112",
-    "created_at": "Sun Mar 26 18:59:36 +0000 2023",
-    "text": "«Perder a uno de tus progenitores te convierte en una persona huérfana y perder a tu cónyuge en una viuda. Pero ¿qué se es cuando un hijo desaparece? [...]\n\nEn hebreo, sin embargo, ese término existe.»",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1640065984437338112",
-    "in_reply_to_status_id": "1640065981698514952",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 2,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FsKswpfWcAQdOC3.jpg",
-        "local_file": "1640065984437338112-FsKswpfWcAQdOC3.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1640065981698514952",
-    "created_at": "Sun Mar 26 18:59:35 +0000 2023",
-    "text": "«El hebreo proclama que cada uno de nosotros tiene muchas vidas, no sucesivas sino trenzadas, como hilos que se cruzan a lo largo de la existencia y aguardan el desenlace para distinguirse.»",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1640065981698514952",
-    "in_reply_to_status_id": "1640065979098058753",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FsKsIUbWIAQvvsA.jpg",
-        "local_file": "1640065981698514952-FsKsIUbWIAQvvsA.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1640065979098058753",
-    "created_at": "Sun Mar 26 18:59:35 +0000 2023",
-    "text": "«En muchas familias judías, cuando alguien enferma se le atribuye otro nombre de pila. Se altera su identidad para inducir a error a la criatura sobrenatural que tuviera la mala idea de ir a buscarlo.»",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1640065979098058753",
-    "in_reply_to_status_id": "1640065977218899978",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FsKqxVzXoAY4rJW.jpg",
-        "local_file": "1640065979098058753-FsKqxVzXoAY4rJW.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1640065977218899978",
-    "created_at": "Sun Mar 26 18:59:34 +0000 2023",
-    "text": "'Vivir con nuestros muertos' es un libro singular. Delphine Horvilleur se apoya en la tradición judía para transformar la muerte en una lección de vida para los que se quedan.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1640065977218899978",
-    "favorite_count": 12,
-    "retweet_count": 2,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FsGq8I3XoAAva1P.jpg",
-        "local_file": "1640065977218899978-FsGq8I3XoAAva1P.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1639755221294362624",
-    "created_at": "Sat Mar 25 22:24:44 +0000 2023",
-    "text": "- Cantando bajo la lluvia (1952, Stanley Donen & Gene Kelly)\n- Babylon (2022, Damien Chazelle)",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1639755221294362624",
-    "in_reply_to_status_id": "1630585042425507842",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FsGTfmiWwAMkWnY.jpg",
-        "local_file": "1639755221294362624-FsGTfmiWwAMkWnY.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FsGTh1rXoAA17iD.jpg",
-        "local_file": "1639755221294362624-FsGTh1rXoAA17iD.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1637165024148877312",
-    "created_at": "Sat Mar 18 18:52:13 +0000 2023",
-    "text": "Mi idea de la felicidad: poder decir, al final de la vida, que nunca tuve una pena tan grande que no me la quitara una hora de lectura.\n—José Luis García Martín.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1637165024148877312",
-    "favorite_count": 2,
-    "retweet_count": 0
-  },
-  {
-    "id": "1632765847117746179",
-    "created_at": "Mon Mar 06 15:31:27 +0000 2023",
-    "text": "Ennio: El maestro (2021, Giuseppe Tornatore).\n\nDos horas y media de documental recorriendo la obra de Morricone. Un gran homenaje y una oda a la belleza de su música.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1632765847117746179",
-    "favorite_count": 3,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fqi_4idXgAU0ouZ.jpg",
-        "local_file": "1632765847117746179-Fqi_4idXgAU0ouZ.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1631635633654341633",
-    "created_at": "Fri Mar 03 12:40:24 +0000 2023",
-    "text": "Para que un país se desarrolle, es condición sine qua non el uso de energía. The world's energy problem. https://ourworldindata.org/worlds-energy-problem",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1631635633654341633",
-    "in_reply_to_status_id": "1631635631435661312",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FqS7VjfX0AEhdnd.jpg",
-        "local_file": "1631635633654341633-FqS7VjfX0AEhdnd.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1631635631435661312",
-    "created_at": "Fri Mar 03 12:40:23 +0000 2023",
-    "text": "Excelente exposición de Carlos Madrid – Filosofía de la Ciencia del Cambio Climático. https://youtu.be/ErKmq6zZ030",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1631635631435661312",
-    "in_reply_to_status_id": "1631635628797444101",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "1631635628797444101",
-    "created_at": "Fri Mar 03 12:40:22 +0000 2023",
-    "text": "Mucha pereza leer 'Falsa alarma' o 'No hay apocalipsis', aunque aportan el contrapunto y un poco de sentido común. Hojeando los libros me parece más solvente el de Bjorn Lomborg.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1631635628797444101",
-    "in_reply_to_status_id": "1631635625672572930",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FqS3RSOXoAITKpt.png",
-        "local_file": "1631635628797444101-FqS3RSOXoAITKpt.png",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FqS3V5TWAAASC8b.jpg",
-        "local_file": "1631635628797444101-FqS3V5TWAAASC8b.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1631635625672572930",
-    "created_at": "Fri Mar 03 12:40:22 +0000 2023",
-    "text": "Muy flojito Bill Gates porque no explica porqué vamos a tener un desastre climático pero tampoco aporta un plan sólido. Hay que eliminar todas la emisiones, ¡ya! Opciones: zero-carbon cement, zero-carbon steel, nuclear, plan-based meat, carbon capture, electrification, etc.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1631635625672572930",
-    "in_reply_to_status_id": "1631635623445446656",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FqSxlXsXgAAHis8.jpg",
-        "local_file": "1631635625672572930-FqSxlXsXgAAHis8.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1631635623445446656",
-    "created_at": "Fri Mar 03 12:40:21 +0000 2023",
-    "text": "Informarse sobre el cambio climático es prácticamente imposible: complejidad del tema, falta de consenso, información sesgada, agendas políticas, etc.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1631635623445446656",
-    "favorite_count": 0,
-    "retweet_count": 0
   },
   {
     "id": "319396525434359809",
@@ -6610,7 +7056,7 @@ window.TWEETS = [
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/279203255588892672",
     "favorite_count": 1,
-    "retweet_count": 2
+    "retweet_count": 1
   },
   {
     "id": "278958705247150081",
@@ -7218,6 +7664,319 @@ window.TWEETS = [
     "retweet_count": 0
   },
   {
+    "id": "1678870529569071105",
+    "created_at": "Tue Jul 11 20:55:00 +0000 2023",
+    "text": "'Watchmen' aparece tanto en la lista de las 100 Mejores Novelas como en las 10 Mejores Novelas Gráficas según la revista Time.\n\nDecepción absoluta.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1678870529569071105",
+    "in_reply_to_status_id": "1678360282928652289",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F0yJo48XoAEinxs.jpg",
+        "local_file": "1678870529569071105-F0yJo48XoAEinxs.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1678360282928652289",
+    "created_at": "Mon Jul 10 11:07:28 +0000 2023",
+    "text": "Un cómic sobre cómics, la meta-obra definitiva. 'Entender el cómic' es un gran trabajo explicando el diseño (y algo de historia) de los cómics.\n\nRecomendación de @adrianmg. https://adrianmato.com/blog/design/books/favorite-design-books/",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1678360282928652289",
+    "in_reply_to_status_id": "1677962920922165249",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F0q7x69XoAAF5C1.jpg",
+        "local_file": "1678360282928652289-F0q7x69XoAAF5C1.jpg",
+        "exists": true
+      }
+    ],
+    "mentions": [
+      "adrianmg"
+    ]
+  },
+  {
+    "id": "1677962920922165249",
+    "created_at": "Sun Jul 09 08:48:30 +0000 2023",
+    "text": "Me llamó la atención 'Torpedo 1936' en la biblioteca. Todos los elementos del cine negro se conjugan aquí: gánsters, mujeres, asesinatos, etc.\n\nLos dibujos son excepcionales, pero el guión deja bastante que desear, cayendo en todos los clichés habidos y por haber.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1677962920922165249",
+    "in_reply_to_status_id": "1677676903090597890",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F0lSYcaWcAM0inT.jpg",
+        "local_file": "1677962920922165249-F0lSYcaWcAM0inT.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1677676903090597890",
+    "created_at": "Sat Jul 08 13:51:58 +0000 2023",
+    "text": "Como no sé por dónde me muevo, utilizo de referencia '1001 cómics que hay que leer antes de morir'.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1677676903090597890",
+    "in_reply_to_status_id": "1677257345225695233",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F0hOP9IXgAIzmU7.jpg",
+        "local_file": "1677676903090597890-F0hOP9IXgAIzmU7.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1677257345225695233",
+    "created_at": "Fri Jul 07 10:04:47 +0000 2023",
+    "text": "Una delicia 'El caminante' de Jiro Taniguchi. Recomendación de @joantubau.\n\nCada relato es una paseo del protagonista. Una lectura que nos reconcilia con el entorno, la cotidianidad, la vida contemplativa, la tranquilidad y la soledad.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1677257345225695233",
+    "in_reply_to_status_id": "1676270431719034880",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F0bQp-NXgAExuzs.jpg",
+        "local_file": "1677257345225695233-F0bQp-NXgAExuzs.jpg",
+        "exists": true
+      }
+    ],
+    "mentions": [
+      "joantubau"
+    ]
+  },
+  {
+    "id": "1676270431719034880",
+    "created_at": "Tue Jul 04 16:43:09 +0000 2023",
+    "text": "En un documental¹ sobre Joker alababan 'Batman: La broma asesina' como una de las mejores historias de comics.\n\nEs un cómic muy potente, influenciando a diversos directores (Burton, Nolan, Phillips) en sus adaptaciones cinematográficas.\n\n— \n¹ https://youtu.be/sESTA34wvPA?t=687",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1676270431719034880",
+    "in_reply_to_status_id": "1676154061073031169",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F0NHA0ZXgAIKh4i.jpg",
+        "local_file": "1676270431719034880-F0NHA0ZXgAIKh4i.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1676160682063003649",
+    "created_at": "Tue Jul 04 09:27:02 +0000 2023",
+    "text": "@fillito @Panels_ink Sí, me ha parecido una aplicación top. ¡Muy buen trabajo!\n\nSoy nuevo en el mundo de los cómics pero os daré feedback si veo cualquier mejora.",
+    "type": "reply",
+    "url": "https://x.com/ArturoHerrero/status/1676160682063003649",
+    "in_reply_to_status_id": "1676155393007927296",
+    "in_reply_to_screen_name": "fillito",
+    "favorite_count": 2,
+    "retweet_count": 0,
+    "mentions": [
+      "fillito",
+      "Panels_ink"
+    ]
+  },
+  {
+    "id": "1676154061073031169",
+    "created_at": "Tue Jul 04 09:00:44 +0000 2023",
+    "text": "Los amigos de @Panels_ink tienen la desfachatez de proclamar que son el mejor lector de cómics para iOS.\n\nQuizás sea cierto. Después de un par de días de uso, no me apetece probar ninguna otra app para cómics. https://apps.apple.com/us/app/panels-comic-reader/id1236567663",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1676154061073031169",
+    "in_reply_to_status_id": "1675792849575587841",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 2,
+    "retweet_count": 0,
+    "mentions": [
+      "Panels_ink"
+    ]
+  },
+  {
+    "id": "1675792849575587841",
+    "created_at": "Mon Jul 03 09:05:24 +0000 2023",
+    "text": "'Logicomix' estaba en la biblioteca de N. N. Taleb.\n\nBertrand Russell es el hilo conductor de la historia de la lógica. Gran novela gráfica.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1675792849575587841",
+    "in_reply_to_status_id": "1675792847155474432",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 3,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F0GbFr1WcAERLQj.jpg",
+        "local_file": "1675792849575587841-F0GbFr1WcAERLQj.jpg",
+        "exists": true
+      }
+    ],
+    "quoted_tweet": {
+      "url": "https://x.com/nntaleb/status/946473050760994817",
+      "username": "nntaleb",
+      "status_id": "946473050760994817"
+    }
+  },
+  {
+    "id": "1675792847155474432",
+    "created_at": "Mon Jul 03 09:05:24 +0000 2023",
+    "text": "Siguiente parada: 'Tintín en el Tíbet'.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1675792847155474432",
+    "in_reply_to_status_id": "1675792844781416448",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F0EMModWYAAo3Mz.jpg",
+        "local_file": "1675792847155474432-F0EMModWYAAo3Mz.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1675792844781416448",
+    "created_at": "Mon Jul 03 09:05:23 +0000 2023",
+    "text": "No tenía ni idea sobre cómics, pero este año comenzó mi andadura con Astérix.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1675792844781416448",
+    "favorite_count": 6,
+    "retweet_count": 1,
+    "quoted_tweet": {
+      "url": "https://x.com/ArturoHerrero/status/1611792902144786433",
+      "username": "ArturoHerrero",
+      "status_id": "1611792902144786433"
+    }
+  },
+  {
+    "id": "1668288717771898881",
+    "created_at": "Mon Jun 12 16:06:40 +0000 2023",
+    "text": "School Is Not Enough. https://www.palladiummag.com/2023/06/06/school-is-not-enough/",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1668288717771898881",
+    "favorite_count": 3,
+    "retweet_count": 0
+  },
+  {
+    "id": "1667980791614152707",
+    "created_at": "Sun Jun 11 19:43:04 +0000 2023",
+    "text": "Detalle de la biblioteca, el lugar que mejor representa a D'Annunzio, en cuya entrada está la inscripción: «Hallarás algo más vasto en la selva que en los libros».",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1667980791614152707",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FyXbpZ9XwAE1LWt.jpg",
+        "local_file": "1667980791614152707-FyXbpZ9XwAE1LWt.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1663179123827658754",
+    "created_at": "Mon May 29 13:42:58 +0000 2023",
+    "text": "RT @ArturoHerrero: Falleció Jesús Quintero y he aprovechado estas semanas para ver algunas de las entrevistas que realizaba en sus programa…",
+    "type": "retweet",
+    "url": "https://x.com/ArturoHerrero/status/1663179123827658754",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "mentions": [
+      "ArturoHerrero"
+    ]
+  },
+  {
+    "id": "1662904203755282435",
+    "created_at": "Sun May 28 19:30:32 +0000 2023",
+    "text": "En cuanto a las adaptaciones de Haruki Murakami en el cine, aquí lo tengo más claro:\n- Burning (2018, Lee Chang-Dong) 👍\n- Drive My Car (2021, Ryûsuke Hamaguchi) 👎",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1662904203755282435",
+    "in_reply_to_status_id": "1662904202274787328",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1662904202274787328",
+    "created_at": "Sun May 28 19:30:31 +0000 2023",
+    "text": "Haruki Murakami gana el Premio Princesa de Asturias de las Letras 2023.\n\nHe leído 4 novelas suyas y la única que me gustó fue 'Tokio blues', pero de esto hace más de 10 años.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1662904202274787328",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1662435327871418369",
+    "created_at": "Sat May 27 12:27:23 +0000 2023",
+    "text": "La selección de libros en español de las bibliotecas de Londres es de lo más dispar, pero he encontrado 'Travesuras de la niña mala' de Vargas Llosa.\n\nLlevo 100 páginas y me está entusiasmando.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1662435327871418369",
+    "favorite_count": 4,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FxIoHdNWcAU5e9R.jpg",
+        "local_file": "1662435327871418369-FxIoHdNWcAU5e9R.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1660696447900106764",
+    "created_at": "Mon May 22 17:17:42 +0000 2023",
+    "text": "@omixam Honos 195. Parece inútil. https://honosbyomixam.substack.com/p/honos-195-parece-inutil",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1660696447900106764",
+    "in_reply_to_status_id": "1581742679120977920",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "mentions": [
+      "omixam"
+    ]
+  },
+  {
+    "id": "1659558989288407042",
+    "created_at": "Fri May 19 13:57:50 +0000 2023",
+    "text": "Charlie Munger uses the term \"Lollapalooza effect\" for multiple biases, tendencies, or mental models working together.\n\nFor example, risk perception: Illusion of control + Gambler's fallacy + Overconfidence bias.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1659558989288407042",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1654085260513013761",
+    "created_at": "Thu May 04 11:27:12 +0000 2023",
+    "text": "Pick a country on the map of the world, pick a decade from the 1900s to today and just let yourself get carried away by the most beautiful musical collection on the planet, selected with love, by humans for humans. https://radiooooo.com/",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1654085260513013761",
+    "favorite_count": 2,
+    "retweet_count": 0
+  },
+  {
     "id": "247688010068529152",
     "created_at": "Mon Sep 17 13:26:38 +0000 2012",
     "text": "Xiki: A shell console with GUI features http://xiki.org",
@@ -7699,349 +8458,6 @@ window.TWEETS = [
     "retweet_count": 0
   },
   {
-    "id": "1630878546091724801",
-    "created_at": "Wed Mar 01 10:32:00 +0000 2023",
-    "text": "La tríada de Platón:\n- Verdad: la base de todo conocimiento.\n- Belleza: la forma en que se manifestaba la verdad en el mundo físico.\n- Bondad: el resultado de vivir en armonía con la verdad y la belleza.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1630878546091724801",
-    "favorite_count": 2,
-    "retweet_count": 0
-  },
-  {
-    "id": "1630585042425507842",
-    "created_at": "Tue Feb 28 15:05:43 +0000 2023",
-    "text": "- El colapso (2019)\n- Apagón (2022)",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1630585042425507842",
-    "in_reply_to_status_id": "1617551297263157249",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FqEAU8SWAAYX-Si.jpg",
-        "local_file": "1630585042425507842-FqEAU8SWAAYX-Si.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FqEAW8PWYAEep8h.jpg",
-        "local_file": "1630585042425507842-FqEAW8PWYAEep8h.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1627289215997300739",
-    "created_at": "Sun Feb 19 12:49:17 +0000 2023",
-    "text": "\"Quien disponga, sin embargo, de suficiente calor interno propio hará bien en mantenerse alejado de la sociedad, para así no molestar ni ser molestado\".",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1627289215997300739",
-    "in_reply_to_status_id": "1545339378981109763",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FpVKqkGWAAAIB20.jpg",
-        "local_file": "1627289215997300739-FpVKqkGWAAAIB20.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1626250261466427392",
-    "created_at": "Thu Feb 16 16:00:51 +0000 2023",
-    "text": "He silbado a SoundHound aquella melodía que recordaba de una película del Studio Ghibli y, ¡sorpresa! He encontrado esta maravilla.\n\nJoe Hisaishi - Kaze no Toorimichi. https://youtu.be/zlrwJjnkpSw",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1626250261466427392",
-    "in_reply_to_status_id": "1614734613506625538",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1624408350149443587",
-    "created_at": "Sat Feb 11 14:01:45 +0000 2023",
-    "text": "@BrunnerBernd @Acantilado1999 @GalianiBerlin @RugeElisabeth Looking forward to it!\n\nThe edition and translation into Spanish is magnificent. @Acantilado1999 is my reference publishing house.",
-    "type": "reply",
-    "url": "https://x.com/ArturoHerrero/status/1624408350149443587",
-    "in_reply_to_status_id": "1624390452928471041",
-    "in_reply_to_screen_name": "BrunnerBernd",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "mentions": [
-      "BrunnerBernd",
-      "Acantilado1999",
-      "RugeElisabeth",
-      "Acantilado1999"
-    ]
-  },
-  {
-    "id": "1624111056262922254",
-    "created_at": "Fri Feb 10 18:20:24 +0000 2023",
-    "text": "'Synthetic A Priori' podcast. @rjs draws connections between design, tech, science, and formal systems. https://synthetic.transistor.fm",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1624111056262922254",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "mentions": [
-      "rjs"
-    ]
-  },
-  {
-    "id": "1622896687051165705",
-    "created_at": "Tue Feb 07 09:54:56 +0000 2023",
-    "text": "Impresionante 'Gengis Kan y la creación del mundo moderno', de Jack Weatherford.\n\nEn veinticinco años, Gengis Kan y sus ejércitos mongoles conquistaron más que los romanos en cuatro siglos, y fundaron el imperio más extenso que el ser humano ha visto nunca.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1622896687051165705",
-    "favorite_count": 12,
-    "retweet_count": 2,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FoWukf_WcAINTMu.jpg",
-        "local_file": "1622896687051165705-FoWukf_WcAINTMu.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1621858384851894272",
-    "created_at": "Sat Feb 04 13:09:06 +0000 2023",
-    "text": "Algunas portadas de @NewYorker son verdaderas obras maestras de arte. https://condenaststore.com/collections/new+yorker+covers",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1621858384851894272",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FoH_UwuWAAElkVB.jpg",
-        "local_file": "1621858384851894272-FoH_UwuWAAElkVB.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FoH_Xd_XkAI0xPY.jpg",
-        "local_file": "1621858384851894272-FoH_Xd_XkAI0xPY.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FoH_YPKWYAU-5Ol.jpg",
-        "local_file": "1621858384851894272-FoH_YPKWYAU-5Ol.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FoH_ZtrX0AAyy0m.jpg",
-        "local_file": "1621858384851894272-FoH_ZtrX0AAyy0m.jpg",
-        "exists": true
-      }
-    ],
-    "mentions": [
-      "NewYorker"
-    ]
-  },
-  {
-    "id": "1621559137875247106",
-    "created_at": "Fri Feb 03 17:20:00 +0000 2023",
-    "text": "There are no secrets to success: don’t waste time looking for them. Success is the result of perfection, hard work, learning from failure, loyalty to those for whom you work, and persistence.\n―Colin Powell.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1621559137875247106",
-    "in_reply_to_status_id": "1487843028857462790",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "1621060602780073984",
-    "created_at": "Thu Feb 02 08:19:00 +0000 2023",
-    "text": "The learnings about building a modern search engine from Yandex's source code leak. https://searchengineland.com/yandex-leak-learnings-392393",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1621060602780073984",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "1620827064004743189",
-    "created_at": "Wed Feb 01 16:51:00 +0000 2023",
-    "text": "Me gustan los libros pero—por suerte—no soy un bibliófilo.\n\nLa casa-biblioteca de Luis Alberto de Cuenca, más de 35.000 volúmenes. https://youtu.be/lnWMUHFcrCk",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1620827064004743189",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "1620463401679069187",
-    "created_at": "Tue Jan 31 16:45:56 +0000 2023",
-    "text": "Ojeando 'Board and Table Games From Many Civilizations', me acabo de dar cuenta de lo buena herramienta que son los juegos de mesa para enseñar conceptos de informática: lógica, teor. de juegos, probabilidad, programación, algoritmia, estructuras de datos. https://archive.org/details/B-001-002-771",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1620463401679069187",
-    "in_reply_to_status_id": "1620110446140473345",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1620164842291363840",
-    "created_at": "Mon Jan 30 20:59:34 +0000 2023",
-    "text": "@inakorozas Yo hice el camino inverso, primero llegué a un libro, y tiempo después al documental. Se complementan muy bien.",
-    "type": "reply",
-    "url": "https://x.com/ArturoHerrero/status/1620164842291363840",
-    "in_reply_to_status_id": "1620152336776830977",
-    "in_reply_to_screen_name": "inakorozas",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "quoted_tweet": {
-      "url": "https://x.com/ArturoHerrero/status/1024240549346385921",
-      "username": "ArturoHerrero",
-      "status_id": "1024240549346385921"
-    },
-    "mentions": [
-      "inakorozas"
-    ]
-  },
-  {
-    "id": "1620110446140473345",
-    "created_at": "Mon Jan 30 17:23:25 +0000 2023",
-    "text": "'Board Games in 100 Moves' es un libro fascinante que funciona también como libro de diseño/arte.\n\nPasar las páginas es contemplar cómo los juegos de mesa comienzan como piezas de artesanía hasta convertirse en productos en serie.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1620110446140473345",
-    "favorite_count": 3,
-    "retweet_count": 1,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FnuJh8fXoAAmNVl.jpg",
-        "local_file": "1620110446140473345-FnuJh8fXoAAmNVl.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FnuJj56WIAIpH6V.jpg",
-        "local_file": "1620110446140473345-FnuJj56WIAIpH6V.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FnuJx9MWIAEYfiF.jpg",
-        "local_file": "1620110446140473345-FnuJx9MWIAEYfiF.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FnuJzwLXwAEG18_.jpg",
-        "local_file": "1620110446140473345-FnuJzwLXwAEG18_.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1618295234915610626",
-    "created_at": "Wed Jan 25 17:10:25 +0000 2023",
-    "text": "If I don't see her each day, I miss her\nGee what a thrill, each time I kiss her\nBelieve me, I've got a case\nOf Nancy, with the laughing face\n\nShe takes the winter and makes it summer\n[...]\n\nhttps://youtu.be/nEdmVouBAZY",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1618295234915610626",
-    "favorite_count": 0,
-    "retweet_count": 1
-  },
-  {
-    "id": "1617551297263157249",
-    "created_at": "Mon Jan 23 15:54:16 +0000 2023",
-    "text": "- Breaking Bad (2008, Vince Gilligan)\n- Better Call Saul (2015, Vince Gilligan & Peter Gould)",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1617551297263157249",
-    "in_reply_to_status_id": "1608519571773833216",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FnKyKCFX0AApITh.jpg",
-        "local_file": "1617551297263157249-FnKyKCFX0AApITh.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FnKyML6WYAAsOUP.jpg",
-        "local_file": "1617551297263157249-FnKyML6WYAAsOUP.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1617482588297302016",
-    "created_at": "Mon Jan 23 11:21:15 +0000 2023",
-    "text": "@cesteven Cuatro profesores de instituto se embarcan en un experimento sociológico en el que cada uno de ellos deberá mantener la tasa de alcohol en su cuerpo al mismo nivel, durante su vida diaria, intentando demostrar de esa manera que pueden mejorar en todos los aspectos de su vida.",
-    "type": "reply",
-    "url": "https://x.com/ArturoHerrero/status/1617482588297302016",
-    "in_reply_to_status_id": "1617462887878135808",
-    "in_reply_to_screen_name": "cesteven",
-    "favorite_count": 2,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FnJz1wqXkAABw8m.jpg",
-        "local_file": "1617482588297302016-FnJz1wqXkAABw8m.jpg",
-        "exists": true
-      }
-    ],
-    "mentions": [
-      "cesteven"
-    ]
-  },
-  {
-    "id": "1616421005945094144",
-    "created_at": "Fri Jan 20 13:02:54 +0000 2023",
-    "text": "Crear consiste precisamente en no hacer combinaciones inútiles. La creación es discernimiento, elección [...] Las combinaciones estériles ni siquiera se presentan ante el espíritu del creador.\n—Henri Poincaré",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1616421005945094144",
-    "in_reply_to_status_id": "1480987258064879626",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "1615097939407380493",
-    "created_at": "Mon Jan 16 21:25:30 +0000 2023",
-    "text": "Aquí, jugando con ChatGPT:\n- ¿Es el determinismo compatible con la emergencia?\n- Explícame el principio de mediocridad.\n- Lista ideas contraintuitivas de filosofía de la ciencia.\n- ¿Hay límites físicos al conocimiento?\n- ¿Hay relacción entre materia y energía, y la consciencia?",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1615097939407380493",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1614734613506625538",
-    "created_at": "Sun Jan 15 21:21:46 +0000 2023",
-    "text": "Entrevistas y textos escritos por Miyazaki. Un libro desigual, destacaría algunos consejos de carrera y 'Sacrificios del cielo' (1998) donde resume la historia de la aviación militar hasta la Primera Guerra Mundial y el inmediato y posterior uso de la aviación como correo postal.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1614734613506625538",
-    "in_reply_to_status_id": "1601557474909523969",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 2,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FmivaYyXgAApzDM.jpg",
-        "local_file": "1614734613506625538-FmivaYyXgAApzDM.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FmivpG_XkAQ8f97.jpg",
-        "local_file": "1614734613506625538-FmivpG_XkAQ8f97.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
     "id": "216078200403537920",
     "created_at": "Fri Jun 22 08:00:32 +0000 2012",
     "text": "git + webcam = lol https://github.com/mroth/lolcommits We love lol commits! http://yfrog.com/0i62wmj cc. @deigote @Arturobadul",
@@ -8064,19 +8480,6 @@ window.TWEETS = [
     "retweet_count": 0,
     "mentions": [
       "_aitor"
-    ]
-  },
-  {
-    "id": "215790340278452224",
-    "created_at": "Thu Jun 21 12:56:40 +0000 2012",
-    "text": "RT @Vizzuality: Our latest project together with @google http://cdb.io/KOjPWN Endangered languages, a story that matters",
-    "type": "retweet",
-    "url": "https://x.com/ArturoHerrero/status/215790340278452224",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "mentions": [
-      "Vizzuality",
-      "Google"
     ]
   },
   {
@@ -8565,7 +8968,7 @@ window.TWEETS = [
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/192966160533299201",
     "favorite_count": 0,
-    "retweet_count": 2,
+    "retweet_count": 1,
     "hashtags": [
       "zsh",
       "vim",
@@ -9127,7 +9530,7 @@ window.TWEETS = [
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/160133702951776256",
     "favorite_count": 0,
-    "retweet_count": 2,
+    "retweet_count": 1,
     "mentions": [
       "sbastn",
       "madriagil"
@@ -9479,6 +9882,357 @@ window.TWEETS = [
     "mentions": [
       "unclebobmartin",
       "JerryWeinberg"
+    ]
+  },
+  {
+    "id": "1653846633509974016",
+    "created_at": "Wed May 03 19:38:59 +0000 2023",
+    "text": "Un repaso desde la antigüedad hasta el concepto de ciencia moderna. Se centra en la astronomía, aunque para ello tiene que articular conceptos de filosofía, física, matemáticas, óptica... Tales de Mileto, Aristóteles, Platón, Ptolomeo, Copérnico, Kepler, Galileo, Newton, etc.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1653846633509974016",
+    "favorite_count": 3,
+    "retweet_count": 0,
+    "quoted_tweet": {
+      "url": "https://x.com/tauruseditorial/status/1653656058840096768",
+      "username": "tauruseditorial",
+      "status_id": "1653656058840096768"
+    }
+  },
+  {
+    "id": "1652975426501836803",
+    "created_at": "Mon May 01 09:57:07 +0000 2023",
+    "text": "«Necesitaría descansar para revitalizar la mente, pero para descansar es necesario viajar, y para viajar hay que tener dinero, y el dinero no se consigue si no se trabaja. [...] Estoy atrapado en un circulo vicioso [...] del que es imposible escapar».\n\n—Honoré de Balzac",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1652975426501836803",
+    "favorite_count": 4,
+    "retweet_count": 2
+  },
+  {
+    "id": "1652652802571739138",
+    "created_at": "Sun Apr 30 12:35:07 +0000 2023",
+    "text": "Parecía que en el resto de Europa era lunes y que aquí era domingo.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1652652802571739138",
+    "in_reply_to_status_id": "1652652799929245696",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Fu9mtNVXgAEYKp_.jpg",
+        "local_file": "1652652802571739138-Fu9mtNVXgAEYKp_.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1652652799929245696",
+    "created_at": "Sun Apr 30 12:35:06 +0000 2023",
+    "text": "Siempre quise escribir algo sobre esos momentos únicos, decisivos, que de pronto corrigen ligeramente la trayectoria de tu vida, y a veces la tuercen hacia un rumbo imprevisto, y que remozan para siempre la visión del mundo que tenías hasta entonces.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1652652799929245696",
+    "in_reply_to_status_id": "1652652797395972098",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Fu6kVD1WwAA5pis.jpg",
+        "local_file": "1652652799929245696-Fu6kVD1WwAA5pis.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1652652797395972098",
+    "created_at": "Sun Apr 30 12:35:06 +0000 2023",
+    "text": "Las cosas que nos rodean están por descubrir. Y es que vamos por la vida demasiado aprisa, sin fijar la mirada en las cosas, sin pararnos a descubrirlas y a pensarlas.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1652652797395972098",
+    "in_reply_to_status_id": "1652652794623545346",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Fu6XzCjXoAMsUSH.jpg",
+        "local_file": "1652652797395972098-Fu6XzCjXoAMsUSH.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1652652794623545346",
+    "created_at": "Sun Apr 30 12:35:05 +0000 2023",
+    "text": "Algo esencial para cualquiera que aspire a vivir la vida de primera mano: la intuición y el asombro, la incansable capacidad de asombro. Del asombro nace el conocimiento, como nos enseña Platón.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1652652794623545346",
+    "in_reply_to_status_id": "1652652791846821889",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Fu6PMqcX0AAAyfu.jpg",
+        "local_file": "1652652794623545346-Fu6PMqcX0AAAyfu.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1652652791846821889",
+    "created_at": "Sun Apr 30 12:35:05 +0000 2023",
+    "text": "Salvo algunas generalidades, apenas ha sobrevivido nada de lo que llegué a saber, pero entiendo que el empeño no fue en vano.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1652652791846821889",
+    "in_reply_to_status_id": "1652652789128912897",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Fu6ONuKWwAIu4Ka.jpg",
+        "local_file": "1652652791846821889-Fu6ONuKWwAIu4Ka.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1652652789128912897",
+    "created_at": "Sun Apr 30 12:35:04 +0000 2023",
+    "text": "Heródoto [...] cuenta que los antiguos persas discutían los asuntos más importantes en estado de embriaguez, y al día siguiente volvían a discutirlos en estado de sobriedad, o al revés. Si en ambos casos estaban de acuerdo, cerraban el trato, y si no, renunciaban a él.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1652652789128912897",
+    "in_reply_to_status_id": "1652652786490769409",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Fu6LHrQXwAQfiCF.jpg",
+        "local_file": "1652652789128912897-Fu6LHrQXwAQfiCF.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1652652786490769409",
+    "created_at": "Sun Apr 30 12:35:03 +0000 2023",
+    "text": "No escribas lo que sientes, escribe lo que recuerdas y dirás la verdad, como decía no recuerdo quién.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1652652786490769409",
+    "in_reply_to_status_id": "1652652781612695552",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 2,
+    "retweet_count": 2,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Fu6JWA7XoAE5wyQ.jpg",
+        "local_file": "1652652786490769409-Fu6JWA7XoAE5wyQ.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1652652781612695552",
+    "created_at": "Sun Apr 30 12:35:02 +0000 2023",
+    "text": "'El huerto de Emerson', de Luis Landero. Secundo la recomendación.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1652652781612695552",
+    "favorite_count": 4,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Fu6InAyWAAIhqKN.jpg",
+        "local_file": "1652652781612695552-Fu6InAyWAAIhqKN.jpg",
+        "exists": true
+      }
+    ],
+    "quoted_tweet": {
+      "url": "https://x.com/boromas/status/1365404660522233867",
+      "username": "boromas",
+      "status_id": "1365404660522233867"
+    }
+  },
+  {
+    "id": "1651138259404177409",
+    "created_at": "Wed Apr 26 08:16:52 +0000 2023",
+    "text": "'Ítaca', de Constantino Cavafis alcanza la categoría de sublime cuando lo lee Josep Maria Pou. https://www.youtube.com/watch?v=JCe0CEpSc6Y",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1651138259404177409",
+    "favorite_count": 4,
+    "retweet_count": 1,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FuoCarNXwAAZmQn.png",
+        "local_file": "1651138259404177409-FuoCarNXwAAZmQn.png",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1650209668294221827",
+    "created_at": "Sun Apr 23 18:46:58 +0000 2023",
+    "text": "Esas personas, que se ignoran, están salvando el mundo.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1650209668294221827",
+    "in_reply_to_status_id": "1612196838806884352",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Fua4rFnWYAIEOgY.png",
+        "local_file": "1650209668294221827-Fua4rFnWYAIEOgY.png",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1650140539411464196",
+    "created_at": "Sun Apr 23 14:12:17 +0000 2023",
+    "text": "@samuelgil 'El huerto de Emerson', de Luis Landero. Recomendación entusiasta de @boromas.",
+    "type": "reply",
+    "url": "https://x.com/ArturoHerrero/status/1650140539411464196",
+    "in_reply_to_status_id": "1650062700427223040",
+    "in_reply_to_screen_name": "samuelgil",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FuZ6EwBXoAA_EDE.jpg",
+        "local_file": "1650140539411464196-FuZ6EwBXoAA_EDE.jpg",
+        "exists": true
+      }
+    ],
+    "mentions": [
+      "samuelgil",
+      "boromas"
+    ]
+  },
+  {
+    "id": "1645715580421300226",
+    "created_at": "Tue Apr 11 09:09:04 +0000 2023",
+    "text": "Ayer escéptico por lo que podría encontrar, puse 'Lumière! L’aventure commence'.\n\nEl documental es un tesoro. 108 películas restauradas de 50 segundos analizadas con voz en off. El cinematógrafo no tenía visor y la composición es siempre perfecta. https://youtu.be/FHzbw4LU_f8",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1645715580421300226",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1645187699379249152",
+    "created_at": "Sun Apr 09 22:11:28 +0000 2023",
+    "text": "El documental 'Oliver Sacks: His Own Life' desprende la misma humanidad que la que él mismo observaba en sus pacientes. Un gran tributo.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1645187699379249152",
+    "in_reply_to_status_id": "1279866152638963712",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 2,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FtTfptpXoAAOGwV.png",
+        "local_file": "1645187699379249152-FtTfptpXoAAOGwV.png",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1642469031209828353",
+    "created_at": "Sun Apr 02 10:08:27 +0000 2023",
+    "text": "Muy interesante la entrevista a Juana Roig, CEO de Mercadona Tech: modelo spin-off, cultura corporativa, logística, escalabilidad geográfica, cifras de negocio, etc. https://youtu.be/bIHILg-pT_I",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1642469031209828353",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1641215404667289602",
+    "created_at": "Wed Mar 29 23:06:59 +0000 2023",
+    "text": "Qué maravilla 'Arquitectura emocional 1959', premio Goya a mejor cortometraje de ficción en 2022.\n\nPodría ser una clase de @somostramontana.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1641215404667289602",
+    "favorite_count": 4,
+    "retweet_count": 1,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FsbCDk5WcAU2pbb.jpg",
+        "local_file": "1641215404667289602-FsbCDk5WcAU2pbb.jpg",
+        "exists": true
+      }
+    ],
+    "mentions": [
+      "somostramontana"
+    ]
+  },
+  {
+    "id": "1640068182982512644",
+    "created_at": "Sun Mar 26 19:08:20 +0000 2023",
+    "text": "Reconocer el rastro que deja lo que ya no está, y oír cómo nos dice: «Acuérdate de los que ya no están aquí».",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1640068182982512644",
+    "in_reply_to_status_id": "1640065990691094530",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FsKxTPTXoAMJ-VV.jpg",
+        "local_file": "1640068182982512644-FsKxTPTXoAMJ-VV.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1640065990691094530",
+    "created_at": "Sun Mar 26 18:59:37 +0000 2023",
+    "text": "«Cada visita al cementerio nos remite a la génesis de esta historia. Plantea esas mismas preguntas a quien abre los ojos o aguza el oído: ¿qué huellas han dejado en nuestras vidas las personas que se han ido?»",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1640065990691094530",
+    "in_reply_to_status_id": "1640065988681924616",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FsKuOryXwAEyVta.jpg",
+        "local_file": "1640065990691094530-FsKuOryXwAEyVta.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1640065988681924616",
+    "created_at": "Sun Mar 26 18:59:37 +0000 2023",
+    "text": "«El porvenir no está frente a nosotros sino detrás, en las huellas de nuestros pasos en la tierra de una montaña que acabamos de ascender, huellas en las que quienes nos siguen y nos sobreviven leerán lo que a nosotros todavía no se nos permite ver.»",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1640065988681924616",
+    "in_reply_to_status_id": "1640065986643591168",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FsKuAH8XgAMOVIU.jpg",
+        "local_file": "1640065988681924616-FsKuAH8XgAMOVIU.jpg",
+        "exists": true
+      }
     ]
   },
   {
@@ -9995,399 +10749,6 @@ window.TWEETS = [
     "retweet_count": 0
   },
   {
-    "id": "1613650059320598529",
-    "created_at": "Thu Jan 12 21:32:08 +0000 2023",
-    "text": "@javisantana Sí, ¡menuda biblioteca y casoplón!",
-    "type": "reply",
-    "url": "https://x.com/ArturoHerrero/status/1613650059320598529",
-    "in_reply_to_status_id": "1613639041597177856",
-    "in_reply_to_screen_name": "javisantana",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "quoted_tweet": {
-      "url": "https://x.com/ArturoHerrero/status/1511660563528654851",
-      "username": "ArturoHerrero",
-      "status_id": "1511660563528654851"
-    },
-    "mentions": [
-      "javisantana"
-    ]
-  },
-  {
-    "id": "1613622598851756037",
-    "created_at": "Thu Jan 12 19:43:01 +0000 2023",
-    "text": "El libro más bello que se haya imprimido jamás, la 'Hypnerotomachia Poliphili'. https://archive.org/details/hypnerotomachiap00colo",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1613622598851756037",
-    "in_reply_to_status_id": "1613622595856863232",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FmS8lWAXgAIKK_G.png",
-        "local_file": "1613622598851756037-FmS8lWAXgAIKK_G.png",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1613622595856863232",
-    "created_at": "Thu Jan 12 19:43:01 +0000 2023",
-    "text": "Los libros se respetan usándolos, no dejándolos en paz.\n—Umberto Eco\n\n\"Si tengo que estudiar en el libro raro, me atrevo a hacer marcas a lápiz en el margen, bastante ligeras para que un día puedan borrarse con una goma, y eso me ayuda a sentir el libro como cosa mía\".",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1613622595856863232",
-    "in_reply_to_status_id": "1613111119576551426",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 2,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FmS6R4OXoAgZ2Q-.jpg",
-        "local_file": "1613622595856863232-FmS6R4OXoAgZ2Q-.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FmS6TROWIAE4Iqk.jpg",
-        "local_file": "1613622595856863232-FmS6TROWIAE4Iqk.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1613111119576551426",
-    "created_at": "Wed Jan 11 09:50:35 +0000 2023",
-    "text": "Hoy, al leer 'La memoria vegetal', finalmente sé cómo Umberto Eco respondería a la pregunta.\n\n\"El imbécil que [...] ve todas esas estanterías, y exclama: «¡Cuántos libros! ¿Los ha leído todos?» [...] . Ante este ultraje existen, según mi entendimiento, tres respuestas estándar.\"",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1613111119576551426",
-    "in_reply_to_status_id": "1613111117403807747",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 4,
-    "retweet_count": 1,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FmLpfrdWYAEVT8j.jpg",
-        "local_file": "1613111119576551426-FmLpfrdWYAEVT8j.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1613111117403807747",
-    "created_at": "Wed Jan 11 09:50:35 +0000 2023",
-    "text": "Nassim Nicholas Taleb presentaba en 'The Black Swan' el concepto de «antilibrary» con la anécdota de Umberto Eco.\n\n\"Wow! Signore professore dottore Eco, what a library you have! How many of these books have you read?\"",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1613111117403807747",
-    "in_reply_to_status_id": "1612936475720515585",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 2,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FmLo4H-WIAUP7Kq.jpg",
-        "local_file": "1613111117403807747-FmLo4H-WIAUP7Kq.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1612936475720515585",
-    "created_at": "Tue Jan 10 22:16:37 +0000 2023",
-    "text": "La biblioteca de Umberto Eco. https://youtu.be/UoEuvgT1wBs",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1612936475720515585",
-    "favorite_count": 3,
-    "retweet_count": 0
-  },
-  {
-    "id": "1612390909148123140",
-    "created_at": "Mon Jan 09 10:08:44 +0000 2023",
-    "text": "@IkerTejero Yo fui picoteando de 'Cuentos completos'. El estilo de Borges es muy particular: metáforas, símbolos, fusión (narrativa, filosofía, ciencia ficción), etc.\n\nTe recomiendo empezar por el podcast, y leer online el primer y segundo cuento antes de tirarte a la piscina.",
-    "type": "reply",
-    "url": "https://x.com/ArturoHerrero/status/1612390909148123140",
-    "in_reply_to_status_id": "1612380330480091137",
-    "in_reply_to_screen_name": "IkerTejero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "mentions": [
-      "IkerTejero"
-    ]
-  },
-  {
-    "id": "1612266838645153793",
-    "created_at": "Mon Jan 09 01:55:43 +0000 2023",
-    "text": "@IkerTejero Revisa el hilo desde el principio *<|;-)",
-    "type": "reply",
-    "url": "https://x.com/ArturoHerrero/status/1612266838645153793",
-    "in_reply_to_status_id": "1612207363431317505",
-    "in_reply_to_screen_name": "IkerTejero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "quoted_tweet": {
-      "url": "https://x.com/ArturoHerrero/status/1380937265178902528",
-      "username": "ArturoHerrero",
-      "status_id": "1380937265178902528"
-    },
-    "mentions": [
-      "IkerTejero"
-    ]
-  },
-  {
-    "id": "1612196838806884352",
-    "created_at": "Sun Jan 08 21:17:34 +0000 2023",
-    "text": "Jorge Luis Borges a fondo.\n- 1976: https://youtu.be/lj4kajdoSfc\n- 1980: https://youtu.be/Lj8HhXfS8FU",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1612196838806884352",
-    "in_reply_to_status_id": "1395787936621371395",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 2,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fl-VM5HXkAARSAF.png",
-        "local_file": "1612196838806884352-Fl-VM5HXkAARSAF.png",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1611792902144786433",
-    "created_at": "Sat Jan 07 18:32:28 +0000 2023",
-    "text": "Yo pensando en sacar el cómic de la biblioteca y mi suegra tiene la colección completa.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1611792902144786433",
-    "favorite_count": 7,
-    "retweet_count": 1,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Fl49GWtWQAEwlkD.jpg",
-        "local_file": "1611792902144786433-Fl49GWtWQAEwlkD.jpg",
-        "exists": true
-      }
-    ],
-    "quoted_tweet": {
-      "url": "https://x.com/joantubau/status/1593599858098798592",
-      "username": "joantubau",
-      "status_id": "1593599858098798592"
-    }
-  },
-  {
-    "id": "1610991289256017921",
-    "created_at": "Thu Jan 05 13:27:08 +0000 2023",
-    "text": "Hay ciudades que sosiegan y otras que estimulan. [...] Sevilla, Lisboa o Tánger, por ejemplo, son de las primeras. [...] Otras sugieren cosas [...]. Puestos a seguir con los ejemplos, eso me ocurre en Londres, o en Nueva York, o en la ciudad de México. https://www.zendalibros.com/perez-reverte-mi-paris-y-otros-amores/",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1610991289256017921",
-    "in_reply_to_status_id": "1424814574298189826",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1610353831686115328",
-    "created_at": "Tue Jan 03 19:14:07 +0000 2023",
-    "text": "@pedrotgimenez Sí, los dos primeros en Nintendo Switch –la primera que salió–, la conecto a la TV y uso el mando de la PS4 con un adaptador wireless 8Bitdo.\n\nLos otros dos son de Apple Arcade jugando en MacBook + mando PS4.",
-    "type": "reply",
-    "url": "https://x.com/ArturoHerrero/status/1610353831686115328",
-    "in_reply_to_status_id": "1610338822440583170",
-    "in_reply_to_screen_name": "pedrotgimenez",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "mentions": [
-      "pedrotgimenez"
-    ]
-  },
-  {
-    "id": "1610336351353987073",
-    "created_at": "Tue Jan 03 18:04:39 +0000 2023",
-    "text": "2022:\n- New Super Mario Bros. U Deluxe.\n- The Legend of Zelda: Link's Awakening\n- A Monster's Expedition\n- Crossy Road Castle",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1610336351353987073",
-    "in_reply_to_status_id": "1476214424910188545",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 2,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FlkJ4cNWQA4dM5j.jpg",
-        "local_file": "1610336351353987073-FlkJ4cNWQA4dM5j.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FlkKLJzXgAAP0eU.jpg",
-        "local_file": "1610336351353987073-FlkKLJzXgAAP0eU.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FlkKbbBWAAEtqox.jpg",
-        "local_file": "1610336351353987073-FlkKbbBWAAEtqox.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FlkL97IWQAQgm5x.jpg",
-        "local_file": "1610336351353987073-FlkL97IWQAQgm5x.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1610336322245337089",
-    "created_at": "Tue Jan 03 18:04:32 +0000 2023",
-    "text": "2022:\n- Vive como quieras. Frank Capra. 1938\n- Laura. Otto Preminger. 1944\n- La extraña pareja. Gene Saks. 1968\n- Better Call Saul. Vince Gilligan, Peter Gould. 2015\n- El buen patrón. Fernando León de Aranoa. 2021\n- Fue la mano de Dios. Paolo Sorrentino. 2021",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1610336322245337089",
-    "in_reply_to_status_id": "1476535540518465538",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 2,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FlkMuwqXEAEeyJm.jpg",
-        "local_file": "1610336322245337089-FlkMuwqXEAEeyJm.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FlkNQOvWIAMYilD.jpg",
-        "local_file": "1610336322245337089-FlkNQOvWIAMYilD.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FlkNjrjXgAIZYr_.png",
-        "local_file": "1610336322245337089-FlkNjrjXgAIZYr_.png",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FlkPlGqXwAAfEH5.jpg",
-        "local_file": "1610336322245337089-FlkPlGqXwAAfEH5.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1610328554234863616",
-    "created_at": "Tue Jan 03 17:33:40 +0000 2023",
-    "text": "2022:\n- Un caballero en Moscú. Towles\n- El cuaderno gris. Pla\n- El maestro Juan Martínez que estaba allí. Chaves Nogales\n- Juan Belmonte, matador de toros. Chaves Nogales\n- Crimen y castigo. Dostoyevski\n- Prosas apátridas. Ribeyro\n- El Club de los desayunos filosóficos. J. Snyder",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1610328554234863616",
-    "in_reply_to_status_id": "1476903968282271745",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FlkIVK6XgAYf77h.jpg",
-        "local_file": "1610328554234863616-FlkIVK6XgAYf77h.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FlkJGGkWQAEMCeR.jpg",
-        "local_file": "1610328554234863616-FlkJGGkWQAEMCeR.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FlkJHrgXkAMrwcn.jpg",
-        "local_file": "1610328554234863616-FlkJHrgXkAMrwcn.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FlkJMXmX0AASVN6.jpg",
-        "local_file": "1610328554234863616-FlkJMXmX0AASVN6.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1609885433365946370",
-    "created_at": "Mon Jan 02 12:12:52 +0000 2023",
-    "text": "Capítulo 22 de 'Thinking, Fast and Slow' o el paper 'Conditions for Intuitive Expertise: A Failure to Disagree' de Daniel Kahneman y Gary Klein. https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise_A_Failure_to_Disagree",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1609885433365946370",
-    "in_reply_to_status_id": "1609885431130386432",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1609885431130386432",
-    "created_at": "Mon Jan 02 12:12:51 +0000 2023",
-    "text": "La intuición es más precisa en situaciones familiares y con experiencia/conocimiento relevante. En situaciones nuevas o poco estructuradas, es importante tener en cuenta otros factores y ser consciente de los límites y posibles sesgos.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1609885431130386432",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "quoted_tweet": {
-      "url": "https://x.com/ArturoHerrero/status/1310348224297947136",
-      "username": "ArturoHerrero",
-      "status_id": "1310348224297947136"
-    }
-  },
-  {
-    "id": "1609139043429752839",
-    "created_at": "Sat Dec 31 10:46:58 +0000 2022",
-    "text": "RT @ArturoHerrero: Muy interesante el repaso a la vida e ideas de Benedicto XVI a través de una conversación/entrevista con Peter Seewald.…",
-    "type": "retweet",
-    "url": "https://x.com/ArturoHerrero/status/1609139043429752839",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "mentions": [
-      "ArturoHerrero"
-    ]
-  },
-  {
-    "id": "1608519571773833216",
-    "created_at": "Thu Dec 29 17:45:25 +0000 2022",
-    "text": "- 1917 (2019, Sam Mendes)\n- Sin novedad en el frente (2022, Edward Berger)",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1608519571773833216",
-    "in_reply_to_status_id": "1591756958687805440",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FlKYjvjWQAIc7Hm.jpg",
-        "local_file": "1608519571773833216-FlKYjvjWQAIc7Hm.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/FlKYlfvXEAAfnFz.jpg",
-        "local_file": "1608519571773833216-FlKYlfvXEAAfnFz.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1608519474088673281",
-    "created_at": "Thu Dec 29 17:45:02 +0000 2022",
-    "text": "Mi top de películas bélicas, sin orden específico:\n- 1917 (2019, Mendes)\n- Senderos de gloria (1957, Kubrick)\n- La chaqueta metálica (1987, Kubrick)\n- Salvar al soldado Ryan (1998, Spielberg)\n- Malditos bastardos (2009, Tarantino)\n- Hermanos de sangre (2001, Ambrose) [miniserie]",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1608519474088673281",
-    "in_reply_to_status_id": "1608519471634993152",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
     "id": "98375735957405697",
     "created_at": "Tue Aug 02 12:52:57 +0000 2011",
     "text": "These days I'm reading Universal Principles of Design http://amzn.to/nagRwd http://yfrog.com/gydwbgpmj #readcycling",
@@ -10851,21 +11212,6 @@ window.TWEETS = [
     ]
   },
   {
-    "id": "43314994829463552",
-    "created_at": "Thu Mar 03 14:21:14 +0000 2011",
-    "text": "RT @lassekoskela: Unit test anti-patterns found at the #scanagile workshop: http://lassekoskela.com/unittestantipatterns.jpg",
-    "type": "retweet",
-    "url": "https://x.com/ArturoHerrero/status/43314994829463552",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "mentions": [
-      "lassekoskela"
-    ],
-    "hashtags": [
-      "scanagile"
-    ]
-  },
-  {
     "id": "42705983402811392",
     "created_at": "Tue Mar 01 22:01:14 +0000 2011",
     "text": "Top 10 programming fonts http://bit.ly/2tFqcf",
@@ -11005,15 +11351,6 @@ window.TWEETS = [
     "retweet_count": 0
   },
   {
-    "id": "23954724680",
-    "created_at": "Wed Sep 08 22:47:05 +0000 2010",
-    "text": "Web & Scripting Programming Language Job Trends http://is.gd/f1vOR Traditional Programming Language Job Trends http://is.gd/f1vNV",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/23954724680",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
     "id": "23000751726",
     "created_at": "Sat Sep 04 19:50:16 +0000 2010",
     "text": "Bad developer ≠ novice developer http://bit.ly/c7z6TC Code consciously",
@@ -11028,6 +11365,969 @@ window.TWEETS = [
     "text": "Discuss: http://www.frkncngz.com/post/379780452",
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/8901049535",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1640065986643591168",
+    "created_at": "Sun Mar 26 18:59:36 +0000 2023",
+    "text": "«Nuestra identidad está hecha de capas superpuestas, estratos de las tierras que hemos hollado, elementos de las culturas con que nos hemos cruzado y las creencias que han influido sobre nuestros ritos y lenguajes.»",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1640065986643591168",
+    "in_reply_to_status_id": "1640065984437338112",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FsKttROWYAQLtBa.jpg",
+        "local_file": "1640065986643591168-FsKttROWYAQLtBa.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1640065984437338112",
+    "created_at": "Sun Mar 26 18:59:36 +0000 2023",
+    "text": "«Perder a uno de tus progenitores te convierte en una persona huérfana y perder a tu cónyuge en una viuda. Pero ¿qué se es cuando un hijo desaparece? [...]\n\nEn hebreo, sin embargo, ese término existe.»",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1640065984437338112",
+    "in_reply_to_status_id": "1640065981698514952",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 2,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FsKswpfWcAQdOC3.jpg",
+        "local_file": "1640065984437338112-FsKswpfWcAQdOC3.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1640065981698514952",
+    "created_at": "Sun Mar 26 18:59:35 +0000 2023",
+    "text": "«El hebreo proclama que cada uno de nosotros tiene muchas vidas, no sucesivas sino trenzadas, como hilos que se cruzan a lo largo de la existencia y aguardan el desenlace para distinguirse.»",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1640065981698514952",
+    "in_reply_to_status_id": "1640065979098058753",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FsKsIUbWIAQvvsA.jpg",
+        "local_file": "1640065981698514952-FsKsIUbWIAQvvsA.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1640065979098058753",
+    "created_at": "Sun Mar 26 18:59:35 +0000 2023",
+    "text": "«En muchas familias judías, cuando alguien enferma se le atribuye otro nombre de pila. Se altera su identidad para inducir a error a la criatura sobrenatural que tuviera la mala idea de ir a buscarlo.»",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1640065979098058753",
+    "in_reply_to_status_id": "1640065977218899978",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FsKqxVzXoAY4rJW.jpg",
+        "local_file": "1640065979098058753-FsKqxVzXoAY4rJW.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1640065977218899978",
+    "created_at": "Sun Mar 26 18:59:34 +0000 2023",
+    "text": "'Vivir con nuestros muertos' es un libro singular. Delphine Horvilleur se apoya en la tradición judía para transformar la muerte en una lección de vida para los que se quedan.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1640065977218899978",
+    "favorite_count": 12,
+    "retweet_count": 2,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FsGq8I3XoAAva1P.jpg",
+        "local_file": "1640065977218899978-FsGq8I3XoAAva1P.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1639755221294362624",
+    "created_at": "Sat Mar 25 22:24:44 +0000 2023",
+    "text": "- Cantando bajo la lluvia (1952, Stanley Donen & Gene Kelly)\n- Babylon (2022, Damien Chazelle)",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1639755221294362624",
+    "in_reply_to_status_id": "1630585042425507842",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FsGTfmiWwAMkWnY.jpg",
+        "local_file": "1639755221294362624-FsGTfmiWwAMkWnY.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FsGTh1rXoAA17iD.jpg",
+        "local_file": "1639755221294362624-FsGTh1rXoAA17iD.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1637165024148877312",
+    "created_at": "Sat Mar 18 18:52:13 +0000 2023",
+    "text": "Mi idea de la felicidad: poder decir, al final de la vida, que nunca tuve una pena tan grande que no me la quitara una hora de lectura.\n—José Luis García Martín.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1637165024148877312",
+    "favorite_count": 2,
+    "retweet_count": 0
+  },
+  {
+    "id": "1632765847117746179",
+    "created_at": "Mon Mar 06 15:31:27 +0000 2023",
+    "text": "Ennio: El maestro (2021, Giuseppe Tornatore).\n\nDos horas y media de documental recorriendo la obra de Morricone. Un gran homenaje y una oda a la belleza de su música.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1632765847117746179",
+    "favorite_count": 3,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Fqi_4idXgAU0ouZ.jpg",
+        "local_file": "1632765847117746179-Fqi_4idXgAU0ouZ.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1631635633654341633",
+    "created_at": "Fri Mar 03 12:40:24 +0000 2023",
+    "text": "Para que un país se desarrolle, es condición sine qua non el uso de energía. The world's energy problem. https://ourworldindata.org/worlds-energy-problem",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1631635633654341633",
+    "in_reply_to_status_id": "1631635631435661312",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FqS7VjfX0AEhdnd.jpg",
+        "local_file": "1631635633654341633-FqS7VjfX0AEhdnd.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1631635631435661312",
+    "created_at": "Fri Mar 03 12:40:23 +0000 2023",
+    "text": "Excelente exposición de Carlos Madrid – Filosofía de la Ciencia del Cambio Climático. https://youtu.be/ErKmq6zZ030",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1631635631435661312",
+    "in_reply_to_status_id": "1631635628797444101",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1631635628797444101",
+    "created_at": "Fri Mar 03 12:40:22 +0000 2023",
+    "text": "Mucha pereza leer 'Falsa alarma' o 'No hay apocalipsis', aunque aportan el contrapunto y un poco de sentido común. Hojeando los libros me parece más solvente el de Bjorn Lomborg.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1631635628797444101",
+    "in_reply_to_status_id": "1631635625672572930",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FqS3RSOXoAITKpt.png",
+        "local_file": "1631635628797444101-FqS3RSOXoAITKpt.png",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FqS3V5TWAAASC8b.jpg",
+        "local_file": "1631635628797444101-FqS3V5TWAAASC8b.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1631635625672572930",
+    "created_at": "Fri Mar 03 12:40:22 +0000 2023",
+    "text": "Muy flojito Bill Gates porque no explica porqué vamos a tener un desastre climático pero tampoco aporta un plan sólido. Hay que eliminar todas la emisiones, ¡ya! Opciones: zero-carbon cement, zero-carbon steel, nuclear, plan-based meat, carbon capture, electrification, etc.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1631635625672572930",
+    "in_reply_to_status_id": "1631635623445446656",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FqSxlXsXgAAHis8.jpg",
+        "local_file": "1631635625672572930-FqSxlXsXgAAHis8.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1631635623445446656",
+    "created_at": "Fri Mar 03 12:40:21 +0000 2023",
+    "text": "Informarse sobre el cambio climático es prácticamente imposible: complejidad del tema, falta de consenso, información sesgada, agendas políticas, etc.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1631635623445446656",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1630878546091724801",
+    "created_at": "Wed Mar 01 10:32:00 +0000 2023",
+    "text": "La tríada de Platón:\n- Verdad: la base de todo conocimiento.\n- Belleza: la forma en que se manifestaba la verdad en el mundo físico.\n- Bondad: el resultado de vivir en armonía con la verdad y la belleza.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1630878546091724801",
+    "favorite_count": 2,
+    "retweet_count": 0
+  },
+  {
+    "id": "1630585042425507842",
+    "created_at": "Tue Feb 28 15:05:43 +0000 2023",
+    "text": "- El colapso (2019)\n- Apagón (2022)",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1630585042425507842",
+    "in_reply_to_status_id": "1617551297263157249",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FqEAU8SWAAYX-Si.jpg",
+        "local_file": "1630585042425507842-FqEAU8SWAAYX-Si.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FqEAW8PWYAEep8h.jpg",
+        "local_file": "1630585042425507842-FqEAW8PWYAEep8h.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1627289215997300739",
+    "created_at": "Sun Feb 19 12:49:17 +0000 2023",
+    "text": "\"Quien disponga, sin embargo, de suficiente calor interno propio hará bien en mantenerse alejado de la sociedad, para así no molestar ni ser molestado\".",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1627289215997300739",
+    "in_reply_to_status_id": "1545339378981109763",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FpVKqkGWAAAIB20.jpg",
+        "local_file": "1627289215997300739-FpVKqkGWAAAIB20.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1626250261466427392",
+    "created_at": "Thu Feb 16 16:00:51 +0000 2023",
+    "text": "He silbado a SoundHound aquella melodía que recordaba de una película del Studio Ghibli y, ¡sorpresa! He encontrado esta maravilla.\n\nJoe Hisaishi - Kaze no Toorimichi. https://youtu.be/zlrwJjnkpSw",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1626250261466427392",
+    "in_reply_to_status_id": "1614734613506625538",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1624408350149443587",
+    "created_at": "Sat Feb 11 14:01:45 +0000 2023",
+    "text": "@BrunnerBernd @Acantilado1999 @GalianiBerlin @RugeElisabeth Looking forward to it!\n\nThe edition and translation into Spanish is magnificent. @Acantilado1999 is my reference publishing house.",
+    "type": "reply",
+    "url": "https://x.com/ArturoHerrero/status/1624408350149443587",
+    "in_reply_to_status_id": "1624390452928471041",
+    "in_reply_to_screen_name": "BrunnerBernd",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "mentions": [
+      "BrunnerBernd",
+      "Acantilado1999",
+      "RugeElisabeth",
+      "Acantilado1999"
+    ]
+  },
+  {
+    "id": "1624111056262922254",
+    "created_at": "Fri Feb 10 18:20:24 +0000 2023",
+    "text": "'Synthetic A Priori' podcast. @rjs draws connections between design, tech, science, and formal systems. https://synthetic.transistor.fm",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1624111056262922254",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "mentions": [
+      "rjs"
+    ]
+  },
+  {
+    "id": "1622896687051165705",
+    "created_at": "Tue Feb 07 09:54:56 +0000 2023",
+    "text": "Impresionante 'Gengis Kan y la creación del mundo moderno', de Jack Weatherford.\n\nEn veinticinco años, Gengis Kan y sus ejércitos mongoles conquistaron más que los romanos en cuatro siglos, y fundaron el imperio más extenso que el ser humano ha visto nunca.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1622896687051165705",
+    "favorite_count": 11,
+    "retweet_count": 2,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FoWukf_WcAINTMu.jpg",
+        "local_file": "1622896687051165705-FoWukf_WcAINTMu.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1621858384851894272",
+    "created_at": "Sat Feb 04 13:09:06 +0000 2023",
+    "text": "Algunas portadas de @NewYorker son verdaderas obras maestras de arte. https://condenaststore.com/collections/new+yorker+covers",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1621858384851894272",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FoH_UwuWAAElkVB.jpg",
+        "local_file": "1621858384851894272-FoH_UwuWAAElkVB.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FoH_Xd_XkAI0xPY.jpg",
+        "local_file": "1621858384851894272-FoH_Xd_XkAI0xPY.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FoH_YPKWYAU-5Ol.jpg",
+        "local_file": "1621858384851894272-FoH_YPKWYAU-5Ol.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FoH_ZtrX0AAyy0m.jpg",
+        "local_file": "1621858384851894272-FoH_ZtrX0AAyy0m.jpg",
+        "exists": true
+      }
+    ],
+    "mentions": [
+      "NewYorker"
+    ]
+  },
+  {
+    "id": "1621559137875247106",
+    "created_at": "Fri Feb 03 17:20:00 +0000 2023",
+    "text": "There are no secrets to success: don’t waste time looking for them. Success is the result of perfection, hard work, learning from failure, loyalty to those for whom you work, and persistence.\n―Colin Powell.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1621559137875247106",
+    "in_reply_to_status_id": "1487843028857462790",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1621060602780073984",
+    "created_at": "Thu Feb 02 08:19:00 +0000 2023",
+    "text": "The learnings about building a modern search engine from Yandex's source code leak. https://searchengineland.com/yandex-leak-learnings-392393",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1621060602780073984",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1620827064004743189",
+    "created_at": "Wed Feb 01 16:51:00 +0000 2023",
+    "text": "Me gustan los libros pero—por suerte—no soy un bibliófilo.\n\nLa casa-biblioteca de Luis Alberto de Cuenca, más de 35.000 volúmenes. https://youtu.be/lnWMUHFcrCk",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1620827064004743189",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1620463401679069187",
+    "created_at": "Tue Jan 31 16:45:56 +0000 2023",
+    "text": "Ojeando 'Board and Table Games From Many Civilizations', me acabo de dar cuenta de lo buena herramienta que son los juegos de mesa para enseñar conceptos de informática: lógica, teor. de juegos, probabilidad, programación, algoritmia, estructuras de datos. https://archive.org/details/B-001-002-771",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1620463401679069187",
+    "in_reply_to_status_id": "1620110446140473345",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1620164842291363840",
+    "created_at": "Mon Jan 30 20:59:34 +0000 2023",
+    "text": "@inakorozas Yo hice el camino inverso, primero llegué a un libro, y tiempo después al documental. Se complementan muy bien.",
+    "type": "reply",
+    "url": "https://x.com/ArturoHerrero/status/1620164842291363840",
+    "in_reply_to_status_id": "1620152336776830977",
+    "in_reply_to_screen_name": "inakorozas",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "quoted_tweet": {
+      "url": "https://x.com/ArturoHerrero/status/1024240549346385921",
+      "username": "ArturoHerrero",
+      "status_id": "1024240549346385921"
+    },
+    "mentions": [
+      "inakorozas"
+    ]
+  },
+  {
+    "id": "1620110446140473345",
+    "created_at": "Mon Jan 30 17:23:25 +0000 2023",
+    "text": "'Board Games in 100 Moves' es un libro fascinante que funciona también como libro de diseño/arte.\n\nPasar las páginas es contemplar cómo los juegos de mesa comienzan como piezas de artesanía hasta convertirse en productos en serie.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1620110446140473345",
+    "favorite_count": 3,
+    "retweet_count": 1,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FnuJh8fXoAAmNVl.jpg",
+        "local_file": "1620110446140473345-FnuJh8fXoAAmNVl.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FnuJj56WIAIpH6V.jpg",
+        "local_file": "1620110446140473345-FnuJj56WIAIpH6V.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FnuJx9MWIAEYfiF.jpg",
+        "local_file": "1620110446140473345-FnuJx9MWIAEYfiF.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FnuJzwLXwAEG18_.jpg",
+        "local_file": "1620110446140473345-FnuJzwLXwAEG18_.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1618295234915610626",
+    "created_at": "Wed Jan 25 17:10:25 +0000 2023",
+    "text": "If I don't see her each day, I miss her\nGee what a thrill, each time I kiss her\nBelieve me, I've got a case\nOf Nancy, with the laughing face\n\nShe takes the winter and makes it summer\n[...]\n\nhttps://youtu.be/nEdmVouBAZY",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1618295234915610626",
+    "favorite_count": 0,
+    "retweet_count": 1
+  },
+  {
+    "id": "1617551297263157249",
+    "created_at": "Mon Jan 23 15:54:16 +0000 2023",
+    "text": "- Breaking Bad (2008, Vince Gilligan)\n- Better Call Saul (2015, Vince Gilligan & Peter Gould)",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1617551297263157249",
+    "in_reply_to_status_id": "1608519571773833216",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FnKyKCFX0AApITh.jpg",
+        "local_file": "1617551297263157249-FnKyKCFX0AApITh.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FnKyML6WYAAsOUP.jpg",
+        "local_file": "1617551297263157249-FnKyML6WYAAsOUP.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1617482588297302016",
+    "created_at": "Mon Jan 23 11:21:15 +0000 2023",
+    "text": "@cesteven Cuatro profesores de instituto se embarcan en un experimento sociológico en el que cada uno de ellos deberá mantener la tasa de alcohol en su cuerpo al mismo nivel, durante su vida diaria, intentando demostrar de esa manera que pueden mejorar en todos los aspectos de su vida.",
+    "type": "reply",
+    "url": "https://x.com/ArturoHerrero/status/1617482588297302016",
+    "in_reply_to_status_id": "1617462887878135808",
+    "in_reply_to_screen_name": "cesteven",
+    "favorite_count": 2,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FnJz1wqXkAABw8m.jpg",
+        "local_file": "1617482588297302016-FnJz1wqXkAABw8m.jpg",
+        "exists": true
+      }
+    ],
+    "mentions": [
+      "cesteven"
+    ]
+  },
+  {
+    "id": "1616421005945094144",
+    "created_at": "Fri Jan 20 13:02:54 +0000 2023",
+    "text": "Crear consiste precisamente en no hacer combinaciones inútiles. La creación es discernimiento, elección [...] Las combinaciones estériles ni siquiera se presentan ante el espíritu del creador.\n—Henri Poincaré",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1616421005945094144",
+    "in_reply_to_status_id": "1480987258064879626",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1615097939407380493",
+    "created_at": "Mon Jan 16 21:25:30 +0000 2023",
+    "text": "Aquí, jugando con ChatGPT:\n- ¿Es el determinismo compatible con la emergencia?\n- Explícame el principio de mediocridad.\n- Lista ideas contraintuitivas de filosofía de la ciencia.\n- ¿Hay límites físicos al conocimiento?\n- ¿Hay relacción entre materia y energía, y la consciencia?",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1615097939407380493",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1614734613506625538",
+    "created_at": "Sun Jan 15 21:21:46 +0000 2023",
+    "text": "Entrevistas y textos escritos por Miyazaki. Un libro desigual, destacaría algunos consejos de carrera y 'Sacrificios del cielo' (1998) donde resume la historia de la aviación militar hasta la Primera Guerra Mundial y el inmediato y posterior uso de la aviación como correo postal.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1614734613506625538",
+    "in_reply_to_status_id": "1601557474909523969",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 2,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FmivaYyXgAApzDM.jpg",
+        "local_file": "1614734613506625538-FmivaYyXgAApzDM.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FmivpG_XkAQ8f97.jpg",
+        "local_file": "1614734613506625538-FmivpG_XkAQ8f97.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1613650059320598529",
+    "created_at": "Thu Jan 12 21:32:08 +0000 2023",
+    "text": "@javisantana Sí, ¡menuda biblioteca y casoplón!",
+    "type": "reply",
+    "url": "https://x.com/ArturoHerrero/status/1613650059320598529",
+    "in_reply_to_status_id": "1613639041597177856",
+    "in_reply_to_screen_name": "javisantana",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "quoted_tweet": {
+      "url": "https://x.com/ArturoHerrero/status/1511660563528654851",
+      "username": "ArturoHerrero",
+      "status_id": "1511660563528654851"
+    },
+    "mentions": [
+      "javisantana"
+    ]
+  },
+  {
+    "id": "1613622598851756037",
+    "created_at": "Thu Jan 12 19:43:01 +0000 2023",
+    "text": "El libro más bello que se haya imprimido jamás, la 'Hypnerotomachia Poliphili'. https://archive.org/details/hypnerotomachiap00colo",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1613622598851756037",
+    "in_reply_to_status_id": "1613622595856863232",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FmS8lWAXgAIKK_G.png",
+        "local_file": "1613622598851756037-FmS8lWAXgAIKK_G.png",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1613622595856863232",
+    "created_at": "Thu Jan 12 19:43:01 +0000 2023",
+    "text": "Los libros se respetan usándolos, no dejándolos en paz.\n—Umberto Eco\n\n\"Si tengo que estudiar en el libro raro, me atrevo a hacer marcas a lápiz en el margen, bastante ligeras para que un día puedan borrarse con una goma, y eso me ayuda a sentir el libro como cosa mía\".",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1613622595856863232",
+    "in_reply_to_status_id": "1613111119576551426",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 2,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FmS6R4OXoAgZ2Q-.jpg",
+        "local_file": "1613622595856863232-FmS6R4OXoAgZ2Q-.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FmS6TROWIAE4Iqk.jpg",
+        "local_file": "1613622595856863232-FmS6TROWIAE4Iqk.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1613111119576551426",
+    "created_at": "Wed Jan 11 09:50:35 +0000 2023",
+    "text": "Hoy, al leer 'La memoria vegetal', finalmente sé cómo Umberto Eco respondería a la pregunta.\n\n\"El imbécil que [...] ve todas esas estanterías, y exclama: «¡Cuántos libros! ¿Los ha leído todos?» [...] . Ante este ultraje existen, según mi entendimiento, tres respuestas estándar.\"",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1613111119576551426",
+    "in_reply_to_status_id": "1613111117403807747",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 4,
+    "retweet_count": 1,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FmLpfrdWYAEVT8j.jpg",
+        "local_file": "1613111119576551426-FmLpfrdWYAEVT8j.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1613111117403807747",
+    "created_at": "Wed Jan 11 09:50:35 +0000 2023",
+    "text": "Nassim Nicholas Taleb presentaba en 'The Black Swan' el concepto de «antilibrary» con la anécdota de Umberto Eco.\n\n\"Wow! Signore professore dottore Eco, what a library you have! How many of these books have you read?\"",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1613111117403807747",
+    "in_reply_to_status_id": "1612936475720515585",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 2,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FmLo4H-WIAUP7Kq.jpg",
+        "local_file": "1613111117403807747-FmLo4H-WIAUP7Kq.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1612936475720515585",
+    "created_at": "Tue Jan 10 22:16:37 +0000 2023",
+    "text": "La biblioteca de Umberto Eco. https://youtu.be/UoEuvgT1wBs",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1612936475720515585",
+    "favorite_count": 3,
+    "retweet_count": 0
+  },
+  {
+    "id": "1612390909148123140",
+    "created_at": "Mon Jan 09 10:08:44 +0000 2023",
+    "text": "@IkerTejero Yo fui picoteando de 'Cuentos completos'. El estilo de Borges es muy particular: metáforas, símbolos, fusión (narrativa, filosofía, ciencia ficción), etc.\n\nTe recomiendo empezar por el podcast, y leer online el primer y segundo cuento antes de tirarte a la piscina.",
+    "type": "reply",
+    "url": "https://x.com/ArturoHerrero/status/1612390909148123140",
+    "in_reply_to_status_id": "1612380330480091137",
+    "in_reply_to_screen_name": "IkerTejero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "mentions": [
+      "IkerTejero"
+    ]
+  },
+  {
+    "id": "1612266838645153793",
+    "created_at": "Mon Jan 09 01:55:43 +0000 2023",
+    "text": "@IkerTejero Revisa el hilo desde el principio *<|;-)",
+    "type": "reply",
+    "url": "https://x.com/ArturoHerrero/status/1612266838645153793",
+    "in_reply_to_status_id": "1612207363431317505",
+    "in_reply_to_screen_name": "IkerTejero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "quoted_tweet": {
+      "url": "https://x.com/ArturoHerrero/status/1380937265178902528",
+      "username": "ArturoHerrero",
+      "status_id": "1380937265178902528"
+    },
+    "mentions": [
+      "IkerTejero"
+    ]
+  },
+  {
+    "id": "1612196838806884352",
+    "created_at": "Sun Jan 08 21:17:34 +0000 2023",
+    "text": "Jorge Luis Borges a fondo.\n- 1976: https://youtu.be/lj4kajdoSfc\n- 1980: https://youtu.be/Lj8HhXfS8FU",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1612196838806884352",
+    "in_reply_to_status_id": "1395787936621371395",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 2,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Fl-VM5HXkAARSAF.png",
+        "local_file": "1612196838806884352-Fl-VM5HXkAARSAF.png",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1611792902144786433",
+    "created_at": "Sat Jan 07 18:32:28 +0000 2023",
+    "text": "Yo pensando en sacar el cómic de la biblioteca y mi suegra tiene la colección completa.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1611792902144786433",
+    "favorite_count": 7,
+    "retweet_count": 1,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Fl49GWtWQAEwlkD.jpg",
+        "local_file": "1611792902144786433-Fl49GWtWQAEwlkD.jpg",
+        "exists": true
+      }
+    ],
+    "quoted_tweet": {
+      "url": "https://x.com/joantubau/status/1593599858098798592",
+      "username": "joantubau",
+      "status_id": "1593599858098798592"
+    }
+  },
+  {
+    "id": "1610991289256017921",
+    "created_at": "Thu Jan 05 13:27:08 +0000 2023",
+    "text": "Hay ciudades que sosiegan y otras que estimulan. [...] Sevilla, Lisboa o Tánger, por ejemplo, son de las primeras. [...] Otras sugieren cosas [...]. Puestos a seguir con los ejemplos, eso me ocurre en Londres, o en Nueva York, o en la ciudad de México. https://www.zendalibros.com/perez-reverte-mi-paris-y-otros-amores/",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1610991289256017921",
+    "in_reply_to_status_id": "1424814574298189826",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1610353831686115328",
+    "created_at": "Tue Jan 03 19:14:07 +0000 2023",
+    "text": "@pedrotgimenez Sí, los dos primeros en Nintendo Switch –la primera que salió–, la conecto a la TV y uso el mando de la PS4 con un adaptador wireless 8Bitdo.\n\nLos otros dos son de Apple Arcade jugando en MacBook + mando PS4.",
+    "type": "reply",
+    "url": "https://x.com/ArturoHerrero/status/1610353831686115328",
+    "in_reply_to_status_id": "1610338822440583170",
+    "in_reply_to_screen_name": "pedrotgimenez",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "mentions": [
+      "pedrotgimenez"
+    ]
+  },
+  {
+    "id": "1610336351353987073",
+    "created_at": "Tue Jan 03 18:04:39 +0000 2023",
+    "text": "2022:\n- New Super Mario Bros. U Deluxe.\n- The Legend of Zelda: Link's Awakening\n- A Monster's Expedition\n- Crossy Road Castle",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1610336351353987073",
+    "in_reply_to_status_id": "1476214424910188545",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 2,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FlkJ4cNWQA4dM5j.jpg",
+        "local_file": "1610336351353987073-FlkJ4cNWQA4dM5j.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FlkKLJzXgAAP0eU.jpg",
+        "local_file": "1610336351353987073-FlkKLJzXgAAP0eU.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FlkKbbBWAAEtqox.jpg",
+        "local_file": "1610336351353987073-FlkKbbBWAAEtqox.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FlkL97IWQAQgm5x.jpg",
+        "local_file": "1610336351353987073-FlkL97IWQAQgm5x.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1610336322245337089",
+    "created_at": "Tue Jan 03 18:04:32 +0000 2023",
+    "text": "2022:\n- Vive como quieras. Frank Capra. 1938\n- Laura. Otto Preminger. 1944\n- La extraña pareja. Gene Saks. 1968\n- Better Call Saul. Vince Gilligan, Peter Gould. 2015\n- El buen patrón. Fernando León de Aranoa. 2021\n- Fue la mano de Dios. Paolo Sorrentino. 2021",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1610336322245337089",
+    "in_reply_to_status_id": "1476535540518465538",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 2,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FlkMuwqXEAEeyJm.jpg",
+        "local_file": "1610336322245337089-FlkMuwqXEAEeyJm.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FlkNQOvWIAMYilD.jpg",
+        "local_file": "1610336322245337089-FlkNQOvWIAMYilD.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FlkNjrjXgAIZYr_.png",
+        "local_file": "1610336322245337089-FlkNjrjXgAIZYr_.png",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FlkPlGqXwAAfEH5.jpg",
+        "local_file": "1610336322245337089-FlkPlGqXwAAfEH5.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1610328554234863616",
+    "created_at": "Tue Jan 03 17:33:40 +0000 2023",
+    "text": "2022:\n- Un caballero en Moscú. Towles\n- El cuaderno gris. Pla\n- El maestro Juan Martínez que estaba allí. Chaves Nogales\n- Juan Belmonte, matador de toros. Chaves Nogales\n- Crimen y castigo. Dostoyevski\n- Prosas apátridas. Ribeyro\n- El Club de los desayunos filosóficos. J. Snyder",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1610328554234863616",
+    "in_reply_to_status_id": "1476903968282271745",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FlkIVK6XgAYf77h.jpg",
+        "local_file": "1610328554234863616-FlkIVK6XgAYf77h.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FlkJGGkWQAEMCeR.jpg",
+        "local_file": "1610328554234863616-FlkJGGkWQAEMCeR.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FlkJHrgXkAMrwcn.jpg",
+        "local_file": "1610328554234863616-FlkJHrgXkAMrwcn.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FlkJMXmX0AASVN6.jpg",
+        "local_file": "1610328554234863616-FlkJMXmX0AASVN6.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1609885433365946370",
+    "created_at": "Mon Jan 02 12:12:52 +0000 2023",
+    "text": "Capítulo 22 de 'Thinking, Fast and Slow' o el paper 'Conditions for Intuitive Expertise: A Failure to Disagree' de Daniel Kahneman y Gary Klein. https://www.researchgate.net/publication/26798603_Conditions_for_Intuitive_Expertise_A_Failure_to_Disagree",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1609885433365946370",
+    "in_reply_to_status_id": "1609885431130386432",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1609885431130386432",
+    "created_at": "Mon Jan 02 12:12:51 +0000 2023",
+    "text": "La intuición es más precisa en situaciones familiares y con experiencia/conocimiento relevante. En situaciones nuevas o poco estructuradas, es importante tener en cuenta otros factores y ser consciente de los límites y posibles sesgos.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1609885431130386432",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "quoted_tweet": {
+      "url": "https://x.com/ArturoHerrero/status/1310348224297947136",
+      "username": "ArturoHerrero",
+      "status_id": "1310348224297947136"
+    }
+  },
+  {
+    "id": "1609139043429752839",
+    "created_at": "Sat Dec 31 10:46:58 +0000 2022",
+    "text": "RT @ArturoHerrero: Muy interesante el repaso a la vida e ideas de Benedicto XVI a través de una conversación/entrevista con Peter Seewald.…",
+    "type": "retweet",
+    "url": "https://x.com/ArturoHerrero/status/1609139043429752839",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "mentions": [
+      "ArturoHerrero"
+    ]
+  },
+  {
+    "id": "1608519571773833216",
+    "created_at": "Thu Dec 29 17:45:25 +0000 2022",
+    "text": "- 1917 (2019, Sam Mendes)\n- Sin novedad en el frente (2022, Edward Berger)",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1608519571773833216",
+    "in_reply_to_status_id": "1591756958687805440",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FlKYjvjWQAIc7Hm.jpg",
+        "local_file": "1608519571773833216-FlKYjvjWQAIc7Hm.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FlKYlfvXEAAfnFz.jpg",
+        "local_file": "1608519571773833216-FlKYlfvXEAAfnFz.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1608519474088673281",
+    "created_at": "Thu Dec 29 17:45:02 +0000 2022",
+    "text": "Mi top de películas bélicas, sin orden específico:\n- 1917 (2019, Mendes)\n- Senderos de gloria (1957, Kubrick)\n- La chaqueta metálica (1987, Kubrick)\n- Salvar al soldado Ryan (1998, Spielberg)\n- Malditos bastardos (2009, Tarantino)\n- Hermanos de sangre (2001, Ambrose) [miniserie]",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1608519474088673281",
+    "in_reply_to_status_id": "1608519471634993152",
+    "in_reply_to_screen_name": "ArturoHerrero",
     "favorite_count": 0,
     "retweet_count": 0
   },
@@ -11495,7 +12795,7 @@ window.TWEETS = [
     "text": "Record everything you see, analyze it and make it searchable in real-time. https://www.rewind.ai/\n\n'Black Mirror: The Entire History of You' episode is around the corner.",
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/1587936212483981320",
-    "favorite_count": 3,
+    "favorite_count": 2,
     "retweet_count": 0
   },
   {
@@ -11826,6 +13126,356 @@ window.TWEETS = [
     "retweet_count": 0
   },
   {
+    "id": "1988264052619960790",
+    "created_at": "Tue Nov 11 15:14:24 +0000 2025",
+    "text": "What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds. https://whatisintelligence.antikythera.org/",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1988264052619960790",
+    "in_reply_to_status_id": "1987848461518074251",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1987848461518074251",
+    "created_at": "Mon Nov 10 11:43:00 +0000 2025",
+    "text": "Charla FASCINANTE. ¿Son la vida y la inteligencia fundamentalmente computacionales?\n\nLa complejidad emerge del azar: de von Neumann (autorreplicación, 1948) al ADN, evolución por fusión, y saltos emergentes. https://www.youtube.com/watch?v=rMSEqJ_4EBk",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1987848461518074251",
+    "favorite_count": 2,
+    "retweet_count": 0
+  },
+  {
+    "id": "1986764065973182865",
+    "created_at": "Fri Nov 07 11:54:00 +0000 2025",
+    "text": "Building Stories. New Yorker cover. Chris Ware.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1986764065973182865",
+    "in_reply_to_status_id": "1984589149152702506",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5EQ_B2WEAALUC1.jpg",
+        "local_file": "1986764065973182865-G5EQ_B2WEAALUC1.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5EQ_B7W8AAC-NC.jpg",
+        "local_file": "1986764065973182865-G5EQ_B7W8AAC-NC.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5EQ_B6XcAAvb-5.jpg",
+        "local_file": "1986764065973182865-G5EQ_B6XcAAvb-5.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5EQ_B5XMAAPaSg.jpg",
+        "local_file": "1986764065973182865-G5EQ_B5XMAAPaSg.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1986384014278611083",
+    "created_at": "Thu Nov 06 10:43:48 +0000 2025",
+    "text": "“People still just ask me about the summit. Wanna know what’s up there? Nothing. There’s nothing up there. People think they’ll find themselves on top of a mountain. The truth is you don’t find yourself at the summit. You find yourself when you’re about to be overtaken by fate.”",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1986384014278611083",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1986177318142824481",
+    "created_at": "Wed Nov 05 21:02:28 +0000 2025",
+    "text": "Historias sobre nuestra relación como seres humanos con las construcciones verticales. ¡Pura fantasía! https://www.onverticality.com/",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1986177318142824481",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1985073152024625369",
+    "created_at": "Sun Nov 02 19:54:54 +0000 2025",
+    "text": "Impresionante “Cómic, arquitectura narrativa”.\n\nSigo buscando la intersección entre el cómic y la arquitectura, y me encuentro con el cómic como arquitectura del pensamiento. Dos dimensiones, que en su sofisticación consiguen representar cuatro, contando el espacio y el tiempo.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1985073152024625369",
+    "in_reply_to_status_id": "1824466395121287492",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 3,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4xW-jOXIAAV4ri.jpg",
+        "local_file": "1985073152024625369-G4xW-jOXIAAV4ri.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1984589149152702506",
+    "created_at": "Sat Nov 01 11:51:39 +0000 2025",
+    "text": "Virgen del prado. Rafael.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1984589149152702506",
+    "in_reply_to_status_id": "1984589144601801101",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4qslwEW4AALJJm.png",
+        "local_file": "1984589149152702506-G4qslwEW4AALJJm.png",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4qsncGXsAA3lvE.jpg",
+        "local_file": "1984589149152702506-G4qsncGXsAA3lvE.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4qspMCWYAAu8aw.jpg",
+        "local_file": "1984589149152702506-G4qspMCWYAAu8aw.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4qsroCXIAAm_Mv.jpg",
+        "local_file": "1984589149152702506-G4qsroCXIAAm_Mv.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1984589144601801101",
+    "created_at": "Sat Nov 01 11:51:38 +0000 2025",
+    "text": "La Virgen de las rocas. Leonardo da Vinci.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1984589144601801101",
+    "in_reply_to_status_id": "1984589141640663524",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4qrzSoXsAAxVEG.jpg",
+        "local_file": "1984589144601801101-G4qrzSoXsAAxVEG.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4qr15NXAAEwSXQ.jpg",
+        "local_file": "1984589144601801101-G4qr15NXAAEwSXQ.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4qr30tW8AA0szr.jpg",
+        "local_file": "1984589144601801101-G4qr30tW8AA0szr.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4qr73WXYAAeFCc.jpg",
+        "local_file": "1984589144601801101-G4qr73WXYAAeFCc.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1984589141640663524",
+    "created_at": "Sat Nov 01 11:51:37 +0000 2025",
+    "text": "Hay algo mágico en el boceto, en lo inacabado, en lo imperfecto. A menudo prefiero ese trabajo preliminar a la versión final de la  obra.\n\n«Las obras no se terminan, se abandonan».\n—Leonardo da Vinci.\n\nDibujar es pensar.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1984589141640663524",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1983127879824109942",
+    "created_at": "Tue Oct 28 11:05:05 +0000 2025",
+    "text": "El comienzo del infinito, Deutsch. ¡Lo quiero!, Burgis—deseo mimético. Mr Smith y el paraíso, von Wallwitz—Ulises y la comadreja. Notificación roja ht @TorrasLuis. Cómo dibujar y ejercicios.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1983127879824109942",
+    "in_reply_to_status_id": "1971835930097885676",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 6,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4V8SjrXkAAcAiR.jpg",
+        "local_file": "1983127879824109942-G4V8SjrXkAAcAiR.jpg",
+        "exists": true
+      }
+    ],
+    "mentions": [
+      "TorrasLuis"
+    ]
+  },
+  {
+    "id": "1982414656355311713",
+    "created_at": "Sun Oct 26 11:51:00 +0000 2025",
+    "text": "Durante la Guerra Civil se evacuaron «en contra de todos los criterios técnicos» algunas obras fuera del Museo del Prado.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1982414656355311713",
+    "in_reply_to_status_id": "1892507475779207222",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkTqoOsW8AA7pl4.png",
+        "local_file": "1982414656355311713-GkTqoOsW8AA7pl4.png",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkTrqHTW8AEaP49.png",
+        "local_file": "1982414656355311713-GkTrqHTW8AEaP49.png",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1971835930097885676",
+    "created_at": "Sat Sep 27 07:14:55 +0000 2025",
+    "text": "Dibujo, cómics, vampiros, filosofía de la música y Leonardo.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1971835930097885676",
+    "in_reply_to_status_id": "1922926837899874334",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 2,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G11eUisX0AAgTNj.jpg",
+        "local_file": "1971835930097885676-G11eUisX0AAgTNj.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1967194431498678352",
+    "created_at": "Sun Sep 14 11:51:15 +0000 2025",
+    "text": "RT @IvanLandabaso: 1-page framework to spot high agency talent.\n\nBased on the best resources I've found:\n\n• \"High Agency\" by George Mack…",
+    "type": "retweet",
+    "url": "https://x.com/ArturoHerrero/status/1967194431498678352",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "mentions": [
+      "IvanLandabaso"
+    ]
+  },
+  {
+    "id": "1967193769260069034",
+    "created_at": "Sun Sep 14 11:48:37 +0000 2025",
+    "text": "If (self-)awareness is the most important skill, high agency is the second. https://www.highagency.com/",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1967193769260069034",
+    "in_reply_to_status_id": "1343147991578902529",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1963338243833041170",
+    "created_at": "Wed Sep 03 20:28:09 +0000 2025",
+    "text": "“La cultura es el cultivo (trabajo) y el culto (celebración coral) del espíritu […] la única respuesta que los seres humanos hemos encontrado a la pérdida del paraíso: el trabajo inteligente y paciente para recuperar el espíritu”.\n—Mauricio Wiesenthal.\n\nhttps://www.aceprensa.com/cultura/mauricio-wiesenthal-la-mejor-cultura-europea-se-fundamento-en-el-espiritu/",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1963338243833041170",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "quoted_tweet": {
+      "url": "https://x.com/vertigoconverso/status/1901410304317125114",
+      "username": "vertigoconverso",
+      "status_id": "1901410304317125114"
+    }
+  },
+  {
+    "id": "1962491471702945952",
+    "created_at": "Mon Sep 01 12:23:22 +0000 2025",
+    "text": "William F. Buckley entrevista a Jorge Luis Borges.\n\n“I find English a far finer language than Spanish”. https://www.youtube.com/watch?v=nAxtH1geob8",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1962491471702945952",
+    "in_reply_to_status_id": "1650209668294221827",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1954838198548566331",
+    "created_at": "Mon Aug 11 09:32:00 +0000 2025",
+    "text": "The value of your product.\n\nPositive: Features. Architecture.\nNegative: Defects. Technical Debt.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1954838198548566331",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxqKtTgXIAAZKHU.jpg",
+        "local_file": "1954838198548566331-GxqKtTgXIAAZKHU.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1954647463790284820",
+    "created_at": "Sun Aug 10 20:54:05 +0000 2025",
+    "text": "Tienes que ponerles en la posición en la que tú estás, para que vean lo que tú ves. Conocemos por intuición, y lo que vemos es 'real', así que sólo si ves lo que yo veo, lograrás comprender lo que yo entiendo.\n\nPara eso hay que persuadir.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1954647463790284820",
+    "in_reply_to_status_id": "1954647462234247552",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 3,
+    "retweet_count": 0
+  },
+  {
+    "id": "1954647462234247552",
+    "created_at": "Sun Aug 10 20:54:05 +0000 2025",
+    "text": "A las personas no se las puede convencer con argumentos “facts don't change our minds”, sino que solamente se las puede persuadir.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1954647462234247552",
+    "favorite_count": 2,
+    "retweet_count": 0,
+    "quoted_tweet": {
+      "url": "https://x.com/ArturoHerrero/status/946344814651600897",
+      "username": "ArturoHerrero",
+      "status_id": "946344814651600897"
+    }
+  },
+  {
+    "id": "1954547533390520798",
+    "created_at": "Sun Aug 10 14:17:00 +0000 2025",
+    "text": "Olympia, Pierers Universal-Lexikon. Heinrich A. Pierer. 1891.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1954547533390520798",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxmC248WsAEjvy7.jpg",
+        "local_file": "1954547533390520798-GxmC248WsAEjvy7.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
     "id": "1575533892315947009",
     "created_at": "Thu Sep 29 17:12:06 +0000 2022",
     "text": "Mad Men S04E07.\n\n—It's your job! I give you money, you give me ideas.\n—And you never say thank you.\n—That's what the money is for!",
@@ -12130,43 +13780,20 @@ window.TWEETS = [
     ]
   },
   {
-    "id": "1554216155119816705",
-    "created_at": "Mon Aug 01 21:23:01 +0000 2022",
-    "text": "@hfarrevallejo @LibrosAsteroide Compartiendo lectura, ¡que lo disfrutes!",
-    "type": "reply",
-    "url": "https://x.com/ArturoHerrero/status/1554216155119816705",
-    "in_reply_to_status_id": "1554190434104213513",
-    "in_reply_to_screen_name": "hfarrevallejo",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "quoted_tweet": {
-      "url": "https://x.com/arturoherrero/status/1551673107831787520",
-      "username": "arturoherrero",
-      "status_id": "1551673107831787520"
-    },
-    "mentions": [
-      "hfarrevallejo",
-      "LibrosAsteroide"
-    ]
-  },
-  {
     "id": "1553861183207313408",
     "created_at": "Sun Jul 31 21:52:30 +0000 2022",
     "text": "@edus432 Tremenda la entrevista a Bruce Lee.",
     "type": "reply",
     "url": "https://x.com/ArturoHerrero/status/1553861183207313408",
     "in_reply_to_status_id": "1553851176013250560",
-    "in_reply_to_screen_name": "edus432",
+    "in_reply_to_screen_name": "edusaez",
     "favorite_count": 1,
     "retweet_count": 0,
     "quoted_tweet": {
       "url": "https://x.com/ArturoHerrero/status/1480162068695339012",
       "username": "ArturoHerrero",
       "status_id": "1480162068695339012"
-    },
-    "mentions": [
-      "edus432"
-    ]
+    }
   },
   {
     "id": "1553840651573366785",
@@ -12287,7 +13914,7 @@ window.TWEETS = [
     "text": "Chaves Nogales logra lo imposible: que me interese la vida de un torero del que nunca he oído hablar.\n\n'Juan Belmonte, matador de toros' es un libro maravilloso. Es increíble la capacidad para narrar la crudeza de la vida mientras lloras de la risa con las pericias del torero.",
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/1551673107831787520",
-    "favorite_count": 21,
+    "favorite_count": 20,
     "retweet_count": 1,
     "media": [
       {
@@ -12350,7 +13977,7 @@ window.TWEETS = [
     "text": "Espectacular la charla de Mauricio Wiesenthal. Maravillosa su sabiduría, pasión, humanismo y entusiasmo por la vida. \n\nEl derecho a disentir, el derecho a reflexionar. https://www.youtube.com/watch?v=GmCqG9hUAqo",
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/1548952159256969219",
-    "favorite_count": 26,
+    "favorite_count": 25,
     "retweet_count": 3
   },
   {
@@ -12695,358 +14322,6 @@ window.TWEETS = [
     "retweet_count": 0,
     "mentions": [
       "heicarlitos"
-    ]
-  },
-  {
-    "id": "1921920986464600318",
-    "created_at": "Mon May 12 13:30:45 +0000 2025",
-    "text": "Pierre the Maze Detective.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1921920986464600318",
-    "in_reply_to_status_id": "1921920979837624488",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 2,
-    "retweet_count": 1,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Gqv93L0XQAEAiXG.jpg",
-        "local_file": "1921920986464600318-Gqv93L0XQAEAiXG.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Gqv-BXxWkAAMJ48.jpg",
-        "local_file": "1921920986464600318-Gqv-BXxWkAAMJ48.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Gqv-JPoWsAAmFSv.jpg",
-        "local_file": "1921920986464600318-Gqv-JPoWsAAmFSv.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Gqv-LGwWEAARLtF.jpg",
-        "local_file": "1921920986464600318-Gqv-LGwWEAARLtF.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1921920979837624488",
-    "created_at": "Mon May 12 13:30:43 +0000 2025",
-    "text": "Stephen Biesty's Incredible Cross-Sections.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1921920979837624488",
-    "in_reply_to_status_id": "1921920977132298491",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Gqv1H1WX0AEhxXG.jpg",
-        "local_file": "1921920979837624488-Gqv1H1WX0AEhxXG.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Gqv1JfLXcAAP9GS.jpg",
-        "local_file": "1921920979837624488-Gqv1JfLXcAAP9GS.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Gqv8H9aWYAEANKV.jpg",
-        "local_file": "1921920979837624488-Gqv8H9aWYAEANKV.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1921920977132298491",
-    "created_at": "Mon May 12 13:30:43 +0000 2025",
-    "text": "Hay libros infantiles/juveniles que albergan auténticas joyas.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1921920977132298491",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "1920749199265554484",
-    "created_at": "Fri May 09 07:54:29 +0000 2025",
-    "text": "En la escritura, la historia da un giro tan brusco que nadie podría haber previsto el resultado al principio. ¿Quién iba a prever que una herramienta creada para contar cabras nos daría la literatura, la historia y la memoria?",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1920749199265554484",
-    "in_reply_to_status_id": "1920749195301904883",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "1920749195301904883",
-    "created_at": "Fri May 09 07:54:28 +0000 2025",
-    "text": "Descifrar la piedra de Rosetta fue fundamental para entender los jeroglíficos egipcios. Una historia fascinante y magníficamente contada en “La escritura de los dioses” de Edward Dolnick.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1920749195301904883",
-    "favorite_count": 2,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Gqc0FX3WcAAyezl.jpg",
-        "local_file": "1920749195301904883-Gqc0FX3WcAAyezl.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1916590482450420054",
-    "created_at": "Sun Apr 27 20:29:14 +0000 2025",
-    "text": "Escuchar la mejor música de la historia de la humanidad. ¿Empezamos por el jazz?",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1916590482450420054",
-    "in_reply_to_status_id": "1915071081724969176",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GpkYzHyXYAAxyEf.jpg",
-        "local_file": "1916590482450420054-GpkYzHyXYAAxyEf.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GpkYzHuXoAAYaPg.jpg",
-        "local_file": "1916590482450420054-GpkYzHuXoAAYaPg.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GpkYzJtWAAA8YL1.jpg",
-        "local_file": "1916590482450420054-GpkYzJtWAAA8YL1.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GpkYzKDXUAEH7tY.jpg",
-        "local_file": "1916590482450420054-GpkYzKDXUAEH7tY.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1915071081724969176",
-    "created_at": "Wed Apr 23 15:51:40 +0000 2025",
-    "text": "Otra idea interesante: Split-flap and pixel displays.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1915071081724969176",
-    "in_reply_to_status_id": "1914779359463825594",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "video",
-        "url": "https://pbs.twimg.com/amplify_video_thumb/1915070882696896512/img/aJysdNcWOF7qCeU1.jpg",
-        "local_file": "1915071081724969176--ZSI2s-RULTkl4jG.mp4",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1914779359463825594",
-    "created_at": "Tue Apr 22 20:32:28 +0000 2025",
-    "text": "Una idea bastante ambiciosa aunque factible en unos años, tal y como avanza la tecnología.\n\nUn juego 2D donde el jugador recorre distintas épocas históricas, introduciendo nuevos conceptos, herramientas, y mecánicas en cada período.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1914779359463825594",
-    "in_reply_to_status_id": "1914354636573614458",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GpKjl_JWYAAKuQq.jpg",
-        "local_file": "1914779359463825594-GpKjl_JWYAAKuQq.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1914628939487588794",
-    "created_at": "Tue Apr 22 10:34:45 +0000 2025",
-    "text": "Efecto Forer: descripciones vagas que parecen exactas y personalmente relevantes.\n\n1. You’re Smart Enough to Win—But That’s Exactly the Problem\n2. You’re Playing the Game Without Declaring You’re Here to Win\n3. You’re Avoiding One Big Thing That Feels Like a Risk to Your Identity",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1914628939487588794",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "quoted_tweet": {
-      "url": "https://x.com/moobuilds/status/1913270325283860903",
-      "username": "moobuilds",
-      "status_id": "1913270325283860903"
-    }
-  },
-  {
-    "id": "1914354636573614458",
-    "created_at": "Mon Apr 21 16:24:47 +0000 2025",
-    "text": "Crear un servicio de bookmarks con tags (à la http://del.icio.us) donde pueda ir coleccionando URLs. Quizás puedo utilizar Google Sheets como backend, no quiero implementar autenticación. Browser extension? You name it.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1914354636573614458",
-    "in_reply_to_status_id": "1913332876718051599",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1913599523336729069",
-    "created_at": "Sat Apr 19 14:24:13 +0000 2025",
-    "text": "8. Actitud de curiosidad en tu relaciones, no sólo buscar resultados.\n9. Ejercita tu capacidad para de no hacer nada.\n10. Regla 25-5 de Buffett: Identifica 25 metas, elige 5 prioritarias y renuncia a las otras 20.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1913599523336729069",
-    "in_reply_to_status_id": "1913599521684140045",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 2,
-    "retweet_count": 0
-  },
-  {
-    "id": "1913599521684140045",
-    "created_at": "Sat Apr 19 14:24:13 +0000 2025",
-    "text": "3. Decide de antemano en qué fallar. Fracasa de forma cíclica trasladando tu energía a unas áreas u otras de tu vida.\n4. Céntrate en lo que ya has hecho, no solo en lo que te queda por hacer.\n5. Ponle foco a tu atención.\n6. Boring solutions.\n7. Presta atención al presente.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1913599521684140045",
-    "in_reply_to_status_id": "1913599519968649309",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "1913599519968649309",
-    "created_at": "Sat Apr 19 14:24:13 +0000 2025",
-    "text": "Herramientas para aceptar la finitud.\n\n1. Dos listas: abierta—añadir tareas continuamente sin límite, cerrada—número fijo de tareas con horizonte temporal. Establece límites horarios predeterminados.\n2. Aborda proyectos grandes de uno en uno.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1913599519968649309",
-    "in_reply_to_status_id": "1913599517586297161",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "1913599517586297161",
-    "created_at": "Sat Apr 19 14:24:12 +0000 2025",
-    "text": "La realidad se nos resiste, como un dios enfadado que se empeña en recordarnos que sigue teniendo las de ganar.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1913599517586297161",
-    "in_reply_to_status_id": "1913599514289582181",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Go5zA9_WUAAHSj8.png",
-        "local_file": "1913599517586297161-Go5zA9_WUAAHSj8.png",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1913599514289582181",
-    "created_at": "Sat Apr 19 14:24:11 +0000 2025",
-    "text": "Me arrastra el río del tiempo, y de ninguna manera puedo huir de la corriente, que me lleva hacia delante, hacia mi inevitable muerte.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1913599514289582181",
-    "in_reply_to_status_id": "1913599511118618985",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 2,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Go5wJHpXYAAPfzA.png",
-        "local_file": "1913599514289582181-Go5wJHpXYAAPfzA.png",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1913599511118618985",
-    "created_at": "Sat Apr 19 14:24:11 +0000 2025",
-    "text": "La prisa es universal, porque todo el mundo está huyendo de sí mismo.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1913599511118618985",
-    "in_reply_to_status_id": "1913599507683484036",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Go5vaUgXkAAqtZB.png",
-        "local_file": "1913599511118618985-Go5vaUgXkAAqtZB.png",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1913599507683484036",
-    "created_at": "Sat Apr 19 14:24:10 +0000 2025",
-    "text": "Yo sabía que la vida, a la fuerza, tenía que ser algo más alegre, más real, más trascendente, y el mundo un lugar más hermoso. No deberíamos odiar los lunes y vivir para los fines de semana y las vacaciones.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1913599507683484036",
-    "in_reply_to_status_id": "1913599504617517156",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Go5ucpeWkAAwy9o.png",
-        "local_file": "1913599507683484036-Go5ucpeWkAAwy9o.png",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1913599504617517156",
-    "created_at": "Sat Apr 19 14:24:09 +0000 2025",
-    "text": "Se nos ha concedido la capacidad de elaborar planes infinitamente ambiciosos, pero no el tiempo para ponerlos en práctica. «Ese tiempo concedido se nos pasa tan rápido y veloz que, exceptuando a muy pocos, al resto le abandona la vida durante los propios preparativos de la vida».",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1913599504617517156",
-    "in_reply_to_status_id": "1913599501748630015",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Go5tvx0WsAArQnZ.png",
-        "local_file": "1913599504617517156-Go5tvx0WsAArQnZ.png",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1913599501748630015",
-    "created_at": "Sat Apr 19 14:24:08 +0000 2025",
-    "text": "Mantenerse firme frente al «miedo a perderse algo», porque perderse algo —o casi todo— es inevitable.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1913599501748630015",
-    "in_reply_to_status_id": "1913599498481180792",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Go5thjlWkAAim0r.png",
-        "local_file": "1913599501748630015-Go5thjlWkAAim0r.png",
-        "exists": true
-      }
     ]
   },
   {
@@ -13947,7 +15222,7 @@ window.TWEETS = [
     "in_reply_to_status_id": "1516126893971546115",
     "in_reply_to_screen_name": "ArturoHerrero",
     "favorite_count": 1,
-    "retweet_count": 1,
+    "retweet_count": 0,
     "mentions": [
       "Acantilado1999"
     ]
@@ -14031,7 +15306,7 @@ window.TWEETS = [
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/1516126893971546115",
     "favorite_count": 20,
-    "retweet_count": 4,
+    "retweet_count": 3,
     "media": [
       {
         "type": "photo",
@@ -14073,7 +15348,7 @@ window.TWEETS = [
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/1515296034079051777",
     "favorite_count": 9,
-    "retweet_count": 2
+    "retweet_count": 1
   },
   {
     "id": "1514659527651643407",
@@ -14107,7 +15382,7 @@ window.TWEETS = [
     "in_reply_to_status_id": "1514658973965864969",
     "in_reply_to_screen_name": "ArturoHerrero",
     "favorite_count": 7,
-    "retweet_count": 2
+    "retweet_count": 1
   },
   {
     "id": "1514658973965864969",
@@ -14118,7 +15393,7 @@ window.TWEETS = [
     "in_reply_to_status_id": "1514658969817694221",
     "in_reply_to_screen_name": "ArturoHerrero",
     "favorite_count": 0,
-    "retweet_count": 1,
+    "retweet_count": 0,
     "media": [
       {
         "type": "photo",
@@ -14137,7 +15412,7 @@ window.TWEETS = [
     "in_reply_to_status_id": "1514658967829504003",
     "in_reply_to_screen_name": "ArturoHerrero",
     "favorite_count": 3,
-    "retweet_count": 1,
+    "retweet_count": 0,
     "mentions": [
       "gabrielmises"
     ]
@@ -14151,7 +15426,7 @@ window.TWEETS = [
     "in_reply_to_status_id": "1514658964310573056",
     "in_reply_to_screen_name": "ArturoHerrero",
     "favorite_count": 6,
-    "retweet_count": 1,
+    "retweet_count": 0,
     "media": [
       {
         "type": "photo",
@@ -14170,7 +15445,7 @@ window.TWEETS = [
     "in_reply_to_status_id": "1514658962486046736",
     "in_reply_to_screen_name": "ArturoHerrero",
     "favorite_count": 0,
-    "retweet_count": 1
+    "retweet_count": 0
   },
   {
     "id": "1514658962486046736",
@@ -14181,7 +15456,7 @@ window.TWEETS = [
     "in_reply_to_status_id": "1514658960879542278",
     "in_reply_to_screen_name": "ArturoHerrero",
     "favorite_count": 0,
-    "retweet_count": 1
+    "retweet_count": 0
   },
   {
     "id": "1514658960879542278",
@@ -14192,7 +15467,7 @@ window.TWEETS = [
     "in_reply_to_status_id": "1514658959151538183",
     "in_reply_to_screen_name": "ArturoHerrero",
     "favorite_count": 0,
-    "retweet_count": 1
+    "retweet_count": 0
   },
   {
     "id": "1514658959151538183",
@@ -14203,7 +15478,7 @@ window.TWEETS = [
     "in_reply_to_status_id": "1514658957624852486",
     "in_reply_to_screen_name": "ArturoHerrero",
     "favorite_count": 0,
-    "retweet_count": 1
+    "retweet_count": 0
   },
   {
     "id": "1514658957624852486",
@@ -14214,7 +15489,7 @@ window.TWEETS = [
     "in_reply_to_status_id": "1514658956026818567",
     "in_reply_to_screen_name": "ArturoHerrero",
     "favorite_count": 1,
-    "retweet_count": 1
+    "retweet_count": 0
   },
   {
     "id": "1514658956026818567",
@@ -14223,7 +15498,7 @@ window.TWEETS = [
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/1514658956026818567",
     "favorite_count": 1,
-    "retweet_count": 1
+    "retweet_count": 0
   },
   {
     "id": "1514527288343281666",
@@ -14877,10 +16152,7 @@ window.TWEETS = [
     "in_reply_to_status_id": "1440364534984630278",
     "in_reply_to_screen_name": "ArturoHerrero",
     "favorite_count": 3,
-    "retweet_count": 1,
-    "mentions": [
-      "Grammarly"
-    ]
+    "retweet_count": 1
   },
   {
     "id": "1500899464126545923",
@@ -15290,7 +16562,7 @@ window.TWEETS = [
     "text": "I'm the Engineering Manager of 6 direct reports at @gitlab. This is what Google Calendar tells me about my time in meetings.\n\nBeing truly remote-first and working asynchronously is another whole new level.",
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/1486725003009683482",
-    "favorite_count": 22,
+    "favorite_count": 21,
     "retweet_count": 2,
     "media": [
       {
@@ -15384,6 +16656,384 @@ window.TWEETS = [
     "text": "A brief history of decentralized cities and centralized states. https://creators.mirror.xyz/s9h4_PQAcJyqgC0rnsWjw9geU2wJs-IBPXIzHhgi-P8",
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/1484599274688163843",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1953767141590581510",
+    "created_at": "Fri Aug 08 10:36:00 +0000 2025",
+    "text": "Canaletto.\n\n- The Bacino di San Marco on Ascension Day. 1734.\n- View of the entrance to the Arsenal. 1732.\n- Piazza San Marco with the Basilica. 1730.\n- Entrance to the Grand Canal, Venice. 1730.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1953767141590581510",
+    "favorite_count": 4,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxqLwKCWUAAL8eo.jpg",
+        "local_file": "1953767141590581510-GxqLwKCWUAAL8eo.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxqLyyAWkAAV6KS.jpg",
+        "local_file": "1953767141590581510-GxqLyyAWkAAV6KS.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxqL1skXoAAFvfl.jpg",
+        "local_file": "1953767141590581510-GxqL1skXoAAFvfl.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxqL4G2XAAA67Qs.jpg",
+        "local_file": "1953767141590581510-GxqL4G2XAAA67Qs.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1953021898993848741",
+    "created_at": "Wed Aug 06 09:14:40 +0000 2025",
+    "text": "Mis lecturas para estas vacaciones:\n- El perro de los Baskerville\n- El asesinato de Roger Ackroyd\n- El espía que surgió del frío\n- El comisario Montalbano",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1953021898993848741",
+    "favorite_count": 3,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxqEoWBWgAA0Awp.jpg",
+        "local_file": "1953021898993848741-GxqEoWBWgAA0Awp.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxqE5nVXMAABGwX.jpg",
+        "local_file": "1953021898993848741-GxqE5nVXMAABGwX.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxqFPbJWYAESuU0.jpg",
+        "local_file": "1953021898993848741-GxqFPbJWYAESuU0.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxqFdoOWgAEmjqv.jpg",
+        "local_file": "1953021898993848741-GxqFdoOWgAEmjqv.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1952734428586791415",
+    "created_at": "Tue Aug 05 14:12:22 +0000 2025",
+    "text": "wtfw it's like smho tbfh, imdb.\n\nhttps://xkcd.com/1460/",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1952734428586791415",
+    "in_reply_to_status_id": "1952734426208571480",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1952734426208571480",
+    "created_at": "Tue Aug 05 14:12:21 +0000 2025",
+    "text": "Acronyms Seriously Suck.\n\nFrom “Elon Musk” by Ashlee Vance.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1952734426208571480",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxl-5sXXkAEZeWd.jpg",
+        "local_file": "1952734426208571480-Gxl-5sXXkAEZeWd.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1952332876793393632",
+    "created_at": "Mon Aug 04 11:36:45 +0000 2025",
+    "text": "No espere a que le den otra oportunidad. La que tiene entre manos es la buena.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1952332876793393632",
+    "in_reply_to_status_id": "1952332873295356303",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxgQxb9XwAAYlyD.jpg",
+        "local_file": "1952332876793393632-GxgQxb9XwAAYlyD.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxgQ4CtXgAAQsS1.jpg",
+        "local_file": "1952332876793393632-GxgQ4CtXgAAQsS1.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxgRSDaWYAAGOlA.jpg",
+        "local_file": "1952332876793393632-GxgRSDaWYAAGOlA.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxgRj-kX0AAQw7D.jpg",
+        "local_file": "1952332876793393632-GxgRj-kX0AAQw7D.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1952332873295356303",
+    "created_at": "Mon Aug 04 11:36:44 +0000 2025",
+    "text": "Sin tener una meta, es difícil ganar.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1952332873295356303",
+    "in_reply_to_status_id": "1952332870053183555",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxgPKpvXwAABMxi.jpg",
+        "local_file": "1952332873295356303-GxgPKpvXwAABMxi.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxgPxl-X0AA1GQ9.jpg",
+        "local_file": "1952332873295356303-GxgPxl-X0AA1GQ9.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxgQIAvWoAAOJvF.jpg",
+        "local_file": "1952332873295356303-GxgQIAvWoAAOJvF.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxgQkknXQAA4Ipi.jpg",
+        "local_file": "1952332873295356303-GxgQkknXQAA4Ipi.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1952332870053183555",
+    "created_at": "Mon Aug 04 11:36:43 +0000 2025",
+    "text": "“Usted puede ser lo bueno que quiera ser” — Paul Arden — ★★★★☆\n\nhttps://issuu.com/beatrizgarciaprieto/docs/134455989-arden-paul-usted-puede-se",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1952332870053183555",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxgO26pWsAAdsXT.jpg",
+        "local_file": "1952332870053183555-GxgO26pWsAAdsXT.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1951255107015733521",
+    "created_at": "Fri Aug 01 12:14:04 +0000 2025",
+    "text": "«Pocos entienden que la procrastinación es una defensa natural consistente en dejar que las cosas sigan su curso y ejerzan su antifragilidad».\n\nEl momento preciso. https://cardinal.substack.com/p/el-momento-preciso",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1951255107015733521",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "quoted_tweet": {
+      "url": "https://x.com/ArturoHerrero/status/1929558614554845530",
+      "username": "ArturoHerrero",
+      "status_id": "1929558614554845530"
+    }
+  },
+  {
+    "id": "1949469404724404249",
+    "created_at": "Sun Jul 27 13:58:20 +0000 2025",
+    "text": "@gabrielalendo Kurt Vonnegut, Shapes of Stories. https://www.youtube.com/watch?v=GOGru_4z1Vc\n\n“If this isn't nice, I don't know what is”.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1949469404724404249",
+    "in_reply_to_status_id": "1949468652174274794",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "mentions": [
+      "gabrielalendo"
+    ]
+  },
+  {
+    "id": "1949468652174274794",
+    "created_at": "Sun Jul 27 13:55:20 +0000 2025",
+    "text": "10 consejos para diseñar una historia que conecta, por @gabrielalendo.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1949468652174274794",
+    "in_reply_to_status_id": "1949460684854431912",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw3ja6PWoAAJ9wO.jpg",
+        "local_file": "1949468652174274794-Gw3ja6PWoAAJ9wO.jpg",
+        "exists": true
+      }
+    ],
+    "mentions": [
+      "gabrielalendo"
+    ]
+  },
+  {
+    "id": "1949460684854431912",
+    "created_at": "Sun Jul 27 13:23:41 +0000 2025",
+    "text": "¿Cómo se convirtió Toyota en uno de los fabricantes más exitosos del mundo?",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1949460684854431912",
+    "in_reply_to_status_id": "1949456457017037283",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw3fpUjXgAAWHST.jpg",
+        "local_file": "1949460684854431912-Gw3fpUjXgAAWHST.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1949459999396094148",
+    "created_at": "Sun Jul 27 13:20:57 +0000 2025",
+    "text": "@kikemarchan Pues la mejor evaluación es que veas un par ejemplos de lo que te vas a encontrar. Yo creo que merece mucho la pena, sobretodo si se tienen pocas nociones de diseño.\n- https://www.youtube.com/watch?v=hg_OAVnRxKk\n- https://www.youtube.com/watch?v=jp2jnNlPD1s",
+    "type": "reply",
+    "url": "https://x.com/ArturoHerrero/status/1949459999396094148",
+    "in_reply_to_status_id": "1949456656078872945",
+    "in_reply_to_screen_name": "kikemarchan",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "mentions": [
+      "kikemarchan"
+    ]
+  },
+  {
+    "id": "1949456457017037283",
+    "created_at": "Sun Jul 27 13:06:53 +0000 2025",
+    "text": "The secret structure of great talks. https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1949456457017037283",
+    "in_reply_to_status_id": "1949456200711479505",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1949456200711479505",
+    "created_at": "Sun Jul 27 13:05:52 +0000 2025",
+    "text": "Para Ellen Lupton el diseño efectivo no solo comunica visualmente, sino que también cuenta historias.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1949456200711479505",
+    "in_reply_to_status_id": "1906377718586855875",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw3Z-9kXQAAQfN6.jpg",
+        "local_file": "1949456200711479505-Gw3Z-9kXQAAQfN6.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1947970260675473858",
+    "created_at": "Wed Jul 23 10:41:16 +0000 2025",
+    "text": "Explorar distintos puzzles.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1947970260675473858",
+    "in_reply_to_status_id": "1940746302436110341",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwiTAylWsAABmWB.jpg",
+        "local_file": "1947970260675473858-GwiTAylWsAABmWB.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1947318706188501490",
+    "created_at": "Mon Jul 21 15:32:13 +0000 2025",
+    "text": "The hardest working font in Manhattan.\n\nA story about the Gorton typeface behind NYC’s engraved signs, control panels, and vintage machinery. https://aresluna.org/the-hardest-working-font-in-manhattan/",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1947318706188501490",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1946938058315575758",
+    "created_at": "Sun Jul 20 14:19:40 +0000 2025",
+    "text": "Computers are useless. They can only give you answers.\n\n―Pablo Picasso.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1946938058315575758",
+    "favorite_count": 2,
+    "retweet_count": 1
+  },
+  {
+    "id": "1945392763358314603",
+    "created_at": "Wed Jul 16 07:59:13 +0000 2025",
+    "text": "@samuelgil Andre Agassi's “Open” vibes.",
+    "type": "reply",
+    "url": "https://x.com/ArturoHerrero/status/1945392763358314603",
+    "in_reply_to_status_id": "1945368789966561311",
+    "in_reply_to_screen_name": "samuelgil",
+    "favorite_count": 2,
+    "retweet_count": 0,
+    "quoted_tweet": {
+      "url": "https://x.com/ArturoHerrero/status/1587206821487562753",
+      "username": "ArturoHerrero",
+      "status_id": "1587206821487562753"
+    },
+    "mentions": [
+      "samuelgil"
+    ]
+  },
+  {
+    "id": "1945207270960214429",
+    "created_at": "Tue Jul 15 19:42:08 +0000 2025",
+    "text": "Como todos los grandes viajeros, he visto más de lo que recuerdo, y recuerdo más de lo que he visto.\n\n—Benjamin Disraeli.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1945207270960214429",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1945074081553903855",
+    "created_at": "Tue Jul 15 10:52:53 +0000 2025",
+    "text": "“Things that have never happened before happen all the time.”",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1945074081553903855",
+    "in_reply_to_status_id": "1308869087053975555",
+    "in_reply_to_screen_name": "ArturoHerrero",
     "favorite_count": 0,
     "retweet_count": 0
   },
@@ -16084,7 +17734,7 @@ window.TWEETS = [
     "text": "«La fiesta se puede organizar, la alegría no».",
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/1472244610181312512",
-    "favorite_count": 68,
+    "favorite_count": 67,
     "retweet_count": 0,
     "media": [
       {
@@ -16101,7 +17751,7 @@ window.TWEETS = [
     "text": "Hace tres años intenté leer 'Los hermanos Karamázov' de Fiódor Dostoyevski pero fui incapaz.\n\nAhora estoy leyendo la edición de @Albaeditorial. Resulta que el problema no era Dostoyevski, era la traducción.",
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/1471811101528629248",
-    "favorite_count": 169,
+    "favorite_count": 170,
     "retweet_count": 12,
     "media": [
       {
@@ -16265,342 +17915,6 @@ window.TWEETS = [
     "in_reply_to_screen_name": "ArturoHerrero",
     "favorite_count": 1,
     "retweet_count": 1
-  },
-  {
-    "id": "1913599498481180792",
-    "created_at": "Sat Apr 19 14:24:08 +0000 2025",
-    "text": "No vas a tener tiempo de hacer todo lo que quieres hacer o lo que otras personas quieren que hagas.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1913599498481180792",
-    "in_reply_to_status_id": "1913599491388629236",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Go5s9yGW4AAKePm.png",
-        "local_file": "1913599498481180792-Go5s9yGW4AAKePm.png",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1913599491388629236",
-    "created_at": "Sat Apr 19 14:24:06 +0000 2025",
-    "text": "Debemos aceptar nuestras limitaciones temporales y elegir conscientemente en qué invertir nuestro tiempo limitado.\n\nYour Life in Weeks.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1913599491388629236",
-    "in_reply_to_status_id": "1913599488008110521",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 2,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Go5swtoXgAAlRNq.png",
-        "local_file": "1913599491388629236-Go5swtoXgAAlRNq.png",
-        "exists": true
-      }
-    ],
-    "quoted_tweet": {
-      "url": "https://x.com/waitbutwhy/status/464404130585255937",
-      "username": "waitbutwhy",
-      "status_id": "464404130585255937"
-    }
-  },
-  {
-    "id": "1913599488008110521",
-    "created_at": "Sat Apr 19 14:24:05 +0000 2025",
-    "text": "Oliver Burkeman llega a la conclusión en “Cuatro mil semanas” de que los métodos de productividad y gestión del tiempo no funcionan.\n\n«El problema de intentar controlar el tiempo es que, al final, el tiempo acaba controlándote a ti».",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1913599488008110521",
-    "favorite_count": 10,
-    "retweet_count": 1,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Go5q4NvW0AAyt8a.jpg",
-        "local_file": "1913599488008110521-Go5q4NvW0AAyt8a.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1913332876718051599",
-    "created_at": "Fri Apr 18 20:44:40 +0000 2025",
-    "text": "Estudiar a René Girard y leer el libro de Luke Burgis. Playlist de Johnathan Bi https://www.youtube.com/playlist?list=PL_xn3B6eWvGsILrh5v5nq0rMp6OjuBOo9",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1913332876718051599",
-    "in_reply_to_status_id": "1913189011692359816",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "quoted_tweet": {
-      "url": "https://x.com/ArturoHerrero/status/1161254851042525185",
-      "username": "ArturoHerrero",
-      "status_id": "1161254851042525185"
-    }
-  },
-  {
-    "id": "1913189011692359816",
-    "created_at": "Fri Apr 18 11:13:00 +0000 2025",
-    "text": "Diseñar un juego de cartas—estilo cartas Magic—sobre distintas mitologías.\n\nLearning by doing. 100:10:1 method.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1913189011692359816",
-    "in_reply_to_status_id": "1912960293895839974",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 3,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GowzkXtWEAAPH2Z.jpg",
-        "local_file": "1913189011692359816-GowzkXtWEAAPH2Z.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1912960293895839974",
-    "created_at": "Thu Apr 17 20:04:09 +0000 2025",
-    "text": "Terminar de ver la lista de mejores películas de la historia.\n\n- Top/Tours Filmaffinity\n- IMDb\n- Revisar lista de Cowboys/Garci\n- Lista¹ de ABC: 100 películas del siglo XX\n\n—\n¹ https://www.abc.es/xlsemanal/cartelera-perfecta/mejores-peliculas-siglo-xx",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1912960293895839974",
-    "in_reply_to_status_id": "1912960291794538657",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "1912960291794538657",
-    "created_at": "Thu Apr 17 20:04:09 +0000 2025",
-    "text": "Leer un poco más sobre la historia del dinero, los tipos de interés, y la deuda. Snake-in-the-box.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1912960291794538657",
-    "in_reply_to_status_id": "1912960288845975986",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 2,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GowtULcW0AAuKKY.jpg",
-        "local_file": "1912960291794538657-GowtULcW0AAuKKY.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GowtWYUXQAEdolu.jpg",
-        "local_file": "1912960291794538657-GowtWYUXQAEdolu.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GowtYZwXwAA2N9u.jpg",
-        "local_file": "1912960291794538657-GowtYZwXwAA2N9u.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GowtaS0WcAEKrae.jpg",
-        "local_file": "1912960291794538657-GowtaS0WcAEKrae.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1912960288845975986",
-    "created_at": "Thu Apr 17 20:04:08 +0000 2025",
-    "text": "Proyectos. Una lista.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1912960288845975986",
-    "favorite_count": 7,
-    "retweet_count": 0,
-    "quoted_tweet": {
-      "url": "https://x.com/flanagrama/status/1778350999498899942",
-      "username": "flanagrama",
-      "status_id": "1778350999498899942"
-    }
-  },
-  {
-    "id": "1912454728371347725",
-    "created_at": "Wed Apr 16 10:35:13 +0000 2025",
-    "text": "Mitos, mentiras y errores en los mapas. Hurto y mercado en la historia de Occidente. Una película para cada año de tu vida. Descifrando la piedra de Rosetta.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1912454728371347725",
-    "in_reply_to_status_id": "1905908744514408932",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 2,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Gopnb3RW4AEnD16.jpg",
-        "local_file": "1912454728371347725-Gopnb3RW4AEnD16.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1912213760795693257",
-    "created_at": "Tue Apr 15 18:37:42 +0000 2025",
-    "text": "https://arturoherrero.com/editor/",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1912213760795693257",
-    "in_reply_to_status_id": "1908993386415296513",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GomMINaXoAAMG7f.jpg",
-        "local_file": "1912213760795693257-GomMINaXoAAMG7f.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1908993386415296513",
-    "created_at": "Sun Apr 06 21:21:05 +0000 2025",
-    "text": "Mejor aún, podremos crear los productos y herramientas perfectas para nuestras necesidades.\n\nLos límites de lo posible se han ampliado. ¡Bravo!",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1908993386415296513",
-    "in_reply_to_status_id": "1908993383055454250",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1908993383055454250",
-    "created_at": "Sun Apr 06 21:21:04 +0000 2025",
-    "text": "Así que en un par de horas tengo lo que quiero. Un editor con soporte Vim y Markdown, y con un contador de pulsaciones.\n\nHoy un index.html, pero en una semana podría ser un producto con la calidad de iA / Writer¹. ¿Por qué no?\n\n—\n¹ https://ia.net/writer",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1908993383055454250",
-    "in_reply_to_status_id": "1908993380572709070",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Gn4V2JDWEAAUhae.jpg",
-        "local_file": "1908993383055454250-Gn4V2JDWEAAUhae.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1908993380572709070",
-    "created_at": "Sun Apr 06 21:21:03 +0000 2025",
-    "text": "Una de las épocas más maravillosas que nos ha tocado vivir. Fantástica para aquellos a los que nos gusta crear.\n\nAlguien crea un editor de texto simple, con una imagen en la que—creo que—aparecen las barras de un contador de pulsaciones, y pienso: interesante.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1908993380572709070",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "quoted_tweet": {
-      "url": "https://x.com/javisantana/status/1905895586743628090",
-      "username": "javisantana",
-      "status_id": "1905895586743628090"
-    }
-  },
-  {
-    "id": "1907809432920011171",
-    "created_at": "Thu Apr 03 14:56:28 +0000 2025",
-    "text": "The 37signals Employee Handbook https://basecamp.com/handbook",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1907809432920011171",
-    "in_reply_to_status_id": "1907809431586287861",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1907809431586287861",
-    "created_at": "Thu Apr 03 14:56:28 +0000 2025",
-    "text": "Duolingo Handbook https://handbook.duolingo.com",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1907809431586287861",
-    "in_reply_to_status_id": "616565720198049792",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1907376861992108187",
-    "created_at": "Wed Apr 02 10:17:35 +0000 2025",
-    "text": "¿Empezamos? ¡Pónganme audio!\n\n1. ¿Para qué sirven los congresos gastronómicos?\n2. ¿Cuál es el papel de un ponente en una charla como ésta?\n3. ¿Os habéis acercado aquí buscando respuestas?\n4. ¿Existe una respuesta correcta para cada pregunta?\n\nhttps://www.elcorreo.com/jantour/andoni-luis-anduriz-beligerante-cuantos-vivis-joder-20250203123301-nt.html",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1907376861992108187",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1906377718586855875",
-    "created_at": "Sun Mar 30 16:07:21 +0000 2025",
-    "text": "100 Things Every Designer Needs to Know About People.\n\nGuía esencial que combina investigación y ejemplos prácticos sobre la importancia de conocer, entre otras cosas, como los usuarios toman decisiones y cómo la memoria juega un papel clave en un buen diseño.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1906377718586855875",
-    "in_reply_to_status_id": "1823001108622532716",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GnTQMd8WoAE0CF7.jpg",
-        "local_file": "1906377718586855875-GnTQMd8WoAE0CF7.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1905908744514408932",
-    "created_at": "Sat Mar 29 09:03:49 +0000 2025",
-    "text": "Historia del saber. Historia de la belleza.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1905908744514408932",
-    "in_reply_to_status_id": "1902678105489039596",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GnMl5iqXYAAZwiH.jpg",
-        "local_file": "1905908744514408932-GnMl5iqXYAAZwiH.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1902678105489039596",
-    "created_at": "Thu Mar 20 11:06:25 +0000 2025",
-    "text": "La andanzas por España de un excéntrico inglés, historia visual del arte, y dibujo a mano alzada para arquitectos.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1902678105489039596",
-    "in_reply_to_status_id": "1889999286341075035",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GmerpXea8AAnI7l.jpg",
-        "local_file": "1902678105489039596-GmerpXea8AAnI7l.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1902366757098062226",
-    "created_at": "Wed Mar 19 14:29:13 +0000 2025",
-    "text": "H. Solano. https://arturoherrero.com/h-solano/\n\nUn buen momento para recordar a mi padre, es decir, para volverle a pasar por el corazón.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1902366757098062226",
-    "favorite_count": 1,
-    "retweet_count": 0
   },
   {
     "id": "1465432444774060032",
@@ -17257,10 +18571,7 @@ window.TWEETS = [
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/1440364534984630278",
     "favorite_count": 8,
-    "retweet_count": 1,
-    "mentions": [
-      "Grammarly"
-    ]
+    "retweet_count": 1
   },
   {
     "id": "1439204859593564167",
@@ -17816,7 +19127,7 @@ window.TWEETS = [
     "in_reply_to_status_id": "1415257499003928577",
     "in_reply_to_screen_name": "ArturoHerrero",
     "favorite_count": 2,
-    "retweet_count": 2,
+    "retweet_count": 1,
     "media": [
       {
         "type": "photo",
@@ -17864,7 +19175,7 @@ window.TWEETS = [
     "url": "https://x.com/ArturoHerrero/status/1418141224746299398",
     "in_reply_to_status_id": "1417913554859184128",
     "in_reply_to_screen_name": "joantubau",
-    "favorite_count": 23,
+    "favorite_count": 22,
     "retweet_count": 4,
     "mentions": [
       "joantubau"
@@ -18297,7 +19608,7 @@ window.TWEETS = [
     "type": "reply",
     "url": "https://x.com/ArturoHerrero/status/1388409802821443585",
     "in_reply_to_status_id": "1388380787402285056",
-    "in_reply_to_screen_name": "edus432",
+    "in_reply_to_screen_name": "edusaez",
     "favorite_count": 2,
     "retweet_count": 0,
     "media": [
@@ -18881,6 +20192,359 @@ window.TWEETS = [
     "retweet_count": 0
   },
   {
+    "id": "1940746302436110341",
+    "created_at": "Thu Jul 03 12:15:50 +0000 2025",
+    "text": "On Kawara sent postcards to friends or colleagues every day for nearly 12 years.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1940746302436110341",
+    "in_reply_to_status_id": "1929223551996879159",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu7UG0QW8AAnz5T.jpg",
+        "local_file": "1940746302436110341-Gu7UG0QW8AAnz5T.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1939694383982432659",
+    "created_at": "Mon Jun 30 14:35:53 +0000 2025",
+    "text": "- The Talented Mr. Ripley (1999, Anthony Minghella)\n- Saltburn (2023, Emerald Fennell)",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1939694383982432659",
+    "in_reply_to_status_id": "1898256115688960049",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GussoNIWUAA8JBT.jpg",
+        "local_file": "1939694383982432659-GussoNIWUAA8JBT.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GusspmlXEAAmG6q.jpg",
+        "local_file": "1939694383982432659-GusspmlXEAAmG6q.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1939296720195653824",
+    "created_at": "Sun Jun 29 12:15:43 +0000 2025",
+    "text": "Como en una botella que se agita, y al dejarla en el suelo lo pesado se separa de lo ligero, así en una naturaleza compleja el silencio y la reflexión cristalizan con más claridad el carácter.\n\n—María Antonieta, Stefan Zweig.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1939296720195653824",
+    "in_reply_to_status_id": "1939296717226025249",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 2,
+    "retweet_count": 0
+  },
+  {
+    "id": "1939296717226025249",
+    "created_at": "Sun Jun 29 12:15:42 +0000 2025",
+    "text": "La tranquilidad es un elemento creativo. Recopila, depura, ordena las fuerzas interiores, reúne lo que el movimiento ha dispersado.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1939296717226025249",
+    "favorite_count": 3,
+    "retweet_count": 0
+  },
+  {
+    "id": "1931259844272549950",
+    "created_at": "Sat Jun 07 08:00:02 +0000 2025",
+    "text": "The Psychology of Human Misjudgment, by Charlie Munger. https://fs.blog/great-talks/psychology-human-misjudgment/",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1931259844272549950",
+    "in_reply_to_status_id": "1871178337697112210",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1929558614554845530",
+    "created_at": "Mon Jun 02 15:19:57 +0000 2025",
+    "text": "Todo el que aguarda sabe que la victoria es suya;\nporque la vida es larga y el arte es un juguete.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1929558614554845530",
+    "in_reply_to_status_id": "1929476332960014414",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 1,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GscrBYcWUAAKL2R.png",
+        "local_file": "1929558614554845530-GscrBYcWUAAKL2R.png",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1929476332960014414",
+    "created_at": "Mon Jun 02 09:53:00 +0000 2025",
+    "text": "Tras el vivir y el soñar,\n está lo que más importa:\n despertar.\n\n—Antonio Machado.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1929476332960014414",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1929223551996879159",
+    "created_at": "Sun Jun 01 17:08:32 +0000 2025",
+    "text": "Koch snowflakes with p5.js. https://en.wikipedia.org/wiki/Koch_snowflake",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1929223551996879159",
+    "in_reply_to_status_id": "1925870312610029719",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1928740810444492925",
+    "created_at": "Sat May 31 09:10:18 +0000 2025",
+    "text": "Ideas That Changed My Life by Morgan Housel. https://collabfund.com/blog/ideas-that-changed-my-life/\n\n- Tribes > Logic\n- History repeats\n- Learn cross-disciplinary\n- Self-interest justifies anything\n- Room for error = survival\n- Win: learn faster, wait longer\n- Your experience ≠ reality",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1928740810444492925",
+    "in_reply_to_status_id": "1560884615212335104",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1926919932152775089",
+    "created_at": "Mon May 26 08:34:46 +0000 2025",
+    "text": "Hic sunt dracones—Aquí hay dragones.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1926919932152775089",
+    "in_reply_to_status_id": "1417194253038587906",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr3LGEiWkAAz3Td.jpg",
+        "local_file": "1926919932152775089-Gr3LGEiWkAAz3Td.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1925870312610029719",
+    "created_at": "Fri May 23 11:03:58 +0000 2025",
+    "text": "Crear un tema musical. Anjunadeep vibes. https://www.youtube.com/watch?v=35KLcdBry4w",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1925870312610029719",
+    "in_reply_to_status_id": "1916590482450420054",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1922926837899874334",
+    "created_at": "Thu May 15 08:07:39 +0000 2025",
+    "text": "El oficio de vivir–Pavese. Ideas & Inventos: 900-1900. Historia de la navegación.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1922926837899874334",
+    "in_reply_to_status_id": "1912454728371347725",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq-bw8aXsAAEKjL.jpg",
+        "local_file": "1922926837899874334-Gq-bw8aXsAAEKjL.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1921920994781921319",
+    "created_at": "Mon May 12 13:30:47 +0000 2025",
+    "text": "The Way Things Work.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1921920994781921319",
+    "in_reply_to_status_id": "1921920986464600318",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 3,
+    "retweet_count": 1,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqwIIPLW8AAWPDH.jpg",
+        "local_file": "1921920994781921319-GqwIIPLW8AAWPDH.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqwInvtWIAALrXh.jpg",
+        "local_file": "1921920994781921319-GqwInvtWIAALrXh.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqwIwywW0AAqd7e.jpg",
+        "local_file": "1921920994781921319-GqwIwywW0AAqd7e.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqwI3zeW8AAQwEj.jpg",
+        "local_file": "1921920994781921319-GqwI3zeW8AAQwEj.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1921920986464600318",
+    "created_at": "Mon May 12 13:30:45 +0000 2025",
+    "text": "Pierre the Maze Detective.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1921920986464600318",
+    "in_reply_to_status_id": "1921920979837624488",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 2,
+    "retweet_count": 1,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqv93L0XQAEAiXG.jpg",
+        "local_file": "1921920986464600318-Gqv93L0XQAEAiXG.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqv-BXxWkAAMJ48.jpg",
+        "local_file": "1921920986464600318-Gqv-BXxWkAAMJ48.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqv-JPoWsAAmFSv.jpg",
+        "local_file": "1921920986464600318-Gqv-JPoWsAAmFSv.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqv-LGwWEAARLtF.jpg",
+        "local_file": "1921920986464600318-Gqv-LGwWEAARLtF.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1921920979837624488",
+    "created_at": "Mon May 12 13:30:43 +0000 2025",
+    "text": "Stephen Biesty's Incredible Cross-Sections.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1921920979837624488",
+    "in_reply_to_status_id": "1921920977132298491",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqv1H1WX0AEhxXG.jpg",
+        "local_file": "1921920979837624488-Gqv1H1WX0AEhxXG.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqv1JfLXcAAP9GS.jpg",
+        "local_file": "1921920979837624488-Gqv1JfLXcAAP9GS.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqv8H9aWYAEANKV.jpg",
+        "local_file": "1921920979837624488-Gqv8H9aWYAEANKV.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1921920977132298491",
+    "created_at": "Mon May 12 13:30:43 +0000 2025",
+    "text": "Hay libros infantiles/juveniles que albergan auténticas joyas.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1921920977132298491",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1920749199265554484",
+    "created_at": "Fri May 09 07:54:29 +0000 2025",
+    "text": "En la escritura, la historia da un giro tan brusco que nadie podría haber previsto el resultado al principio. ¿Quién iba a prever que una herramienta creada para contar cabras nos daría la literatura, la historia y la memoria?",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1920749199265554484",
+    "in_reply_to_status_id": "1920749195301904883",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1920749195301904883",
+    "created_at": "Fri May 09 07:54:28 +0000 2025",
+    "text": "Descifrar la piedra de Rosetta fue fundamental para entender los jeroglíficos egipcios. Una historia fascinante y magníficamente contada en “La escritura de los dioses” de Edward Dolnick.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1920749195301904883",
+    "favorite_count": 2,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqc0FX3WcAAyezl.jpg",
+        "local_file": "1920749195301904883-Gqc0FX3WcAAyezl.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1916590482450420054",
+    "created_at": "Sun Apr 27 20:29:14 +0000 2025",
+    "text": "Escuchar la mejor música de la historia de la humanidad. ¿Empezamos por el jazz?",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1916590482450420054",
+    "in_reply_to_status_id": "1915071081724969176",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpkYzHyXYAAxyEf.jpg",
+        "local_file": "1916590482450420054-GpkYzHyXYAAxyEf.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpkYzHuXoAAYaPg.jpg",
+        "local_file": "1916590482450420054-GpkYzHuXoAAYaPg.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpkYzJtWAAA8YL1.jpg",
+        "local_file": "1916590482450420054-GpkYzJtWAAA8YL1.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpkYzKDXUAEH7tY.jpg",
+        "local_file": "1916590482450420054-GpkYzKDXUAEH7tY.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
     "id": "1350541689342074887",
     "created_at": "Sat Jan 16 20:33:25 +0000 2021",
     "text": "Mi lista de películas favoritas de Christopher Nolan (aunque dependiendo del día, haría bailar algunas posiciones):\n1. Interstellar\n2. Inception\n3. The Dark Knight\n4. The Prestige\n5. Tenet\n6. Dunkirk\n7. Memento\n8. Insomnia\n9. Batman Begins\n10. The Dark Knight Rises",
@@ -19349,8 +21013,8 @@ window.TWEETS = [
     "favorite_count": 4,
     "retweet_count": 0,
     "quoted_tweet": {
-      "url": "https://x.com/orangebook_/status/1343124935669993472",
-      "username": "orangebook_",
+      "url": "https://x.com/orangebook/status/1343124935669993472",
+      "username": "orangebook",
       "status_id": "1343124935669993472"
     }
   },
@@ -19743,388 +21407,6 @@ window.TWEETS = [
     "mentions": [
       "noclipvideo"
     ]
-  },
-  {
-    "id": "1902002299532382336",
-    "created_at": "Tue Mar 18 14:21:00 +0000 2025",
-    "text": "Pobre, ágrafo, sin influencia. Predicó la venida del reino de Dios durante 1-3 años, y \"si el carisma se mide, por su fuerza transformadora, puede decirse sin vacilar que es el hombre más carismático que ha existido nunca\".\n\nEn busca del Jesús histórico. https://www.lavanguardia.com/cultura/20120328/54277856669/jesus-cristo-ejemplaridad-historico.html",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1902002299532382336",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "1901651540856684958",
-    "created_at": "Mon Mar 17 15:07:12 +0000 2025",
-    "text": "Hay una zona en el norte de Italia, Motor Valley, en la que en apenas 80 km se juntan: Ferrari, Lamborghini, Maserati y Ducati.\n\nTradición, artesanía y tecnología. Habrá que indagar.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1901651540856684958",
-    "in_reply_to_status_id": "1901251379902963836",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 2,
-    "retweet_count": 1
-  },
-  {
-    "id": "1901251379902963836",
-    "created_at": "Sun Mar 16 12:37:07 +0000 2025",
-    "text": "El enésimo recordatorio de que debería aprender un poco más sobre ingeniería automovilística.\n\nFormula 1 cars, explained for rookies. https://www.youtube.com/watch?v=VJgdOMXhEj0",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1901251379902963836",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1898256115688960049",
-    "created_at": "Sat Mar 08 06:15:00 +0000 2025",
-    "text": "- Diamantes en bruto (2019, Ben Safdie, Joshua Safdie)\n- Anora (2024, Sean Baker)",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1898256115688960049",
-    "in_reply_to_status_id": "1883186959230890012",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Glejc0XXAAIF6ER.jpg",
-        "local_file": "1898256115688960049-Glejc0XXAAIF6ER.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GlejfjpWQAAUFHk.jpg",
-        "local_file": "1898256115688960049-GlejfjpWQAAUFHk.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1898093024367812789",
-    "created_at": "Fri Mar 07 19:26:56 +0000 2025",
-    "text": "La mejor conferencia de desarrollo de software del mundo. No hay nada igual. Estaré por allí este año.\n\nhttps://pamplonaswcraft.com/",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1898093024367812789",
-    "favorite_count": 2,
-    "retweet_count": 0,
-    "quoted_tweet": {
-      "url": "https://x.com/pamplonaswcraft/status/1897347072946565539",
-      "username": "pamplonaswcraft",
-      "status_id": "1897347072946565539"
-    }
-  },
-  {
-    "id": "1894709293116428567",
-    "created_at": "Wed Feb 26 11:21:12 +0000 2025",
-    "text": "Suma Positiva #209. https://www.sumapositiva.com/p/suma-positiva-219",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1894709293116428567",
-    "in_reply_to_status_id": "1871513933691187287",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1892507475779207222",
-    "created_at": "Thu Feb 20 09:31:57 +0000 2025",
-    "text": "Recordemos que tenemos una Mona Lisa aquí al ladito.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1892507475779207222",
-    "in_reply_to_status_id": "1855284420627816472",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "quoted_tweet": {
-      "url": "https://x.com/ArturoHerrero/status/1015659426672463873",
-      "username": "ArturoHerrero",
-      "status_id": "1015659426672463873"
-    }
-  },
-  {
-    "id": "1892343993582620871",
-    "created_at": "Wed Feb 19 22:42:20 +0000 2025",
-    "text": "The Entire History of Football Tactics.\n\nA deep dive into the history of football tactics—from the early striker-heavy systems to the rise of Total Football, Tiki-Taka, Gegenpressing, and even the infamous ‘park the bus’ approach.\n\nhttps://www.youtube.com/watch?v=nAsLa3wWypQ",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1892343993582620871",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "1889999286341075035",
-    "created_at": "Thu Feb 13 11:25:19 +0000 2025",
-    "text": "Mitología clásica, da Vinci, los diarios de Patricia Highsmith, un cómic de Alan Moore, una biografía de Zweig, y Garci.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1889999286341075035",
-    "in_reply_to_status_id": "1889997674218426728",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 2,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GjqgVKBXYAEST9a.jpg",
-        "local_file": "1889999286341075035-GjqgVKBXYAEST9a.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1889997674218426728",
-    "created_at": "Thu Feb 13 11:18:54 +0000 2025",
-    "text": "Hace más de 20 años me llevé prestados un par de libros de la biblioteca. El problema fue que tuve que devolverlos algunas semanas después.\n\nAhora soy incapaz de romper este bucle, si vuelvo, siempre regreso a casa con más libros.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1889997674218426728",
-    "favorite_count": 4,
-    "retweet_count": 0
-  },
-  {
-    "id": "1883556505288327502",
-    "created_at": "Sun Jan 26 16:44:00 +0000 2025",
-    "text": "Cada cinco o seis meses el niño es otro. El niño es sucesivo. Creía amar a un solo niño y he amado a muchos, a uno distinto cada día.\n\n—Mortal y rosa, Francisco Umbral",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1883556505288327502",
-    "in_reply_to_status_id": "1688165346446876673",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 3,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GiJy_YIW4AAs9r0.png",
-        "local_file": "1883556505288327502-GiJy_YIW4AAs9r0.png",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1883186959230890012",
-    "created_at": "Sat Jan 25 16:15:33 +0000 2025",
-    "text": "- 39 escalones (1935, Alfred Hitchcock)\n- Con la muerte en los talones (1959, Alfred Hitchcock)",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1883186959230890012",
-    "in_reply_to_status_id": "1639755221294362624",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GiJrheWW4AAoPyR.jpg",
-        "local_file": "1883186959230890012-GiJrheWW4AAoPyR.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GiJr2uoXYAALFNi.jpg",
-        "local_file": "1883186959230890012-GiJr2uoXYAALFNi.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1882558569582866800",
-    "created_at": "Thu Jan 23 22:38:33 +0000 2025",
-    "text": "Uno empieza con un jueguito y termina leyendo sobre numerales cistercienses. https://es.wikipedia.org/wiki/Numerales_cistercienses",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1882558569582866800",
-    "in_reply_to_status_id": "1880733178232795145",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 1,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GiAwttGWsAAi9u3.png",
-        "local_file": "1882558569582866800-GiAwttGWsAAi9u3.png",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1880733178232795145",
-    "created_at": "Sat Jan 18 21:45:06 +0000 2025",
-    "text": "Un juego curioso: Chants of Sennaar.\n\nEl videojuego está basado en puzzles en los que hay que descifrar cinco lenguas distintas.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1880733178232795145",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GhmwHNYXYAAhZNR.jpg",
-        "local_file": "1880733178232795145-GhmwHNYXYAAhZNR.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GhmwI--WwAAOmlj.jpg",
-        "local_file": "1880733178232795145-GhmwI--WwAAOmlj.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Ghmzt6LW4AANDED.jpg",
-        "local_file": "1880733178232795145-Ghmzt6LW4AANDED.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GhmzyRJXIAAjCEt.jpg",
-        "local_file": "1880733178232795145-GhmzyRJXIAAjCEt.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1876061223923626434",
-    "created_at": "Mon Jan 06 00:20:25 +0000 2025",
-    "text": "Weeknotes 29: Una semana, un año. https://arturoherrero.com/weeknotes/29/",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1876061223923626434",
-    "in_reply_to_status_id": "1873496475893907624",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "1875918179610038783",
-    "created_at": "Sun Jan 05 14:52:01 +0000 2025",
-    "text": "9.97% anualizado desde la compra. ¡Seguimos!",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1875918179610038783",
-    "in_reply_to_status_id": "879731611926974466",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GgiXSqaXcAAGOiO.jpg",
-        "local_file": "1875918179610038783-GgiXSqaXcAAGOiO.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1874477301918044603",
-    "created_at": "Wed Jan 01 15:26:29 +0000 2025",
-    "text": "2024:\n- La tentación del fracaso. Ribeyro\n- Un verdor terrible. MANIAC. La piedra de la locura. Labatut\n- 200 libros para disfrutar. Libros contra el aburrimiento. de Cuenca\n- La invención de la naturaleza. Wulf\n- New York. Eisner\n- En la cabeza de Sherlock Holmes. Liéron & Dahan",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1874477301918044603",
-    "in_reply_to_status_id": "1741190564303843337",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GgN6NJfWsAAP-fY.jpg",
-        "local_file": "1874477301918044603-GgN6NJfWsAAP-fY.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GgN6RxUWEAA__m7.jpg",
-        "local_file": "1874477301918044603-GgN6RxUWEAA__m7.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GgN6X6VXIAA6AJU.jpg",
-        "local_file": "1874477301918044603-GgN6X6VXIAA6AJU.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GgN6vjaWwAAuheZ.jpg",
-        "local_file": "1874477301918044603-GgN6vjaWwAAuheZ.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1874474602581418170",
-    "created_at": "Wed Jan 01 15:15:45 +0000 2025",
-    "text": "2024, otro año sin cine clásico :/\n\n- Dune. 2021 & Dune: Part Two. 2024\n- Succession. 2018\n- Nightcrawler. 2014\n- The Holdovers. 2023\n- La sociedad de la nieve. 2023\n- Vidas pasadas. 2023\n- Joker: Folie à Deux. 2024\n- El conde de Montecristo. 2024",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1874474602581418170",
-    "in_reply_to_status_id": "1741510024701288625",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GgN2uVJXsAAKOyH.jpg",
-        "local_file": "1874474602581418170-GgN2uVJXsAAKOyH.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GgN27MAXEAAwUYg.jpg",
-        "local_file": "1874474602581418170-GgN27MAXEAAwUYg.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GgN32YHXQAAeoGs.jpg",
-        "local_file": "1874474602581418170-GgN32YHXQAAeoGs.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GgN4GCSW0AARfWe.jpg",
-        "local_file": "1874474602581418170-GgN4GCSW0AARfWe.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1874469762576871805",
-    "created_at": "Wed Jan 01 14:56:32 +0000 2025",
-    "text": "2024:\n- World of Goo 2\n- TUNIC\n- Indiana Jones and the Great Circle\n- A Plague Tale: Requiem",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1874469762576871805",
-    "in_reply_to_status_id": "1740812321247887493",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GgNzT3KXcAA2GVG.jpg",
-        "local_file": "1874469762576871805-GgNzT3KXcAA2GVG.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GgNzsukW8AAyXVs.jpg",
-        "local_file": "1874469762576871805-GgNzsukW8AAyXVs.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GgNz9iRWAAAnLwu.jpg",
-        "local_file": "1874469762576871805-GgNz9iRWAAAnLwu.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GgN0LpiXQAAtEnf.jpg",
-        "local_file": "1874469762576871805-GgN0LpiXQAAtEnf.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1873496475893907624",
-    "created_at": "Sun Dec 29 22:29:02 +0000 2024",
-    "text": "Weeknotes 28: «Decíamos ayer». https://arturoherrero.com/weeknotes/28/",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1873496475893907624",
-    "in_reply_to_status_id": "1873496119868788745",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 2,
-    "retweet_count": 0
   },
   {
     "id": "1332409911528058880",
@@ -21722,26 +23004,6 @@ window.TWEETS = [
     ]
   },
   {
-    "id": "1294911918151434240",
-    "created_at": "Sun Aug 16 08:20:34 +0000 2020",
-    "text": "RT @ArturoHerrero: @flopezluis @eferro @borillo @keyvanakbary @codecoolture @UriTau @Arnauti @dani_latorre Sobre métricas en equipos de des…",
-    "type": "retweet",
-    "url": "https://x.com/ArturoHerrero/status/1294911918151434240",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "mentions": [
-      "ArturoHerrero",
-      "flopezluis",
-      "eferro",
-      "borillo",
-      "keyvanakbary",
-      "codecoolture",
-      "UriTau",
-      "Arnauti",
-      "dani_latorre"
-    ]
-  },
-  {
     "id": "1294749907597832194",
     "created_at": "Sat Aug 15 21:36:47 +0000 2020",
     "text": "@borillo @flopezluis @eferro @keyvanakbary @codecoolture @UriTau @Arnauti @dani_latorre Encantado de unirme a todas las charlas ;)",
@@ -21755,27 +23017,6 @@ window.TWEETS = [
       "borillo",
       "flopezluis",
       "eferro",
-      "keyvanakbary",
-      "codecoolture",
-      "UriTau",
-      "Arnauti",
-      "dani_latorre"
-    ]
-  },
-  {
-    "id": "1294746255843893248",
-    "created_at": "Sat Aug 15 21:22:17 +0000 2020",
-    "text": "@flopezluis @eferro @borillo @keyvanakbary @codecoolture @UriTau @Arnauti @dani_latorre Sobre métricas en equipos de desarrollo, quizás os interesen algunas de las páginas de GitLab:\n- Development Department Performance Indicators https://about.gitlab.com/handbook/engineering/development/performance-indicators/\n- Engineering Function Performance Indicators https://about.gitlab.com/handbook/engineering/performance-indicators/",
-    "type": "reply",
-    "url": "https://x.com/ArturoHerrero/status/1294746255843893248",
-    "in_reply_to_status_id": "1294738940847706112",
-    "in_reply_to_screen_name": "flopezluis",
-    "favorite_count": 7,
-    "retweet_count": 1,
-    "mentions": [
-      "flopezluis",
-      "eferro",
-      "borillo",
       "keyvanakbary",
       "codecoolture",
       "UriTau",
@@ -22426,7 +23667,7 @@ window.TWEETS = [
     "text": "Tenía 17 años cuando leí 'El mundo de ayer' de Stefan Zweig.\nHoy, con 35, estoy leyendo 'Siguiendo mi camino' de Mauricio Wiesenthal.\n\nLibros fascinantes y eternos. Quizás uno se cruza con un libro así cada 17 años...",
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/1289978950375165953",
-    "favorite_count": 108,
+    "favorite_count": 107,
     "retweet_count": 9,
     "media": [
       {
@@ -22708,6 +23949,359 @@ window.TWEETS = [
     ],
     "mentions": [
       "pedrotgimenez"
+    ]
+  },
+  {
+    "id": "1915071081724969176",
+    "created_at": "Wed Apr 23 15:51:40 +0000 2025",
+    "text": "Otra idea interesante: Split-flap and pixel displays.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1915071081724969176",
+    "in_reply_to_status_id": "1914779359463825594",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/1915070882696896512/img/aJysdNcWOF7qCeU1.jpg",
+        "local_file": "1915071081724969176--ZSI2s-RULTkl4jG.mp4",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1914779359463825594",
+    "created_at": "Tue Apr 22 20:32:28 +0000 2025",
+    "text": "Una idea bastante ambiciosa aunque factible en unos años, tal y como avanza la tecnología.\n\nUn juego 2D donde el jugador recorre distintas épocas históricas, introduciendo nuevos conceptos, herramientas, y mecánicas en cada período.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1914779359463825594",
+    "in_reply_to_status_id": "1914354636573614458",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpKjl_JWYAAKuQq.jpg",
+        "local_file": "1914779359463825594-GpKjl_JWYAAKuQq.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1914628939487588794",
+    "created_at": "Tue Apr 22 10:34:45 +0000 2025",
+    "text": "Efecto Forer: descripciones vagas que parecen exactas y personalmente relevantes.\n\n1. You’re Smart Enough to Win—But That’s Exactly the Problem\n2. You’re Playing the Game Without Declaring You’re Here to Win\n3. You’re Avoiding One Big Thing That Feels Like a Risk to Your Identity",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1914628939487588794",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "quoted_tweet": {
+      "url": "https://x.com/moobuilds/status/1913270325283860903",
+      "username": "moobuilds",
+      "status_id": "1913270325283860903"
+    }
+  },
+  {
+    "id": "1914354636573614458",
+    "created_at": "Mon Apr 21 16:24:47 +0000 2025",
+    "text": "Crear un servicio de bookmarks con tags (à la http://del.icio.us) donde pueda ir coleccionando URLs. Quizás puedo utilizar Google Sheets como backend, no quiero implementar autenticación. Browser extension? You name it.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1914354636573614458",
+    "in_reply_to_status_id": "1913332876718051599",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1913599523336729069",
+    "created_at": "Sat Apr 19 14:24:13 +0000 2025",
+    "text": "8. Actitud de curiosidad en tu relaciones, no sólo buscar resultados.\n9. Ejercita tu capacidad para de no hacer nada.\n10. Regla 25-5 de Buffett: Identifica 25 metas, elige 5 prioritarias y renuncia a las otras 20.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1913599523336729069",
+    "in_reply_to_status_id": "1913599521684140045",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 2,
+    "retweet_count": 0
+  },
+  {
+    "id": "1913599521684140045",
+    "created_at": "Sat Apr 19 14:24:13 +0000 2025",
+    "text": "3. Decide de antemano en qué fallar. Fracasa de forma cíclica trasladando tu energía a unas áreas u otras de tu vida.\n4. Céntrate en lo que ya has hecho, no solo en lo que te queda por hacer.\n5. Ponle foco a tu atención.\n6. Boring solutions.\n7. Presta atención al presente.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1913599521684140045",
+    "in_reply_to_status_id": "1913599519968649309",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1913599519968649309",
+    "created_at": "Sat Apr 19 14:24:13 +0000 2025",
+    "text": "Herramientas para aceptar la finitud.\n\n1. Dos listas: abierta—añadir tareas continuamente sin límite, cerrada—número fijo de tareas con horizonte temporal. Establece límites horarios predeterminados.\n2. Aborda proyectos grandes de uno en uno.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1913599519968649309",
+    "in_reply_to_status_id": "1913599517586297161",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1913599517586297161",
+    "created_at": "Sat Apr 19 14:24:12 +0000 2025",
+    "text": "La realidad se nos resiste, como un dios enfadado que se empeña en recordarnos que sigue teniendo las de ganar.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1913599517586297161",
+    "in_reply_to_status_id": "1913599514289582181",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go5zA9_WUAAHSj8.png",
+        "local_file": "1913599517586297161-Go5zA9_WUAAHSj8.png",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1913599514289582181",
+    "created_at": "Sat Apr 19 14:24:11 +0000 2025",
+    "text": "Me arrastra el río del tiempo, y de ninguna manera puedo huir de la corriente, que me lleva hacia delante, hacia mi inevitable muerte.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1913599514289582181",
+    "in_reply_to_status_id": "1913599511118618985",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 2,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go5wJHpXYAAPfzA.png",
+        "local_file": "1913599514289582181-Go5wJHpXYAAPfzA.png",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1913599511118618985",
+    "created_at": "Sat Apr 19 14:24:11 +0000 2025",
+    "text": "La prisa es universal, porque todo el mundo está huyendo de sí mismo.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1913599511118618985",
+    "in_reply_to_status_id": "1913599507683484036",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go5vaUgXkAAqtZB.png",
+        "local_file": "1913599511118618985-Go5vaUgXkAAqtZB.png",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1913599507683484036",
+    "created_at": "Sat Apr 19 14:24:10 +0000 2025",
+    "text": "Yo sabía que la vida, a la fuerza, tenía que ser algo más alegre, más real, más trascendente, y el mundo un lugar más hermoso. No deberíamos odiar los lunes y vivir para los fines de semana y las vacaciones.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1913599507683484036",
+    "in_reply_to_status_id": "1913599504617517156",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go5ucpeWkAAwy9o.png",
+        "local_file": "1913599507683484036-Go5ucpeWkAAwy9o.png",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1913599504617517156",
+    "created_at": "Sat Apr 19 14:24:09 +0000 2025",
+    "text": "Se nos ha concedido la capacidad de elaborar planes infinitamente ambiciosos, pero no el tiempo para ponerlos en práctica. «Ese tiempo concedido se nos pasa tan rápido y veloz que, exceptuando a muy pocos, al resto le abandona la vida durante los propios preparativos de la vida».",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1913599504617517156",
+    "in_reply_to_status_id": "1913599501748630015",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go5tvx0WsAArQnZ.png",
+        "local_file": "1913599504617517156-Go5tvx0WsAArQnZ.png",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1913599501748630015",
+    "created_at": "Sat Apr 19 14:24:08 +0000 2025",
+    "text": "Mantenerse firme frente al «miedo a perderse algo», porque perderse algo —o casi todo— es inevitable.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1913599501748630015",
+    "in_reply_to_status_id": "1913599498481180792",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go5thjlWkAAim0r.png",
+        "local_file": "1913599501748630015-Go5thjlWkAAim0r.png",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1913599498481180792",
+    "created_at": "Sat Apr 19 14:24:08 +0000 2025",
+    "text": "No vas a tener tiempo de hacer todo lo que quieres hacer o lo que otras personas quieren que hagas.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1913599498481180792",
+    "in_reply_to_status_id": "1913599491388629236",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go5s9yGW4AAKePm.png",
+        "local_file": "1913599498481180792-Go5s9yGW4AAKePm.png",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1913599491388629236",
+    "created_at": "Sat Apr 19 14:24:06 +0000 2025",
+    "text": "Debemos aceptar nuestras limitaciones temporales y elegir conscientemente en qué invertir nuestro tiempo limitado.\n\nYour Life in Weeks.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1913599491388629236",
+    "in_reply_to_status_id": "1913599488008110521",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 2,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go5swtoXgAAlRNq.png",
+        "local_file": "1913599491388629236-Go5swtoXgAAlRNq.png",
+        "exists": true
+      }
+    ],
+    "quoted_tweet": {
+      "url": "https://x.com/waitbutwhy/status/464404130585255937",
+      "username": "waitbutwhy",
+      "status_id": "464404130585255937"
+    }
+  },
+  {
+    "id": "1913599488008110521",
+    "created_at": "Sat Apr 19 14:24:05 +0000 2025",
+    "text": "Oliver Burkeman llega a la conclusión en “Cuatro mil semanas” de que los métodos de productividad y gestión del tiempo no funcionan.\n\n«El problema de intentar controlar el tiempo es que, al final, el tiempo acaba controlándote a ti».",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1913599488008110521",
+    "favorite_count": 11,
+    "retweet_count": 1,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go5q4NvW0AAyt8a.jpg",
+        "local_file": "1913599488008110521-Go5q4NvW0AAyt8a.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1913332876718051599",
+    "created_at": "Fri Apr 18 20:44:40 +0000 2025",
+    "text": "Estudiar a René Girard y leer el libro de Luke Burgis. Playlist de Johnathan Bi https://www.youtube.com/playlist?list=PL_xn3B6eWvGsILrh5v5nq0rMp6OjuBOo9",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1913332876718051599",
+    "in_reply_to_status_id": "1913189011692359816",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "quoted_tweet": {
+      "url": "https://x.com/ArturoHerrero/status/1161254851042525185",
+      "username": "ArturoHerrero",
+      "status_id": "1161254851042525185"
+    }
+  },
+  {
+    "id": "1913189011692359816",
+    "created_at": "Fri Apr 18 11:13:00 +0000 2025",
+    "text": "Diseñar un juego de cartas—estilo cartas Magic—sobre distintas mitologías.\n\nLearning by doing. 100:10:1 method.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1913189011692359816",
+    "in_reply_to_status_id": "1912960293895839974",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 3,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GowzkXtWEAAPH2Z.jpg",
+        "local_file": "1913189011692359816-GowzkXtWEAAPH2Z.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1912960293895839974",
+    "created_at": "Thu Apr 17 20:04:09 +0000 2025",
+    "text": "Terminar de ver la lista de mejores películas de la historia.\n\n- Top/Tours Filmaffinity\n- IMDb\n- Revisar lista de Cowboys/Garci\n- Lista¹ de ABC: 100 películas del siglo XX\n\n—\n¹ https://www.abc.es/xlsemanal/cartelera-perfecta/mejores-peliculas-siglo-xx",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1912960293895839974",
+    "in_reply_to_status_id": "1912960291794538657",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1912960291794538657",
+    "created_at": "Thu Apr 17 20:04:09 +0000 2025",
+    "text": "Leer un poco más sobre la historia del dinero, los tipos de interés, y la deuda. Snake-in-the-box.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1912960291794538657",
+    "in_reply_to_status_id": "1912960288845975986",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 3,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GowtULcW0AAuKKY.jpg",
+        "local_file": "1912960291794538657-GowtULcW0AAuKKY.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GowtWYUXQAEdolu.jpg",
+        "local_file": "1912960291794538657-GowtWYUXQAEdolu.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GowtYZwXwAA2N9u.jpg",
+        "local_file": "1912960291794538657-GowtYZwXwAA2N9u.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GowtaS0WcAEKrae.jpg",
+        "local_file": "1912960291794538657-GowtaS0WcAEKrae.jpg",
+        "exists": true
+      }
     ]
   },
   {
@@ -23252,7 +24846,7 @@ window.TWEETS = [
     "type": "reply",
     "url": "https://x.com/ArturoHerrero/status/1248292615512035329",
     "in_reply_to_status_id": "1247887035005677572",
-    "in_reply_to_screen_name": "devexpert_io",
+    "in_reply_to_screen_name": "antonioleivag",
     "favorite_count": 2,
     "retweet_count": 1,
     "mentions": [
@@ -23466,384 +25060,6 @@ window.TWEETS = [
     ]
   },
   {
-    "id": "1873496119868788745",
-    "created_at": "Sun Dec 29 22:27:37 +0000 2024",
-    "text": "[...]",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1873496119868788745",
-    "in_reply_to_status_id": "1579189867602644992",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1871513933691187287",
-    "created_at": "Tue Dec 24 11:11:07 +0000 2024",
-    "text": "Hazlo Todo al Revés: El Manual no Escrito del CEO Disruptivo. https://www.sumapositiva.com/p/217-hazlo-todo-al-reves-el-manual",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1871513933691187287",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "1871178337697112210",
-    "created_at": "Mon Dec 23 12:57:35 +0000 2024",
-    "text": "“Spend each day trying to be a little wiser than you were when you woke up. Day by day, and at the end of the day-if you live long enough-like most people, you will get out of life what you deserve.”\n\n—Charlie Munger\n\nhttps://www.stripe.press/poor-charlies-almanack",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1871178337697112210",
-    "in_reply_to_status_id": "996108263988047872",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1864969686602969238",
-    "created_at": "Fri Dec 06 09:46:37 +0000 2024",
-    "text": "@mdiezb @javisantana ¡Me alegro! El secreto son dos reglas simples.",
-    "type": "reply",
-    "url": "https://x.com/ArturoHerrero/status/1864969686602969238",
-    "in_reply_to_status_id": "1864964482109444210",
-    "in_reply_to_screen_name": "mdiezb",
-    "favorite_count": 3,
-    "retweet_count": 0,
-    "quoted_tweet": {
-      "url": "https://x.com/ArturoHerrero/status/1418141224746299398",
-      "username": "ArturoHerrero",
-      "status_id": "1418141224746299398"
-    },
-    "mentions": [
-      "mdiezb",
-      "javisantana"
-    ]
-  },
-  {
-    "id": "1863327747889586450",
-    "created_at": "Sun Dec 01 21:02:08 +0000 2024",
-    "text": "«La naturaleza sabe el gran secreto y sonríe».\n\n—Victor Hugo",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1863327747889586450",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1862555004680175664",
-    "created_at": "Fri Nov 29 17:51:32 +0000 2024",
-    "text": "Recorrido por las cascadas de varias provincias (諸国瀧廻り Shokoku taki meguri).",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1862555004680175664",
-    "in_reply_to_status_id": "1853881468931428406",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GdkUNiRWYAA_svb.jpg",
-        "local_file": "1862555004680175664-GdkUNiRWYAA_svb.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GdkUOOGXEAAGAL9.jpg",
-        "local_file": "1862555004680175664-GdkUOOGXEAAGAL9.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1861732692095652321",
-    "created_at": "Wed Nov 27 11:23:57 +0000 2024",
-    "text": "@CarlosOlivoV Sí, primo que en español se lea bien, sobre el rigor. No me importa despegarme del texto original o una pequeña selección, pero que me deje un buen sabor de poca este primer acercamiento a la obra.",
-    "type": "reply",
-    "url": "https://x.com/ArturoHerrero/status/1861732692095652321",
-    "in_reply_to_status_id": "1861730929800290496",
-    "in_reply_to_screen_name": "CarlosOlivoV",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "mentions": [
-      "CarlosOlivoV"
-    ]
-  },
-  {
-    "id": "1861728748225052845",
-    "created_at": "Wed Nov 27 11:08:17 +0000 2024",
-    "text": "@CarlosOlivoV Entiendo.\n\nVoy a hacer “unroll” de unos cuantos hilos para facilitar la lectura. Ya compartiré mis conclusiones. ¡Gracias!",
-    "type": "reply",
-    "url": "https://x.com/ArturoHerrero/status/1861728748225052845",
-    "in_reply_to_status_id": "1861727040153460916",
-    "in_reply_to_screen_name": "CarlosOlivoV",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "mentions": [
-      "CarlosOlivoV"
-    ]
-  },
-  {
-    "id": "1861726123404468319",
-    "created_at": "Wed Nov 27 10:57:51 +0000 2024",
-    "text": "@CarlosOlivoV Muchas gracias por los hilos y la información.\n\nMe gustaría acercarme a las ‘Las mil y una noches’ pero quiero una lectura placentera, alejada de arcaísmos, filología o textos exhaustivos.\n\n¿Qué ediciones recomiendas? Algo equivalente al ‘Quijote’ de Trapiello para entendernos.",
-    "type": "reply",
-    "url": "https://x.com/ArturoHerrero/status/1861726123404468319",
-    "in_reply_to_status_id": "1861722558132842830",
-    "in_reply_to_screen_name": "CarlosOlivoV",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "mentions": [
-      "CarlosOlivoV"
-    ]
-  },
-  {
-    "id": "1860701221855621568",
-    "created_at": "Sun Nov 24 15:05:16 +0000 2024",
-    "text": "«De todas las miserias del hombre, la más amarga es ésta: saber tanto y no tener dominio de nada».\n\n—Herodoto",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1860701221855621568",
-    "favorite_count": 2,
-    "retweet_count": 0
-  },
-  {
-    "id": "1860418543524938174",
-    "created_at": "Sat Nov 23 20:22:00 +0000 2024",
-    "text": "View of Amanohashidate by Sesshū Tōyō.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1860418543524938174",
-    "favorite_count": 2,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Gb-J4g7aEAA8OgK.jpg",
-        "local_file": "1860418543524938174-Gb-J4g7aEAA8OgK.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1859689831162634660",
-    "created_at": "Thu Nov 21 20:06:21 +0000 2024",
-    "text": "@deigote @AnagramaEditor El primer capítulo es confuso, pero la mayor parte del libro es von Neumann. El último capítulo es el documental AlphaGo, mejor el visionado.\n\nYo creo que te gustará el libro. Aquí mi review. https://www.goodreads.com/review/show/6632380378",
-    "type": "reply",
-    "url": "https://x.com/ArturoHerrero/status/1859689831162634660",
-    "in_reply_to_status_id": "1859684817262252354",
-    "in_reply_to_screen_name": "deigote",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "quoted_tweet": {
-      "url": "https://x.com/ArturoHerrero/status/1258114855585923077",
-      "username": "ArturoHerrero",
-      "status_id": "1258114855585923077"
-    },
-    "mentions": [
-      "deigote",
-      "AnagramaEditor"
-    ]
-  },
-  {
-    "id": "1859669160340701695",
-    "created_at": "Thu Nov 21 18:44:13 +0000 2024",
-    "text": "@AnagramaEditor ‘La piedra de la locura’, Labatut sigue a lo suyo.\n\nAlgún día todo el saber disgregado abrirá una perspectiva tan aterradora sobre la realidad, y el espantoso lugar que ocupamos en ella, que nos volveremos locos, o huiremos hacia la paz y la seguridad de una nueva edad oscura.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1859669160340701695",
-    "in_reply_to_status_id": "1850187247741464920",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Gc7ciDnXEAAmGjp.jpg",
-        "local_file": "1859669160340701695-Gc7ciDnXEAAmGjp.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Gc7cmk3WoAApjlA.png",
-        "local_file": "1859669160340701695-Gc7cmk3WoAApjlA.png",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Gc7cmk_WEAA-pcd.png",
-        "local_file": "1859669160340701695-Gc7cmk_WEAA-pcd.png",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Gc7fLiwX0AAHXmm.png",
-        "local_file": "1859669160340701695-Gc7fLiwX0AAHXmm.png",
-        "exists": true
-      }
-    ],
-    "mentions": [
-      "AnagramaEditor"
-    ]
-  },
-  {
-    "id": "1858291999201173735",
-    "created_at": "Sun Nov 17 23:31:52 +0000 2024",
-    "text": "En ‘El nombre de la rosa’, Umberto Eco nos deja una nota del desarrollo de la vida monástica según la describe Édouard Schneider en ‘Les heures bénédictines’ para atenernos a la siguiente estimación: maitines, laudes, prima, tercia, sexta, nona, vísperas y completas.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1858291999201173735",
-    "in_reply_to_status_id": "1584265305869516801",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Gcn6VQpWgAIolat.png",
-        "local_file": "1858291999201173735-Gcn6VQpWgAIolat.png",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1857353531000283331",
-    "created_at": "Fri Nov 15 09:22:44 +0000 2024",
-    "text": "Todo es posible. #TRG24",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1857353531000283331",
-    "in_reply_to_status_id": "1817856305005986243",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GcalL-XWkAAzlSp.jpg",
-        "local_file": "1857353531000283331-GcalL-XWkAAzlSp.jpg",
-        "exists": true
-      }
-    ],
-    "hashtags": [
-      "TRG24"
-    ]
-  },
-  {
-    "id": "1855284420627816472",
-    "created_at": "Sat Nov 09 16:20:50 +0000 2024",
-    "text": "Ayer estuve en el Museo del Prado. ¡Un deleite absoluto!",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1855284420627816472",
-    "favorite_count": 3,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Gb9JQLoWgAAVPP5.jpg",
-        "local_file": "1855284420627816472-Gb9JQLoWgAAVPP5.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Gb9JQoIXAAAWHcO.jpg",
-        "local_file": "1855284420627816472-Gb9JQoIXAAAWHcO.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Gb9JRV5XoAATLnx.jpg",
-        "local_file": "1855284420627816472-Gb9JRV5XoAATLnx.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Gb9JR87XkAAQ7Z7.jpg",
-        "local_file": "1855284420627816472-Gb9JR87XkAAQ7Z7.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1853881468931428406",
-    "created_at": "Tue Nov 05 19:26:00 +0000 2024",
-    "text": "Katsushika Hokusai, «el viejo loco de la pintura».",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1853881468931428406",
-    "favorite_count": 2,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GblUG1jWEAAEWP4.png",
-        "local_file": "1853881468931428406-GblUG1jWEAAEWP4.png",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GblW7QXW8AAHmjV.jpg",
-        "local_file": "1853881468931428406-GblW7QXW8AAHmjV.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GblXHEZWEAA1TAG.jpg",
-        "local_file": "1853881468931428406-GblXHEZWEAA1TAG.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GblXTtaWQAAEfGm.jpg",
-        "local_file": "1853881468931428406-GblXTtaWQAAEfGm.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1850189425055011166",
-    "created_at": "Sat Oct 26 14:55:08 +0000 2024",
-    "text": "«Solo él estaba completamente despierto.»",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1850189425055011166",
-    "in_reply_to_status_id": "1465432446682505218",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Ga0xYjXaoAARudN.jpg",
-        "local_file": "1850189425055011166-Ga0xYjXaoAARudN.jpg",
-        "exists": true
-      }
-    ],
-    "quoted_tweet": {
-      "url": "https://x.com/ArturoHerrero/status/1850187247741464920",
-      "username": "ArturoHerrero",
-      "status_id": "1850187247741464920"
-    }
-  },
-  {
-    "id": "1850187247741464920",
-    "created_at": "Sat Oct 26 14:46:29 +0000 2024",
-    "text": "'MANIAC', un libro sobre von Neumann. Sí, por favor.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1850187247741464920",
-    "in_reply_to_status_id": "1850187245103333740",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Ga0rvHMaYAA_Z99.jpg",
-        "local_file": "1850187247741464920-Ga0rvHMaYAA_Z99.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1850187245103333740",
-    "created_at": "Sat Oct 26 14:46:28 +0000 2024",
-    "text": "Si escribe así, también será interesante escucharle.\n\nBenjamín Labatut: literatura, ciencia y delirio. https://www.youtube.com/live/_HNE9Lo3poU",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1850187245103333740",
-    "in_reply_to_status_id": "1850187242637001158",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
     "id": "1230440111344619522",
     "created_at": "Thu Feb 20 10:32:37 +0000 2020",
     "text": "@eviljonny It's reminded me of art before software 😂\n\nhttps://en.wikipedia.org/wiki/The_Treachery_of_Images",
@@ -23929,8 +25145,8 @@ window.TWEETS = [
     "text": "I have this magnificent book of ideas, so I think I can share one every day.\n\n1001: Ideas that Changed the Way We Think by Robert Arp.\nhttps://www.goodreads.com/book/show/19026565-1001",
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/1219554808119603200",
-    "favorite_count": 162,
-    "retweet_count": 25,
+    "favorite_count": 160,
+    "retweet_count": 24,
     "media": [
       {
         "type": "photo",
@@ -24350,7 +25566,7 @@ window.TWEETS = [
     "url": "https://x.com/ArturoHerrero/status/1168580688070750209",
     "in_reply_to_status_id": "1168534364482940928",
     "in_reply_to_screen_name": "recena",
-    "favorite_count": 5,
+    "favorite_count": 4,
     "retweet_count": 0,
     "mentions": [
       "recena",
@@ -24363,7 +25579,7 @@ window.TWEETS = [
     "text": "I've joined @gitlab as a Backend Engineer!\n\nExcited to work fully remote with team members located in more than 50 countries around the world.",
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/1168504604432187393",
-    "favorite_count": 187,
+    "favorite_count": 185,
     "retweet_count": 4,
     "mentions": [
       "gitlab"
@@ -24594,8 +25810,8 @@ window.TWEETS = [
     "text": "Great book: 'The Bitcoin Standard: The Decentralized Alternative to Central Banking' by @saifedean.\n\nFantastic explanation of what money is. Almost 2/3 of the book focus on the history of money: primitive money, monetary metals, government money, digital money, and Bitcoin.",
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/1147940027277750274",
-    "favorite_count": 76,
-    "retweet_count": 9,
+    "favorite_count": 75,
+    "retweet_count": 8,
     "media": [
       {
         "type": "photo",
@@ -25291,7 +26507,7 @@ window.TWEETS = [
     "text": "I consider @nntaleb's ideas and work essential. All his books are indispensable.\n\nSome concepts you should know:\nUncertainty\nBlack Swans\nWinner-take-all\nOptionality\nAntifragile\nConvex/Concave Strategies\nVia Negativa\nErgodicity\nLindy Effect\nSkin In The Game\nIntellectual Yet Idiot",
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/1080439849491070976",
-    "favorite_count": 217,
+    "favorite_count": 216,
     "retweet_count": 41,
     "media": [
       {
@@ -25383,7 +26599,7 @@ window.TWEETS = [
     "url": "https://x.com/ArturoHerrero/status/1078951647085240323",
     "in_reply_to_status_id": "947483659816374272",
     "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 16,
+    "favorite_count": 15,
     "retweet_count": 0
   },
   {
@@ -26044,7 +27260,7 @@ window.TWEETS = [
     "url": "https://x.com/ArturoHerrero/status/1022771864240836608",
     "in_reply_to_status_id": "1022571295119171584",
     "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 2,
+    "favorite_count": 1,
     "retweet_count": 0,
     "mentions": [
       "basecamp"
@@ -26056,7 +27272,7 @@ window.TWEETS = [
     "text": "Stop the Daily Standup Meeting https://www.devteams.at/2017/05/05/stop-the-daily-standup-meeting.html",
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/1022571295119171584",
-    "favorite_count": 1,
+    "favorite_count": 0,
     "retweet_count": 0
   },
   {
@@ -26099,6 +27315,294 @@ window.TWEETS = [
     "mentions": [
       "chadfowler"
     ]
+  },
+  {
+    "id": "1912960288845975986",
+    "created_at": "Thu Apr 17 20:04:08 +0000 2025",
+    "text": "Proyectos. Una lista.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1912960288845975986",
+    "favorite_count": 9,
+    "retweet_count": 0,
+    "quoted_tweet": {
+      "url": "https://x.com/flanagrama/status/1778350999498899942",
+      "username": "flanagrama",
+      "status_id": "1778350999498899942"
+    }
+  },
+  {
+    "id": "1912454728371347725",
+    "created_at": "Wed Apr 16 10:35:13 +0000 2025",
+    "text": "Mitos, mentiras y errores en los mapas. Hurto y mercado en la historia de Occidente. Una película para cada año de tu vida. Descifrando la piedra de Rosetta.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1912454728371347725",
+    "in_reply_to_status_id": "1905908744514408932",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 4,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gopnb3RW4AEnD16.jpg",
+        "local_file": "1912454728371347725-Gopnb3RW4AEnD16.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1912213760795693257",
+    "created_at": "Tue Apr 15 18:37:42 +0000 2025",
+    "text": "https://arturoherrero.com/editor/",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1912213760795693257",
+    "in_reply_to_status_id": "1908993386415296513",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GomMINaXoAAMG7f.jpg",
+        "local_file": "1912213760795693257-GomMINaXoAAMG7f.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1908993386415296513",
+    "created_at": "Sun Apr 06 21:21:05 +0000 2025",
+    "text": "Mejor aún, podremos crear los productos y herramientas perfectas para nuestras necesidades.\n\nLos límites de lo posible se han ampliado. ¡Bravo!",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1908993386415296513",
+    "in_reply_to_status_id": "1908993383055454250",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1908993383055454250",
+    "created_at": "Sun Apr 06 21:21:04 +0000 2025",
+    "text": "Así que en un par de horas tengo lo que quiero. Un editor con soporte Vim y Markdown, y con un contador de pulsaciones.\n\nHoy un index.html, pero en una semana podría ser un producto con la calidad de iA / Writer¹. ¿Por qué no?\n\n—\n¹ https://ia.net/writer",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1908993383055454250",
+    "in_reply_to_status_id": "1908993380572709070",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn4V2JDWEAAUhae.jpg",
+        "local_file": "1908993383055454250-Gn4V2JDWEAAUhae.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1908993380572709070",
+    "created_at": "Sun Apr 06 21:21:03 +0000 2025",
+    "text": "Una de las épocas más maravillosas que nos ha tocado vivir. Fantástica para aquellos a los que nos gusta crear.\n\nAlguien crea un editor de texto simple, con una imagen en la que—creo que—aparecen las barras de un contador de pulsaciones, y pienso: interesante.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1908993380572709070",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "quoted_tweet": {
+      "url": "https://x.com/javisantana/status/1905895586743628090",
+      "username": "javisantana",
+      "status_id": "1905895586743628090"
+    }
+  },
+  {
+    "id": "1907809432920011171",
+    "created_at": "Thu Apr 03 14:56:28 +0000 2025",
+    "text": "The 37signals Employee Handbook https://basecamp.com/handbook",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1907809432920011171",
+    "in_reply_to_status_id": "1907809431586287861",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1907809431586287861",
+    "created_at": "Thu Apr 03 14:56:28 +0000 2025",
+    "text": "Duolingo Handbook https://handbook.duolingo.com",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1907809431586287861",
+    "in_reply_to_status_id": "616565720198049792",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1907376861992108187",
+    "created_at": "Wed Apr 02 10:17:35 +0000 2025",
+    "text": "¿Empezamos? ¡Pónganme audio!\n\n1. ¿Para qué sirven los congresos gastronómicos?\n2. ¿Cuál es el papel de un ponente en una charla como ésta?\n3. ¿Os habéis acercado aquí buscando respuestas?\n4. ¿Existe una respuesta correcta para cada pregunta?\n\nhttps://www.elcorreo.com/jantour/andoni-luis-anduriz-beligerante-cuantos-vivis-joder-20250203123301-nt.html",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1907376861992108187",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1906377718586855875",
+    "created_at": "Sun Mar 30 16:07:21 +0000 2025",
+    "text": "100 Things Every Designer Needs to Know About People.\n\nGuía esencial que combina investigación y ejemplos prácticos sobre la importancia de conocer, entre otras cosas, como los usuarios toman decisiones y cómo la memoria juega un papel clave en un buen diseño.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1906377718586855875",
+    "in_reply_to_status_id": "1823001108622532716",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnTQMd8WoAE0CF7.jpg",
+        "local_file": "1906377718586855875-GnTQMd8WoAE0CF7.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1905908744514408932",
+    "created_at": "Sat Mar 29 09:03:49 +0000 2025",
+    "text": "Historia del saber. Historia de la belleza.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1905908744514408932",
+    "in_reply_to_status_id": "1902678105489039596",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnMl5iqXYAAZwiH.jpg",
+        "local_file": "1905908744514408932-GnMl5iqXYAAZwiH.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1902678105489039596",
+    "created_at": "Thu Mar 20 11:06:25 +0000 2025",
+    "text": "La andanzas por España de un excéntrico inglés, historia visual del arte, y dibujo a mano alzada para arquitectos.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1902678105489039596",
+    "in_reply_to_status_id": "1889999286341075035",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmerpXea8AAnI7l.jpg",
+        "local_file": "1902678105489039596-GmerpXea8AAnI7l.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1902366757098062226",
+    "created_at": "Wed Mar 19 14:29:13 +0000 2025",
+    "text": "H. Solano. https://arturoherrero.com/h-solano/\n\nUn buen momento para recordar a mi padre, es decir, para volverle a pasar por el corazón.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1902366757098062226",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1902002299532382336",
+    "created_at": "Tue Mar 18 14:21:00 +0000 2025",
+    "text": "Pobre, ágrafo, sin influencia. Predicó la venida del reino de Dios durante 1-3 años, y \"si el carisma se mide, por su fuerza transformadora, puede decirse sin vacilar que es el hombre más carismático que ha existido nunca\".\n\nEn busca del Jesús histórico. https://www.lavanguardia.com/cultura/20120328/54277856669/jesus-cristo-ejemplaridad-historico.html",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1902002299532382336",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1901651540856684958",
+    "created_at": "Mon Mar 17 15:07:12 +0000 2025",
+    "text": "Hay una zona en el norte de Italia, Motor Valley, en la que en apenas 80 km se juntan: Ferrari, Lamborghini, Maserati y Ducati.\n\nTradición, artesanía y tecnología. Habrá que indagar.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1901651540856684958",
+    "in_reply_to_status_id": "1901251379902963836",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 2,
+    "retweet_count": 1
+  },
+  {
+    "id": "1901251379902963836",
+    "created_at": "Sun Mar 16 12:37:07 +0000 2025",
+    "text": "El enésimo recordatorio de que debería aprender un poco más sobre ingeniería automovilística.\n\nFormula 1 cars, explained for rookies. https://www.youtube.com/watch?v=VJgdOMXhEj0",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1901251379902963836",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1898256115688960049",
+    "created_at": "Sat Mar 08 06:15:00 +0000 2025",
+    "text": "- Diamantes en bruto (2019, Ben Safdie, Joshua Safdie)\n- Anora (2024, Sean Baker)",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1898256115688960049",
+    "in_reply_to_status_id": "1883186959230890012",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glejc0XXAAIF6ER.jpg",
+        "local_file": "1898256115688960049-Glejc0XXAAIF6ER.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlejfjpWQAAUFHk.jpg",
+        "local_file": "1898256115688960049-GlejfjpWQAAUFHk.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1898093024367812789",
+    "created_at": "Fri Mar 07 19:26:56 +0000 2025",
+    "text": "La mejor conferencia de desarrollo de software del mundo. No hay nada igual. Estaré por allí este año.\n\nhttps://pamplonaswcraft.com/",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1898093024367812789",
+    "favorite_count": 2,
+    "retweet_count": 0,
+    "quoted_tweet": {
+      "url": "https://x.com/pamplonaswcraft/status/1897347072946565539",
+      "username": "pamplonaswcraft",
+      "status_id": "1897347072946565539"
+    }
+  },
+  {
+    "id": "1894709293116428567",
+    "created_at": "Wed Feb 26 11:21:12 +0000 2025",
+    "text": "Suma Positiva #209. https://www.sumapositiva.com/p/suma-positiva-219",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1894709293116428567",
+    "in_reply_to_status_id": "1871513933691187287",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1892507475779207222",
+    "created_at": "Thu Feb 20 09:31:57 +0000 2025",
+    "text": "Recordemos que tenemos una Mona Lisa aquí al ladito.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1892507475779207222",
+    "in_reply_to_status_id": "1855284420627816472",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "quoted_tweet": {
+      "url": "https://x.com/ArturoHerrero/status/1015659426672463873",
+      "username": "ArturoHerrero",
+      "status_id": "1015659426672463873"
+    }
   },
   {
     "id": "1018786314064408576",
@@ -26186,7 +27690,7 @@ window.TWEETS = [
     "text": "I didn't know there was a copy of the Mona Lisa in the Prado Museum in Madrid. Possibly painted simultaneously by a student of Leonardo in the same studio.",
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/1015659426672463873",
-    "favorite_count": 0,
+    "favorite_count": 1,
     "retweet_count": 0,
     "media": [
       {
@@ -26445,7 +27949,7 @@ window.TWEETS = [
     "text": "Principles by @RayDalio is now an animated mini-series adventure https://www.principles.com/principles-for-success/",
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/995603196369408000",
-    "favorite_count": 25,
+    "favorite_count": 24,
     "retweet_count": 2,
     "mentions": [
       "RayDalio"
@@ -26820,315 +28324,6 @@ window.TWEETS = [
     "url": "https://x.com/ArturoHerrero/status/966070719858794497",
     "favorite_count": 3,
     "retweet_count": 0
-  },
-  {
-    "id": "1850187242637001158",
-    "created_at": "Sat Oct 26 14:46:28 +0000 2024",
-    "text": "'Un verdor terrible' de Benjamín Labatut. ¡Menudo escritor!\n\nLa dualidad del conocimento científico, capaz de iluminar y destruir, contruir y deshumanizar, mostrando el umbral donde algo trasciende lo humano, llevándonos a la incomprensión y, en algunos casos, a la locura.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1850187242637001158",
-    "favorite_count": 2,
-    "retweet_count": 1,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/Ga0hfgNb0AAwa6X.jpg",
-        "local_file": "1850187242637001158-Ga0hfgNb0AAwa6X.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1845826271097352482",
-    "created_at": "Mon Oct 14 13:57:31 +0000 2024",
-    "text": "«Todo pasa. Pasan pompas y vanidades. Pasa la nombradía como la oscuridad. Nada quedará a fin de cuentas, de lo que hoy es la dulzura o el dolor de tus horas, su fatiga o su satisfacción. Una sola cosa, Aprendiz, Estudiante, hijo mío, te será contada, y es tu Obra Bien Hecha.»",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1845826271097352482",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "1844669441759649844",
-    "created_at": "Fri Oct 11 09:20:41 +0000 2024",
-    "text": "¿De dónde procede la idea de concebir una obra literaria que el mundo esté dispuesto a considerar inmortal?",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1844669441759649844",
-    "in_reply_to_status_id": "1842884426918658299",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GZmVE7-XsBMWSzs.jpg",
-        "local_file": "1844669441759649844-GZmVE7-XsBMWSzs.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1842884426918658299",
-    "created_at": "Sun Oct 06 11:07:41 +0000 2024",
-    "text": "Tengo que hacer una lista de los grandes libros de la historia que quiero leer.\n\nUn comienzo. St. John's College Great Books Reading List and Curriculum.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1842884426918658299",
-    "in_reply_to_status_id": "1823689526696620285",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 3,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GZM6ALeW8AAIUai.jpg",
-        "local_file": "1842884426918658299-GZM6ALeW8AAIUai.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1840869780393234941",
-    "created_at": "Mon Sep 30 21:42:12 +0000 2024",
-    "text": "Veamos qué tal Return to Monkey Island. https://returntomonkeyisland.com/",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1840869780393234941",
-    "favorite_count": 2,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GYwSQfkWIAEht45.jpg",
-        "local_file": "1840869780393234941-GYwSQfkWIAEht45.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1832086859297788286",
-    "created_at": "Fri Sep 06 16:02:00 +0000 2024",
-    "text": "Acabo de empezar a jugar al World of Goo 2 y casi estoy tentado de comenzar con el primero. Muy gratos recuerdos.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1832086859297788286",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GWvrZnAXYAAChhC.jpg",
-        "local_file": "1832086859297788286-GWvrZnAXYAAChhC.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1824466395121287492",
-    "created_at": "Fri Aug 16 15:21:00 +0000 2024",
-    "text": "“En la cabeza de Sherlock Holmes”, un auténtico festín visual, narrativo y de uso del color.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1824466395121287492",
-    "in_reply_to_status_id": "1817506769242886212",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GVCEefiXQAApKfg.jpg",
-        "local_file": "1824466395121287492-GVCEefiXQAApKfg.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GVCEmCbXUAA8kUB.jpg",
-        "local_file": "1824466395121287492-GVCEmCbXUAA8kUB.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GVCEp0TW8AAu0uk.jpg",
-        "local_file": "1824466395121287492-GVCEp0TW8AAu0uk.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GVCEtuyWcAEGiXD.jpg",
-        "local_file": "1824466395121287492-GVCEtuyWcAEGiXD.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1824466161049768151",
-    "created_at": "Fri Aug 16 15:20:04 +0000 2024",
-    "text": "@accelereta42 Es que la Ilíada es dura, pero hay una alternativa mucho mejor.\n\nYa te contaré sobre la Eneida cuando me ponga.",
-    "type": "reply",
-    "url": "https://x.com/ArturoHerrero/status/1824466161049768151",
-    "in_reply_to_status_id": "1824429911525806144",
-    "in_reply_to_screen_name": "accelereta42",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "quoted_tweet": {
-      "url": "https://x.com/ArturoHerrero/status/1481749212253544457",
-      "username": "ArturoHerrero",
-      "status_id": "1481749212253544457"
-    },
-    "mentions": [
-      "accelereta42"
-    ]
-  },
-  {
-    "id": "1824100432194490691",
-    "created_at": "Thu Aug 15 15:06:47 +0000 2024",
-    "text": "“La belleza es verdad, la verdad es belleza”.\nY eso habrá de ser todo cuanto os baste saber.\n—John Keats",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1824100432194490691",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1823689526696620285",
-    "created_at": "Wed Aug 14 11:54:00 +0000 2024",
-    "text": "'200 libros para disfrutar' de Luis Alberto de Cuenca es una auténtica maravilla.\n\nUna colección de reseñas de libros escritas desde la profundidad que proporciona toda una vida dedicada a la lectura y la bibliofilia, pero manteniendo una prosa  sencilla y cercana.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1823689526696620285",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GU0a_3KW4AA-9qR.jpg",
-        "local_file": "1823689526696620285-GU0a_3KW4AA-9qR.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1823362725843460454",
-    "created_at": "Tue Aug 13 14:15:24 +0000 2024",
-    "text": "«Si sabes dibujar una hoja, sabes dibujar el mundo»\n—John Ruskin\n\n• Bodegón de flores, 1617. Ambrosius Bosschaert\n• Jarrón con flores y mazorca de maíz, 1742. Rachel Ruysch\n• Rosas y lirios, 1888. Henri Fantin-Latour\n• Ramo de rosas, c. 1890 – 1900. Pierre-Auguste Renoir",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1823362725843460454",
-    "favorite_count": 3,
-    "retweet_count": 1,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GU3iu44WUAA60K-.jpg",
-        "local_file": "1823362725843460454-GU3iu44WUAA60K-.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GU3iu43WQAAKtds.jpg",
-        "local_file": "1823362725843460454-GU3iu43WQAAKtds.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GU3iu5DX0AArnnn.jpg",
-        "local_file": "1823362725843460454-GU3iu5DX0AArnnn.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GU3iu4_WoAEet5Z.jpg",
-        "local_file": "1823362725843460454-GU3iu4_WoAEet5Z.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1823001108622532716",
-    "created_at": "Mon Aug 12 14:18:28 +0000 2024",
-    "text": "Recomiendan[Recomiendo]—Pensar en sistemas, de Donella Meadows.\n\nLo leí hace años y me ayudó a asentar muchos conceptos: la imposibilidad del cálculo económico (Mises), la fatal arrogancia (Hayek), fooled by randomness (Taleb), y a pensar en modelos mentales (Munger).",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1823001108622532716",
-    "in_reply_to_status_id": "1823001105527157215",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 3,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GUyW78uXIAArNP3.jpg",
-        "local_file": "1823001108622532716-GUyW78uXIAArNP3.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1823001105527157215",
-    "created_at": "Mon Aug 12 14:18:27 +0000 2024",
-    "text": "Algunos sistemas de diseño bien documentados:\n- Atlassian https://atlassian.design/\n- Material Design https://material.io/\n- Carbon https://carbondesignsystem.com/\n- Primer https://primer.style/",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1823001105527157215",
-    "in_reply_to_status_id": "1820021859435630663",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 2,
-    "retweet_count": 0
-  },
-  {
-    "id": "1821544386863214651",
-    "created_at": "Thu Aug 08 13:49:59 +0000 2024",
-    "text": "Albrecht Dürer: The First Post-Modernist Designer. https://www.printmag.com/culturally-related-design/albrecht-durer-first-post-modernist/",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1821544386863214651",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "1820378459132285315",
-    "created_at": "Mon Aug 05 08:37:00 +0000 2024",
-    "text": "Mi siglo se confiesa a medias. José Luis Garci.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1820378459132285315",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GUH9uovXYAA9nXf.jpg",
-        "local_file": "1820378459132285315-GUH9uovXYAA9nXf.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1820021859435630663",
-    "created_at": "Sun Aug 04 09:00:00 +0000 2024",
-    "text": "Atomic Design by Brad Frost. http://atomicdesign.bradfrost.com",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1820021859435630663",
-    "in_reply_to_status_id": "1816148807635091466",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 2,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GUFfXE0XwAAjVA7.jpg",
-        "local_file": "1820021859435630663-GUFfXE0XwAAjVA7.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1819837961615421798",
-    "created_at": "Sat Aug 03 20:49:15 +0000 2024",
-    "text": "SpaceX Raptor.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1819837961615421798",
-    "in_reply_to_status_id": "1819837958230614054",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GUFc4zDWgAAuYIj.jpg",
-        "local_file": "1819837961615421798-GUFc4zDWgAAuYIj.jpg",
-        "exists": true
-      }
-    ]
   },
   {
     "id": "965229359673106432",
@@ -28875,6 +30070,392 @@ window.TWEETS = [
     "retweet_count": 0
   },
   {
+    "id": "1892343993582620871",
+    "created_at": "Wed Feb 19 22:42:20 +0000 2025",
+    "text": "The Entire History of Football Tactics.\n\nA deep dive into the history of football tactics—from the early striker-heavy systems to the rise of Total Football, Tiki-Taka, Gegenpressing, and even the infamous ‘park the bus’ approach.\n\nhttps://www.youtube.com/watch?v=nAsLa3wWypQ",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1892343993582620871",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1889999286341075035",
+    "created_at": "Thu Feb 13 11:25:19 +0000 2025",
+    "text": "Mitología clásica, da Vinci, los diarios de Patricia Highsmith, un cómic de Alan Moore, una biografía de Zweig, y Garci.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1889999286341075035",
+    "in_reply_to_status_id": "1889997674218426728",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 3,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjqgVKBXYAEST9a.jpg",
+        "local_file": "1889999286341075035-GjqgVKBXYAEST9a.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1889997674218426728",
+    "created_at": "Thu Feb 13 11:18:54 +0000 2025",
+    "text": "Hace más de 20 años me llevé prestados un par de libros de la biblioteca. El problema fue que tuve que devolverlos algunas semanas después.\n\nAhora soy incapaz de romper este bucle, si vuelvo, siempre regreso a casa con más libros.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1889997674218426728",
+    "favorite_count": 7,
+    "retweet_count": 0
+  },
+  {
+    "id": "1883556505288327502",
+    "created_at": "Sun Jan 26 16:44:00 +0000 2025",
+    "text": "Cada cinco o seis meses el niño es otro. El niño es sucesivo. Creía amar a un solo niño y he amado a muchos, a uno distinto cada día.\n\n—Mortal y rosa, Francisco Umbral",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1883556505288327502",
+    "in_reply_to_status_id": "1688165346446876673",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 3,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiJy_YIW4AAs9r0.png",
+        "local_file": "1883556505288327502-GiJy_YIW4AAs9r0.png",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1883186959230890012",
+    "created_at": "Sat Jan 25 16:15:33 +0000 2025",
+    "text": "- 39 escalones (1935, Alfred Hitchcock)\n- Con la muerte en los talones (1959, Alfred Hitchcock)",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1883186959230890012",
+    "in_reply_to_status_id": "1639755221294362624",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiJrheWW4AAoPyR.jpg",
+        "local_file": "1883186959230890012-GiJrheWW4AAoPyR.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiJr2uoXYAALFNi.jpg",
+        "local_file": "1883186959230890012-GiJr2uoXYAALFNi.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1882558569582866800",
+    "created_at": "Thu Jan 23 22:38:33 +0000 2025",
+    "text": "Uno empieza con un jueguito y termina leyendo sobre numerales cistercienses. https://es.wikipedia.org/wiki/Numerales_cistercienses",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1882558569582866800",
+    "in_reply_to_status_id": "1880733178232795145",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 1,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiAwttGWsAAi9u3.png",
+        "local_file": "1882558569582866800-GiAwttGWsAAi9u3.png",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1880733178232795145",
+    "created_at": "Sat Jan 18 21:45:06 +0000 2025",
+    "text": "Un juego curioso: Chants of Sennaar.\n\nEl videojuego está basado en puzzles en los que hay que descifrar cinco lenguas distintas.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1880733178232795145",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhmwHNYXYAAhZNR.jpg",
+        "local_file": "1880733178232795145-GhmwHNYXYAAhZNR.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhmwI--WwAAOmlj.jpg",
+        "local_file": "1880733178232795145-GhmwI--WwAAOmlj.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ghmzt6LW4AANDED.jpg",
+        "local_file": "1880733178232795145-Ghmzt6LW4AANDED.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhmzyRJXIAAjCEt.jpg",
+        "local_file": "1880733178232795145-GhmzyRJXIAAjCEt.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1876061223923626434",
+    "created_at": "Mon Jan 06 00:20:25 +0000 2025",
+    "text": "Weeknotes 29: Una semana, un año. https://arturoherrero.com/weeknotes/29/",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1876061223923626434",
+    "in_reply_to_status_id": "1873496475893907624",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1875918179610038783",
+    "created_at": "Sun Jan 05 14:52:01 +0000 2025",
+    "text": "9.97% anualizado desde la compra. ¡Seguimos!",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1875918179610038783",
+    "in_reply_to_status_id": "879731611926974466",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgiXSqaXcAAGOiO.jpg",
+        "local_file": "1875918179610038783-GgiXSqaXcAAGOiO.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1874477301918044603",
+    "created_at": "Wed Jan 01 15:26:29 +0000 2025",
+    "text": "2024:\n- La tentación del fracaso. Ribeyro\n- Un verdor terrible. MANIAC. La piedra de la locura. Labatut\n- 200 libros para disfrutar. Libros contra el aburrimiento. de Cuenca\n- La invención de la naturaleza. Wulf\n- New York. Eisner\n- En la cabeza de Sherlock Holmes. Liéron & Dahan",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1874477301918044603",
+    "in_reply_to_status_id": "1741190564303843337",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgN6NJfWsAAP-fY.jpg",
+        "local_file": "1874477301918044603-GgN6NJfWsAAP-fY.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgN6RxUWEAA__m7.jpg",
+        "local_file": "1874477301918044603-GgN6RxUWEAA__m7.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgN6X6VXIAA6AJU.jpg",
+        "local_file": "1874477301918044603-GgN6X6VXIAA6AJU.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgN6vjaWwAAuheZ.jpg",
+        "local_file": "1874477301918044603-GgN6vjaWwAAuheZ.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1874474602581418170",
+    "created_at": "Wed Jan 01 15:15:45 +0000 2025",
+    "text": "2024, otro año sin cine clásico :/\n\n- Dune. 2021 & Dune: Part Two. 2024\n- Succession. 2018\n- Nightcrawler. 2014\n- The Holdovers. 2023\n- La sociedad de la nieve. 2023\n- Vidas pasadas. 2023\n- Joker: Folie à Deux. 2024\n- El conde de Montecristo. 2024",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1874474602581418170",
+    "in_reply_to_status_id": "1741510024701288625",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgN2uVJXsAAKOyH.jpg",
+        "local_file": "1874474602581418170-GgN2uVJXsAAKOyH.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgN27MAXEAAwUYg.jpg",
+        "local_file": "1874474602581418170-GgN27MAXEAAwUYg.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgN32YHXQAAeoGs.jpg",
+        "local_file": "1874474602581418170-GgN32YHXQAAeoGs.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgN4GCSW0AARfWe.jpg",
+        "local_file": "1874474602581418170-GgN4GCSW0AARfWe.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1874469762576871805",
+    "created_at": "Wed Jan 01 14:56:32 +0000 2025",
+    "text": "2024:\n- World of Goo 2\n- TUNIC\n- Indiana Jones and the Great Circle\n- A Plague Tale: Requiem",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1874469762576871805",
+    "in_reply_to_status_id": "1740812321247887493",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgNzT3KXcAA2GVG.jpg",
+        "local_file": "1874469762576871805-GgNzT3KXcAA2GVG.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgNzsukW8AAyXVs.jpg",
+        "local_file": "1874469762576871805-GgNzsukW8AAyXVs.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgNz9iRWAAAnLwu.jpg",
+        "local_file": "1874469762576871805-GgNz9iRWAAAnLwu.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgN0LpiXQAAtEnf.jpg",
+        "local_file": "1874469762576871805-GgN0LpiXQAAtEnf.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1873496475893907624",
+    "created_at": "Sun Dec 29 22:29:02 +0000 2024",
+    "text": "Weeknotes 28: «Decíamos ayer». https://arturoherrero.com/weeknotes/28/",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1873496475893907624",
+    "in_reply_to_status_id": "1873496119868788745",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 2,
+    "retweet_count": 0
+  },
+  {
+    "id": "1873496119868788745",
+    "created_at": "Sun Dec 29 22:27:37 +0000 2024",
+    "text": "[...]",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1873496119868788745",
+    "in_reply_to_status_id": "1579189867602644992",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1871513933691187287",
+    "created_at": "Tue Dec 24 11:11:07 +0000 2024",
+    "text": "Hazlo Todo al Revés: El Manual no Escrito del CEO Disruptivo. https://www.sumapositiva.com/p/217-hazlo-todo-al-reves-el-manual",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1871513933691187287",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1871178337697112210",
+    "created_at": "Mon Dec 23 12:57:35 +0000 2024",
+    "text": "“Spend each day trying to be a little wiser than you were when you woke up. Day by day, and at the end of the day-if you live long enough-like most people, you will get out of life what you deserve.”\n\n—Charlie Munger\n\nhttps://www.stripe.press/poor-charlies-almanack",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1871178337697112210",
+    "in_reply_to_status_id": "996108263988047872",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1864969686602969238",
+    "created_at": "Fri Dec 06 09:46:37 +0000 2024",
+    "text": "@mdiezb @javisantana ¡Me alegro! El secreto son dos reglas simples.",
+    "type": "reply",
+    "url": "https://x.com/ArturoHerrero/status/1864969686602969238",
+    "in_reply_to_status_id": "1864964482109444210",
+    "in_reply_to_screen_name": "mdiezb",
+    "favorite_count": 3,
+    "retweet_count": 0,
+    "quoted_tweet": {
+      "url": "https://x.com/ArturoHerrero/status/1418141224746299398",
+      "username": "ArturoHerrero",
+      "status_id": "1418141224746299398"
+    },
+    "mentions": [
+      "mdiezb",
+      "javisantana"
+    ]
+  },
+  {
+    "id": "1863327747889586450",
+    "created_at": "Sun Dec 01 21:02:08 +0000 2024",
+    "text": "«La naturaleza sabe el gran secreto y sonríe».\n\n—Victor Hugo",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1863327747889586450",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1862555004680175664",
+    "created_at": "Fri Nov 29 17:51:32 +0000 2024",
+    "text": "Recorrido por las cascadas de varias provincias (諸国瀧廻り Shokoku taki meguri).",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1862555004680175664",
+    "in_reply_to_status_id": "1853881468931428406",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdkUNiRWYAA_svb.jpg",
+        "local_file": "1862555004680175664-GdkUNiRWYAA_svb.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdkUOOGXEAAGAL9.jpg",
+        "local_file": "1862555004680175664-GdkUOOGXEAAGAL9.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1861732692095652321",
+    "created_at": "Wed Nov 27 11:23:57 +0000 2024",
+    "text": "@CarlosOlivoV Sí, primo que en español se lea bien, sobre el rigor. No me importa despegarme del texto original o una pequeña selección, pero que me deje un buen sabor de poca este primer acercamiento a la obra.",
+    "type": "reply",
+    "url": "https://x.com/ArturoHerrero/status/1861732692095652321",
+    "in_reply_to_status_id": "1861730929800290496",
+    "in_reply_to_screen_name": "CarlosOlivoV",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "mentions": [
+      "CarlosOlivoV"
+    ]
+  },
+  {
     "id": "867055823683452928",
     "created_at": "Tue May 23 16:33:12 +0000 2017",
     "text": "1. This post reminds me a trick that I used to do.",
@@ -29059,7 +30640,7 @@ window.TWEETS = [
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/848588637235294208",
     "favorite_count": 86,
-    "retweet_count": 73
+    "retweet_count": 72
   },
   {
     "id": "847078771383554053",
@@ -29223,7 +30804,7 @@ window.TWEETS = [
     "text": "Haruki Murakami on Reading What Everyone Else is Reading\nhttps://www.farnamstreetblog.com/2013/04/if-you-only-read-the-books-that-everyone-else-is-reading-you-can-only-think-what-everyone-else-is-thinking/",
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/825077680768954368",
-    "favorite_count": 8,
+    "favorite_count": 7,
     "retweet_count": 2,
     "media": [
       {
@@ -29407,327 +30988,6 @@ window.TWEETS = [
     "url": "https://x.com/ArturoHerrero/status/811191976938926080",
     "favorite_count": 0,
     "retweet_count": 2
-  },
-  {
-    "id": "1819837958230614054",
-    "created_at": "Sat Aug 03 20:49:14 +0000 2024",
-    "text": "Porsche 911 Evolution.\n\nChange is easy. Improvement is far more difficult.\n– Ferdinand Porsche",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1819837958230614054",
-    "in_reply_to_status_id": "1819837955311063538",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GUFcwX-WIAAgQ2w.jpg",
-        "local_file": "1819837958230614054-GUFcwX-WIAAgQ2w.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1819837955311063538",
-    "created_at": "Sat Aug 03 20:49:14 +0000 2024",
-    "text": "Lisa Mouse, 1983 | ADB Mouse II, 1993 | Mighty Mouse, 2006 | Magic Mouse, 2009.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1819837955311063538",
-    "in_reply_to_status_id": "1819837952090079664",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GUFa0KIWEAAY47a.jpg",
-        "local_file": "1819837955311063538-GUFa0KIWEAAY47a.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1819837952090079664",
-    "created_at": "Sat Aug 03 20:49:13 +0000 2024",
-    "text": "Le Taureau (The Bull). Pablo Picasso, 1945.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1819837952090079664",
-    "in_reply_to_status_id": "1255048339072180224",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GUFakaSWQAAewpc.jpg",
-        "local_file": "1819837952090079664-GUFakaSWQAAewpc.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1817856305005986243",
-    "created_at": "Mon Jul 29 09:34:51 +0000 2024",
-    "text": "Este año voy a asistir por primera vez a la @tarugoconf. También me he registrado al taller de @flopezluis.\n\nCon ganas de ver a algunos viejos amigos, ahora que estoy de vuelta en España.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1817856305005986243",
-    "favorite_count": 6,
-    "retweet_count": 1,
-    "mentions": [
-      "tarugoconf",
-      "flopezluis"
-    ]
-  },
-  {
-    "id": "1817506769242886212",
-    "created_at": "Sun Jul 28 10:25:56 +0000 2024",
-    "text": "Calvin & Hobbes",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1817506769242886212",
-    "in_reply_to_status_id": "1806751613198946778",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GTkUxZ9XgAAk8--.jpg",
-        "local_file": "1817506769242886212-GTkUxZ9XgAAk8--.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1816148807635091466",
-    "created_at": "Wed Jul 24 16:29:52 +0000 2024",
-    "text": "Principios universales de diseño.\n\nEste libro me lleva acompañando 13 años.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1816148807635091466",
-    "in_reply_to_status_id": "1815868359897936195",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 3,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GTRBtmCXsAAHhYj.jpg",
-        "local_file": "1816148807635091466-GTRBtmCXsAAHhYj.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1815868359897936195",
-    "created_at": "Tue Jul 23 21:55:28 +0000 2024",
-    "text": "Susan Kare – Designing the GUI of the Apple Macintosh (and much more) https://www.mac-history.net/2023/01/19/susan-kare-pixel-design-apple-mac/",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1815868359897936195",
-    "in_reply_to_status_id": "1806066882337820910",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1809656392866738666",
-    "created_at": "Sat Jul 06 18:31:20 +0000 2024",
-    "text": "@flopezluis A billion? Boring code? ;) https://arturoherrero.com/ishows-server/",
-    "type": "reply",
-    "url": "https://x.com/ArturoHerrero/status/1809656392866738666",
-    "in_reply_to_status_id": "1809530829690769919",
-    "in_reply_to_screen_name": "flopezluis",
-    "favorite_count": 4,
-    "retweet_count": 1,
-    "mentions": [
-      "flopezluis"
-    ]
-  },
-  {
-    "id": "1806751613198946778",
-    "created_at": "Fri Jun 28 18:08:47 +0000 2024",
-    "text": "Todas las portadas de «Les Aventures de Tintin».",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1806751613198946778",
-    "in_reply_to_status_id": "1803528439980302763",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GRLW0_JXIAASzRR.jpg",
-        "local_file": "1806751613198946778-GRLW0_JXIAASzRR.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1806066882337820910",
-    "created_at": "Wed Jun 26 20:47:54 +0000 2024",
-    "text": "Laws of UX is a collection of best practices that designers can consider when building user interfaces. https://lawsofux.com/",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1806066882337820910",
-    "in_reply_to_status_id": "1806066880077054408",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1806066880077054408",
-    "created_at": "Wed Jun 26 20:47:53 +0000 2024",
-    "text": "Un libro curioso.\n\n“Open Here: The Art of Instructional Design” by Paul Mijksenaar and Piet Westendorp.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1806066880077054408",
-    "in_reply_to_status_id": "1806066877740843301",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GRBBsJIXUAADE7S.jpg",
-        "local_file": "1806066880077054408-GRBBsJIXUAADE7S.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GRBqyy9WYAAuHLL.jpg",
-        "local_file": "1806066880077054408-GRBqyy9WYAAuHLL.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GRBq0o_W8AEeB-2.jpg",
-        "local_file": "1806066880077054408-GRBq0o_W8AEeB-2.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GRBq2YjWAAEuhga.jpg",
-        "local_file": "1806066880077054408-GRBq2YjWAAEuhga.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1806066877740843301",
-    "created_at": "Wed Jun 26 20:47:53 +0000 2024",
-    "text": "10 Usability Heuristics for User Interface Design. https://www.nngroup.com/articles/ten-usability-heuristics/",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1806066877740843301",
-    "in_reply_to_status_id": "1801643053322522949",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1803528439980302763",
-    "created_at": "Wed Jun 19 20:41:02 +0000 2024",
-    "text": "La mejor forma de visitar una exposición es con el amigo cultureta que controla del tema.\n\nExposición Hergé Madrid. ¡Qué auténtica maravilla! https://www.youtube.com/playlist?list=PL3eKNt82pS17Dcmh_iP2OIqbcdIYPTakr",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1803528439980302763",
-    "in_reply_to_status_id": "1803522068018831772",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1803522068018831772",
-    "created_at": "Wed Jun 19 20:15:43 +0000 2024",
-    "text": "Encontré un libro en la biblioteca: “Tintín, Hergé y los coches”, y me he dado cuenta de que quizás me interesan más los libros sobre comics, que los comics en sí.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1803522068018831772",
-    "in_reply_to_status_id": "1692598703834403183",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GQdltGnWsAAFoNX.jpg",
-        "local_file": "1803522068018831772-GQdltGnWsAAFoNX.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1801889528329728031",
-    "created_at": "Sat Jun 15 08:08:35 +0000 2024",
-    "text": "RT @ArturoHerrero: @islomar Llevo un tercio, me está gustando.\n\nEs un libro sobre sus reflexiones y lecciones de vida. Se podría comprimir…",
-    "type": "retweet",
-    "url": "https://x.com/ArturoHerrero/status/1801889528329728031",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "mentions": [
-      "ArturoHerrero",
-      "islomar"
-    ]
-  },
-  {
-    "id": "1801889222304960829",
-    "created_at": "Sat Jun 15 08:07:22 +0000 2024",
-    "text": "@islomar Llevo un tercio, me está gustando.\n\nEs un libro sobre sus reflexiones y lecciones de vida. Se podría comprimir mucho más la información como estamos acostumbrados en X, pero es un libro para leer con tranquilidad. Lo recomiendo.\n\nPara los que tengan prisa: https://www.vogue.es/living/articulos/lo-esencial-libro-miguel-mila-lecciones-de-vida-diseno-reflexiones",
-    "type": "reply",
-    "url": "https://x.com/ArturoHerrero/status/1801889222304960829",
-    "in_reply_to_status_id": "1801653892809375873",
-    "in_reply_to_screen_name": "islomar",
-    "favorite_count": 1,
-    "retweet_count": 1,
-    "mentions": [
-      "islomar"
-    ]
-  },
-  {
-    "id": "1801643053322522949",
-    "created_at": "Fri Jun 14 15:49:11 +0000 2024",
-    "text": "Leyendo “La psicología de los objetos cotidianos”, de Donald Norman.\n\nEl libro—de 1988—describe muchos principios fundamentales de diseño a golpe de anécdota. Una gran introducción al diseño centrado en el usuario.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1801643053322522949",
-    "in_reply_to_status_id": "1796162193102164190",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GQCoiN3X0AAIpw5.jpg",
-        "local_file": "1801643053322522949-GQCoiN3X0AAIpw5.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1799381306146713730",
-    "created_at": "Sat Jun 08 10:01:48 +0000 2024",
-    "text": "Lean a Wiesenthal. No hay nadie igual.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1799381306146713730",
-    "favorite_count": 10,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GPivwkZW8AAGEvv.jpg",
-        "local_file": "1799381306146713730-GPivwkZW8AAGEvv.jpg",
-        "exists": true
-      }
-    ],
-    "quoted_tweet": {
-      "url": "https://x.com/guardian_el_/status/1798665448877343195",
-      "username": "guardian_el_",
-      "status_id": "1798665448877343195"
-    }
-  },
-  {
-    "id": "1796465488169730395",
-    "created_at": "Fri May 31 08:55:23 +0000 2024",
-    "text": "El viernes nos regala más de 5 horas de @rodrigocortes. Espléndido. https://www.youtube.com/watch?v=zEr9LiYGF4w",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1796465488169730395",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "mentions": [
-      "rodrigocortes"
-    ]
   },
   {
     "id": "810825607529558016",
@@ -31270,6 +32530,383 @@ window.TWEETS = [
     "retweet_count": 0
   },
   {
+    "id": "1861728748225052845",
+    "created_at": "Wed Nov 27 11:08:17 +0000 2024",
+    "text": "@CarlosOlivoV Entiendo.\n\nVoy a hacer “unroll” de unos cuantos hilos para facilitar la lectura. Ya compartiré mis conclusiones. ¡Gracias!",
+    "type": "reply",
+    "url": "https://x.com/ArturoHerrero/status/1861728748225052845",
+    "in_reply_to_status_id": "1861727040153460916",
+    "in_reply_to_screen_name": "CarlosOlivoV",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "mentions": [
+      "CarlosOlivoV"
+    ]
+  },
+  {
+    "id": "1861726123404468319",
+    "created_at": "Wed Nov 27 10:57:51 +0000 2024",
+    "text": "@CarlosOlivoV Muchas gracias por los hilos y la información.\n\nMe gustaría acercarme a las ‘Las mil y una noches’ pero quiero una lectura placentera, alejada de arcaísmos, filología o textos exhaustivos.\n\n¿Qué ediciones recomiendas? Algo equivalente al ‘Quijote’ de Trapiello para entendernos.",
+    "type": "reply",
+    "url": "https://x.com/ArturoHerrero/status/1861726123404468319",
+    "in_reply_to_status_id": "1861722558132842830",
+    "in_reply_to_screen_name": "CarlosOlivoV",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "mentions": [
+      "CarlosOlivoV"
+    ]
+  },
+  {
+    "id": "1860701221855621568",
+    "created_at": "Sun Nov 24 15:05:16 +0000 2024",
+    "text": "«De todas las miserias del hombre, la más amarga es ésta: saber tanto y no tener dominio de nada».\n\n—Herodoto",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1860701221855621568",
+    "favorite_count": 2,
+    "retweet_count": 0
+  },
+  {
+    "id": "1860418543524938174",
+    "created_at": "Sat Nov 23 20:22:00 +0000 2024",
+    "text": "View of Amanohashidate by Sesshū Tōyō.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1860418543524938174",
+    "favorite_count": 2,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gb-J4g7aEAA8OgK.jpg",
+        "local_file": "1860418543524938174-Gb-J4g7aEAA8OgK.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1859689831162634660",
+    "created_at": "Thu Nov 21 20:06:21 +0000 2024",
+    "text": "@deigote @AnagramaEditor El primer capítulo es confuso, pero la mayor parte del libro es von Neumann. El último capítulo es el documental AlphaGo, mejor el visionado.\n\nYo creo que te gustará el libro. Aquí mi review. https://www.goodreads.com/review/show/6632380378",
+    "type": "reply",
+    "url": "https://x.com/ArturoHerrero/status/1859689831162634660",
+    "in_reply_to_status_id": "1859684817262252354",
+    "in_reply_to_screen_name": "deigote",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "quoted_tweet": {
+      "url": "https://x.com/ArturoHerrero/status/1258114855585923077",
+      "username": "ArturoHerrero",
+      "status_id": "1258114855585923077"
+    },
+    "mentions": [
+      "deigote",
+      "AnagramaEditor"
+    ]
+  },
+  {
+    "id": "1859669160340701695",
+    "created_at": "Thu Nov 21 18:44:13 +0000 2024",
+    "text": "@AnagramaEditor ‘La piedra de la locura’, Labatut sigue a lo suyo.\n\nAlgún día todo el saber disgregado abrirá una perspectiva tan aterradora sobre la realidad, y el espantoso lugar que ocupamos en ella, que nos volveremos locos, o huiremos hacia la paz y la seguridad de una nueva edad oscura.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1859669160340701695",
+    "in_reply_to_status_id": "1850187247741464920",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gc7ciDnXEAAmGjp.jpg",
+        "local_file": "1859669160340701695-Gc7ciDnXEAAmGjp.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gc7cmk3WoAApjlA.png",
+        "local_file": "1859669160340701695-Gc7cmk3WoAApjlA.png",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gc7cmk_WEAA-pcd.png",
+        "local_file": "1859669160340701695-Gc7cmk_WEAA-pcd.png",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gc7fLiwX0AAHXmm.png",
+        "local_file": "1859669160340701695-Gc7fLiwX0AAHXmm.png",
+        "exists": true
+      }
+    ],
+    "mentions": [
+      "AnagramaEditor"
+    ]
+  },
+  {
+    "id": "1858291999201173735",
+    "created_at": "Sun Nov 17 23:31:52 +0000 2024",
+    "text": "En ‘El nombre de la rosa’, Umberto Eco nos deja una nota del desarrollo de la vida monástica según la describe Édouard Schneider en ‘Les heures bénédictines’ para atenernos a la siguiente estimación: maitines, laudes, prima, tercia, sexta, nona, vísperas y completas.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1858291999201173735",
+    "in_reply_to_status_id": "1584265305869516801",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gcn6VQpWgAIolat.png",
+        "local_file": "1858291999201173735-Gcn6VQpWgAIolat.png",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1857353531000283331",
+    "created_at": "Fri Nov 15 09:22:44 +0000 2024",
+    "text": "Todo es posible. #TRG24",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1857353531000283331",
+    "in_reply_to_status_id": "1817856305005986243",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcalL-XWkAAzlSp.jpg",
+        "local_file": "1857353531000283331-GcalL-XWkAAzlSp.jpg",
+        "exists": true
+      }
+    ],
+    "hashtags": [
+      "TRG24"
+    ]
+  },
+  {
+    "id": "1855284420627816472",
+    "created_at": "Sat Nov 09 16:20:50 +0000 2024",
+    "text": "Ayer estuve en el Museo del Prado. ¡Un deleite absoluto!",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1855284420627816472",
+    "favorite_count": 4,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gb9JQLoWgAAVPP5.jpg",
+        "local_file": "1855284420627816472-Gb9JQLoWgAAVPP5.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gb9JQoIXAAAWHcO.jpg",
+        "local_file": "1855284420627816472-Gb9JQoIXAAAWHcO.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gb9JRV5XoAATLnx.jpg",
+        "local_file": "1855284420627816472-Gb9JRV5XoAATLnx.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gb9JR87XkAAQ7Z7.jpg",
+        "local_file": "1855284420627816472-Gb9JR87XkAAQ7Z7.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1853881468931428406",
+    "created_at": "Tue Nov 05 19:26:00 +0000 2024",
+    "text": "Katsushika Hokusai, «el viejo loco de la pintura».",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1853881468931428406",
+    "favorite_count": 2,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GblUG1jWEAAEWP4.png",
+        "local_file": "1853881468931428406-GblUG1jWEAAEWP4.png",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GblW7QXW8AAHmjV.jpg",
+        "local_file": "1853881468931428406-GblW7QXW8AAHmjV.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GblXHEZWEAA1TAG.jpg",
+        "local_file": "1853881468931428406-GblXHEZWEAA1TAG.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GblXTtaWQAAEfGm.jpg",
+        "local_file": "1853881468931428406-GblXTtaWQAAEfGm.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1850189425055011166",
+    "created_at": "Sat Oct 26 14:55:08 +0000 2024",
+    "text": "«Solo él estaba completamente despierto.»",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1850189425055011166",
+    "in_reply_to_status_id": "1465432446682505218",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ga0xYjXaoAARudN.jpg",
+        "local_file": "1850189425055011166-Ga0xYjXaoAARudN.jpg",
+        "exists": true
+      }
+    ],
+    "quoted_tweet": {
+      "url": "https://x.com/ArturoHerrero/status/1850187247741464920",
+      "username": "ArturoHerrero",
+      "status_id": "1850187247741464920"
+    }
+  },
+  {
+    "id": "1850187247741464920",
+    "created_at": "Sat Oct 26 14:46:29 +0000 2024",
+    "text": "'MANIAC', un libro sobre von Neumann. Sí, por favor.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1850187247741464920",
+    "in_reply_to_status_id": "1850187245103333740",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ga0rvHMaYAA_Z99.jpg",
+        "local_file": "1850187247741464920-Ga0rvHMaYAA_Z99.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1850187245103333740",
+    "created_at": "Sat Oct 26 14:46:28 +0000 2024",
+    "text": "Si escribe así, también será interesante escucharle.\n\nBenjamín Labatut: literatura, ciencia y delirio. https://www.youtube.com/live/_HNE9Lo3poU",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1850187245103333740",
+    "in_reply_to_status_id": "1850187242637001158",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1850187242637001158",
+    "created_at": "Sat Oct 26 14:46:28 +0000 2024",
+    "text": "'Un verdor terrible' de Benjamín Labatut. ¡Menudo escritor!\n\nLa dualidad del conocimento científico, capaz de iluminar y destruir, contruir y deshumanizar, mostrando el umbral donde algo trasciende lo humano, llevándonos a la incomprensión y, en algunos casos, a la locura.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1850187242637001158",
+    "favorite_count": 2,
+    "retweet_count": 1,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ga0hfgNb0AAwa6X.jpg",
+        "local_file": "1850187242637001158-Ga0hfgNb0AAwa6X.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1845826271097352482",
+    "created_at": "Mon Oct 14 13:57:31 +0000 2024",
+    "text": "«Todo pasa. Pasan pompas y vanidades. Pasa la nombradía como la oscuridad. Nada quedará a fin de cuentas, de lo que hoy es la dulzura o el dolor de tus horas, su fatiga o su satisfacción. Una sola cosa, Aprendiz, Estudiante, hijo mío, te será contada, y es tu Obra Bien Hecha.»",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1845826271097352482",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1844669441759649844",
+    "created_at": "Fri Oct 11 09:20:41 +0000 2024",
+    "text": "¿De dónde procede la idea de concebir una obra literaria que el mundo esté dispuesto a considerar inmortal?",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1844669441759649844",
+    "in_reply_to_status_id": "1842884426918658299",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZmVE7-XsBMWSzs.jpg",
+        "local_file": "1844669441759649844-GZmVE7-XsBMWSzs.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1842884426918658299",
+    "created_at": "Sun Oct 06 11:07:41 +0000 2024",
+    "text": "Tengo que hacer una lista de los grandes libros de la historia que quiero leer.\n\nUn comienzo. St. John's College Great Books Reading List and Curriculum.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1842884426918658299",
+    "in_reply_to_status_id": "1823689526696620285",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 3,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZM6ALeW8AAIUai.jpg",
+        "local_file": "1842884426918658299-GZM6ALeW8AAIUai.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1840869780393234941",
+    "created_at": "Mon Sep 30 21:42:12 +0000 2024",
+    "text": "Veamos qué tal Return to Monkey Island. https://returntomonkeyisland.com/",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1840869780393234941",
+    "favorite_count": 2,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYwSQfkWIAEht45.jpg",
+        "local_file": "1840869780393234941-GYwSQfkWIAEht45.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1832086859297788286",
+    "created_at": "Fri Sep 06 16:02:00 +0000 2024",
+    "text": "Acabo de empezar a jugar al World of Goo 2 y casi estoy tentado de comenzar con el primero. Muy gratos recuerdos.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1832086859297788286",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWvrZnAXYAAChhC.jpg",
+        "local_file": "1832086859297788286-GWvrZnAXYAAChhC.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
     "id": "724231490553450496",
     "created_at": "Sun Apr 24 13:40:17 +0000 2016",
     "text": "Please follow me on Twitter so I can stop buying followers to increase my numbers. Thanks!",
@@ -31329,10 +32966,7 @@ window.TWEETS = [
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/722777366183878660",
     "favorite_count": 1,
-    "retweet_count": 0,
-    "mentions": [
-      "RevolutApp"
-    ]
+    "retweet_count": 0
   },
   {
     "id": "722382211505373184",
@@ -31360,7 +32994,7 @@ window.TWEETS = [
     "text": "Motivational Judo. How to Trick Your Brain into Being Motivated https://medium.com/@kadavy/motivational-judo-517b7391961f#.v16q6p2jf",
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/722374054724943872",
-    "favorite_count": 2,
+    "favorite_count": 1,
     "retweet_count": 1
   },
   {
@@ -31749,7 +33383,7 @@ window.TWEETS = [
     "text": "How To Use A Book Club To Turn Your Startup Into A Learning Machine http://techcrunch.com/2016/02/21/how-to-use-a-book-club-to-turn-your-startup-into-a-learning-machine/",
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/704272538763960321",
-    "favorite_count": 1,
+    "favorite_count": 0,
     "retweet_count": 1
   },
   {
@@ -31834,330 +33468,6 @@ window.TWEETS = [
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/700269215106916352",
     "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1796162193102164190",
-    "created_at": "Thu May 30 12:50:12 +0000 2024",
-    "text": "Usuario, contexto, dispositivo e interfaz.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1796162193102164190",
-    "in_reply_to_status_id": "1793772344802242972",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GO0_8IcWQAEQ_CE.jpg",
-        "local_file": "1796162193102164190-GO0_8IcWQAEQ_CE.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1795189275404746764",
-    "created_at": "Mon May 27 20:24:10 +0000 2024",
-    "text": "Si tuve certezas, siempre recuerdo que todos los locos las tuvieron mayores.\n\n—La educación del estoico, Fernando Pessoa.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1795189275404746764",
-    "favorite_count": 6,
-    "retweet_count": 1
-  },
-  {
-    "id": "1795049451100189138",
-    "created_at": "Mon May 27 11:08:34 +0000 2024",
-    "text": "How Complex Systems Fail\nhttps://how.complexsystems.fail/",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1795049451100189138",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "1793772344802242972",
-    "created_at": "Thu May 23 22:33:48 +0000 2024",
-    "text": "Leyendo el libro de Miguel Milá, Lo esencial: Una guía de diseño para la vida.\n\nParece un libro de diseño, pero es un libro de memorias y lecciones de vida porque «diseñar es mirar la vida con lupa».",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1793772344802242972",
-    "in_reply_to_status_id": "1793057484183154690",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GOTB9mwWkAE2aZL.jpg",
-        "local_file": "1793772344802242972-GOTB9mwWkAE2aZL.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GOTCPfsWQAAK-eV.jpg",
-        "local_file": "1793772344802242972-GOTCPfsWQAAK-eV.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GOTCX3bWYAA95ad.jpg",
-        "local_file": "1793772344802242972-GOTCX3bWYAA95ad.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1793057484183154690",
-    "created_at": "Tue May 21 23:13:12 +0000 2024",
-    "text": "¿Y para ti, qué es el diseño?\n\nFunción con belleza.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1793057484183154690",
-    "in_reply_to_status_id": "1790849578993901649",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1790849578993901649",
-    "created_at": "Wed May 15 20:59:46 +0000 2024",
-    "text": "Helvetica (2007, Gary Hustwit). https://www.area-documental.com/video/Helvetica/",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1790849578993901649",
-    "in_reply_to_status_id": "1790495740449493147",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1790495740449493147",
-    "created_at": "Tue May 14 21:33:44 +0000 2024",
-    "text": "“No hay una idea brillante que surja de repente, sino una solución a un problema, que se obtiene a través del análisis sistemático y la investigación que prepara para el proceso creativo. La creatividad no significa improvisación”.\n\n—¿Cómo nacen los objetos? Bruno Munari.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1790495740449493147",
-    "in_reply_to_status_id": "1789601471555653745",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "1789752112408084756",
-    "created_at": "Sun May 12 20:18:50 +0000 2024",
-    "text": "Abre bien los ojos, mira.\n\nJULIO VERNE,\nMiguel Strogoff",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1789752112408084756",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1789601471555653745",
-    "created_at": "Sun May 12 10:20:14 +0000 2024",
-    "text": "Curiositas y studiositas, dos términos enfrentados que acuña Tomás de Aquino en su Suma teológica.\n\nEl picoteo de aquí y de allá que se desvanece y es un mero entretenimiento frente al estudio estructurado que presupone esfuerzo y planificación.\n\nhttps://www.terremoto.net/blog/mas-studiositas-y-menos-curiositas",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1789601471555653745",
-    "in_reply_to_status_id": "1787769156181381473",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1787769156181381473",
-    "created_at": "Tue May 07 08:59:16 +0000 2024",
-    "text": "¿Y si esto fuera simplemente una excusa para leer los libros que tengo en la estantería?",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1787769156181381473",
-    "in_reply_to_status_id": "1787619003914960933",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GM9ukgDXIAAop9R.jpg",
-        "local_file": "1787769156181381473-GM9ukgDXIAAop9R.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1787619003914960933",
-    "created_at": "Mon May 06 23:02:37 +0000 2024",
-    "text": "¿Cuánto podemos aprender de la arquitectura en diseño digital?\n\nLa modernidad cerebral de Gropius, Corbusier y Mies van der Rohe frente al funcionalismo sin deshumanizar a la persona de Alvar Aalto.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1787619003914960933",
-    "in_reply_to_status_id": "1785998325503639925",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GM7jO4rXQAA5WOc.jpg",
-        "local_file": "1787619003914960933-GM7jO4rXQAA5WOc.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GM7jXFrXgAAe1ui.jpg",
-        "local_file": "1787619003914960933-GM7jXFrXgAAe1ui.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GM7jiNEXsAAbxrN.jpg",
-        "local_file": "1787619003914960933-GM7jiNEXsAAbxrN.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GM7jubeW0AEf97f.jpg",
-        "local_file": "1787619003914960933-GM7jubeW0AEf97f.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1785998325503639925",
-    "created_at": "Thu May 02 11:42:37 +0000 2024",
-    "text": "Me he apuntado a la siguiente promoción de @DesignGraduate. Con embajadores así, quién necesita más argumentos.\n\nhttps://www.designgraduate.com/",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1785998325503639925",
-    "favorite_count": 17,
-    "retweet_count": 4,
-    "quoted_tweet": {
-      "url": "https://x.com/chepauet/status/1778733748764151984",
-      "username": "chepauet",
-      "status_id": "1778733748764151984"
-    },
-    "mentions": [
-      "DesignGraduate"
-    ]
-  },
-  {
-    "id": "1785366957644030257",
-    "created_at": "Tue Apr 30 17:53:47 +0000 2024",
-    "text": "Un día dejas de escribir, y luego pasa otro día, y otro... y antes de darte cuenta, el tiempo ha tejido una red de días silenciosos que envuelven tus pensamientos en un manto de olvido.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1785366957644030257",
-    "favorite_count": 5,
-    "retweet_count": 0
-  },
-  {
-    "id": "1769408321214149010",
-    "created_at": "Sun Mar 17 16:59:52 +0000 2024",
-    "text": "Hoover Dam, Nevada/Arizona.\n\nMarch 2024",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1769408321214149010",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GI4zdwhXEAAE6AN.jpg",
-        "local_file": "1769408321214149010-GI4zdwhXEAAE6AN.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1741510024701288625",
-    "created_at": "Sun Dec 31 17:22:00 +0000 2023",
-    "text": "2023 (un año un poco flojo cinéfilamente):\n- Indiana Jones and the Last Crusade. 1989\n- Lumière! L’aventure commence. 2016\n- Anatomía de un Dandy. 2020\n- Ennio: El maestro. 2021\n- Arquitectura emocional 1959. 2022\n- Spider-Man: Across the Spider-Verse. 2023",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1741510024701288625",
-    "in_reply_to_status_id": "1610336322245337089",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GCn1fIEW8AE6kJs.jpg",
-        "local_file": "1741510024701288625-GCn1fIEW8AE6kJs.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GCn1lP7WsAAeNT-.jpg",
-        "local_file": "1741510024701288625-GCn1lP7WsAAeNT-.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GCn1pMKWgAAZXbA.jpg",
-        "local_file": "1741510024701288625-GCn1pMKWgAAZXbA.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GCn11G_XoAA7fBi.jpg",
-        "local_file": "1741510024701288625-GCn11G_XoAA7fBi.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1741190564303843337",
-    "created_at": "Sat Dec 30 20:12:34 +0000 2023",
-    "text": "2023:\n- Gengis Kan y la creación del mundo moderno. Weatherford\n- El huerto de Emerson. Landero\n- Travesuras de la niña mala. Vargas Llosa\n- El caminante. Taniguchi\n- Lecciones de la Historia. Durant & Durant\n- Agua y jabón. D. Riezu\n- El gran cambiazo. Dahl",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1741190564303843337",
-    "in_reply_to_status_id": "1610328554234863616",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 2,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GCnzIXnXgAAS6Nd.jpg",
-        "local_file": "1741190564303843337-GCnzIXnXgAAS6Nd.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GCnzQaoXsAAZZa9.jpg",
-        "local_file": "1741190564303843337-GCnzQaoXsAAZZa9.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GCnzamjWoAAWPir.jpg",
-        "local_file": "1741190564303843337-GCnzamjWoAAWPir.jpg",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GCnzhK9XIAANc4Z.jpg",
-        "local_file": "1741190564303843337-GCnzhK9XIAANc4Z.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1740812321247887493",
-    "created_at": "Fri Dec 29 19:09:34 +0000 2023",
-    "text": "Mejor—y único—videojuego disfrutado en 2023. No sé cuántas horas llevo y no sé cuánto me queda pero es formidable.\n\nThe Legend of Zelda: Tears of the Kingdom.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1740812321247887493",
-    "in_reply_to_status_id": "1610336351353987073",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/GCiXSqvWwAA0XpR.jpg",
-        "local_file": "1740812321247887493-GCiXSqvWwAA0XpR.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1723283702086590640",
-    "created_at": "Sat Nov 11 10:17:06 +0000 2023",
-    "text": "London ✈ Madrid",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1723283702086590640",
-    "in_reply_to_status_id": "316208163932221442",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 5,
     "retweet_count": 0
   },
   {
@@ -32302,7 +33612,7 @@ window.TWEETS = [
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/692050212672671744",
     "favorite_count": 2,
-    "retweet_count": 6
+    "retweet_count": 5
   },
   {
     "id": "691012926161969157",
@@ -33491,27 +34801,6 @@ window.TWEETS = [
     "retweet_count": 0
   },
   {
-    "id": "643916015936643072",
-    "created_at": "Tue Sep 15 22:35:16 +0000 2015",
-    "text": "RT @vaffanculomag: 004/365 \nPhoto. @ArturoHerrero \n\nhttps://www.flickr.com/photos/131440297@N08/19148936842/",
-    "type": "retweet",
-    "url": "https://x.com/vaffanculomag/status/643845345965928448",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/CO9l1QRWUAA6RQb.jpg",
-        "local_file": "643916015936643072-CO9l1QRWUAA6RQb.jpg",
-        "exists": true
-      }
-    ],
-    "mentions": [
-      "vaffanculomag",
-      "ArturoHerrero"
-    ]
-  },
-  {
     "id": "643750201547751425",
     "created_at": "Tue Sep 15 11:36:23 +0000 2015",
     "text": "Hackers -> How to build a Google Spreadsheet that auto-tweets your archives http://www.storybench.org/build-google-spreadsheet-auto-tweets-archives/",
@@ -33665,7 +34954,7 @@ window.TWEETS = [
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/635772454498103297",
     "favorite_count": 1,
-    "retweet_count": 3
+    "retweet_count": 2
   },
   {
     "id": "635398823490285568",
@@ -33675,6 +34964,336 @@ window.TWEETS = [
     "url": "https://x.com/ArturoHerrero/status/635398823490285568",
     "favorite_count": 3,
     "retweet_count": 1
+  },
+  {
+    "id": "1824466395121287492",
+    "created_at": "Fri Aug 16 15:21:00 +0000 2024",
+    "text": "“En la cabeza de Sherlock Holmes”, un auténtico festín visual, narrativo y de uso del color.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1824466395121287492",
+    "in_reply_to_status_id": "1817506769242886212",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVCEefiXQAApKfg.jpg",
+        "local_file": "1824466395121287492-GVCEefiXQAApKfg.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVCEmCbXUAA8kUB.jpg",
+        "local_file": "1824466395121287492-GVCEmCbXUAA8kUB.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVCEp0TW8AAu0uk.jpg",
+        "local_file": "1824466395121287492-GVCEp0TW8AAu0uk.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVCEtuyWcAEGiXD.jpg",
+        "local_file": "1824466395121287492-GVCEtuyWcAEGiXD.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1824466161049768151",
+    "created_at": "Fri Aug 16 15:20:04 +0000 2024",
+    "text": "@accelereta42 Es que la Ilíada es dura, pero hay una alternativa mucho mejor.\n\nYa te contaré sobre la Eneida cuando me ponga.",
+    "type": "reply",
+    "url": "https://x.com/ArturoHerrero/status/1824466161049768151",
+    "in_reply_to_status_id": "1824429911525806144",
+    "in_reply_to_screen_name": "accelereta42",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "quoted_tweet": {
+      "url": "https://x.com/ArturoHerrero/status/1481749212253544457",
+      "username": "ArturoHerrero",
+      "status_id": "1481749212253544457"
+    },
+    "mentions": [
+      "accelereta42"
+    ]
+  },
+  {
+    "id": "1824100432194490691",
+    "created_at": "Thu Aug 15 15:06:47 +0000 2024",
+    "text": "“La belleza es verdad, la verdad es belleza”.\nY eso habrá de ser todo cuanto os baste saber.\n—John Keats",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1824100432194490691",
+    "favorite_count": 0,
+    "retweet_count": 0
+  },
+  {
+    "id": "1823689526696620285",
+    "created_at": "Wed Aug 14 11:54:00 +0000 2024",
+    "text": "'200 libros para disfrutar' de Luis Alberto de Cuenca es una auténtica maravilla.\n\nUna colección de reseñas de libros escritas desde la profundidad que proporciona toda una vida dedicada a la lectura y la bibliofilia, pero manteniendo una prosa  sencilla y cercana.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1823689526696620285",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GU0a_3KW4AA-9qR.jpg",
+        "local_file": "1823689526696620285-GU0a_3KW4AA-9qR.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1823362725843460454",
+    "created_at": "Tue Aug 13 14:15:24 +0000 2024",
+    "text": "«Si sabes dibujar una hoja, sabes dibujar el mundo»\n—John Ruskin\n\n• Bodegón de flores, 1617. Ambrosius Bosschaert\n• Jarrón con flores y mazorca de maíz, 1742. Rachel Ruysch\n• Rosas y lirios, 1888. Henri Fantin-Latour\n• Ramo de rosas, c. 1890 – 1900. Pierre-Auguste Renoir",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1823362725843460454",
+    "favorite_count": 3,
+    "retweet_count": 1,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GU3iu44WUAA60K-.jpg",
+        "local_file": "1823362725843460454-GU3iu44WUAA60K-.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GU3iu43WQAAKtds.jpg",
+        "local_file": "1823362725843460454-GU3iu43WQAAKtds.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GU3iu5DX0AArnnn.jpg",
+        "local_file": "1823362725843460454-GU3iu5DX0AArnnn.jpg",
+        "exists": true
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GU3iu4_WoAEet5Z.jpg",
+        "local_file": "1823362725843460454-GU3iu4_WoAEet5Z.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1823001108622532716",
+    "created_at": "Mon Aug 12 14:18:28 +0000 2024",
+    "text": "Recomiendan[Recomiendo]—Pensar en sistemas, de Donella Meadows.\n\nLo leí hace años y me ayudó a asentar muchos conceptos: la imposibilidad del cálculo económico (Mises), la fatal arrogancia (Hayek), fooled by randomness (Taleb), y a pensar en modelos mentales (Munger).",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1823001108622532716",
+    "in_reply_to_status_id": "1823001105527157215",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 3,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUyW78uXIAArNP3.jpg",
+        "local_file": "1823001108622532716-GUyW78uXIAArNP3.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1823001105527157215",
+    "created_at": "Mon Aug 12 14:18:27 +0000 2024",
+    "text": "Algunos sistemas de diseño bien documentados:\n- Atlassian https://atlassian.design/\n- Material Design https://material.io/\n- Carbon https://carbondesignsystem.com/\n- Primer https://primer.style/",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1823001105527157215",
+    "in_reply_to_status_id": "1820021859435630663",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 2,
+    "retweet_count": 0
+  },
+  {
+    "id": "1821544386863214651",
+    "created_at": "Thu Aug 08 13:49:59 +0000 2024",
+    "text": "Albrecht Dürer: The First Post-Modernist Designer. https://www.printmag.com/culturally-related-design/albrecht-durer-first-post-modernist/",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1821544386863214651",
+    "favorite_count": 1,
+    "retweet_count": 0
+  },
+  {
+    "id": "1820378459132285315",
+    "created_at": "Mon Aug 05 08:37:00 +0000 2024",
+    "text": "Mi siglo se confiesa a medias. José Luis Garci.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1820378459132285315",
+    "favorite_count": 1,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUH9uovXYAA9nXf.jpg",
+        "local_file": "1820378459132285315-GUH9uovXYAA9nXf.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1820021859435630663",
+    "created_at": "Sun Aug 04 09:00:00 +0000 2024",
+    "text": "Atomic Design by Brad Frost. http://atomicdesign.bradfrost.com",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1820021859435630663",
+    "in_reply_to_status_id": "1816148807635091466",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 2,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUFfXE0XwAAjVA7.jpg",
+        "local_file": "1820021859435630663-GUFfXE0XwAAjVA7.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1819837961615421798",
+    "created_at": "Sat Aug 03 20:49:15 +0000 2024",
+    "text": "SpaceX Raptor.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1819837961615421798",
+    "in_reply_to_status_id": "1819837958230614054",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUFc4zDWgAAuYIj.jpg",
+        "local_file": "1819837961615421798-GUFc4zDWgAAuYIj.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1819837958230614054",
+    "created_at": "Sat Aug 03 20:49:14 +0000 2024",
+    "text": "Porsche 911 Evolution.\n\nChange is easy. Improvement is far more difficult.\n– Ferdinand Porsche",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1819837958230614054",
+    "in_reply_to_status_id": "1819837955311063538",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUFcwX-WIAAgQ2w.jpg",
+        "local_file": "1819837958230614054-GUFcwX-WIAAgQ2w.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1819837955311063538",
+    "created_at": "Sat Aug 03 20:49:14 +0000 2024",
+    "text": "Lisa Mouse, 1983 | ADB Mouse II, 1993 | Mighty Mouse, 2006 | Magic Mouse, 2009.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1819837955311063538",
+    "in_reply_to_status_id": "1819837952090079664",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUFa0KIWEAAY47a.jpg",
+        "local_file": "1819837955311063538-GUFa0KIWEAAY47a.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1819837952090079664",
+    "created_at": "Sat Aug 03 20:49:13 +0000 2024",
+    "text": "Le Taureau (The Bull). Pablo Picasso, 1945.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1819837952090079664",
+    "in_reply_to_status_id": "1255048339072180224",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUFakaSWQAAewpc.jpg",
+        "local_file": "1819837952090079664-GUFakaSWQAAewpc.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1817856305005986243",
+    "created_at": "Mon Jul 29 09:34:51 +0000 2024",
+    "text": "Este año voy a asistir por primera vez a la @tarugoconf. También me he registrado al taller de @flopezluis.\n\nCon ganas de ver a algunos viejos amigos, ahora que estoy de vuelta en España.",
+    "type": "tweet",
+    "url": "https://x.com/ArturoHerrero/status/1817856305005986243",
+    "favorite_count": 6,
+    "retweet_count": 1,
+    "mentions": [
+      "tarugoconf",
+      "flopezluis"
+    ]
+  },
+  {
+    "id": "1817506769242886212",
+    "created_at": "Sun Jul 28 10:25:56 +0000 2024",
+    "text": "Calvin & Hobbes",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1817506769242886212",
+    "in_reply_to_status_id": "1806751613198946778",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTkUxZ9XgAAk8--.jpg",
+        "local_file": "1817506769242886212-GTkUxZ9XgAAk8--.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1816148807635091466",
+    "created_at": "Wed Jul 24 16:29:52 +0000 2024",
+    "text": "Principios universales de diseño.\n\nEste libro me lleva acompañando 13 años.",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1816148807635091466",
+    "in_reply_to_status_id": "1815868359897936195",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 3,
+    "retweet_count": 0,
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTRBtmCXsAAHhYj.jpg",
+        "local_file": "1816148807635091466-GTRBtmCXsAAHhYj.jpg",
+        "exists": true
+      }
+    ]
+  },
+  {
+    "id": "1815868359897936195",
+    "created_at": "Tue Jul 23 21:55:28 +0000 2024",
+    "text": "Susan Kare – Designing the GUI of the Apple Macintosh (and much more) https://www.mac-history.net/2023/01/19/susan-kare-pixel-design-apple-mac/",
+    "type": "thread",
+    "url": "https://x.com/ArturoHerrero/status/1815868359897936195",
+    "in_reply_to_status_id": "1806066882337820910",
+    "in_reply_to_screen_name": "ArturoHerrero",
+    "favorite_count": 0,
+    "retweet_count": 0
   },
   {
     "id": "634661937234710528",
@@ -33700,7 +35319,7 @@ window.TWEETS = [
     "text": "Agile For Non Developers http://arturoherrero.com/agile-for-non-developers/",
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/633188318075858944",
-    "favorite_count": 4,
+    "favorite_count": 3,
     "retweet_count": 1
   },
   {
@@ -33766,7 +35385,7 @@ window.TWEETS = [
     "text": "Project 365. Day 043",
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/629560279853047808",
-    "favorite_count": 9,
+    "favorite_count": 8,
     "retweet_count": 3,
     "media": [
       {
@@ -33924,7 +35543,7 @@ window.TWEETS = [
     "text": "Project 365. Day 027.",
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/622882302612344832",
-    "favorite_count": 4,
+    "favorite_count": 3,
     "retweet_count": 1,
     "media": [
       {
@@ -34154,7 +35773,7 @@ window.TWEETS = [
     "text": "Project 365. Day 002.",
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/613479669103468544",
-    "favorite_count": 5,
+    "favorite_count": 4,
     "retweet_count": 1,
     "media": [
       {
@@ -34218,284 +35837,6 @@ window.TWEETS = [
     ],
     "mentions": [
       "OverFedArtist"
-    ]
-  },
-  {
-    "id": "1706001556699496530",
-    "created_at": "Sun Sep 24 17:44:01 +0000 2023",
-    "text": "Nike Principles from AIR (2023, Ben Affleck).",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1706001556699496530",
-    "favorite_count": 4,
-    "retweet_count": 1,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/F6ztAkPWkAAASPN.jpg",
-        "local_file": "1706001556699496530-F6ztAkPWkAAASPN.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1702026606229737707",
-    "created_at": "Wed Sep 13 18:28:59 +0000 2023",
-    "text": "Christopher Nolan, Ben Affleck, James Gray, Paul Thomas Anderson, Pete Docter, Tom Ford, Todd Phillips, Bennett Miller, Wes Anderson, Alfonso Cuarón, Denis Villeneuve, Paolo Sorrentino, Rodrigo Sorogoyen, Alberto Rodríguez, Damien Chazelle, Asghar Farhadi, Greta Gerwig",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1702026606229737707",
-    "in_reply_to_status_id": "1702026604635984021",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "1702026604635984021",
-    "created_at": "Wed Sep 13 18:28:59 +0000 2023",
-    "text": "Clint Eastwood, Quentin Tarantino, Woody Allen, Frank Darabont, David Fincher, Coen Brothers, Guy Ritchie, Javier Fesser, Sam Mendes, Spike Jonze, Lee Unkrich, Ridley Scott, Steven Soderbergh, Peter Jackson, Ron Howard, Bong Joon-ho, Brad Bird, David Cronenberg, Jason Reitman",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1702026604635984021",
-    "in_reply_to_status_id": "1702026603184726242",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "1702026603184726242",
-    "created_at": "Wed Sep 13 18:28:58 +0000 2023",
-    "text": "Don Siegel, Stanley Kubrick, Sidney Lumet, Jacques Tati, Akira Kurosawa, Gene Saks, Francis Ford Coppola, Miloš Forman, Roman Polanski, Steven Spielberg, Brian De Palma, Martin Scorsese, George Roy Hill, Robert Zemeckis, Giuseppe Tornatore, Hayao Miyazaki, James Cameron",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1702026603184726242",
-    "in_reply_to_status_id": "1702026601699967236",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "1702026601699967236",
-    "created_at": "Wed Sep 13 18:28:58 +0000 2023",
-    "text": "Charles Chaplin, Buster Keaton, F.W. Murnau, Ernst Lubitsch, Frank Capra, George Cukor, Howard Hawks, Orson Welles, Fritz Lang, Otto Preminger, Billy Wilder, William Wyler, John Huston, Max Ophüls, Stanley Donen, Vincente Minnelli, Luis García Berlanga, Alfred Hitchcock",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1702026601699967236",
-    "favorite_count": 2,
-    "retweet_count": 0
-  },
-  {
-    "id": "1701888448397975897",
-    "created_at": "Wed Sep 13 09:20:00 +0000 2023",
-    "text": "Success is neither magical nor mysterious. Success is the natural consequence of consistently applying the basic fundamentals.\n—Jim Rohn.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1701888448397975897",
-    "in_reply_to_status_id": "1621559137875247106",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "1701660335743070573",
-    "created_at": "Tue Sep 12 18:13:34 +0000 2023",
-    "text": "He looked for 3 things in hiring people: integrity, intelligence, and energy. If the person didn't have the first two, the latter would kill him because if they don't have integrity, you want them dumb and lazy, you don't want them smart and energetic. https://www.youtube.com/watch?v=2MHIcabnjrA&t=302s",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1701660335743070573",
-    "favorite_count": 2,
-    "retweet_count": 0
-  },
-  {
-    "id": "1699477535908659703",
-    "created_at": "Wed Sep 06 17:39:53 +0000 2023",
-    "text": "RT @ArturoHerrero: @flopezluis En GitLab existe un proceso para crear blueprints con propuestas técnicas complejas.\n\nArchitecture Design Wo…",
-    "type": "retweet",
-    "url": "https://x.com/ArturoHerrero/status/1699477535908659703",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "mentions": [
-      "ArturoHerrero",
-      "flopezluis"
-    ]
-  },
-  {
-    "id": "1699426508790546554",
-    "created_at": "Wed Sep 06 14:17:08 +0000 2023",
-    "text": "@flopezluis En GitLab existe un proceso para crear blueprints con propuestas técnicas complejas.\n\nArchitecture Design Workflow. https://about.gitlab.com/handbook/engineering/architecture/workflow/\nEjemplos. https://docs.gitlab.com/ee/architecture/",
-    "type": "reply",
-    "url": "https://x.com/ArturoHerrero/status/1699426508790546554",
-    "in_reply_to_status_id": "1699347492377096671",
-    "in_reply_to_screen_name": "flopezluis",
-    "favorite_count": 21,
-    "retweet_count": 2,
-    "mentions": [
-      "flopezluis"
-    ]
-  },
-  {
-    "id": "1698416912294682711",
-    "created_at": "Sun Sep 03 19:25:21 +0000 2023",
-    "text": "RT @ArturoHerrero: @boromas Nadie ha rodado besos mejor que Alfred Hitchcock. https://youtu.be/UEsTlIQ2eSw?si=NTFK6zQpEZJfBhP-",
-    "type": "retweet",
-    "url": "https://x.com/ArturoHerrero/status/1698416912294682711",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "mentions": [
-      "ArturoHerrero",
-      "boromas"
-    ]
-  },
-  {
-    "id": "1698416585474465833",
-    "created_at": "Sun Sep 03 19:24:03 +0000 2023",
-    "text": "@boromas Nadie ha rodado besos mejor que Alfred Hitchcock. https://youtu.be/UEsTlIQ2eSw?si=NTFK6zQpEZJfBhP-",
-    "type": "reply",
-    "url": "https://x.com/ArturoHerrero/status/1698416585474465833",
-    "in_reply_to_status_id": "1698410838804107641",
-    "in_reply_to_screen_name": "boromas",
-    "favorite_count": 1,
-    "retweet_count": 1,
-    "mentions": [
-      "boromas"
-    ]
-  },
-  {
-    "id": "1695562611444650428",
-    "created_at": "Sat Aug 26 22:23:23 +0000 2023",
-    "text": "Cuando un hombre, por la razón que sea, tiene la oportunidad de llevar  una vida excepcional, no tiene derecho a guardársela para sí mismo.\n \n—Jacques-Yves Cousteau",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1695562611444650428",
-    "favorite_count": 2,
-    "retweet_count": 0
-  },
-  {
-    "id": "1694411895279583339",
-    "created_at": "Wed Aug 23 18:10:51 +0000 2023",
-    "text": "@Irde90641403 @Lualobus Yo sólo he leído 'Extreme Ownership', pero tienes un libro de Jocko Willink sobre este tema: 'Discipline Equals Freedom'.",
-    "type": "reply",
-    "url": "https://x.com/ArturoHerrero/status/1694411895279583339",
-    "in_reply_to_status_id": "1694304848068452529",
-    "in_reply_to_screen_name": "Irde90641403",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "quoted_tweet": {
-      "url": "https://x.com/ArturoHerrero/status/1376172882049568773",
-      "username": "ArturoHerrero",
-      "status_id": "1376172882049568773"
-    },
-    "mentions": [
-      "Irde90641403",
-      "Lualobus"
-    ]
-  },
-  {
-    "id": "1692598703834403183",
-    "created_at": "Fri Aug 18 18:05:52 +0000 2023",
-    "text": "¿Un cómic sobre el holocausto y con ratones como  protagonistas? Llegué suspicaz pero las críticas lo avalaban/alababan. No defrauda en absoluto.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1692598703834403183",
-    "in_reply_to_status_id": "1685636698384760832",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/F31P4zVXsAEnK8i.jpg",
-        "local_file": "1692598703834403183-F31P4zVXsAEnK8i.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1688549252371255296",
-    "created_at": "Mon Aug 07 13:54:48 +0000 2023",
-    "text": "Al terminar sus estudios, el historiador se enfrenta a un reto: ¿de qué han servido tus estudios? ¿Lo único que has encontrado en tu trabajo es el divertimento de narrar el auge y la caída de naciones e ideas y de volver a contar «historias tristes acerca de la muerte de reyes»?",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1688549252371255296",
-    "in_reply_to_status_id": "1688545528181665793",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/F27tcxLWIAApLWo.jpg",
-        "local_file": "1688549252371255296-F27tcxLWIAApLWo.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1688545528181665793",
-    "created_at": "Mon Aug 07 13:40:00 +0000 2023",
-    "text": "'Lecciones de la Historia' es un libro espléndido. 160 páginas, no le sobra ni le falta ninguna.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1688545528181665793",
-    "favorite_count": 6,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/F23i2y9WQAAnROT.jpg",
-        "local_file": "1688545528181665793-F23i2y9WQAAnROT.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1688165346446876673",
-    "created_at": "Sun Aug 06 12:29:17 +0000 2023",
-    "text": "Algo fascinante viendo crecer a mi hija es que cada 2-3 meses es una persona totalmente diferente. Reviso las fotos antiguas y pienso: ¿dónde está aquella enana?",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/1688165346446876673",
-    "favorite_count": 6,
-    "retweet_count": 0
-  },
-  {
-    "id": "1685636698384760832",
-    "created_at": "Sun Jul 30 13:01:21 +0000 2023",
-    "text": "Un tema fascinante es la intersección entre los cómics y la arquitectura.\n\nLa charla de Luis Miguel Lus Arana 'Cómic, caricatura, arquitectura - Guía de lectura' es la mejor introducción al tema. https://www.youtube.com/watch?v=Fud6ewAaq7Q",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1685636698384760832",
-    "in_reply_to_status_id": "1685635000438292481",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "1685635000438292481",
-    "created_at": "Sun Jul 30 12:54:36 +0000 2023",
-    "text": "Ha fallecido Francisco Ibáñez, su mítica serie '13, Rue del Percebe' tiene un antecedente con Will Eisner.",
-    "type": "thread",
-    "url": "https://x.com/ArturoHerrero/status/1685635000438292481",
-    "in_reply_to_status_id": "1683052027511726081",
-    "in_reply_to_screen_name": "ArturoHerrero",
-    "favorite_count": 2,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/F2ST2dbXcAATdtK.png",
-        "local_file": "1685635000438292481-F2ST2dbXcAATdtK.png",
-        "exists": true
-      },
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/F2ST9FjXwAA-wXD.jpg",
-        "local_file": "1685635000438292481-F2ST9FjXwAA-wXD.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "1683814855860428801",
-    "created_at": "Tue Jul 25 12:22:00 +0000 2023",
-    "text": "@Catesomi ¿Recomiendas algún servicio para negociar hipotecas? Ejemplos:\n- @colibid - https://colibid.com/\n- @HipooDigital - https://www.hipoo.com/\n- @idealista - https://www.idealista.com/hipotecas/",
-    "type": "reply",
-    "url": "https://x.com/ArturoHerrero/status/1683814855860428801",
-    "in_reply_to_screen_name": "Catesomi",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "mentions": [
-      "Catesomi",
-      "colibid",
-      "HipooDigital",
-      "idealista"
     ]
   },
   {
@@ -35397,7 +36738,7 @@ window.TWEETS = [
     "text": "The real value of bitcoin and crypto currency technology http://youtu.be/YIVAluSL9SU",
     "type": "tweet",
     "url": "https://x.com/ArturoHerrero/status/570185380617539584",
-    "favorite_count": 2,
+    "favorite_count": 1,
     "retweet_count": 0
   },
   {
@@ -36068,514 +37409,5 @@ window.TWEETS = [
       "than",
       "yours"
     ]
-  },
-  {
-    "id": "541574276923809792",
-    "created_at": "Sun Dec 07 12:45:44 +0000 2014",
-    "text": "Self-education is, I firmly believe, the only kind of education there is.\n~Isaac Asimov",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/541574276923809792",
-    "favorite_count": 2,
-    "retweet_count": 6
-  },
-  {
-    "id": "541288553230000128",
-    "created_at": "Sat Dec 06 17:50:22 +0000 2014",
-    "text": "Are You Living In a Computer Simulation? http://www.simulation-argument.com/",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/541288553230000128",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "540844955607248897",
-    "created_at": "Fri Dec 05 12:27:40 +0000 2014",
-    "text": "NASA is developing the capabilities needed to send humans to Mars in the 2030s.\nOK, How Far is it to Mars? http://www.distancetomars.com/",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/540844955607248897",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "540297028031758336",
-    "created_at": "Thu Dec 04 00:10:24 +0000 2014",
-    "text": "Your score was 17 correct answers out of 18 possible. From this we deduce that your chance of getting into Mensa are very high.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/540297028031758336",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "540163674967908352",
-    "created_at": "Wed Dec 03 15:20:30 +0000 2014",
-    "text": "The Obligation of the Programmer. We write the rules. We hold the strings. Now we have to decide what to do with them http://blog.cleancoder.com/uncle-bob/2014/11/15/WeRuleTheWorld.html",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/540163674967908352",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "539779852245925888",
-    "created_at": "Tue Dec 02 13:55:20 +0000 2014",
-    "text": "Form Better Habits (and Make Them Stick) with a Weekly Habit Sprint http://lifehacker.com/get-better-at-habits-every-week-with-the-habit-sprint-1660719414",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/539779852245925888",
-    "favorite_count": 0,
-    "retweet_count": 1
-  },
-  {
-    "id": "539404875562770433",
-    "created_at": "Mon Dec 01 13:05:18 +0000 2014",
-    "text": "Social trading is interesting. eToro, connect with other traders & investors and copy their trades http://www.etoro.com/",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/539404875562770433",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "539056607808995328",
-    "created_at": "Sun Nov 30 14:01:25 +0000 2014",
-    "text": "Warren Buffett’s 5-Step Process for Prioritizing True Success (and Why Most People Never Do It) http://liveyourlegend.net/warren-buffetts-5-step-process-for-prioritizing-true-success-and-why-most-people-never-do-it/",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/539056607808995328",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "538729954633322496",
-    "created_at": "Sat Nov 29 16:23:24 +0000 2014",
-    "text": "Meanwhile in London...",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/538729954633322496",
-    "favorite_count": 4,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/B3n0BqDIMAEVmlv.jpg",
-        "local_file": "538729954633322496-B3n0BqDIMAEVmlv.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "538301679092133890",
-    "created_at": "Fri Nov 28 12:01:36 +0000 2014",
-    "text": "Some interaction designers (@hugocornejo) are using my picture in their mockups https://dribbble.com/shots/1824885-Car/attachments/303174",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/538301679092133890",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "mentions": [
-      "hugocornejo"
-    ]
-  },
-  {
-    "id": "537628252034981890",
-    "created_at": "Wed Nov 26 15:25:38 +0000 2014",
-    "text": "Just registered for @hack_summit, a virtual conference of top developers. Check it out! http://bitly.com/11a0F7o",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/537628252034981890",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "mentions": [
-      "hack_summit"
-    ]
-  },
-  {
-    "id": "537585335992348672",
-    "created_at": "Wed Nov 26 12:35:06 +0000 2014",
-    "text": "These days I'm reading Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation http://amzn.com/0321601912",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/537585335992348672",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "536858156690075648",
-    "created_at": "Mon Nov 24 12:25:33 +0000 2014",
-    "text": "Everything at Google, from Search to Gmail, is packaged and run in a Linux container http://googlecloudplatform.blogspot.co.uk/2014/06/an-update-on-container-support-on-google-cloud-platform.html",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/536858156690075648",
-    "favorite_count": 0,
-    "retweet_count": 1
-  },
-  {
-    "id": "536569903252508672",
-    "created_at": "Sun Nov 23 17:20:08 +0000 2014",
-    "text": "London",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/536569903252508672",
-    "favorite_count": 6,
-    "retweet_count": 4,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/B3JHe8LIYAA4xvC.jpg",
-        "local_file": "536569903252508672-B3JHe8LIYAA4xvC.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "535408506124656641",
-    "created_at": "Thu Nov 20 12:25:09 +0000 2014",
-    "text": "Toward a better programming http://www.chris-granger.com/2014/03/27/toward-a-better-programming/",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/535408506124656641",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "535009146975043584",
-    "created_at": "Wed Nov 19 09:58:15 +0000 2014",
-    "text": "It's interesting to confront the ideas of Ariely and Kahneman about irrational behaviour and cognitive biases with rational economics.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/535009146975043584",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "535007977858936833",
-    "created_at": "Wed Nov 19 09:53:36 +0000 2014",
-    "text": "These days I'm reading The Logic of Life: The Rational Economics of an Irrational World http://amzn.com/0812977874",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/535007977858936833",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "534664825272799232",
-    "created_at": "Tue Nov 18 11:10:02 +0000 2014",
-    "text": "Hello Android 5.0 Lollipop!",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/534664825272799232",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/B2uCxkpCIAAmDPL.jpg",
-        "local_file": "534664825272799232-B2uCxkpCIAAmDPL.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "534297889250738176",
-    "created_at": "Mon Nov 17 10:51:58 +0000 2014",
-    "text": "@javier_dev Programming is a beta version of what it should be http://www.chris-granger.com/2014/03/27/toward-a-better-programming/",
-    "type": "reply",
-    "url": "https://x.com/ArturoHerrero/status/534297889250738176",
-    "in_reply_to_status_id": "533673900002254848",
-    "in_reply_to_screen_name": "javier_dev",
-    "favorite_count": 1,
-    "retweet_count": 1,
-    "mentions": [
-      "javier_dev"
-    ]
-  },
-  {
-    "id": "534284448062509056",
-    "created_at": "Mon Nov 17 09:58:33 +0000 2014",
-    "text": "Print bar graphs in your shell:\nhttps://github.com/arturoherrero/bart\nbart: ██████████ 100",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/534284448062509056",
-    "favorite_count": 0,
-    "retweet_count": 1
-  },
-  {
-    "id": "533990032663912449",
-    "created_at": "Sun Nov 16 14:28:39 +0000 2014",
-    "text": "Music for Sunday: Cubicolor https://soundcloud.com/cubicolor",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/533990032663912449",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "532897041354346496",
-    "created_at": "Thu Nov 13 14:05:30 +0000 2014",
-    "text": "Bored of Real Life?\nTry the Internet.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/532897041354346496",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "532563954300891137",
-    "created_at": "Wed Nov 12 16:01:55 +0000 2014",
-    "text": "NoSQL Databases: An Overview http://www.thoughtworks.com/insights/blog/nosql-databases-overview",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/532563954300891137",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "532225630021386241",
-    "created_at": "Tue Nov 11 17:37:33 +0000 2014",
-    "text": "Leader corruption depends on power and testosterone http://youtu.be/JoLLPNZLBAo",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/532225630021386241",
-    "favorite_count": 0,
-    "retweet_count": 1
-  },
-  {
-    "id": "532193083946205184",
-    "created_at": "Tue Nov 11 15:28:13 +0000 2014",
-    "text": "Hi Yosemite!",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/532193083946205184",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/B2K6yhuCYAEUCpS.jpg",
-        "local_file": "532193083946205184-B2K6yhuCYAEUCpS.jpg",
-        "exists": true
-      }
-    ]
-  },
-  {
-    "id": "531770884370235392",
-    "created_at": "Mon Nov 10 11:30:33 +0000 2014",
-    "text": "These days I'm reading Flash Boys by Michael Lewis http://amzn.com/0393244660",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/531770884370235392",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "531405409320697856",
-    "created_at": "Sun Nov 09 11:18:17 +0000 2014",
-    "text": "The Art of Not Working at Work http://www.theatlantic.com/business/archive/2014/11/the-art-of-not-working-at-work/382121/?single_page=true",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/531405409320697856",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "530330047673274368",
-    "created_at": "Thu Nov 06 12:05:11 +0000 2014",
-    "text": "Illusion of Competence.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/530330047673274368",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "530322944757874688",
-    "created_at": "Thu Nov 06 11:36:57 +0000 2014",
-    "text": "If you want to follow your dreams, you have to say no to all the alternatives http://oliveremberton.com/2014/if-you-want-to-follow-your-dreams-you-have-to-say-no-to-all-the-alternatives/",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/530322944757874688",
-    "favorite_count": 0,
-    "retweet_count": 1
-  },
-  {
-    "id": "529997055906054144",
-    "created_at": "Wed Nov 05 14:01:59 +0000 2014",
-    "text": "1. 93% of classes are under 100 lines.\n2. 67% of methods are under 5 lines.\n3. 99% of method calls accepted are less than 4 parameters.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/529997055906054144",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "529996911882022912",
-    "created_at": "Wed Nov 05 14:01:25 +0000 2014",
-    "text": "Static analysis tool for checking your Ruby code for Sandi Metz' four rules https://github.com/makaroni4/sandi_meter\nLet's try in our main project!",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/529996911882022912",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "529966521758777344",
-    "created_at": "Wed Nov 05 12:00:39 +0000 2014",
-    "text": "Creative destruction.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/529966521758777344",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "529694944165126145",
-    "created_at": "Tue Nov 04 18:01:30 +0000 2014",
-    "text": "Different people have different standards for the speed of unit tests.\nBut if you have the temptation of check Twitter is a slow test suite.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/529694944165126145",
-    "favorite_count": 0,
-    "retweet_count": 1
-  },
-  {
-    "id": "529237333795946497",
-    "created_at": "Mon Nov 03 11:43:07 +0000 2014",
-    "text": "New personal project: Twitterise, new and diverse timeline, increasing the number of followers https://github.com/arturoherrero/twitterise",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/529237333795946497",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "529015005128425472",
-    "created_at": "Sun Nov 02 20:59:40 +0000 2014",
-    "text": "These days I'm reading The Craftsman http://amzn.com/0300151195",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/529015005128425472",
-    "favorite_count": 2,
-    "retweet_count": 0
-  },
-  {
-    "id": "529014670758539266",
-    "created_at": "Sun Nov 02 20:58:20 +0000 2014",
-    "text": "I read tons of books in different subjects. I guess I should tweet more about it.",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/529014670758539266",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "528233081409667072",
-    "created_at": "Fri Oct 31 17:12:35 +0000 2014",
-    "text": "Bullshit, you should read Stefan Zweig “@soyjavi: \"Code is literature\"”",
-    "type": "reply",
-    "url": "https://x.com/ArturoHerrero/status/528233081409667072",
-    "in_reply_to_status_id": "528076181242142722",
-    "in_reply_to_screen_name": "soyjavi",
-    "favorite_count": 1,
-    "retweet_count": 0,
-    "mentions": [
-      "soyjavi"
-    ]
-  },
-  {
-    "id": "527780000783953921",
-    "created_at": "Thu Oct 30 11:12:12 +0000 2014",
-    "text": "RT @pickcrew: How to make time for the things that really matter in life. http://crew.cm/1rSFHjw",
-    "type": "retweet",
-    "url": "https://x.com/pickcrew/status/527592998386028545",
-    "favorite_count": 0,
-    "retweet_count": 0,
-    "media": [
-      {
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/B1JjCVPIMAEETC6.jpg",
-        "local_file": "527780000783953921-B1JjCVPIMAEETC6.jpg",
-        "exists": true
-      }
-    ],
-    "mentions": [
-      "pickcrew"
-    ]
-  },
-  {
-    "id": "527442275283243008",
-    "created_at": "Wed Oct 29 12:50:12 +0000 2014",
-    "text": "Life in Numbers http://lifeinnumbers.co.uk/",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/527442275283243008",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "527088716133965824",
-    "created_at": "Tue Oct 28 13:25:17 +0000 2014",
-    "text": "I'll continue to climb, trying to reach the top, but no one knows where the top is.\n~Jiro Ono",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/527088716133965824",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "526728996055437312",
-    "created_at": "Mon Oct 27 13:35:53 +0000 2014",
-    "text": "Data Science at the Command Line http://datascienceatthecommandline.com/",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/526728996055437312",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "526357744459468800",
-    "created_at": "Sun Oct 26 13:00:40 +0000 2014",
-    "text": "MIT Challenge: learn the entire 4-year MIT curriculum under 12 months without taking any classes http://www.scotthyoung.com/blog/mit-challenge/",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/526357744459468800",
-    "favorite_count": 2,
-    "retweet_count": 0
-  },
-  {
-    "id": "524519412058296320",
-    "created_at": "Tue Oct 21 11:15:47 +0000 2014",
-    "text": "The Imminent Decentralized Computing Revolution http://blogs.wsj.com/accelerators/2014/10/10/weekend-read-the-imminent-decentralized-computing-revolution/",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/524519412058296320",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "524252755230474240",
-    "created_at": "Mon Oct 20 17:36:11 +0000 2014",
-    "text": "Maybe Better If You Don’t Read This Story on Public WiFi https://medium.com/matter/heres-why-public-wifi-is-a-public-health-hazard-dd5b8dcb55e6",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/524252755230474240",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "523838417457917952",
-    "created_at": "Sun Oct 19 14:09:45 +0000 2014",
-    "text": "Playing with the Twitter API, I just unfollow a lot of interesting people :(\nAnyway, my code works. Let's do something fun!",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/523838417457917952",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "523085588808077312",
-    "created_at": "Fri Oct 17 12:18:17 +0000 2014",
-    "text": "Sex Is Sex. But Money Is Money https://medium.com/matter/sex-is-sex-but-money-is-money-e7c10091713f",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/523085588808077312",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "522388988695678976",
-    "created_at": "Wed Oct 15 14:10:15 +0000 2014",
-    "text": "Refactoring Ruby with Monads http://codon.com/refactoring-ruby-with-monads",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/522388988695678976",
-    "favorite_count": 1,
-    "retweet_count": 0
-  },
-  {
-    "id": "521958129375117312",
-    "created_at": "Tue Oct 14 09:38:10 +0000 2014",
-    "text": "One ex-college is working in a augmented reality game. Run An Empire - The Real-World Territory Control Game http://kck.st/1h8QL7p",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/521958129375117312",
-    "favorite_count": 2,
-    "retweet_count": 0
-  },
-  {
-    "id": "521612626502381569",
-    "created_at": "Mon Oct 13 10:45:15 +0000 2014",
-    "text": "Bitcoin’s Killer Apps http://blog.chain.com/post/99177371581/bitcoins-killer-apps",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/521612626502381569",
-    "favorite_count": 0,
-    "retweet_count": 0
-  },
-  {
-    "id": "520885059159855105",
-    "created_at": "Sat Oct 11 10:34:10 +0000 2014",
-    "text": "What I’ve learned taking photos every day at 8:36 p.m. http://www.geekwire.com/2012/day-rest-life/",
-    "type": "tweet",
-    "url": "https://x.com/ArturoHerrero/status/520885059159855105",
-    "favorite_count": 1,
-    "retweet_count": 0
   }
 ]
