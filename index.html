@@ -893,18 +893,49 @@
         // Lightbox
         const lightbox = document.getElementById('lightbox');
         const lightboxImg = lightbox.querySelector('img');
+        let lightboxImages = [];
+        let lightboxIndex = 0;
+
+        const showLightboxImage = () => {
+          if (lightboxImages.length > 0) {
+            lightboxImg.src = lightboxImages[lightboxIndex].src;
+          }
+        };
 
         document.addEventListener('click', (e) => {
           const img = e.target.closest('.tweet-media img');
           if (img && !e.target.closest('video')) {
-            lightboxImg.src = img.src;
+            lightboxImages = Array.from(document.querySelectorAll('.tweet-media img'));
+            lightboxIndex = lightboxImages.indexOf(img);
+            showLightboxImage();
             lightbox.classList.add('active');
           }
         });
 
         lightbox.addEventListener('click', () => lightbox.classList.remove('active'));
+
         document.addEventListener('keydown', (e) => {
-          if (e.key === 'Escape') lightbox.classList.remove('active');
+          if (!lightbox.classList.contains('active')) return;
+
+          if (e.key === 'Escape') {
+            lightbox.classList.remove('active');
+          } else if (e.key === 'ArrowLeft' && lightboxIndex > 0) {
+            lightboxIndex--;
+            showLightboxImage();
+          } else if (e.key === 'ArrowRight') {
+            if (lightboxIndex < lightboxImages.length - 1) {
+              lightboxIndex++;
+              showLightboxImage();
+            } else {
+              const prevCount = lightboxImages.length;
+              App.loadMore();
+              lightboxImages = Array.from(document.querySelectorAll('.tweet-media img'));
+              if (lightboxImages.length > prevCount) {
+                lightboxIndex++;
+                showLightboxImage();
+              }
+            }
+          }
         });
 
         // Tooltips
